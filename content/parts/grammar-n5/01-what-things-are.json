@@ -1,0 +1,323 @@
+{
+  "id": "n5-u01",
+  "title": "Saying what things are",
+  "summary": "Your very first sentences: X is Y, X is not Y, X was Y, asking yes/no questions, and linking nouns with {の} and {も}.",
+  "points": [
+    {
+      "id": "n5-wa-desu",
+      "title": "〜は〜です",
+      "meaning": "A is B (polite)",
+      "structure": "A + は + B + です",
+      "explanation": "This is the most basic sentence in Japanese. The particle {は} marks the **topic** (what you are talking about), and {です} at the very end means 'is / am / are'. So {AはBです} means 'As for A, it is B.'\n\nTwo things surprise English speakers. First, when {は} is used as a particle it is pronounced **wa**, not ha. Second, Japanese has no words for 'a' or 'the', and most nouns don't change for plural. {学生[がくせい]} can mean 'a student', 'the student' or 'students' depending on the situation.\n\n{です} never changes for I, you, he or they, so it is easy to use. It is the polite form, which is what you should use with strangers, coworkers, shop staff and anyone you don't know well.",
+      "examples": [
+        {
+          "jp": "私[わたし]は学生[がくせい]です。",
+          "en": "I am a student."
+        },
+        {
+          "jp": "田中[たなか]さんは先生[せんせい]です。",
+          "en": "Mr. Tanaka is a teacher."
+        },
+        {
+          "jp": "今日[きょう]は月曜日[げつようび]です。",
+          "en": "Today is Monday."
+        },
+        {
+          "jp": "私[わたし]はアメリカ人[じん]です。",
+          "en": "I am American."
+        },
+        {
+          "jp": "山田[やまだ]さんは会社員[かいしゃいん]です。",
+          "en": "Ms. Yamada is an office worker."
+        }
+      ],
+      "notes": "Add {さん} after other people's names (like Mr./Ms.), but **never** after your own name: say {私[わたし]はスミスです}, not {スミスさんです}.\n\nWhen it's obvious who you mean, Japanese speakers usually drop the topic: {学生[がくせい]です。} on its own means 'I'm a student.'",
+      "quiz": [
+        {
+          "q": "私[わたし]＿＿学生[がくせい]です。",
+          "en": "I am a student.",
+          "choices": [
+            "で",
+            "へ",
+            "は",
+            "を"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "マリアさんは先生[せんせい]＿＿。",
+          "en": "Maria is a teacher.",
+          "choices": [
+            "ます",
+            "は",
+            "を",
+            "です"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-ja-arimasen",
+      "title": "〜じゃありません",
+      "meaning": "A is not B (polite)",
+      "structure": "A + は + B + じゃありません / ではありません",
+      "explanation": "To say that something is **not** something, replace {です} with {じゃありません}.\n\n{学生[がくせい]です} = I'm a student.\n{学生[がくせい]じゃありません} = I'm not a student.\n\n{じゃ} is a spoken, shortened version of {では}. Both are correct: {ではありません} sounds a little more formal and is common in writing, while {じゃありません} is what you'll hear most in everyday polite speech. You will also hear {じゃないです}, which means the same thing and is slightly softer and more casual.\n\nA very natural pattern is to deny something and then give the correct information: {日本人[にほんじん]じゃありません。アメリカ人[じん]です。}",
+      "examples": [
+        {
+          "jp": "私[わたし]は学生[がくせい]じゃありません。",
+          "en": "I am not a student."
+        },
+        {
+          "jp": "田中[たなか]さんは医者[いしゃ]じゃありません。",
+          "en": "Mr. Tanaka is not a doctor."
+        },
+        {
+          "jp": "今日[きょう]は休[やす]みじゃありません。",
+          "en": "Today is not a day off."
+        },
+        {
+          "jp": "私[わたし]は日本人[にほんじん]ではありません。アメリカ人[じん]です。",
+          "en": "I'm not Japanese. I'm American."
+        }
+      ],
+      "notes": "The {は} inside {では} is also pronounced **wa**: de-wa arimasen.",
+      "quiz": [
+        {
+          "q": "私[わたし]は先生[せんせい]＿＿。学生[がくせい]です。",
+          "en": "I'm not a teacher. I'm a student.",
+          "choices": [
+            "でした",
+            "です",
+            "じゃありませんでした",
+            "じゃありません"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "明日[あした]は休[やす]み＿＿ありません。",
+          "en": "Tomorrow is not a day off.",
+          "choices": [
+            "へは",
+            "を",
+            "には",
+            "では"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-deshita",
+      "title": "〜でした / 〜じゃありませんでした",
+      "meaning": "A was B / A was not B (polite past)",
+      "structure": "Noun + でした / Noun + じゃありませんでした",
+      "explanation": "To talk about the past, change the ending:\n\n- {です} (is) → {でした} (was)\n- {じゃありません} (is not) → {じゃありませんでした} (was not)\n\nThe past negative is just the present negative with {でした} stuck on the end, so it is long but logical.\n\nJapanese only really has two tenses: past, and non-past (present and future together). So {明日[あした]は休[やす]みです} means 'Tomorrow is / will be a day off' with no special future word. Time words like {昨日[きのう]} (yesterday) and {先週[せんしゅう]} (last week) usually go near the start of the sentence.",
+      "examples": [
+        {
+          "jp": "昨日[きのう]は日曜日[にちようび]でした。",
+          "en": "Yesterday was Sunday."
+        },
+        {
+          "jp": "父[ちち]は先生[せんせい]でした。",
+          "en": "My father was a teacher."
+        },
+        {
+          "jp": "昨日[きのう]は雨[あめ]でした。",
+          "en": "It was rainy yesterday."
+        },
+        {
+          "jp": "先週[せんしゅう]は休[やす]みじゃありませんでした。",
+          "en": "Last week was not a holiday."
+        },
+        {
+          "jp": "テストは昨日[きのう]じゃありませんでした。おとといでした。",
+          "en": "The test wasn't yesterday. It was the day before yesterday."
+        }
+      ],
+      "notes": "Casual versions: {じゃなかったです} is a common, softer way to say {じゃありませんでした}.",
+      "quiz": [
+        {
+          "q": "昨日[きのう]は土曜日[どようび]＿＿。",
+          "en": "Yesterday was Saturday.",
+          "choices": [
+            "じゃありません",
+            "ました",
+            "です",
+            "でした"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "先週[せんしゅう]は休[やす]み＿＿。",
+          "en": "Last week was not a holiday.",
+          "choices": [
+            "じゃありませんでした",
+            "です",
+            "じゃありません",
+            "でした"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-ka",
+      "title": "〜か",
+      "meaning": "question marker (spoken question mark)",
+      "structure": "Sentence + か",
+      "explanation": "Making a question in Japanese is wonderfully simple: put {か} at the end of a sentence. You don't change the word order, and you don't need a word like 'do' or 'does'.\n\n{学生[がくせい]です。} = You are a student.\n{学生[がくせい]ですか。} = Are you a student?\n\nIn speech your voice rises on {か}. In careful writing, a question often ends with a normal full stop {。} instead of a question mark, because {か} already does the job.\n\nAnswer with {はい} (yes) or {いいえ} (no). A handy reply is {はい、そうです} (Yes, that's right).\n\nQuestion words like {何[なん]} (what) simply sit where the answer would go: {お名前[なまえ]は何[なん]ですか。} 'What is your name?'",
+      "examples": [
+        {
+          "jp": "学生[がくせい]ですか。",
+          "en": "Are you a student?"
+        },
+        {
+          "jp": "田中[たなか]さんは先生[せんせい]ですか。",
+          "en": "Is Mr. Tanaka a teacher?"
+        },
+        {
+          "jp": "はい、そうです。",
+          "en": "Yes, that's right."
+        },
+        {
+          "jp": "お名前[なまえ]は何[なん]ですか。",
+          "en": "What is your name?"
+        },
+        {
+          "jp": "今日[きょう]は何曜日[なんようび]ですか。",
+          "en": "What day of the week is it today?"
+        }
+      ],
+      "notes": "Japanese speakers rarely use {あなた} (you); it can sound distant or even rude. Use the person's name + {さん} instead, or just leave 'you' out.",
+      "quiz": [
+        {
+          "q": "山田[やまだ]さんは学生[がくせい]です＿＿。",
+          "en": "Is Mr. Yamada a student?",
+          "choices": [
+            "は",
+            "を",
+            "へ",
+            "か"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "お名前[なまえ]は＿＿ですか。",
+          "en": "What is your name?",
+          "choices": [
+            "何[なん]",
+            "いつ",
+            "だれ",
+            "どこ"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-no",
+      "title": "の",
+      "meaning": "'s / of (connecting two nouns)",
+      "structure": "Noun₁ + の + Noun₂",
+      "explanation": "{の} joins two nouns. The noun **after** {の} is the main thing, and the noun before it describes it. The most common meaning is possession, like 's in English:\n\n{私[わたし]の本[ほん]} = my book\n{田中[たなか]さんの車[くるま]} = Mr. Tanaka's car\n\nBut {の} is much broader than 's. It can show what something is about, where it's from, or where someone belongs:\n\n- {日本語[にほんご]の先生[せんせい]} = a Japanese-language teacher\n- {日本[にほん]の車[くるま]} = a Japanese car\n- {会社[かいしゃ]の人[ひと]} = a person from the company\n\nIf the second noun is obvious, you can drop it: {私[わたし]のです} = It's mine.",
+      "examples": [
+        {
+          "jp": "私[わたし]の名前[なまえ]はスミスです。",
+          "en": "My name is Smith."
+        },
+        {
+          "jp": "田中[たなか]さんの車[くるま]です。",
+          "en": "It's Mr. Tanaka's car."
+        },
+        {
+          "jp": "マリアさんは日本語[にほんご]の先生[せんせい]です。",
+          "en": "Maria is a Japanese teacher."
+        },
+        {
+          "jp": "私[わたし]は東京[とうきょう]大学[だいがく]の学生[がくせい]です。",
+          "en": "I am a student at Tokyo University."
+        },
+        {
+          "jp": "かさは私[わたし]のです。",
+          "en": "The umbrella is mine."
+        }
+      ],
+      "notes": "Word order is the reverse of English 'of': 'the teacher **of** Japanese' becomes {日本語[にほんご]の先生[せんせい]}, with the main noun last. You can chain several: {私[わたし]の友達[ともだち]の車[くるま]} = my friend's car.",
+      "quiz": [
+        {
+          "q": "私[わたし]＿＿名前[なまえ]はアンナです。",
+          "en": "My name is Anna.",
+          "choices": [
+            "の",
+            "へ",
+            "を",
+            "で"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "田中[たなか]さんは日本語[にほんご]＿＿先生[せんせい]です。",
+          "en": "Mr. Tanaka is a Japanese-language teacher.",
+          "choices": [
+            "へ",
+            "に",
+            "を",
+            "の"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-mo",
+      "title": "も",
+      "meaning": "also, too, either",
+      "structure": "Noun + も (in place of は / が / を)",
+      "explanation": "{も} means 'also' or 'too'. It goes right after the noun it applies to, and it **replaces** {は}. Never say {はも}.\n\n{田中[たなか]さんは学生[がくせい]です。} Mr. Tanaka is a student.\n{山田[やまだ]さんも学生[がくせい]です。} Ms. Yamada is a student too.\n\nWith a negative sentence, {も} works like 'either' in English:\n\n{私[わたし]も日本人[にほんじん]じゃありません。} I'm not Japanese either.\n\nBe careful about placement: {も} attaches to the word that is 'also' true. {私[わたし]も学生[がくせい]です} (I, too, am a student) is different from saying the person is a student as well as something else.",
+      "examples": [
+        {
+          "jp": "私[わたし]も学生[がくせい]です。",
+          "en": "I'm a student too."
+        },
+        {
+          "jp": "田中[たなか]さんは先生[せんせい]です。山田[やまだ]さんも先生[せんせい]です。",
+          "en": "Mr. Tanaka is a teacher. Ms. Yamada is a teacher too."
+        },
+        {
+          "jp": "明日[あした]も休[やす]みです。",
+          "en": "Tomorrow is a day off too."
+        },
+        {
+          "jp": "私[わたし]も日本人[にほんじん]じゃありません。",
+          "en": "I'm not Japanese either."
+        }
+      ],
+      "notes": "{も} also replaces {が} and {を}, which you'll meet soon. With other particles like {に} or {で}, it is added after them instead ({ここにも}, 'here too').",
+      "quiz": [
+        {
+          "q": "マリアさんは学生[がくせい]です。アンナさん＿＿学生[がくせい]です。",
+          "en": "Maria is a student. Anna is a student too.",
+          "choices": [
+            "へ",
+            "か",
+            "も",
+            "を"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "今日[きょう]は休[やす]みです。明日[あした]＿＿休[やす]みです。",
+          "en": "Today is a day off. Tomorrow is a day off too.",
+          "choices": [
+            "はも",
+            "を",
+            "へ",
+            "も"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

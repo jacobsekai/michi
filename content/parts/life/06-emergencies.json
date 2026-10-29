@@ -1,0 +1,60 @@
+{
+  "id": "life-emergencies",
+  "title": "Emergencies & disaster preparation",
+  "level": "N4",
+  "intro": "Memorize two numbers: **110** for the police ({警察[けいさつ]}) and **119** for fire and ambulance ({消防[しょうぼう]}・{救急[きゅうきゅう]}). Both work free from any phone. When you call 119, the first question is {火事[かじ]ですか、救急[きゅうきゅう]ですか} (fire or medical emergency?). Then you will be asked for the address, what happened, and your name and phone number. Many emergency centers can connect to an interpreter, so stay on the line even if your Japanese runs out.\n\nIf you are unsure whether something needs an ambulance, many areas run a medical advice line on **#7119**; check whether yours does.\n\nJapan has frequent earthquakes, and also typhoons, heavy rain and floods. Phones sound an emergency earthquake alert ({緊急地震速報[きんきゅうじしんそくほう]}) seconds before strong shaking. Protect your head, get under a sturdy table, and stay away from windows and tall furniture. After the shaking stops, check for fire and be ready for aftershocks ({余震[よしん]}). Near the coast, a tsunami warning means move to high ground immediately.\n\nPrepare now: find your local hazard map and evacuation sites on your city's website. An {避難場所[ひなんばしょ]} is an open place to escape to right away; an {避難所[ひなんじょ]} is a shelter, often a school, where people stay. Keep an emergency bag ({非常[ひじょう]持[も]ち出[だ]し袋[ぶくろ]}) and store water and food for at least several days. After a big disaster, the **171** message dial lets families leave voice messages for each other.",
+  "phrases": [
+    { "jp": "助[たす]けて！", "en": "Help!" },
+    { "jp": "救急[きゅうきゅう]です。", "en": "It's a medical emergency. (answer to 119)" },
+    { "jp": "火事[かじ]です！", "en": "Fire!" },
+    { "jp": "救急車[きゅうきゅうしゃ]を呼[よ]んでください。", "en": "Please call an ambulance." },
+    { "jp": "警察[けいさつ]を呼[よ]んでください。", "en": "Please call the police." },
+    { "jp": "住所[じゅうしょ]は世田谷区[せたがやく]桜[さくら]一丁目[いっちょうめ]2番[にばん]3号[さんごう]です。", "en": "The address is 1-2-3 Sakura, Setagaya Ward." },
+    { "jp": "友達[ともだち]が倒[たお]れました。", "en": "My friend has collapsed." },
+    { "jp": "意識[いしき]がありません。", "en": "He/She is unconscious." },
+    { "jp": "息[いき]をしていません。", "en": "He/She isn't breathing." },
+    { "jp": "血[ち]が止[と]まりません。", "en": "The bleeding won't stop." },
+    { "jp": "財布[さいふ]を盗[ぬす]まれました。", "en": "My wallet was stolen." },
+    { "jp": "英語[えいご]を話[はな]せる人[ひと]はいますか。", "en": "Is there anyone who speaks English?" },
+    { "jp": "大丈夫[だいじょうぶ]ですか。けがはありませんか。", "en": "Are you OK? Are you hurt?" },
+    { "jp": "地震[じしん]だ！机[つくえ]の下[した]に入[はい]って！", "en": "Earthquake! Get under the desk!" },
+    { "jp": "津波[つなみ]が来[く]るかもしれません。高[たか]い所[ところ]に逃[に]げてください。", "en": "A tsunami may come. Get to high ground." },
+    { "jp": "一番[いちばん]近[ちか]い避難所[ひなんじょ]はどこですか。", "en": "Where is the nearest evacuation shelter?" }
+  ],
+  "vocab": [
+    { "jp": "警察[けいさつ]", "en": "police" },
+    { "jp": "消防[しょうぼう]", "en": "fire department" },
+    { "jp": "救急車[きゅうきゅうしゃ]", "en": "ambulance" },
+    { "jp": "火事[かじ]", "en": "fire" },
+    { "jp": "けが", "en": "injury" },
+    { "jp": "地震[じしん]", "en": "earthquake" },
+    { "jp": "余震[よしん]", "en": "aftershock" },
+    { "jp": "津波[つなみ]", "en": "tsunami" },
+    { "jp": "台風[たいふう]", "en": "typhoon" },
+    { "jp": "避難[ひなん]", "en": "evacuation" },
+    { "jp": "避難所[ひなんじょ]", "en": "evacuation shelter" },
+    { "jp": "避難場所[ひなんばしょ]", "en": "evacuation site (open area)" },
+    { "jp": "緊急地震速報[きんきゅうじしんそくほう]", "en": "earthquake early warning" },
+    { "jp": "防災[ぼうさい]", "en": "disaster prevention / preparedness" },
+    { "jp": "非常[ひじょう]持[も]ち出[だ]し袋[ぶくろ]", "en": "emergency grab bag" }
+  ],
+  "dialogue": [
+    { "speaker": "Dispatcher", "jp": "はい、119番[ひゃくじゅうきゅうばん]です。火事[かじ]ですか、救急[きゅうきゅう]ですか。", "en": "119. Is it a fire or a medical emergency?" },
+    { "speaker": "You", "jp": "救急[きゅうきゅう]です。", "en": "Medical emergency." },
+    { "speaker": "Dispatcher", "jp": "どうしましたか。", "en": "What happened?" },
+    { "speaker": "You", "jp": "友達[ともだち]が急[きゅう]に倒[たお]れて、意識[いしき]がありません。", "en": "My friend suddenly collapsed and is unconscious." },
+    { "speaker": "Dispatcher", "jp": "住所[じゅうしょ]を教[おし]えてください。", "en": "Tell me the address." },
+    { "speaker": "You", "jp": "中野区[なかのく]本町[ほんちょう]三丁目[さんちょうめ]5番[ごばん]8号[はちごう]、さくらハイツの302号室[さんびゃくにごうしつ]です。", "en": "3-5-8 Honcho, Nakano Ward, Sakura Heights, room 302." },
+    { "speaker": "Dispatcher", "jp": "息[いき]はしていますか。", "en": "Is he breathing?" },
+    { "speaker": "You", "jp": "はい、息[いき]はしています。", "en": "Yes, he's breathing." },
+    { "speaker": "Dispatcher", "jp": "わかりました。すぐに救急車[きゅうきゅうしゃ]が向[む]かいます。お名前[なまえ]と電話[でんわ]番号[ばんごう]を教[おし]えてください。", "en": "Understood. An ambulance is on its way. Please tell me your name and phone number." },
+    { "speaker": "You", "jp": "ジョーンズです。電話[でんわ]番号[ばんごう]は090-1234-5678です。", "en": "Jones. My number is 090-1234-5678." }
+  ],
+  "tips": [
+    "Save your full home address in Japanese in your phone, and practice saying it aloud. In an emergency you will not want to read it for the first time.",
+    "Look up your area's hazard map and walk to your nearest evacuation site once, so you know the way.",
+    "Keep drinking water, non-perishable food, a flashlight, a battery pack, medicine, copies of documents and some cash ready at home.",
+    "Your embassy may offer a registration service for residents so it can contact you in a crisis; it is worth signing up.",
+    "Many local governments and the national tourism authority provide multilingual disaster information and apps. Install one and turn on notifications."
+  ]
+}

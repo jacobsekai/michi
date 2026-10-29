@@ -1,0 +1,24 @@
+{
+  "id": "r-n4-08",
+  "level": "N4",
+  "title": "My Hobby: Public Baths",
+  "titleJp": "私[わたし]の趣味[しゅみ]は銭湯[せんとう]",
+  "sentences": [
+    { "jp": "私[わたし]の趣味[しゅみ]は、いろいろな町[まち]の銭湯[せんとう]に行[い]くことです。", "en": "My hobby is visiting public baths in all sorts of neighborhoods." },
+    { "jp": "銭湯[せんとう]というのは、お金[かね]を払[はら]って入[はい]る大[おお]きなお風呂[ふろ]のことです。", "en": "A sentō is a large bath that you pay to use." },
+    { "jp": "昔[むかし]は家[いえ]にお風呂[ふろ]がない人[ひと]が多[おお]かったので、どの町[まち]にも銭湯[せんとう]がありました。", "en": "In the past, many people didn't have a bath at home, so every neighborhood had a sentō." },
+    { "jp": "今[いま]は数[かず]が少[すく]なくなりましたが、東京[とうきょう]にはまだたくさん残[のこ]っています。", "en": "There are fewer of them now, but many still remain in Tokyo." },
+    { "jp": "料金[りょうきん]はそれほど高[たか]くないので、学生[がくせい]でも行[い]きやすいです。", "en": "The price isn't that high, so they're easy to go to even for students." },
+    { "jp": "多[おお]くの銭湯[せんとう]の壁[かべ]には、富士山[ふじさん]の大[おお]きな絵[え]がかいてあります。", "en": "On the walls of many sentō, there's a big painting of Mt. Fuji." },
+    { "jp": "初[はじ]めて行[い]ったときは、ルールがわからなくて緊張[きんちょう]しました。", "en": "The first time I went, I didn't know the rules and was nervous." },
+    { "jp": "湯船[ゆぶね]に入[はい]る前[まえ]に体[からだ]を洗[あら]うことや、タオルをお湯[ゆ]に入[い]れないことなどを、となりのおじいさんが教[おし]えてくれました。", "en": "An old man next to me taught me things like washing your body before getting into the bath and not putting your towel in the water." },
+    { "jp": "それから、そのおじいさんとは銭湯[せんとう]で会[あ]うと、よく話[はな]すようになりました。", "en": "After that, whenever I met him at the sentō, we'd often chat." },
+    { "jp": "お風呂[ふろ]から出[で]た後[あと]に飲[の]む冷[つめ]たい牛乳[ぎゅうにゅう]は、最高[さいこう]です。", "en": "The cold milk you drink after getting out of the bath is the best." },
+    { "jp": "皆[みな]さんも、ぜひ近[ちか]くの銭湯[せんとう]に行[い]ってみてください。", "en": "Please try going to a sentō near you, too." }
+  ],
+  "questions": [
+    { "q": "Why was there a sentō in every neighborhood in the past?", "choices": ["They were cheaper than a home bath", "Many people had no bath at home", "The government required them", "People liked painting Mt. Fuji"], "answer": 1 },
+    { "q": "Who taught the writer the rules?", "choices": ["A staff member", "A friend from school", "A sign on the wall", "An old man next to the writer"], "answer": 3 },
+    { "q": "Which of these is one of the rules mentioned?", "choices": ["Don't put your towel in the bath water", "Don't talk to other people", "Bring your own soap", "Drink milk before bathing"], "answer": 0 }
+  ]
+}

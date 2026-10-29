@@ -1,0 +1,59 @@
+{
+  "id": "life-self-intro",
+  "title": "Self-introduction",
+  "level": "N5",
+  "intro": "You will introduce yourself constantly in your first months: to neighbors, at language exchanges, in a share house, at the ward office and later at work. In Japan this is called {自己紹介[じこしょうかい]}, and it follows a fairly fixed pattern, which makes it easy to prepare.\n\nA typical self-introduction has four or five parts:\n\n- An opener: {はじめまして} (nice to meet you, used only at a first meeting).\n- Your name: {〜です}, or the more formal {〜と申[もう]します}.\n- Where you are from and/or where you live now.\n- What you do (job, study) and perhaps a hobby.\n- A closing: {よろしくお願[ねが]いします}, which roughly means I look forward to our relationship, please treat me well.\n\nKeep it short. Japanese self-introductions are usually brief and modest; ten to twenty seconds is perfectly normal in a casual setting. Bow slightly at the end with {よろしくお願[ねが]いします}.\n\nForeign names are written in katakana. Decide early how you want to be called, and say it clearly. In formal settings Japanese people use family names, so colleagues may call you by your family name plus {さん}. If you prefer your first name, it is fine to say so: {〜と呼[よ]んでください}.\n\nExpect a few standard follow-up questions: where you are from, how long you have been in Japan, and whether you like Japanese food.",
+  "phrases": [
+    { "jp": "はじめまして。", "en": "Nice to meet you. (first meeting)" },
+    { "jp": "スミスです。", "en": "I'm Smith." },
+    { "jp": "ジョン・スミスと申[もう]します。", "en": "My name is John Smith. (formal)", "note": "{申[もう]します} is the humble verb for say. Use it at work, interviews and formal occasions." },
+    { "jp": "ジョンと呼[よ]んでください。", "en": "Please call me John." },
+    { "jp": "アメリカから来[き]ました。", "en": "I'm from America. (lit. I came from America.)" },
+    { "jp": "カナダ出身[しゅっしん]です。", "en": "I'm originally from Canada." },
+    { "jp": "今[いま]は横浜[よこはま]に住[す]んでいます。", "en": "I live in Yokohama now." },
+    { "jp": "先月[せんげつ]、日本[にほん]に引[ひ]っ越[こ]してきました。", "en": "I moved to Japan last month." },
+    { "jp": "エンジニアとして働[はたら]いています。", "en": "I work as an engineer." },
+    { "jp": "日本語[にほんご]を勉強[べんきょう]中[ちゅう]です。", "en": "I'm studying Japanese." },
+    { "jp": "趣味[しゅみ]は料理[りょうり]と山登[やまのぼ]りです。", "en": "My hobbies are cooking and hiking." },
+    { "jp": "よろしくお願[ねが]いします。", "en": "Pleased to meet you. / I look forward to working with you." },
+    { "jp": "どうぞよろしくお願[ねが]いいたします。", "en": "(more formal version of the above)" },
+    { "jp": "こちらこそ、よろしくお願[ねが]いします。", "en": "Likewise, pleased to meet you.", "note": "The standard reply when someone says {よろしくお願[ねが]いします} to you." },
+    { "jp": "お国[くに]はどちらですか。", "en": "Which country are you from?", "note": "A polite question you will often be asked." },
+    { "jp": "日本[にほん]に来[き]てどのくらいですか。", "en": "How long have you been in Japan?" },
+    { "jp": "半年[はんとし]ぐらいです。", "en": "About half a year." }
+  ],
+  "vocab": [
+    { "jp": "自己紹介[じこしょうかい]", "en": "self-introduction" },
+    { "jp": "名前[なまえ]", "en": "name" },
+    { "jp": "名字[みょうじ]", "en": "family name, surname" },
+    { "jp": "下[した]の名前[なまえ]", "en": "given name, first name" },
+    { "jp": "出身[しゅっしん]", "en": "place of origin, hometown" },
+    { "jp": "国[くに]", "en": "country" },
+    { "jp": "仕事[しごと]", "en": "job, work" },
+    { "jp": "会社員[かいしゃいん]", "en": "company employee" },
+    { "jp": "留学生[りゅうがくせい]", "en": "international student" },
+    { "jp": "趣味[しゅみ]", "en": "hobby" },
+    { "jp": "住[す]む", "en": "to live (somewhere)" },
+    { "jp": "引[ひ]っ越[こ]す", "en": "to move (house)" }
+  ],
+  "dialogue": [
+    { "speaker": "Yuki", "jp": "はじめまして。佐藤[さとう]ゆきです。", "en": "Nice to meet you. I'm Yuki Sato." },
+    { "speaker": "You", "jp": "はじめまして。マイク・ジョンソンです。マイクと呼[よ]んでください。", "en": "Nice to meet you. I'm Mike Johnson. Please call me Mike." },
+    { "speaker": "Yuki", "jp": "マイクさん、お国[くに]はどちらですか。", "en": "Mike, which country are you from?" },
+    { "speaker": "You", "jp": "カナダです。トロント出身[しゅっしん]です。", "en": "Canada. I'm from Toronto." },
+    { "speaker": "Yuki", "jp": "日本[にほん]に来[き]てどのくらいですか。", "en": "How long have you been in Japan?" },
+    { "speaker": "You", "jp": "まだ三ヶ月[さんかげつ]ぐらいです。", "en": "Only about three months." },
+    { "speaker": "Yuki", "jp": "お仕事[しごと]は何[なに]をされているんですか。", "en": "What do you do for work?" },
+    { "speaker": "You", "jp": "IT会社[がいしゃ]で働[はたら]いています。", "en": "I work at an IT company." },
+    { "speaker": "Yuki", "jp": "日本語[にほんご]、上手[じょうず]ですね。", "en": "Your Japanese is good." },
+    { "speaker": "You", "jp": "いえ、まだ勉強[べんきょう]中[ちゅう]です。よろしくお願[ねが]いします。", "en": "No, I'm still learning. Nice to meet you." },
+    { "speaker": "Yuki", "jp": "こちらこそ、よろしくお願[ねが]いします。", "en": "Likewise, nice to meet you." }
+  ],
+  "tips": [
+    "Prepare and memorize a 15-second version of your self-introduction now. You will use it far more often than you expect.",
+    "Practice saying your name in katakana pronunciation. A name that is easy to say (for example {マイク} rather than a long full name) helps people remember you.",
+    "{はじめまして} is only for the very first meeting. Next time, use a normal greeting.",
+    "Avoid long personal stories in a first introduction. Modesty is valued; let people ask follow-up questions.",
+    "At work, introductions become more formal and are often followed by an exchange of business cards. See the office units later in this track."
+  ]
+}

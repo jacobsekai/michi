@@ -1,0 +1,58 @@
+{
+  "id": "life-garbage-neighbors",
+  "title": "Garbage sorting & neighbors",
+  "level": "N4",
+  "intro": "Garbage rules in Japan are strict and set by each municipality, so the rules in your new town may differ from what a friend in another city told you. When you register at the city office or move into your building, ask for the sorting guide and collection calendar. Many cities publish them in English and other languages, and some have apps that remind you what goes out each day.\n\nCommon categories include:\n\n- {燃[も]えるゴミ} (burnable): food waste, paper scraps, many everyday items.\n- {燃[も]えないゴミ} (non-burnable): things like ceramics, small metal items, broken glass.\n- {資源[しげん]ゴミ} (recyclables): cans, glass bottles, PET bottles, paper and cardboard. Usually rinsed, with caps and labels removed.\n- {粗大[そだい]ゴミ} (oversized items): furniture, bicycles and so on. You normally book a collection and pay by buying a sticker or ticket.\n\nSome cities require designated bags ({指定袋[していぶくろ]}) sold at supermarkets and convenience stores. Put garbage out on the morning of collection day, at your building's designated spot, by the time on the calendar. Wrongly sorted bags may be left behind with a warning sticker. Large appliances such as TVs, refrigerators, washing machines and air conditioners are handled under a separate recycling system and cannot go out as ordinary garbage.\n\nGood relations with neighbors matter. Greet people you meet, keep noise down at night (walls can be thin), and follow the garbage rules; these three things prevent most problems.",
+  "phrases": [
+    { "jp": "ゴミの出[だ]し方[かた]を教[おし]えていただけますか。", "en": "Could you tell me how to put out the garbage?" },
+    { "jp": "燃[も]えるゴミは何曜日[なんようび]ですか。", "en": "Which day is burnable garbage?" },
+    { "jp": "これは何[なに]ゴミですか。", "en": "What type of garbage is this?" },
+    { "jp": "ペットボトルのキャップはどうすればいいですか。", "en": "What should I do with PET bottle caps?" },
+    { "jp": "ゴミ置[お]き場[ば]はどこですか。", "en": "Where is the garbage collection point?" },
+    { "jp": "粗大[そだい]ゴミを出[だ]したいんですが。", "en": "I'd like to dispose of an oversized item." },
+    { "jp": "指定[してい]のゴミ袋[ぶくろ]はどこで買[か]えますか。", "en": "Where can I buy the designated garbage bags?" },
+    { "jp": "すみません、分別[ぶんべつ]を間違[まちが]えました。", "en": "Sorry, I sorted it wrong." },
+    { "jp": "隣[となり]に引[ひ]っ越[こ]してきたスミスです。", "en": "I'm Smith, I just moved in next door." },
+    { "jp": "ほんの気持[きも]ちですが、どうぞ。", "en": "It's just a small token, but please accept it.", "note": "A modest phrase when giving a small gift. The traditional {つまらないものですが} is also still heard." },
+    { "jp": "これからよろしくお願[ねが]いします。", "en": "I look forward to being your neighbor." },
+    { "jp": "夜[よる]遅[おそ]くにうるさくして、すみませんでした。", "en": "Sorry for being noisy late at night." },
+    { "jp": "夜[よる]、少[すこ]し音[おと]が気[き]になるんですが…。", "en": "The noise at night is bothering me a little..." },
+    { "jp": "回覧板[かいらんばん]は、お隣[となり]に回[まわ]せばいいですか。", "en": "Should I pass the circular notice on to the next house?", "note": "A {回覧板[かいらんばん]} is a clipboard of neighborhood notices passed from house to house." }
+  ],
+  "vocab": [
+    { "jp": "ゴミ", "en": "garbage, trash" },
+    { "jp": "分別[ぶんべつ]", "en": "sorting (garbage)" },
+    { "jp": "燃[も]えるゴミ", "en": "burnable garbage" },
+    { "jp": "燃[も]えないゴミ", "en": "non-burnable garbage" },
+    { "jp": "資源[しげん]ゴミ", "en": "recyclables" },
+    { "jp": "粗大[そだい]ゴミ", "en": "oversized garbage" },
+    { "jp": "缶[かん]", "en": "can" },
+    { "jp": "瓶[びん]", "en": "glass bottle" },
+    { "jp": "収集日[しゅうしゅうび]", "en": "collection day" },
+    { "jp": "ゴミ置[お]き場[ば]", "en": "garbage collection point" },
+    { "jp": "指定袋[していぶくろ]", "en": "designated garbage bag" },
+    { "jp": "近所[きんじょ]", "en": "neighborhood" },
+    { "jp": "大家[おおや]さん", "en": "landlord" },
+    { "jp": "管理[かんり]会社[がいしゃ]", "en": "property management company" },
+    { "jp": "町内会[ちょうないかい]", "en": "neighborhood association" }
+  ],
+  "dialogue": [
+    { "speaker": "Neighbor", "jp": "おはようございます。あの、すみません、それ、今日[きょう]は出[だ]せないんですよ。", "en": "Good morning. Um, excuse me, you can't put that out today." },
+    { "speaker": "You", "jp": "えっ、そうなんですか。すみません。", "en": "Oh, really? I'm sorry." },
+    { "speaker": "Neighbor", "jp": "今日[きょう]は燃[も]えるゴミの日[ひ]で、ペットボトルは金曜日[きんようび]なんです。", "en": "Today is burnable garbage day. PET bottles are on Friday." },
+    { "speaker": "You", "jp": "知[し]りませんでした。教[おし]えてくださって、ありがとうございます。", "en": "I didn't know. Thank you for telling me." },
+    { "speaker": "Neighbor", "jp": "最近[さいきん]引[ひ]っ越[こ]してこられた方[かた]ですよね。", "en": "You're the one who just moved in, right?" },
+    { "speaker": "You", "jp": "はい、先月[せんげつ]201号室[にひゃくいちごうしつ]に引[ひ]っ越[こ]してきたスミスです。", "en": "Yes, I'm Smith. I moved into room 201 last month." },
+    { "speaker": "Neighbor", "jp": "そうですか。ゴミのカレンダーはもらいました？", "en": "I see. Did you get the garbage calendar?" },
+    { "speaker": "You", "jp": "いいえ、まだです。", "en": "No, not yet." },
+    { "speaker": "Neighbor", "jp": "市[し]のホームページに英語版[えいごばん]もあると思[おも]いますよ。", "en": "I think there's an English version on the city's website too." },
+    { "speaker": "You", "jp": "確認[かくにん]してみます。ご親切[しんせつ]にありがとうございます。", "en": "I'll check. That's very kind of you." }
+  ],
+  "tips": [
+    "Search for your city name plus {ゴミ} or the word garbage to find the official sorting guide; it is the only source that really counts.",
+    "When moving out, book oversized garbage collection early; around March and April slots fill up fast.",
+    "In apartment buildings, giving a small gift (such as a box of sweets or a hand towel) to the neighbors on each side when you move in is a nice gesture, though not everyone does it in big cities.",
+    "If you have a noise problem with a neighbor, it is usually better to contact the management company than to confront them directly.",
+    "Ask before putting out items you are unsure about. Neighbors and building managers would much rather you ask than guess."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "r-n5-05",
+  "level": "N5",
+  "title": "Last Weekend",
+  "titleJp": "先週[せんしゅう]の週末[しゅうまつ]",
+  "sentences": [
+    { "jp": "先週[せんしゅう]の土曜日[どようび]は、いい天気[てんき]でした。", "en": "Last Saturday the weather was nice." },
+    { "jp": "朝[あさ]、公園[こうえん]を散歩[さんぽ]しました。", "en": "In the morning I took a walk in the park." },
+    { "jp": "公園[こうえん]には、子[こ]どもや犬[いぬ]がたくさんいました。", "en": "There were lots of children and dogs in the park." },
+    { "jp": "午後[ごご]は、友[とも]だちと映画[えいが]を見[み]に行[い]きました。", "en": "In the afternoon I went to see a movie with a friend." },
+    { "jp": "映画[えいが]はちょっと長[なが]かったですが、おもしろかったです。", "en": "The movie was a little long, but it was interesting." },
+    { "jp": "日曜日[にちようび]は雨[あめ]でしたから、どこへも行[い]きませんでした。", "en": "On Sunday it rained, so I didn't go anywhere." },
+    { "jp": "家[いえ]で部屋[へや]を掃除[そうじ]して、洗濯[せんたく]をしました。", "en": "I cleaned my room at home and did the laundry." },
+    { "jp": "来週[らいしゅう]の週末[しゅうまつ]は、海[うみ]へ行[い]きたいです。", "en": "Next weekend I want to go to the sea." }
+  ],
+  "questions": [
+    { "q": "What did the writer do on Saturday morning?", "choices": ["Watched a movie", "Cleaned the room", "Took a walk in the park", "Went to the sea"], "answer": 2 },
+    { "q": "What did the writer think of the movie?", "choices": ["Short and boring", "A little long, but interesting", "Too scary", "Long and boring"], "answer": 1 },
+    { "q": "Why did the writer stay home on Sunday?", "choices": ["It rained", "The writer was tired", "A friend was sick", "The writer had homework"], "answer": 0 }
+  ]
+}

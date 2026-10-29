@@ -1,0 +1,111 @@
+{
+  "id": "n3-u05",
+  "title": "Time II: moments & sequence",
+  "summary": "Pinpointing a moment and ordering events: {たとたん}, {たところ}, {ところだった}, {ところに} / {ところを}, {てからでないと}, and {て初[はじ]めて}.",
+  "points": [
+    {
+      "id": "n3-ta-totan",
+      "title": "〜たとたん(に)",
+      "meaning": "the moment ~ ; just as ~ (something unexpected happened)",
+      "structure": "Verb (た-form) + とたん(に)",
+      "explanation": "{〜たとたん} means 'at the very moment A happened, B happened' — with almost no time in between. B is usually something **sudden or unexpected** that the speaker didn't control.\n\n{家[いえ]を出[で]たとたん、雨[あめ]が降[ふ]り出[だ]した。} 'The moment I left the house, it started to rain.'\n\nBecause B is a surprise, you **can't** use {とたん} for your own plans, intentions, requests or commands. For 'as soon as I get home, I'll take a shower', use {〜たらすぐ}: {家[いえ]に帰[かえ]ったらすぐシャワーを浴[あ]びる。}\n\nThe first verb is always in the {た}-form, even when talking about the future or habits.",
+      "examples": [
+        { "jp": "家[いえ]を出[で]たとたん、雨[あめ]が降[ふ]り出[だ]した。", "en": "The moment I left the house, it started raining." },
+        { "jp": "急[きゅう]に立[た]ち上[あ]がったとたんに、めまいがした。", "en": "The moment I suddenly stood up, I felt dizzy." },
+        { "jp": "社長[しゃちょう]が部屋[へや]に入[はい]ったとたん、みんな静[しず]かになった。", "en": "The moment the president walked into the room, everyone went quiet." },
+        { "jp": "給料[きゅうりょう]をもらったとたんに、ほとんど使[つか]ってしまった。", "en": "As soon as I got paid, I spent almost all of it." }
+      ],
+      "quiz": [
+        { "q": "窓[まど]を開[あ]けた＿＿、強[つよ]い風[かぜ]が入[はい]ってきた。", "en": "The moment I opened the window, a strong wind blew in.", "choices": ["とたん", "ついでに", "最中[さいちゅう]", "うちに"], "answer": 0 },
+        { "q": "電車[でんしゃ]のドアが閉[し]まった＿＿、忘[わす]れ物[もの]に気[き]がついた。", "en": "The moment the train doors closed, I realized I'd left something behind.", "choices": ["とたんに", "たびに", "間[あいだ]に", "ついでに"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n3-ta-tokoro",
+      "title": "〜たところ",
+      "meaning": "when I (did) ~ , (I found that) ~ ; I did ~ and (as a result) ~",
+      "structure": "Verb (た-form) + ところ、〜",
+      "explanation": "{〜たところ} connects an action you did with the **result or discovery** that followed. It's 'I tried A, and it turned out that B'.\n\n{店[みせ]に電話[でんわ]してみたところ、もう売[う]り切[き]れだと言[い]われた。} 'When I called the shop, they told me it was already sold out.'\n\nThe second part is something you found out or something that happened — not your own deliberate action. It sounds slightly formal and is very common in reports and business emails ({確認[かくにん]したところ} 'upon checking').\n\nDon't confuse it with {〜たところだ} at the end of a sentence, which means 'have just done': {今[いま]帰[かえ]ってきたところだ。} 'I've just got back.'",
+      "examples": [
+        { "jp": "駅員[えきいん]さんに聞[き]いたところ、電車[でんしゃ]は三十分[さんじゅっぷん]遅[おく]れているそうだ。", "en": "When I asked a station attendant, he said the train was running thirty minutes late." },
+        { "jp": "店[みせ]に電話[でんわ]してみたところ、もう売[う]り切[き]れだと言[い]われた。", "en": "When I called the shop, they told me it was already sold out." },
+        { "jp": "部長[ぶちょう]に相談[そうだん]したところ、すぐに許可[きょか]してくださいました。", "en": "When I consulted the manager, he gave his permission right away." },
+        { "jp": "新[あたら]しい方法[ほうほう]を試[ため]したところ、作業[さぎょう]の時間[じかん]が半分[はんぶん]になった。", "en": "When we tried the new method, the work took half as long." }
+      ],
+      "quiz": [
+        { "q": "先生[せんせい]に質問[しつもん]した＿＿、とても丁寧[ていねい]に教[おし]えてくださった。", "en": "When I asked the teacher a question, she explained it to me very carefully.", "choices": ["ところ", "くせに", "ついでに", "最中[さいちゅう]"], "answer": 0 },
+        { "q": "予約[よやく]しようと電話[でんわ]した＿＿、その日[ひ]はもう満席[まんせき]だった。", "en": "When I called to make a reservation, that day was already fully booked.", "choices": ["ところ", "ところだった", "最中[さいちゅう]に", "ついでに"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n3-tokoro-datta",
+      "title": "〜ところだった",
+      "meaning": "almost ~ ; nearly ~ (but it didn't happen)",
+      "structure": "Verb (dictionary) + ところだった (often with もう少[すこ]しで / 危[あぶ]なく)",
+      "explanation": "{〜ところだった} means something (usually bad) **almost** happened, but in the end it didn't. It's the feeling of a close call.\n\n{もう少[すこ]しで電車[でんしゃ]に乗[の]り遅[おく]れるところだった。} 'I almost missed the train.'\n\nIt's frequently used with {もう少[すこ]しで} ('a little more and…') or {危[あぶ]なく} ('dangerously close'), and with conditionals like {〜なかったら} to say what saved you: {田中[たなか]さんが教[おし]えてくれなかったら、忘[わす]れるところだった。} 'If Tanaka hadn't told me, I would have forgotten.'\n\nRemember the {ところ} family:\n- {するところだ} — about to do\n- {しているところだ} — in the middle of doing\n- {したところだ} — have just done\n- {するところだった} — almost did (but didn't)",
+      "examples": [
+        { "jp": "もう少[すこ]しで電車[でんしゃ]に乗[の]り遅[おく]れるところだった。", "en": "I very nearly missed the train." },
+        { "jp": "危[あぶ]なく車[くるま]にひかれるところだった。", "en": "I came dangerously close to being hit by a car." },
+        { "jp": "田中[たなか]さんが教[おし]えてくれなかったら、締[し]め切[き]りを忘[わす]れるところだった。", "en": "If Tanaka hadn't told me, I would have forgotten the deadline." },
+        { "jp": "目覚[めざ]まし時計[どけい]が鳴[な]らなくて、大事[だいじ]な面接[めんせつ]に遅刻[ちこく]するところでした。", "en": "My alarm clock didn't go off, and I almost ended up late for an important interview." }
+      ],
+      "quiz": [
+        { "q": "道[みち]が凍[こお]っていて、もう少[すこ]しで転[ころ]ぶ＿＿。", "en": "The road was icy, and I almost fell.", "choices": ["ところだった", "ばかりだった", "ことにした", "わけだった"], "answer": 0 },
+        { "q": "携帯[けいたい]を家[いえ]に忘[わす]れる＿＿が、母[はは]が気[き]づいて渡[わた]してくれた。", "en": "I almost left my phone at home, but my mother noticed and handed it to me.", "choices": ["ところだった", "たところ", "ところに", "ことにした"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n3-tokoro-ni-wo",
+      "title": "〜ところに / 〜ところへ / 〜ところを",
+      "meaning": "(ところに・へ) just when ~ (someone arrived / something happened) ; (ところを) at the moment of ~ (being seen, caught, helped)",
+      "structure": "Verb (dictionary / ている / た-form) + ところに・ところへ・ところを",
+      "explanation": "{ところ} can point to a particular **moment** in a situation, and the particle shows how the next event relates to it.\n\n- **{ところに} / {ところへ}:** someone or something arrives or interrupts at that moment: {出[で]かけようとしているところに、友達[ともだち]が来[き]た。} 'Just as I was about to go out, a friend came over.'\n- **{ところを}:** the moment itself is the object of a verb like {見[み]る}, {見[み]つかる}, {見[み]られる}, {助[たす]ける}, {呼[よ]び止[と]める}: {寝[ね]ているところを先生[せんせい]に見[み]られた。} 'The teacher saw me sleeping.'\n\nA business phrase you'll hear daily: {お忙[いそが]しいところ（を）すみません} 'Sorry to bother you when you're busy' — literally 'at your busy moment'.",
+      "examples": [
+        { "jp": "出[で]かけようとしているところに、友達[ともだち]が来[き]た。", "en": "Just as I was about to go out, a friend came by." },
+        { "jp": "ちょうどご飯[はん]を食[た]べているところへ、宅配便[たくはいびん]が届[とど]いた。", "en": "A delivery arrived just as I was eating." },
+        { "jp": "授業中[じゅぎょうちゅう]に寝[ね]ているところを先生[せんせい]に見[み]られた。", "en": "The teacher saw me sleeping in class." },
+        { "jp": "道[みち]に迷[まよ]って困[こま]っているところを、知[し]らない人[ひと]が助[たす]けてくれた。", "en": "When I was lost and in trouble, a stranger helped me out." },
+        { "jp": "お忙[いそが]しいところ、ありがとうございます。", "en": "Thank you for taking the time when you're so busy." }
+      ],
+      "quiz": [
+        { "q": "お風呂[ふろ]に入[はい]ろうとした＿＿、電話[でんわ]がかかってきた。", "en": "Just as I was about to get in the bath, the phone rang.", "choices": ["ところに", "ところを", "ところだった", "わけに"], "answer": 0 },
+        { "q": "会社[かいしゃ]をサボって映画[えいが]を見[み]ている＿＿、課長[かちょう]に見[み]られてしまった。", "en": "The section chief saw me watching a movie when I was skipping work.", "choices": ["ところを", "ところに", "ついでに", "たびに"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n3-tekara-denaito",
+      "title": "〜てからでないと / 〜てからでなければ",
+      "meaning": "not until (after) ~ ; unless you first ~ , you can't ~",
+      "structure": "Verb (て-form) + からでないと / からでなければ + negative / difficult result",
+      "explanation": "{〜てからでないと} means 'if you haven't done A first, you can't do B'. A is a **necessary first step**. The second half is almost always negative or difficult: {できない}, {わからない}, {無理[むり]だ}, {〜てはいけない}.\n\n{上司[じょうし]に確認[かくにん]してからでないと、お返事[へんじ]できません。} 'I can't give you an answer until I've checked with my supervisor.'\n\nThis is very common in Japanese bureaucracy and offices, where steps must happen in order. {〜てからでなければ} is the same but a bit more formal.\n\nPositive version for comparison: {確認[かくにん]してから返事[へんじ]します} 'I'll reply after checking.' The {でないと} version stresses that it's **impossible** otherwise.",
+      "examples": [
+        { "jp": "料金[りょうきん]を払[はら]ってからでないと、中[なか]に入[はい]れません。", "en": "You can't go in until you've paid the fee." },
+        { "jp": "上司[じょうし]に確認[かくにん]してからでないと、お返事[へんじ]できません。", "en": "I can't give you an answer until I've checked with my supervisor." },
+        { "jp": "実際[じっさい]に見[み]てからでないと、買[か]うかどうか決[き]められない。", "en": "I can't decide whether to buy it until I've actually seen it." },
+        { "jp": "在留[ざいりゅう]カードをもらってからでないと、銀行口座[ぎんこうこうざ]は作[つく]れない。", "en": "You can't open a bank account until you've received your residence card." }
+      ],
+      "quiz": [
+        { "q": "部長[ぶちょう]の許可[きょか]をもらって＿＿、この資料[しりょう]は外[そと]に出[だ]せません。", "en": "These materials can't be taken outside until we've got the manager's permission.", "choices": ["からでないと", "からには", "ばかりで", "ところに"], "answer": 0 },
+        { "q": "一度[いちど]使[つか]って＿＿、このアプリが便利[べんり]かどうかわからない。", "en": "I won't know whether this app is useful until I've tried using it once.", "choices": ["みてからでないと", "みるたびに", "みたとたん", "みる最中[さいちゅう]に"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n3-te-hajimete",
+      "title": "〜て初[はじ]めて",
+      "meaning": "only after ~ (did I realize / was it possible) ; not until ~",
+      "structure": "Verb (て-form) + 初[はじ]めて",
+      "explanation": "{〜て初[はじ]めて} means 'it was only after A that B happened for the first time'. B is usually a **realization** — {わかる}, {気[き]づく}, {知[し]る} — or something becoming possible.\n\n{病気[びょうき]になって初[はじ]めて、健康[けんこう]の大切[たいせつ]さがわかった。} 'It wasn't until I got sick that I realized how important health is.'\n\nIt suggests that before A, you didn't understand B at all, and that experiencing A was what it took.\n\n**{て初[はじ]めて} vs {てからでないと}:** both say 'A must come before B', but {てからでないと} sets a condition (usually for the future or as a rule: 'you can't B unless A'), while {て初[はじ]めて} usually looks back on a realization that actually happened.",
+      "examples": [
+        { "jp": "病気[びょうき]になって初[はじ]めて、健康[けんこう]の大切[たいせつ]さがわかった。", "en": "It wasn't until I got sick that I understood how important health is." },
+        { "jp": "一人暮[ひとりぐ]らしをして初[はじ]めて、親[おや]のありがたさに気[き]づいた。", "en": "Only after living on my own did I realize how much my parents did for me." },
+        { "jp": "日本[にほん]に住[す]んで初[はじ]めて、敬語[けいご]の難[むずか]しさを知[し]った。", "en": "It wasn't until I lived in Japan that I learned how hard keigo is." },
+        { "jp": "実際[じっさい]に働[はたら]いてみて初[はじ]めて、この仕事[しごと]の大変[たいへん]さがわかりました。", "en": "It was only when I actually started working that I understood how tough this job is." }
+      ],
+      "notes": "{初[はじ]めて} here is written with {初[はじ]}, the same as in {初[はじ]めて会[あ]った} 'met for the first time'.",
+      "quiz": [
+        { "q": "外国[がいこく]に住[す]んで＿＿、自分[じぶん]の国[くに]のよさがわかった。", "en": "It wasn't until I lived abroad that I understood what's good about my own country.", "choices": ["初[はじ]めて", "からでないと", "ばかりで", "ついでに"], "answer": 0 },
+        { "q": "「この仕事[しごと]、どう？」「やって＿＿、大変[たいへん]さがわかったよ。」", "en": "'How's this job?' 'It was only when I actually tried it that I realized how tough it is.'", "choices": ["みて初[はじ]めて", "みてからでないと", "みるついでに", "みる最中[さいちゅう]に"], "answer": 0 }
+      ]
+    }
+  ]
+}

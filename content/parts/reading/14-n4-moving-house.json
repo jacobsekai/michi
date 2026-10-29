@@ -1,0 +1,24 @@
+{
+  "id": "r-n4-06",
+  "level": "N4",
+  "title": "Moving to a New Apartment",
+  "titleJp": "新[あたら]しいアパートへの引[ひ]っ越[こ]し",
+  "sentences": [
+    { "jp": "先月[せんげつ]、会社[かいしゃ]に近[ちか]いアパートに引[ひ]っ越[こ]しました。", "en": "Last month, I moved to an apartment close to my company." },
+    { "jp": "前[まえ]の部屋[へや]は駅[えき]から遠[とお]かったので、毎朝[まいあさ]バスに乗[の]らなければなりませんでした。", "en": "My old place was far from the station, so I had to take a bus every morning." },
+    { "jp": "新[あたら]しい部屋[へや]は、駅[えき]まで歩[ある]いて五分[ごふん]なので、とても便利[べんり]です。", "en": "The new place is a five-minute walk to the station, so it's very convenient." },
+    { "jp": "引[ひ]っ越[こ]しの次[つぎ]の日[ひ]、となりの部屋[へや]の人[ひと]に、タオルを持[も]ってあいさつに行[い]きました。", "en": "The day after I moved, I went to say hello to the person next door, bringing a towel." },
+    { "jp": "日本[にほん]では、引[ひ]っ越[こ]したときに近所[きんじょ]の人[ひと]にあいさつをすることが多[おお]いそうです。", "en": "I hear that in Japan, people often greet their neighbors when they move in." },
+    { "jp": "それから、区役所[くやくしょ]へ行[い]って、住所[じゅうしょ]が変[か]わったことを届[とど]けました。", "en": "After that, I went to the ward office and reported my change of address." },
+    { "jp": "一番[いちばん]大変[たいへん]だったのは、ごみの出[だ]し方[かた]です。", "en": "The hardest thing was how to put out the garbage." },
+    { "jp": "この町[まち]では、燃[も]えるごみは月曜日[げつようび]と木曜日[もくようび]、プラスチックは水曜日[すいようび]に出[だ]すことになっています。", "en": "In this town, burnable garbage goes out on Mondays and Thursdays, and plastic on Wednesdays." },
+    { "jp": "一度[いちど]、間違[まちが]った日[ひ]に出[だ]してしまって、ごみ袋[ぶくろ]に注意[ちゅうい]の紙[かみ]を貼[は]られてしまいました。", "en": "Once, I put it out on the wrong day, and a warning notice got stuck on my garbage bag." },
+    { "jp": "今[いま]は、ごみのカレンダーを冷蔵庫[れいぞうこ]に貼[は]って、忘[わす]れないようにしています。", "en": "Now I keep the garbage calendar stuck on my fridge so I don't forget." },
+    { "jp": "新[あたら]しい生活[せいかつ]にも、だんだん慣[な]れてきました。", "en": "I'm gradually getting used to my new life." }
+  ],
+  "questions": [
+    { "q": "What was inconvenient about the writer's old apartment?", "choices": ["It was far from the station, so the writer had to take a bus", "It was too small", "The neighbors were noisy", "The rent was too high"], "answer": 0 },
+    { "q": "What did the writer bring when greeting the neighbor?", "choices": ["Sweets", "Flowers", "A towel", "A garbage calendar"], "answer": 2 },
+    { "q": "On which day is plastic put out in this town?", "choices": ["Monday", "Thursday", "Friday", "Wednesday"], "answer": 3 }
+  ]
+}

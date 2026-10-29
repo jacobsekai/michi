@@ -1,0 +1,27 @@
+{
+  "id": "r-n2-01",
+  "level": "N2",
+  "title": "Column: Do Convenience Stores Need to Be Open 24 Hours?",
+  "titleJp": "コンビニは二十四時間[にじゅうよじかん]開[あ]いているべきか",
+  "sentences": [
+    { "jp": "深夜[しんや]でも明[あ]かりのついたコンビニがある――それは日本[にほん]の都市[とし]では当[あ]たり前[まえ]の風景[ふうけい]になっている。", "en": "A convenience store with its lights on even late at night: in Japanese cities, that has become an everyday sight." },
+    { "jp": "夜中[よなか]に急[きゅう]に必要[ひつよう]になった飲[の]み物[もの]や電池[でんち]を買[か]えるのはもちろん、ATMで現金[げんきん]を下[お]ろしたり、荷物[にもつ]を受[う]け取[と]ったりすることもできる。", "en": "Not only can you buy drinks or batteries you suddenly need in the middle of the night, you can also withdraw cash from an ATM or pick up packages." },
+    { "jp": "一人暮[ひとりぐ]らしの人[ひと]が多[おお]い現代[げんだい]において、コンビニはもはや単[たん]なる店[みせ]ではなく、生活[せいかつ]の基盤[きばん]の一[ひと]つと言[い]えるだろう。", "en": "In an age when many people live alone, the convenience store is no longer just a shop; it could be called one of the foundations of daily life." },
+    { "jp": "しかし、その便利[べんり]さの裏[うら]で、無理[むり]をしている人[ひと]たちがいることを忘[わす]れてはならない。", "en": "However, we must not forget that behind that convenience, there are people pushing themselves too hard." },
+    { "jp": "人手[ひとで]不足[ぶそく]が深刻化[しんこくか]する中[なか]、深夜[しんや]のシフトを埋[う]められず、オーナー自身[じしん]が何日[なんにち]も続[つづ]けて夜[よる]に働[はたら]くケースも少[すく]なくないという。", "en": "As the labor shortage grows more serious, it is said that there are quite a few cases where late-night shifts can't be filled and owners themselves end up working nights for many days in a row." },
+    { "jp": "以前[いぜん]には、こうした状況[じょうきょう]に耐[た]えきれなくなったオーナーが本部[ほんぶ]の許可[きょか]なく営業[えいぎょう]時間[じかん]を短縮[たんしゅく]し、大[おお]きなニュースになったこともあった。", "en": "There was once a case where an owner who could no longer bear these conditions shortened the store's hours without the head office's permission, and it became big news." },
+    { "jp": "これをきっかけに、一部[いちぶ]の店舗[てんぽ]では深夜[しんや]営業[えいぎょう]をやめる試[こころ]みも始[はじ]まっている。", "en": "Triggered by this, some stores have started experimenting with stopping late-night business." },
+    { "jp": "私[わたし]は、すべてのコンビニが二十四時間[にじゅうよじかん]開[あ]いている必要[ひつよう]はないと考[かんが]える。", "en": "I believe that not every convenience store needs to be open 24 hours." },
+    { "jp": "もちろん、夜間[やかん]に働[はたら]く人[ひと]にとっての利便性[りべんせい]や、災害時[さいがいじ]の拠点[きょてん]としての役割[やくわり]を考[かんが]えれば、深夜[しんや]営業[えいぎょう]の価値[かち]は否定[ひてい]できない。", "en": "Of course, considering the convenience for people who work at night and their role as hubs during disasters, the value of late-night business can't be denied." },
+    { "jp": "だが、駅前[えきまえ]や病院[びょういん]の近[ちか]くなど、本当[ほんとう]に需要[じゅよう]のある場所[ばしょ]に限[かぎ]って深夜[しんや]営業[えいぎょう]を続[つづ]け、それ以外[いがい]の店[みせ]は地域[ちいき]の実情[じつじょう]に合[あ]わせて柔軟[じゅうなん]に決[き]めればよいのではないか。", "en": "But wouldn't it be fine to continue late-night business only in places where there is real demand, such as in front of stations or near hospitals, and let other stores decide flexibly according to local circumstances?" },
+    { "jp": "消費者[しょうひしゃ]の側[がわ]にも、意識[いしき]の変化[へんか]が求[もと]められている。", "en": "A change in attitude is also needed on the part of consumers." },
+    { "jp": "「いつでも開[あ]いていて当然[とうぜん]」という感覚[かんかく]は、誰[だれ]かの犠牲[ぎせい]の上[うえ]に成[な]り立[た]っているのかもしれない。", "en": "The feeling that \"of course it's open any time\" may be built on someone's sacrifice." },
+    { "jp": "少[すこ]し不便[ふべん]になることを受[う]け入[い]れられるかどうか。", "en": "Can we accept things becoming a little less convenient?" },
+    { "jp": "それは、働[はたら]く人[ひと]を大切[たいせつ]にする社会[しゃかい]を目指[めざ]せるかどうかという問[と]いでもある。", "en": "That is also the question of whether we can aim for a society that values the people who work." }
+  ],
+  "questions": [
+    { "q": "What is the writer's position?", "choices": ["All convenience stores should close at night", "Not every store needs to be open 24 hours; keep late-night hours where there is real demand", "Every store must stay open 24 hours for disaster preparedness", "The government should decide each store's hours"], "answer": 1 },
+    { "q": "Which problem behind 24-hour service does the writer point to?", "choices": ["Rising crime at night", "High electricity costs", "Owners working many nights in a row because night shifts can't be filled", "Customers complaining about prices"], "answer": 2 },
+    { "q": "What does the writer ask of consumers?", "choices": ["To shop online instead", "To complain to the head office", "To shop more often at night", "To be willing to accept a little inconvenience"], "answer": 3 }
+  ]
+}

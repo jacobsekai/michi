@@ -1,0 +1,25 @@
+{
+  "id": "r-n3-02",
+  "level": "N3",
+  "title": "My First Big Mistake at Work",
+  "titleJp": "職場[しょくば]での失敗[しっぱい]",
+  "sentences": [
+    { "jp": "入社[にゅうしゃ]して二[に]か月[げつ]ほど経[た]ったころ、私[わたし]は大[おお]きな失敗[しっぱい]をしました。", "en": "About two months after joining the company, I made a big mistake." },
+    { "jp": "取引先[とりひきさき]に送[おく]る資料[しりょう]を、課長[かちょう]に確認[かくにん]してもらわずに送[おく]ってしまったのです。", "en": "I sent some documents to a client without having my section manager check them first." },
+    { "jp": "しかも、その資料[しりょう]には古[ふる]い値段[ねだん]が書[か]かれていました。", "en": "On top of that, the documents had the old prices written in them." },
+    { "jp": "次[つぎ]の日[ひ]、取引先[とりひきさき]から電話[でんわ]があって、初[はじ]めて間違[まちが]いに気[き]がつきました。", "en": "The next day the client called, and that was when I first realized my mistake." },
+    { "jp": "怒[おこ]られると思[おも]って、課長[かちょう]に言[い]うかどうか、しばらく迷[まよ]いました。", "en": "I thought I'd get scolded, so for a while I couldn't decide whether to tell my manager." },
+    { "jp": "でも、隣[となり]の席[せき]の先輩[せんぱい]に相談[そうだん]すると、「早[はや]く報告[ほうこく]したほうがいいよ。時間[じかん]がたつほど、問題[もんだい]は大[おお]きくなるから」と言[い]われました。", "en": "But when I talked it over with the senior colleague at the next desk, I was told, \"You should report it soon. The more time passes, the bigger the problem gets.\"" },
+    { "jp": "勇気[ゆうき]を出[だ]して課長[かちょう]に話[はな]すと、課長[かちょう]は怒[おこ]らずに、すぐ一緒[いっしょ]に取引先[とりひきさき]へ謝[あやま]りに行[い]ってくれました。", "en": "When I worked up the courage to tell my manager, instead of getting angry, my manager went with me right away to apologize to the client." },
+    { "jp": "帰[かえ]りの電車[でんしゃ]の中[なか]で、課長[かちょう]は「ミスは誰[だれ]にでもある。大事[だいじ]なのは、隠[かく]さないことだ」と言[い]いました。", "en": "On the train back, my manager said, \"Everyone makes mistakes. What matters is not hiding them.\"" },
+    { "jp": "日本[にほん]の会社[かいしゃ]では「報連相[ほうれんそう]」という言葉[ことば]がよく使[つか]われます。", "en": "In Japanese companies, the word \"hōrensō\" is often used." },
+    { "jp": "報告[ほうこく]・連絡[れんらく]・相談[そうだん]の最初[さいしょ]の音[おと]を合[あ]わせた言葉[ことば]です。", "en": "It's a word made by combining the first sounds of hōkoku (reporting), renraku (keeping others informed), and sōdan (consulting)." },
+    { "jp": "野菜[やさい]のほうれん草[そう]と同[おな]じ音[おと]なので、覚[おぼ]えやすいです。", "en": "It sounds the same as the vegetable hōrensō (spinach), so it's easy to remember." },
+    { "jp": "あの日[ひ]から、私[わたし]は小[ちい]さなことでも、すぐに上司[じょうし]に伝[つた]えるようにしています。", "en": "Since that day, I make a point of telling my boss right away, even about small things." }
+  ],
+  "questions": [
+    { "q": "What was the writer's mistake?", "choices": ["Sending documents with old prices without having the manager check them", "Forgetting an important meeting with a client", "Losing documents on the train", "Calling the wrong client"], "answer": 0 },
+    { "q": "How did the section manager react?", "choices": ["Got very angry", "Told the writer to apologize alone", "Went with the writer to apologize to the client", "Asked the senior colleague to fix it"], "answer": 2 },
+    { "q": "What does \"hōrensō\" refer to in a Japanese workplace?", "choices": ["Eating vegetables at lunch", "Reporting, keeping others informed, and consulting", "Apologizing to clients in person", "Checking prices before sending documents"], "answer": 1 }
+  ]
+}

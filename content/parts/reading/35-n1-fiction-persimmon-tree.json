@@ -1,0 +1,29 @@
+{
+  "id": "r-n1-03",
+  "level": "N1",
+  "title": "Short Fiction: The Persimmon Tree",
+  "titleJp": "柿[かき]の木[き]",
+  "sentences": [
+    { "jp": "祖母[そぼ]の家[いえ]の庭[にわ]には、私[わたし]が物心[ものごころ]ついたころから一本[いっぽん]の柿[かき]の木[き]があった。", "en": "For as long as I can remember, there was a persimmon tree in the garden of my grandmother's house." },
+    { "jp": "秋[あき]になると枝[えだ]がしなるほど実[み]をつけ、熟[う]れきった実[み]が音[おと]もなく落[お]ちては、土[つち]を橙色[だいだいいろ]に染[そ]めた。", "en": "Every autumn it bore so much fruit that its branches bent, and the overripe persimmons would drop without a sound, staining the earth orange." },
+    { "jp": "祖母[そぼ]はそれを惜[お]しむでもなく、「鳥[とり]の分[ぶん]も残[のこ]しておかんとね」と言[い]って、いつも半分[はんぶん]ほどを枝[えだ]に残[のこ]したままにしていた。", "en": "My grandmother never seemed to regret this; saying, \"Got to leave some for the birds, too,\" she always left about half of the fruit on the branches." },
+    { "jp": "幼[おさな]い私[わたし]には、それがひどくもったいないことのように思[おも]えたものだ。", "en": "To me as a small child, that seemed a terrible waste." },
+    { "jp": "祖母[そぼ]が亡[な]くなって三年[さんねん]、空[あ]き家[や]となったその家[いえ]を手放[てばな]す話[はなし]がまとまりかけた秋[あき]、私[わたし]は久方[ひさかた]ぶりに一人[ひとり]で門[もん]をくぐった。", "en": "Three years after my grandmother died, in the autumn when arrangements to sell the now-empty house were nearly settled, I passed through its gate alone for the first time in a long while." },
+    { "jp": "雨戸[あまど]を閉[と]ざした家[いえ]は、記憶[きおく]の中[なか]よりもひと回[まわ]り小[ちい]さく見[み]えた。", "en": "With its storm shutters closed, the house looked a size smaller than in my memory." },
+    { "jp": "庭[にわ]は膝[ひざ]の高[たか]さまで雑草[ざっそう]に覆[おお]われていたが、柿[かき]の木[き]だけは何事[なにごと]もなかったかのように、たわわに実[み]をつけていた。", "en": "The garden was overgrown with weeds up to my knees, but the persimmon tree alone, as if nothing had happened, was heavy with fruit." },
+    { "jp": "誰[だれ]に見[み]せるためでもなく、誰[だれ]に食[た]べられるためでもなく、ただ季節[きせつ]が巡[めぐ]ってきたから実[みの]る。", "en": "Not to be seen by anyone, not to be eaten by anyone, it bore fruit simply because the season had come around again." },
+    { "jp": "その当[あ]たり前[まえ]の営[いとな]みが、なぜか胸[むね]に迫[せま]った。", "en": "For some reason, that ordinary cycle of life moved me deeply." },
+    { "jp": "縁側[えんがわ]に腰[こし]を下[お]ろしていると、一羽[いちわ]のヒヨドリが舞[ま]い降[お]りてきて、熟[じゅく]した実[み]を器用[きよう]についばみ始[はじ]めた。", "en": "As I sat on the veranda, a bulbul fluttered down and began deftly pecking at a ripe persimmon." },
+    { "jp": "鳥[とり]の分[ぶん]、という祖母[そぼ]の声[こえ]が、ふいに耳[みみ]の奥[おく]によみがえった。", "en": "\"Some for the birds\": my grandmother's voice suddenly came back to me, deep in my ears." },
+    { "jp": "あれはもったいないことなどではなかったのだ、と私[わたし]はそのとき初[はじ]めて思[おも]い至[いた]った。", "en": "It was only then that it dawned on me: that had not been a waste at all." },
+    { "jp": "全部[ぜんぶ]を自分[じぶん]のものにしない。取[と]りきらずに残[のこ]しておく。", "en": "Not taking everything for yourself. Leaving some behind instead of picking it clean." },
+    { "jp": "その小[ちい]さな余白[よはく]のおかげで、この庭[にわ]は祖母[そぼ]がいなくなった今[いま]も、何[なに]かを養[やしな]い続[つづ]けている。", "en": "Thanks to that small margin, this garden is still nourishing something, even now that my grandmother is gone." },
+    { "jp": "夕暮[ゆうぐ]れが迫[せま]るころ、私[わたし]は不動産屋[ふどうさんや]に電話[でんわ]をかけ、もう少[すこ]しだけ考[かんが]えさせてほしいと告[つ]げた。", "en": "As dusk approached, I called the real estate agent and told them I'd like a little more time to think it over." },
+    { "jp": "電話[でんわ]の向[む]こうの戸惑[とまど]った声[こえ]を聞[き]きながら、私[わたし]は枝[えだ]に残[のこ]された実[み]を、ひとつ、ふたつと数[かぞ]えていた。", "en": "Listening to the bewildered voice on the other end of the line, I was counting the fruit left on the branches: one, two..." }
+  ],
+  "questions": [
+    { "q": "What did the grandmother do with the persimmons each year?", "choices": ["Sold them at the market", "Made dried persimmons from all of them", "Left about half on the tree for the birds", "Gave them all to the neighbors"], "answer": 2 },
+    { "q": "What did the narrator come to realize while sitting on the veranda?", "choices": ["That the tree should be cut down", "That leaving some fruit unpicked had not been wasteful at all", "That the grandmother had been stingy", "That the house was worth more than expected"], "answer": 1 },
+    { "q": "What did the narrator do at the end?", "choices": ["Signed the papers to sell the house", "Picked all the remaining fruit", "Decided to move into the house immediately", "Asked the real estate agent for a little more time to think"], "answer": 3 }
+  ]
+}

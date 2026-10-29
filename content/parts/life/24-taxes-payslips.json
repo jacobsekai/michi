@@ -1,0 +1,57 @@
+{
+  "id": "life-taxes",
+  "title": "Taxes & payslips",
+  "level": "N2",
+  "intro": "Your payslip ({給与[きゅうよ]明細[めいさい]}) has two main parts. **Payments** ({支給[しきゅう]}) include base salary ({基本給[きほんきゅう]}), overtime pay and allowances such as the commuting allowance. **Deductions** ({控除[こうじょ]}) usually include health insurance, employee pension ({厚生[こうせい]年金[ねんきん]}), employment insurance ({雇用[こよう]保険[ほけん]}), income tax ({所得税[しょとくぜい]}) and resident tax ({住民税[じゅうみんぜい]}). What actually reaches your bank account is your take-home pay ({手取[てど]り}).\n\n**Income tax** is withheld from each paycheck ({源泉[げんせん]徴収[ちょうしゅう]}). Near the end of the year, your employer settles the exact amount in a year-end adjustment ({年末[ねんまつ]調整[ちょうせい]}), for which you submit forms about dependents and certain insurance. Afterward you receive a withholding slip ({源泉[げんせん]徴収票[ちょうしゅうひょう]}). Keep it; you will need it for many things.\n\n**Resident tax** is a local tax calculated on your previous year's income, based mainly on where you lived at the start of the year. For employees it is usually deducted from salary over twelve months starting around June. This is why many newcomers pay little or none in their first months and then see it appear later.\n\n**Final tax return** ({確定[かくてい]申告[しんこく]}): most salaried employees with one employer don't need to file, because the year-end adjustment handles it. You may need or want to file if you are self-employed, have significant side income, work for more than one employer, or want to claim deductions such as high medical costs. The filing period is roughly mid-February to mid-March, and online filing is available.\n\nTax rules are detailed and change; confirm with the National Tax Agency, your tax office or your city office.",
+  "phrases": [
+    { "jp": "給与[きゅうよ]明細[めいさい]の見方[みかた]を教[おし]えていただけますか。", "en": "Could you show me how to read my payslip?" },
+    { "jp": "この控除[こうじょ]は何[なん]ですか。", "en": "What is this deduction?" },
+    { "jp": "手取[てど]りはいくらぐらいになりますか。", "en": "About how much will my take-home pay be?" },
+    { "jp": "残業代[ざんぎょうだい]が反映[はんえい]されていないようなのですが。", "en": "It looks like my overtime pay hasn't been included." },
+    { "jp": "住民税[じゅうみんぜい]はいつから引[ひ]かれますか。", "en": "When will resident tax start being deducted?" },
+    { "jp": "年末[ねんまつ]調整[ちょうせい]の書類[しょるい]は、いつまでに出[だ]せばいいですか。", "en": "When do I need to submit the year-end adjustment forms?" },
+    { "jp": "扶養[ふよう]家族[かぞく]はいません。", "en": "I have no dependents." },
+    { "jp": "源泉[げんせん]徴収票[ちょうしゅうひょう]をいただけますか。", "en": "Could I have my withholding slip?" },
+    { "jp": "確定[かくてい]申告[しんこく]が必要[ひつよう]かどうか知[し]りたいのですが。", "en": "I'd like to know whether I need to file a tax return." },
+    { "jp": "副業[ふくぎょう]の収入[しゅうにゅう]があります。", "en": "I have income from a side job." },
+    { "jp": "医療費[いりょうひ]控除[こうじょ]を受[う]けたいです。", "en": "I'd like to claim the medical expense deduction." },
+    { "jp": "ビザの更新[こうしん]のために、課税[かぜい]証明書[しょうめいしょ]と納税[のうぜい]証明書[しょうめいしょ]が必要[ひつよう]です。", "en": "I need a tax assessment certificate and a tax payment certificate for my visa renewal." },
+    { "jp": "納付書[のうふしょ]が届[とど]いたんですが、どこで払[はら]えますか。", "en": "I received a tax payment slip. Where can I pay it?" },
+    { "jp": "帰国[きこく]する場合[ばあい]、住民税[じゅうみんぜい]はどうなりますか。", "en": "What happens with resident tax if I leave Japan?" }
+  ],
+  "vocab": [
+    { "jp": "給与[きゅうよ]明細[めいさい]", "en": "payslip" },
+    { "jp": "基本給[きほんきゅう]", "en": "base salary" },
+    { "jp": "額面[がくめん]", "en": "gross pay" },
+    { "jp": "手取[てど]り", "en": "take-home pay" },
+    { "jp": "控除[こうじょ]", "en": "deduction" },
+    { "jp": "所得税[しょとくぜい]", "en": "income tax" },
+    { "jp": "住民税[じゅうみんぜい]", "en": "resident tax (local)" },
+    { "jp": "源泉[げんせん]徴収[ちょうしゅう]", "en": "tax withholding" },
+    { "jp": "源泉[げんせん]徴収票[ちょうしゅうひょう]", "en": "withholding slip (annual income and tax statement)" },
+    { "jp": "年末[ねんまつ]調整[ちょうせい]", "en": "year-end tax adjustment" },
+    { "jp": "確定[かくてい]申告[しんこく]", "en": "final tax return" },
+    { "jp": "厚生[こうせい]年金[ねんきん]", "en": "employee pension insurance" },
+    { "jp": "雇用[こよう]保険[ほけん]", "en": "employment insurance" },
+    { "jp": "扶養[ふよう]", "en": "dependency, supporting dependents" },
+    { "jp": "税務署[ぜいむしょ]", "en": "tax office" }
+  ],
+  "dialogue": [
+    { "speaker": "You", "jp": "鈴木[すずき]さん、お疲[つか]れ様[さま]です。少[すこ]しお聞[き]きしたいことがあるのですが。", "en": "Mr. Suzuki, hi. There's something I'd like to ask you." },
+    { "speaker": "HR", "jp": "お疲[つか]れ様[さま]です。どうしました？", "en": "Hi. What is it?" },
+    { "speaker": "You", "jp": "今月[こんげつ]の給与[きゅうよ]明細[めいさい]を見[み]たら、「住民税[じゅうみんぜい]」という控除[こうじょ]が増[ふ]えていたんです。", "en": "When I looked at this month's payslip, there was a new deduction called resident tax." },
+    { "speaker": "HR", "jp": "ああ、6月[ろくがつ]から始[はじ]まったんですね。住民税[じゅうみんぜい]は前[まえ]の年[とし]の所得[しょとく]にかかるので、日本[にほん]に来[き]た翌年[よくねん]から引[ひ]かれるようになるんですよ。", "en": "Ah, it started in June. Resident tax is based on the previous year's income, so it starts being deducted from the year after you come to Japan." },
+    { "speaker": "You", "jp": "そうなんですね。所得税[しょとくぜい]とは別[べつ]なんですか。", "en": "I see. Is it separate from income tax?" },
+    { "speaker": "HR", "jp": "はい。所得税[しょとくぜい]は国[くに]の税金[ぜいきん]で、毎月[まいつき]の給料[きゅうりょう]から源泉[げんせん]徴収[ちょうしゅう]されています。住民税[じゅうみんぜい]は、住[す]んでいる自治体[じちたい]に納[おさ]める税金[ぜいきん]です。", "en": "Yes. Income tax is a national tax, withheld from your salary every month. Resident tax is paid to the local government where you live." },
+    { "speaker": "You", "jp": "確定[かくてい]申告[しんこく]はしなくてもいいんですか。", "en": "Don't I need to file a tax return?" },
+    { "speaker": "HR", "jp": "会社[かいしゃ]で年末[ねんまつ]調整[ちょうせい]をしますから、給与[きゅうよ]だけなら基本的[きほんてき]には不要[ふよう]です。副業[ふくぎょう]がある場合[ばあい]などは、必要[ひつよう]になることがありますね。", "en": "We do the year-end adjustment at the company, so if salary is your only income, basically you don't. If you have a side job, for example, you might need to." },
+    { "speaker": "You", "jp": "よくわかりました。ありがとうございます。", "en": "That's very clear. Thank you." }
+  ],
+  "tips": [
+    "Keep every {源泉[げんせん]徴収票[ちょうしゅうひょう]}. They are needed for tax returns, loans, and sometimes visa procedures.",
+    "Visa renewals and permanent residency applications often ask for proof that your taxes and social insurance are paid. Paying on time protects your status.",
+    "If you leave a job mid-year, remaining resident tax may be taken from your last salary or billed to you directly. Watch your mail.",
+    "If you leave Japan with taxes still to pay, you may need to settle them before leaving or appoint a tax representative. Ask your city office and tax office.",
+    "Japan's hometown tax donation scheme ({ふるさと納税[のうぜい]}) can reduce your tax in exchange for donations to municipalities; read the official rules and limits before using it."
+  ]
+}

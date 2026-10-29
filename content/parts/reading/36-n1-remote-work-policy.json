@@ -1,0 +1,27 @@
+{
+  "id": "r-n1-04",
+  "level": "N1",
+  "title": "Internal Notice: Revisions to the Remote Work Policy",
+  "titleJp": "在宅[ざいたく]勤務[きんむ]制度[せいど]改定[かいてい]のお知[し]らせ",
+  "sentences": [
+    { "jp": "全[ぜん]従業員[じゅうぎょういん]各位[かくい]", "en": "To all employees" },
+    { "jp": "当社[とうしゃ]では、令和[れいわ]三年[さんねん]より在宅[ざいたく]勤務[きんむ]制度[せいど]を導入[どうにゅう]し、多様[たよう]な働[はたら]き方[かた]の実現[じつげん]に努[つと]めてまいりました。", "en": "Since 2021 (Reiwa 3), the Company has operated a remote work system and has endeavored to make diverse working styles possible." },
+    { "jp": "このたび、制度[せいど]導入[どうにゅう]後[ご]の運用[うんよう]状況[じょうきょう]および従業員[じゅうぎょういん]アンケートの結果[けっか]を踏[ふ]まえ、下記[かき]のとおり制度[せいど]を改定[かいてい]することといたしましたので、お知[し]らせいたします。", "en": "Based on how the system has operated since its introduction and the results of an employee survey, we have decided to revise the system as set out below, and hereby notify you accordingly." },
+    { "jp": "第一[だいいち]に、在宅[ざいたく]勤務[きんむ]の上限[じょうげん]日数[にっすう]を、現行[げんこう]の週[しゅう]二日[ふつか]から週[しゅう]三日[みっか]に拡大[かくだい]いたします。", "en": "First, the maximum number of remote work days will be increased from the current two days per week to three days per week." },
+    { "jp": "ただし、各[かく]部署[ぶしょ]の業務[ぎょうむ]の特性[とくせい]に鑑[かんが]み、所属長[しょぞくちょう]が必要[ひつよう]と判断[はんだん]した場合[ばあい]には、出社日[しゅっしゃび]を指定[してい]できるものとします。", "en": "However, in view of the nature of each department's work, department heads may designate days on which employees must come to the office when they judge it necessary." },
+    { "jp": "第二[だいに]に、毎月[まいつき]第一[だいいち]水曜日[すいようび]を「全社[ぜんしゃ]出社日[しゅっしゃび]」と定[さだ]め、部署間[ぶしょかん]の交流[こうりゅう]および対面[たいめん]での情報[じょうほう]共有[きょうゆう]の機会[きかい]といたします。", "en": "Second, the first Wednesday of every month will be designated a \"company-wide office day,\" serving as an opportunity for interaction between departments and face-to-face information sharing." },
+    { "jp": "第三[だいさん]に、在宅[ざいたく]勤務[きんむ]に伴[ともな]う光熱費[こうねつひ]等[とう]の負担[ふたん]を考慮[こうりょ]し、在宅[ざいたく]勤務[きんむ]手当[てあて]を月額[げつがく]三千円[さんぜんえん]から五千円[ごせんえん]に増額[ぞうがく]いたします。", "en": "Third, in consideration of utility and other costs associated with remote work, the remote work allowance will be increased from 3,000 yen to 5,000 yen per month." },
+    { "jp": "なお、本[ほん]手当[てあて]は在宅[ざいたく]勤務[きんむ]を月[つき]四日[よっか]以上[いじょう]実施[じっし]した者[もの]を支給[しきゅう]対象[たいしょう]とします。", "en": "Note that this allowance will be paid to employees who work remotely four or more days in a month." },
+    { "jp": "第四[だいよん]に、情報[じょうほう]セキュリティの観点[かんてん]から、自宅[じたく]以外[いがい]の場所[ばしょ]、とりわけカフェ等[とう]の公共[こうきょう]の場[ば]における業務[ぎょうむ]は、原則[げんそく]として禁止[きんし]いたします。", "en": "Fourth, from the standpoint of information security, working anywhere other than at home, particularly in public places such as cafés, will in principle be prohibited." },
+    { "jp": "やむを得[え]ず自宅[じたく]以外[いがい]で業務[ぎょうむ]を行[おこな]う必要[ひつよう]が生[しょう]じた場合[ばあい]は、事前[じぜん]に所属長[しょぞくちょう]の承認[しょうにん]を得[え]るものとします。", "en": "If it becomes unavoidably necessary to work somewhere other than at home, employees must obtain prior approval from their department head." },
+    { "jp": "本[ほん]改定[かいてい]は、来年[らいねん]一月[いちがつ]一日[ついたち]より適用[てきよう]いたします。", "en": "These revisions will take effect on January 1 of next year." },
+    { "jp": "申請[しんせい]手続[てつづ]きの詳細[しょうさい]につきましては、社内[しゃない]ポータルに掲載[けいさい]の運用[うんよう]マニュアルをご参照[さんしょう]ください。", "en": "For details on application procedures, please refer to the operations manual posted on the company intranet portal." },
+    { "jp": "本件[ほんけん]に関[かん]するご質問[しつもん]は、人事部[じんじぶ]労務課[ろうむか]までお問[と]い合[あ]わせください。", "en": "Please direct any questions regarding this matter to the Labor Affairs Section of the Human Resources Department." },
+    { "jp": "従業員[じゅうぎょういん]の皆様[みなさま]におかれましては、本[ほん]制度[せいど]の趣旨[しゅし]をご理解[りかい]のうえ、適切[てきせつ]な運用[うんよう]にご協力[きょうりょく]くださいますようお願[ねが]い申[もう]し上[あ]げます。", "en": "We ask all employees to understand the purpose of this system and to cooperate in its proper operation." }
+  ],
+  "questions": [
+    { "q": "Who is eligible for the increased remote work allowance?", "choices": ["All employees, regardless of how often they work remotely", "Employees who work remotely at least four days a month", "Only employees who work remotely three days every week", "Only department heads"], "answer": 1 },
+    { "q": "What is the new rule about working in cafés?", "choices": ["It is allowed if you use a company laptop", "It is allowed only on the first Wednesday of the month", "It is generally prohibited and needs prior approval if unavoidable", "It is allowed up to two days a week"], "answer": 2 },
+    { "q": "What happens on the first Wednesday of each month?", "choices": ["All employees come to the office", "All employees work from home", "Employees submit remote work applications", "The allowance is paid"], "answer": 0 }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "n4-u05",
+  "title": "If and when: conditionals",
+  "summary": "Learn the four ways to say 'if' — {たら}, {ば}, {と} and {なら} — what each one is best at, how to pick between them, and how to ask for and give advice with them.",
+  "points": [
+    {
+      "id": "n4-tara",
+      "title": "〜たら",
+      "meaning": "if ~ / when (once) ~",
+      "structure": "Plain past + ら (行[い]ったら, 安[やす]かったら, 静[しず]かだったら, 雨[あめ]だったら)",
+      "explanation": "{たら} is the most flexible conditional, and the one to use when you're not sure. Make the plain past form and add {ら}: {行[い]った} → {行[い]ったら}, {安[やす]かった} → {安[やす]かったら}, {暇[ひま]だった} → {暇[ひま]だったら}, {行[い]かなかった} → {行[い]かなかったら}.\n\nIt has two closely related meanings:\n\n- **'If'** for something that may or may not happen: {雨[あめ]が降[ふ]ったら、行[い]きません} 'If it rains, I won't go.' Adding {もし} at the start stresses the 'if'.\n- **'When / once'** for something that will definitely happen: {家[いえ]に着[つ]いたら、電話[でんわ]します} 'When I get home, I'll call.'\n\nEither way, the main clause happens **after** the {たら} part is complete. Unlike {ば} and {と}, {たら} can be followed by anything: requests, invitations, intentions, suggestions.",
+      "examples": [
+        { "jp": "雨[あめ]が降[ふ]ったら、試合[しあい]は中止[ちゅうし]です。", "en": "If it rains, the match will be cancelled." },
+        { "jp": "駅[えき]に着[つ]いたら、電話[でんわ]してください。", "en": "Please call me when you get to the station." },
+        { "jp": "安[やす]かったら、買[か]おうと思[おも]います。", "en": "If it's cheap, I think I'll buy it." },
+        { "jp": "もし宝[たから]くじが当[あ]たったら、何[なに]をしたいですか。", "en": "If you won the lottery, what would you want to do?" },
+        { "jp": "二十歳[はたち]になったら、お酒[さけ]が飲[の]めます。", "en": "Once you turn twenty, you can drink alcohol." }
+      ],
+      "notes": "{もし} only fits the 'if' meaning. Don't use it with things that will certainly happen: {もし家[いえ]に着[つ]いたら} sounds as if you might never get home.",
+      "quiz": [
+        {
+          "q": "家[いえ]に＿＿、すぐ電話[でんわ]してね。",
+          "en": "Call me as soon as you get home.",
+          "choices": ["帰[かえ]ったら", "帰[かえ]れば", "帰[かえ]ると", "帰[かえ]るなら"],
+          "answer": 0
+        },
+        {
+          "q": "もし明日[あした]＿＿、ピクニックはやめましょう。",
+          "en": "If it rains tomorrow, let's call off the picnic.",
+          "choices": ["雨[あめ]が降[ふ]ったら", "雨[あめ]が降[ふ]ると", "雨[あめ]が降[ふ]って", "雨[あめ]が降[ふ]ったと"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-tara-discovery",
+      "title": "〜たら…た (when I did ~, I found ~)",
+      "meaning": "when I did ~, (it turned out / I found that) ~",
+      "structure": "V-たら + past-tense result you didn't control",
+      "explanation": "When both halves of a {たら} sentence are in the past, it often describes a discovery or an unexpected result: 'When I did A, (I found that) B.' {家[いえ]に帰[かえ]ったら、荷物[にもつ]が届[とど]いていた} 'When I got home, a package had arrived.'\n\nThe second half must be something outside your control — something you noticed, or something that just happened. It can't be your own deliberate next action. For 'I got home and then ate dinner', use {〜てから} or {〜て} instead: {家[いえ]に帰[かえ]ってから、ご飯[はん]を食[た]べた}.\n\n{と} can be used the same way ({窓[まど]を開[あ]けると、雪[ゆき]が降[ふ]っていた}), but that sounds more like written storytelling.",
+      "examples": [
+        { "jp": "家[いえ]に帰[かえ]ったら、母[はは]から荷物[にもつ]が届[とど]いていた。", "en": "When I got home, a package from my mother had arrived." },
+        { "jp": "薬[くすり]を飲[の]んだら、すぐ元気[げんき]になりました。", "en": "When I took the medicine, I felt better right away." },
+        { "jp": "窓[まど]を開[あ]けたら、外[そと]は雪[ゆき]でした。", "en": "When I opened the window, (I saw) it was snowing outside." },
+        { "jp": "駅[えき]に着[つ]いたら、電車[でんしゃ]はもう出[で]ていた。", "en": "When I got to the station, the train had already left." }
+      ],
+      "quiz": [
+        {
+          "q": "かばんを＿＿、財布[さいふ]がなかった。",
+          "en": "When I opened my bag, my wallet wasn't there.",
+          "choices": ["開[あ]けたら", "開[あ]ければ", "開[あ]けるなら", "開[あ]けても"],
+          "answer": 0
+        },
+        {
+          "q": "朝[あさ]起[お]きた＿＿、もう十時[じゅうじ]だった。",
+          "en": "When I woke up, it was already ten o'clock.",
+          "choices": ["ら", "ば", "なら", "て"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-ba",
+      "title": "〜ば (the ば-form)",
+      "meaning": "if ~ (the condition needed for a result)",
+      "structure": "V: e-sound + ば (行[い]けば, 食[た]べれば, すれば, 来[く]れば) / い-adj: 〜ければ / な-adj, Noun: 〜なら(ば)",
+      "explanation": "{ば} focuses on the **condition** that leads to a result: 'If (only) you do A, B will follow.' It's typical for general rules, advice and hypotheticals.\n\nHow to make it:\n\n- {う}-verbs: last sound to the e-row + {ば}: {書[か]けば}, {話[はな]せば}, {待[ま]てば}, {飲[の]めば}, {帰[かえ]れば}, {買[か]えば}\n- {る}-verbs: drop {る}, add {れば}: {食[た]べれば}, {見[み]れば}\n- {する} → {すれば}, {来[く]る} → {来[く]れば}\n- {い}-adjectives: {安[やす]い} → {安[やす]ければ}, {いい} → {よければ}; negative {〜ない} → {〜なければ}\n- {な}-adjectives and nouns: {静[しず]かなら}, {学生[がくせい]なら}\n\nOne restriction: if the {ば} part is an action and the main clause is a request, invitation or intention by the same person, use {たら} instead. {駅[えき]に着[つ]けば電話[でんわ]してください} sounds wrong. With states ({ある}, {いる}, adjectives, potential verbs) it's fine: {時間[じかん]があれば、来[き]てください}.",
+      "examples": [
+        { "jp": "春[はる]になれば、桜[さくら]が咲[さ]きます。", "en": "When spring comes, the cherry blossoms bloom." },
+        { "jp": "このボタンを押[お]せば、お湯[ゆ]が出[で]ます。", "en": "If you press this button, hot water comes out." },
+        { "jp": "時間[じかん]があれば、手伝[てつだ]ってください。", "en": "If you have time, please help me." },
+        { "jp": "安[やす]ければ買[か]いますが、高[たか]ければ買[か]いません。", "en": "If it's cheap I'll buy it, but if it's expensive I won't." },
+        { "jp": "急[いそ]げば、まだ間[ま]に合[あ]いますよ。", "en": "If you hurry, you'll still make it." }
+      ],
+      "quiz": [
+        {
+          "q": "天気[てんき]が＿＿、ここから海[うみ]が見[み]えます。",
+          "en": "If the weather is good, you can see the sea from here.",
+          "choices": ["よければ", "いければ", "よかれば", "いいれば"],
+          "answer": 0
+        },
+        {
+          "q": "毎日[まいにち]練習[れんしゅう]＿＿、上手[じょうず]になりますよ。",
+          "en": "If you practise every day, you'll get good at it.",
+          "choices": ["すれば", "しれば", "するば", "されば"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-to-conditional",
+      "title": "〜と (natural consequence)",
+      "meaning": "whenever / if ~, (automatically) ~",
+      "structure": "Plain non-past + と (押[お]すと, 寒[さむ]いと, 静[しず]かだと, 学生[がくせい]だと)",
+      "explanation": "Conditional {と} describes a result that follows **automatically**, every time: laws of nature, how machines work, habits, and directions. 'Whenever A, B (naturally) happens.' {春[はる]になると、暖[あたた]かくなる} 'When spring comes, it gets warm.'\n\nAlways use the plain **non-past** form before {と}, even in a past-tense story: {ボタンを押[お]すと、ドアが開[あ]いた}.\n\nIt's the go-to for giving directions: {まっすぐ行[い]くと、右[みぎ]に銀行[ぎんこう]があります} 'If you go straight, there's a bank on the right.'\n\nBecause {と} describes what simply happens, the main clause **can't** be a request, invitation, wish or intention. {駅[えき]に着[つ]くと電話[でんわ]してください} is wrong; use {着[つ]いたら}.",
+      "examples": [
+        { "jp": "春[はる]になると、暖[あたた]かくなります。", "en": "When spring comes, it gets warm." },
+        { "jp": "このボタンを押[お]すと、切符[きっぷ]が出[で]ます。", "en": "If you press this button, the ticket comes out." },
+        { "jp": "二[ふた]つ目[め]の角[かど]を右[みぎ]に曲[ま]がると、左[ひだり]に郵便局[ゆうびんきょく]があります。", "en": "If you turn right at the second corner, there's a post office on the left." },
+        { "jp": "私[わたし]は夜[よる]コーヒーを飲[の]むと、眠[ねむ]れなくなる。", "en": "Whenever I drink coffee at night, I can't sleep." }
+      ],
+      "notes": "Don't confuse this {と} with {と} 'and / with' ({パンと牛乳[ぎゅうにゅう]}) or the quoting {と} ({〜と言[い]う}). Conditional {と} comes after a verb or adjective, never after a bare noun.",
+      "quiz": [
+        {
+          "q": "この道[みち]をまっすぐ＿＿、駅[えき]が見[み]えます。",
+          "en": "If you go straight along this road, you'll see the station.",
+          "choices": ["行[い]くと", "行[い]ったと", "行[い]こうと", "行[い]かないと"],
+          "answer": 0
+        },
+        {
+          "q": "冬[ふゆ]になる＿＿、この山[やま]は雪[ゆき]で白[しろ]くなります。",
+          "en": "When winter comes, this mountain turns white with snow.",
+          "choices": ["と", "なら", "たら", "ば"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-nara",
+      "title": "〜なら",
+      "meaning": "if (that's the case) / if it's about ~",
+      "structure": "Plain form / Noun + なら",
+      "explanation": "{なら} picks up something that has just been said or is already known and responds to it: 'If (as you say) A, then...'. It's perfect for advice and recommendations: A: {京都[きょうと]に行[い]きたいんです} B: {京都[きょうと]なら、秋[あき]がいいですよ} 'If it's Kyoto, autumn is good.'\n\nWith a noun, {なら} means 'if it's ~ / speaking of ~': {日本料理[にほんりょうり]なら、すしが一番[いちばん]好[す]き}.\n\nA special feature: the main clause can happen **before** the {なら} part. {日本[にほん]に行[い]くなら、ガイドブックを買[か]ったほうがいい} 'If you're going to Japan, you should buy a guidebook' — you buy it before you go. Compare {日本[にほん]に行[い]ったら} 'once you're in Japan'.",
+      "examples": [
+        { "jp": "A：駅[えき]に行[い]きたいんですが。 B：駅[えき]なら、あの信号[しんごう]を右[みぎ]ですよ。", "en": "A: I'd like to get to the station. B: If it's the station, turn right at that traffic light." },
+        { "jp": "日本[にほん]に行[い]くなら、春[はる]がいいですよ。", "en": "If you're going to Japan, spring is a good time." },
+        { "jp": "パソコンを買[か]うなら、あの店[みせ]が安[やす]いです。", "en": "If you're buying a computer, that shop is cheap." },
+        { "jp": "疲[つか]れているなら、早[はや]く寝[ね]たほうがいいよ。", "en": "If you're tired, you should go to bed early." }
+      ],
+      "quiz": [
+        {
+          "q": "A：週末[しゅうまつ]、温泉[おんせん]に行[い]きたいな。 B：温泉[おんせん]＿＿、箱根[はこね]がいいよ。",
+          "en": "A: I want to go to a hot spring this weekend. B: If it's a hot spring you want, Hakone is good.",
+          "choices": ["なら", "たら", "と", "ば"],
+          "answer": 0
+        },
+        {
+          "q": "海外[かいがい]旅行[りょこう]に＿＿、パスポートを確認[かくにん]しておいてください。",
+          "en": "If you're going to travel abroad, check your passport beforehand.",
+          "choices": ["行[い]くなら", "行[い]ったら", "行[い]くと", "行[い]けば"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-conditionals-compare",
+      "title": "たら vs ば vs と vs なら",
+      "meaning": "choosing the right 'if'",
+      "structure": "たら: after A happens / ば: condition for B / と: A always leads to B / なら: given A",
+      "explanation": "A quick guide to the four:\n\n- **{たら}** — the all-rounder. One-off events, 'if' or 'when/once'. Anything can follow, including requests. When in doubt, use {たら}.\n- **{ば}** — stresses the condition: 'as long as / if only'. Great for general truths, advice and hypotheticals, but avoid it before a request or intention when the {ば} part is an action.\n- **{と}** — automatic, every-time results: nature, machines, directions, habits. No requests, wishes or invitations afterwards.\n- **{なら}** — reacts to a topic someone raised and gives advice or an opinion about it. The main clause may happen first.\n\nCompare: {京都[きょうと]に行[い]ったら、お寺[てら]を見[み]てください} 'Once you get to Kyoto, see the temples.' {京都[きょうと]に行[い]くなら、新幹線[しんかんせん]が便利[べんり]です} 'If you're going to Kyoto, the bullet train is convenient (for getting there).'",
+      "examples": [
+        { "jp": "この薬[くすり]を飲[の]めば、治[なお]りますよ。", "en": "If you take this medicine, you'll get better." },
+        { "jp": "このスイッチを入[い]れると、電気[でんき]がつきます。", "en": "When you flip this switch, the light comes on." },
+        { "jp": "東京[とうきょう]に着[つ]いたら、連絡[れんらく]します。", "en": "I'll get in touch when I arrive in Tokyo." },
+        { "jp": "東京[とうきょう]に行[い]くなら、新幹線[しんかんせん]が便利[べんり]ですよ。", "en": "If you're going to Tokyo, the bullet train is convenient." },
+        { "jp": "分[わ]からなかったら、いつでも聞[き]いてください。", "en": "If you don't understand, ask me any time." }
+      ],
+      "quiz": [
+        {
+          "q": "大阪[おおさか]に＿＿、たこ焼[や]きを食[た]べてみてください。",
+          "en": "Once you get to Osaka, try some takoyaki.",
+          "choices": ["行[い]ったら", "行[い]くと", "行[い]くのに", "行[い]ったと"],
+          "answer": 0
+        },
+        {
+          "q": "A：これから郵便局[ゆうびんきょく]に行[い]きます。 B：郵便局[ゆうびんきょく]に行[い]く＿＿、この手紙[てがみ]も出[だ]してくれませんか。",
+          "en": "A: I'm going to the post office now. B: If you're going to the post office, could you mail this letter too?",
+          "choices": ["なら", "と", "ば", "たら"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-advice-ba-ii",
+      "title": "〜ばいい / 〜たらいい / 〜たらどう",
+      "meaning": "what should I do? / you just need to / why don't you ~?",
+      "structure": "V-ば + いい / V-たら + いい / V-たら + どう(ですか)",
+      "explanation": "Conditionals plus {いい} give you the language of advice.\n\n- **Asking for advice**: {どうすればいいですか} / {どうしたらいいですか} 'What should I do?' {何[なに]を持[も]っていけばいいですか} 'What should I bring?'\n- **Giving advice**: {〜ばいい} / {〜たらいい} 'You just need to ~ / It'd be good to ~': {先生[せんせい]に聞[き]けばいいですよ}.\n- **Suggesting**: {〜たらどう(ですか)} 'Why don't you ~?' Casually just {〜たら？}: {少[すこ]し休[やす]んだら？}\n- **Regret**: {〜ばよかった} 'I should have ~': {もっと勉強[べんきょう]すればよかった}.\n\n{〜たらどうですか} can sound pushy toward superiors. With them, prefer {〜たほうがいいと思[おも]います}.",
+      "examples": [
+        { "jp": "この漢字[かんじ]はどう読[よ]めばいいですか。", "en": "How should I read this kanji?" },
+        { "jp": "駅[えき]までどうやって行[い]ったらいいですか。", "en": "How should I get to the station?" },
+        { "jp": "分[わ]からないときは、先生[せんせい]に聞[き]けばいいですよ。", "en": "When you don't understand, you can just ask the teacher." },
+        { "jp": "疲[つか]れているなら、少[すこ]し休[やす]んだらどう？", "en": "If you're tired, why don't you rest a bit?" },
+        { "jp": "もっと早[はや]く家[いえ]を出[で]ればよかった。", "en": "I should have left home earlier." }
+      ],
+      "quiz": [
+        {
+          "q": "日本語[にほんご]が上手[じょうず]になりたいんですが、どう＿＿いいですか。",
+          "en": "I want to get better at Japanese. What should I do?",
+          "choices": ["すれば", "するの", "しては", "しよう"],
+          "answer": 0
+        },
+        {
+          "q": "風邪[かぜ]なら、今日[きょう]は会社[かいしゃ]を休[やす]ん＿＿どう？",
+          "en": "If it's a cold, why don't you take today off work?",
+          "choices": ["だら", "だと", "だり", "でも"],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

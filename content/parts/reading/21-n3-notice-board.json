@@ -1,0 +1,27 @@
+{
+  "id": "r-n3-05",
+  "level": "N3",
+  "title": "A Notice on the Apartment Bulletin Board",
+  "titleJp": "マンションの掲示板[けいじばん]",
+  "sentences": [
+    { "jp": "居住者[きょじゅうしゃ]の皆様[みなさま]へ", "en": "To all residents" },
+    { "jp": "排水管[はいすいかん]清掃[せいそう]のお知[し]らせ", "en": "Notice of drain pipe cleaning" },
+    { "jp": "次[つぎ]の日[ひ]に、すべての部屋[へや]の排水管[はいすいかん]の清掃[せいそう]を行[おこな]います。", "en": "The drain pipes in all units will be cleaned on the following date." },
+    { "jp": "日時[にちじ]は十一月[じゅういちがつ]十一日[じゅういちにち]（水[すい]）、午前[ごぜん]十時[じゅうじ]から午後[ごご]四時[よじ]までです。", "en": "The date and time is Wednesday, November 11, from 10 a.m. to 4 p.m." },
+    { "jp": "作業[さぎょう]は一部屋[ひとへや]十五分[じゅうごふん]ほどで、台所[だいどころ]、お風呂[ふろ]、洗面所[せんめんじょ]、洗濯機[せんたくき]の排水口[はいすいこう]を掃除[そうじ]します。", "en": "The work takes about fifteen minutes per unit, and the drains in the kitchen, bathroom, washroom, and washing machine area will be cleaned." },
+    { "jp": "作業員[さぎょういん]が部屋[へや]の中[なか]に入[はい]りますので、当日[とうじつ]はご在宅[ざいたく]をお願[ねが]いします。", "en": "Workers will need to enter your unit, so please be at home on the day." },
+    { "jp": "当日[とうじつ]ご都合[つごう]が悪[わる]い方[かた]は、十一月[じゅういちがつ]五日[いつか]までに管理[かんり]事務所[じむしょ]までご連絡[れんらく]ください。", "en": "If that day is not convenient for you, please contact the management office by November 5." },
+    { "jp": "予備日[よびび]は十一月[じゅういちがつ]十八日[じゅうはちにち]（水[すい]）です。", "en": "The backup date is Wednesday, November 18." },
+    { "jp": "作業[さぎょう]の前[まえ]に、流[なが]し台[だい]の下[した]や洗濯機[せんたくき]の周[まわ]りに置[お]いてある物[もの]を片付[かたづ]けておいてください。", "en": "Before the work, please clear away anything kept under the sink or around the washing machine." },
+    { "jp": "もう一[ひと]つお願[ねが]いがあります。", "en": "We have one more request." },
+    { "jp": "最近[さいきん]、自転車[じてんしゃ]置[お]き場[ば]に、長[なが]い間[あいだ]使[つか]われていない自転車[じてんしゃ]が増[ふ]えています。", "en": "Recently, the number of bicycles that haven't been used for a long time has been increasing in the bicycle parking area." },
+    { "jp": "十一月[じゅういちがつ]末[まつ]までに、ご自分[じぶん]の自転車[じてんしゃ]に部屋[へや]番号[ばんごう]のシールが貼[は]ってあるか、確認[かくにん]してください。", "en": "By the end of November, please check that your bicycle has a sticker with your unit number on it." },
+    { "jp": "シールのない自転車[じてんしゃ]は、十二月[じゅうにがつ]に処分[しょぶん]しますので、ご注意[ちゅうい]ください。", "en": "Please note that bicycles without a sticker will be disposed of in December." },
+    { "jp": "ご協力[きょうりょく]をお願[ねが]いいたします。管理[かんり]事務所[じむしょ]", "en": "Thank you for your cooperation. — The Management Office" }
+  ],
+  "questions": [
+    { "q": "What should residents do if they can't be home on November 11?", "choices": ["Leave their key with a neighbor", "Contact the management office by November 5", "Clean the drains themselves", "Nothing; the workers will come on the 18th anyway"], "answer": 1 },
+    { "q": "What are residents asked to do before the cleaning?", "choices": ["Turn off the water", "Buy drain cleaner", "Clear items from under the sink and around the washing machine", "Move their bicycles"], "answer": 2 },
+    { "q": "What will happen to bicycles without a unit-number sticker?", "choices": ["They will be disposed of in December", "They will be moved to another parking area", "Their owners will be fined", "Stickers will be put on them by the office"], "answer": 0 }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "id": "n5-u09",
+  "title": "Plain style: casual forms",
+  "summary": "The casual 'plain' forms used with friends and inside longer sentences: {だ}, the dictionary form, {ない}, {た} and {なかった}, plus 'please don't' and describing nouns with verbs.",
+  "points": [
+    {
+      "id": "n5-da",
+      "title": "だ (plain です)",
+      "meaning": "is / am / are (casual)",
+      "structure": "Noun / な-adj + だ・じゃない・だった・じゃなかった",
+      "explanation": "So far you've used the **polite** style ({です・ます}). Japanese also has a **plain** (casual) style, used with friends and family, in diaries, and inside longer sentences.\n\nFor nouns and {な}-adjectives, the plain versions of {です} are:\n\n- {です} → {だ} (is)\n- {じゃありません} → {じゃない} (is not)\n- {でした} → {だった} (was)\n- {じゃありませんでした} → {じゃなかった} (was not)\n\nFor {い}-adjectives, just **drop {です}**: {高[たか]いです} → {高[たか]い}, {高[たか]かったです} → {高[たか]かった}. Never add {だ} after an {い}-adjective.\n\nIn real conversation, {だ} is often dropped, especially in questions: {学生[がくせい]？} 'You're a student?'",
+      "examples": [
+        {
+          "jp": "今日[きょう]は休[やす]みだ。",
+          "en": "Today is a day off."
+        },
+        {
+          "jp": "明日[あした]は雨[あめ]だよ。",
+          "en": "It's going to rain tomorrow, you know."
+        },
+        {
+          "jp": "昨日[きのう]は日曜日[にちようび]だった。",
+          "en": "Yesterday was Sunday."
+        },
+        {
+          "jp": "あの人[ひと]は先生[せんせい]じゃない。",
+          "en": "That person isn't a teacher."
+        },
+        {
+          "jp": "このラーメン、おいしいね。",
+          "en": "This ramen is good, huh."
+        }
+      ],
+      "notes": "Use polite style with anyone older, senior or unfamiliar, and at work. Switching to plain style too early can sound rude, so wait until the other person switches, or you're clearly friends.",
+      "quiz": [
+        {
+          "q": "昨日[きのう]は雨[あめ]＿＿。",
+          "en": "It was rainy yesterday. (casual)",
+          "choices": [
+            "だ",
+            "じゃない",
+            "だった",
+            "かった"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "この部屋[へや]、ちょっと＿＿ね。",
+          "en": "This room is a bit cold, isn't it? (casual)",
+          "choices": [
+            "寒[さむ]いだ",
+            "寒[さむ]だ",
+            "寒[さむ]い",
+            "寒[さむ]いな"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-dictionary-form",
+      "title": "Dictionary form (plain present)",
+      "meaning": "do / will do (casual)",
+      "structure": "ます-form → dictionary form: 食[た]べます → 食[た]べる, 飲[の]みます → 飲[の]む, します → する, 来[き]ます → 来[く]る",
+      "explanation": "The **dictionary form** is the plain (casual) version of {〜ます}. It's the form you find in dictionaries, and it's the base for lots of grammar like {前[まえ]に}, {つもり} and {とき}, which you'll learn soon.\n\nGoing from {ます}-form to dictionary form:\n\n- **Ru-verbs:** replace {ます} with {る}. {食[た]べます} → {食[た]べる}\n- **U-verbs:** change the i-sound before {ます} to its u-sound. {飲[の]みます} → {飲[の]む}, {行[い]きます} → {行[い]く}, {帰[かえ]ります} → {帰[かえ]る}\n- **Irregular:** {します} → {する}, {来[き]ます} → {来[く]る}\n\nUse it on its own with friends: {明日[あした]、何[なに]する？} 'What are you doing tomorrow?' With casual questions, a rising tone replaces {か}.",
+      "examples": [
+        {
+          "jp": "明日[あした]、何[なに]する？",
+          "en": "What are you doing tomorrow?"
+        },
+        {
+          "jp": "毎朝[まいあさ]、コーヒーを飲[の]む。",
+          "en": "I drink coffee every morning."
+        },
+        {
+          "jp": "今日[きょう]は早[はや]く寝[ね]る。",
+          "en": "I'm going to bed early today."
+        },
+        {
+          "jp": "田中[たなか]さんも来[く]るよ。",
+          "en": "Tanaka's coming too, you know."
+        },
+        {
+          "jp": "週末[しゅうまつ]は友達[ともだち]と遊[あそ]ぶ。",
+          "en": "I'm hanging out with friends this weekend."
+        }
+      ],
+      "notes": "In casual speech, {うん} means yes and {ううん} means no.",
+      "quiz": [
+        {
+          "q": "A：明日[あした]、学校[がっこう]に行[い]く？B：うん、＿＿よ。",
+          "en": "A: Are you going to school tomorrow? B: Yeah, I am.",
+          "choices": [
+            "行[い]く",
+            "行[い]きる",
+            "行[い]か",
+            "行[い]き"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "「飲[の]みます」の辞書形[じしょけい]は＿＿です。",
+          "en": "The dictionary form of nomimasu is ___.",
+          "choices": [
+            "飲[の]みる",
+            "飲[の]める",
+            "飲[の]まる",
+            "飲[の]む"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-nai-form",
+      "title": "〜ない (plain negative)",
+      "meaning": "don't / won't (casual)",
+      "structure": "る-verb: 食[た]べる → 食[た]べない / う-verb: u → a + ない / する → しない, 来[く]る → 来[こ]ない",
+      "explanation": "The {ない}-form is the plain version of {〜ません}.\n\n- **Ru-verbs:** drop {る}, add {ない}. {食[た]べる} → {食[た]べない}, {見[み]る} → {見[み]ない}\n- **U-verbs:** change the final u-sound to its a-sound, then add {ない}. {飲[の]む} → {飲[の]まない}, {行[い]く} → {行[い]かない}, {帰[かえ]る} → {帰[かえ]らない}, {待[ま]つ} → {待[ま]たない}\n- **Watch out:** verbs ending in {う} change to {わ}, not {あ}: {買[か]う} → {買[か]わない}, {会[あ]う} → {会[あ]わない}\n- **Irregular:** {する} → {しない}, {来[く]る} → {来[こ]ない} (read {こない})\n- **Special:** the negative of {ある} is simply {ない}: {お金[かね]がない。} 'I have no money.'\n\nThe {ない}-form conjugates like an {い}-adjective, so {〜ないです} is a polite option too.",
+      "examples": [
+        {
+          "jp": "私[わたし]はお酒[さけ]を飲[の]まない。",
+          "en": "I don't drink alcohol."
+        },
+        {
+          "jp": "今日[きょう]は学校[がっこう]へ行[い]かない。",
+          "en": "I'm not going to school today."
+        },
+        {
+          "jp": "肉[にく]は食[た]べない。",
+          "en": "I don't eat meat."
+        },
+        {
+          "jp": "田中[たなか]さんは来[こ]ないよ。",
+          "en": "Tanaka isn't coming, you know."
+        },
+        {
+          "jp": "お金[かね]がない。",
+          "en": "I don't have any money."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "今日[きょう]は何[なに]も買[か]＿＿。",
+          "en": "I won't buy anything today.",
+          "choices": [
+            "わない",
+            "かない",
+            "あない",
+            "まない"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "明日[あした]、山田[やまだ]さんは＿＿よ。",
+          "en": "Mr. Yamada isn't coming tomorrow, you know.",
+          "choices": [
+            "くらない",
+            "きない",
+            "くない",
+            "こない"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-ta-form",
+      "title": "〜た (plain past)",
+      "meaning": "did (casual)",
+      "structure": "Verb て-form with て/で → た/だ",
+      "explanation": "If you know the {て}-form, you already know the plain past. Just change {て} to {た} and {で} to {だ}:\n\n- {食[た]べて} → {食[た]べた} (ate)\n- {買[か]って} → {買[か]った} (bought)\n- {飲[の]んで} → {飲[の]んだ} (drank)\n- {書[か]いて} → {書[か]いた} (wrote)\n- {行[い]って} → {行[い]った} (went)\n- {して} → {した} (did), {来[き]て} → {来[き]た} (came)\n\nIt's the casual version of {〜ました}. Friends will ask {もう食[た]べた？} 'Have you eaten yet?' and you can answer {うん、食[た]べた。}\n\nThe {た}-form is also needed for grammar like {〜たことがある} (N4), {〜た後[あと]で} and {〜たり}.",
+      "examples": [
+        {
+          "jp": "昨日[きのう]、映画[えいが]を見[み]た。",
+          "en": "I watched a movie yesterday."
+        },
+        {
+          "jp": "朝[あさ]ご飯[はん]、もう食[た]べた？",
+          "en": "Have you had breakfast yet?"
+        },
+        {
+          "jp": "週末[しゅうまつ]は友達[ともだち]と海[うみ]へ行[い]った。",
+          "en": "I went to the beach with friends on the weekend."
+        },
+        {
+          "jp": "本[ほん]を三冊[さんさつ]読[よ]んだ。",
+          "en": "I read three books."
+        },
+        {
+          "jp": "昨日[きのう]は早[はや]く寝[ね]た。",
+          "en": "I went to bed early last night."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "昨日[きのう]、ビールをたくさん飲[の]＿＿。",
+          "en": "I drank a lot of beer yesterday.",
+          "choices": [
+            "した",
+            "った",
+            "いた",
+            "んだ"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "先週[せんしゅう]、京都[きょうと]に＿＿。",
+          "en": "I went to Kyoto last week.",
+          "choices": [
+            "行[い]きた",
+            "行[い]んだ",
+            "行[い]いた",
+            "行[い]った"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-nakatta",
+      "title": "〜なかった (plain past negative)",
+      "meaning": "didn't (casual)",
+      "structure": "Verb ない-form minus い + かった",
+      "explanation": "The {ない}-form behaves like an {い}-adjective, so its past works the same way: drop the final {い} and add {かった}.\n\n- {食[た]べない} → {食[た]べなかった} (didn't eat)\n- {行[い]かない} → {行[い]かなかった} (didn't go)\n- {しない} → {しなかった} (didn't do)\n- {来[こ]ない} → {来[こ]なかった} (didn't come)\n- {ない} → {なかった} (there wasn't)\n\nIt's the casual version of {〜ませんでした}.\n\nNow you have all four plain verb forms: {食[た]べる} (eat), {食[た]べない} (don't eat), {食[た]べた} (ate), {食[た]べなかった} (didn't eat). These four are the foundation of casual Japanese.",
+      "examples": [
+        {
+          "jp": "昨日[きのう]は学校[がっこう]に行[い]かなかった。",
+          "en": "I didn't go to school yesterday."
+        },
+        {
+          "jp": "朝[あさ]ご飯[はん]を食[た]べなかった。",
+          "en": "I didn't eat breakfast."
+        },
+        {
+          "jp": "週末[しゅうまつ]は何[なに]もしなかった。",
+          "en": "I didn't do anything on the weekend."
+        },
+        {
+          "jp": "パーティーに田中[たなか]さんは来[こ]なかった。",
+          "en": "Tanaka didn't come to the party."
+        },
+        {
+          "jp": "昨日[きのう]は時間[じかん]がなかった。",
+          "en": "I didn't have time yesterday."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "昨日[きのう]は宿題[しゅくだい]を＿＿。",
+          "en": "I didn't do my homework yesterday.",
+          "choices": [
+            "しないだった",
+            "しなかった",
+            "しなくた",
+            "すなかった"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "今朝[けさ]は何[なに]も食[た]べ＿＿。",
+          "en": "I didn't eat anything this morning.",
+          "choices": [
+            "なかった",
+            "ないでした",
+            "なくた",
+            "た"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-naide-kudasai",
+      "title": "〜ないでください",
+      "meaning": "please don't ~",
+      "structure": "Verb ない-form + でください",
+      "explanation": "To ask someone politely **not** to do something, take the {ない}-form and add {でください}.\n\n- {忘[わす]れる} → {忘[わす]れない} → {忘[わす]れないでください。} 'Please don't forget.'\n- {吸[す]う} → {吸[す]わない} → {吸[す]わないでください。} 'Please don't smoke.'\n\nThis is softer than {〜てはいけません} ('you must not'), so it's the normal way to make a negative request to another adult.\n\nA kind phrase worth remembering: {心配[しんぱい]しないでください。} 'Please don't worry.'",
+      "examples": [
+        {
+          "jp": "心配[しんぱい]しないでください。",
+          "en": "Please don't worry."
+        },
+        {
+          "jp": "忘[わす]れないでください。",
+          "en": "Please don't forget."
+        },
+        {
+          "jp": "ここに車[くるま]を止[と]めないでください。",
+          "en": "Please don't park your car here."
+        },
+        {
+          "jp": "写真[しゃしん]を撮[と]らないでください。",
+          "en": "Please don't take photos."
+        },
+        {
+          "jp": "教室[きょうしつ]で食[た]べないでください。",
+          "en": "Please don't eat in the classroom."
+        }
+      ],
+      "notes": "With friends, drop {ください}: {忘[わす]れないで！} 'Don't forget!'",
+      "quiz": [
+        {
+          "q": "ここでたばこを吸[す]わ＿＿ください。",
+          "en": "Please don't smoke here.",
+          "choices": [
+            "なかった",
+            "ない",
+            "ないで",
+            "なくて"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "明日[あした]のテストを＿＿でください。",
+          "en": "Please don't forget about tomorrow's test.",
+          "choices": [
+            "忘[わす]れる",
+            "忘[わす]れない",
+            "忘[わす]れなく",
+            "忘[わす]らない"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n5-verb-noun",
+      "title": "Verb + Noun (describing nouns)",
+      "meaning": "the (noun) that ~ / the (noun) who ~",
+      "structure": "Plain-form verb (phrase) + Noun",
+      "explanation": "In Japanese, a whole verb phrase can sit **in front of a noun** to describe it, just like an adjective. English uses 'that' or 'who' after the noun; Japanese puts the description before it, with no linking word.\n\n- {昨日[きのう]買[か]った} + {本[ほん]} = {昨日[きのう]買[か]った本[ほん]} 'the book (that) I bought yesterday'\n- {めがねをかけている} + {人[ひと]} = 'the person wearing glasses'\n\nThe verb must be in **plain form** (dictionary, {ない}, {た}, {ている}...), never {ます}-form.\n\nIf the describing phrase has its own subject, mark it with {が}, not {は}: {私[わたし]がよく行[い]く店[みせ]} 'the shop I often go to'.",
+      "examples": [
+        {
+          "jp": "これは昨日[きのう]買[か]った本[ほん]です。",
+          "en": "This is the book I bought yesterday."
+        },
+        {
+          "jp": "めがねをかけている人[ひと]は田中[たなか]さんです。",
+          "en": "The person wearing glasses is Mr. Tanaka."
+        },
+        {
+          "jp": "忙[いそが]しくて、勉強[べんきょう]する時間[じかん]がありません。",
+          "en": "I'm busy, so I don't have time to study."
+        },
+        {
+          "jp": "私[わたし]がよく行[い]く店[みせ]はあそこです。",
+          "en": "The shop I often go to is over there."
+        },
+        {
+          "jp": "昨日[きのう]、田中[たなか]さんが作[つく]ったケーキを食[た]べました。",
+          "en": "Yesterday I ate a cake that Mr. Tanaka made."
+        }
+      ],
+      "notes": "Start small: one verb + one noun ({食[た]べる物[もの]} 'things to eat', {住[す]む所[ところ]} 'a place to live'). Longer descriptions will feel natural with practice.",
+      "quiz": [
+        {
+          "q": "これは私[わたし]が＿＿写真[しゃしん]です。",
+          "en": "This is a photo I took.",
+          "choices": [
+            "撮[と]って",
+            "撮[と]った",
+            "撮[と]りまして",
+            "撮[と]りました"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "あそこでコーヒーを＿＿人[ひと]は山田[やまだ]さんです。",
+          "en": "The person drinking coffee over there is Mr. Yamada.",
+          "choices": [
+            "飲[の]んでいます",
+            "飲[の]みに",
+            "飲[の]んで",
+            "飲[の]んでいる"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

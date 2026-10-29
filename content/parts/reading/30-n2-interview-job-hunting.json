@@ -1,0 +1,29 @@
+{
+  "id": "r-n2-06",
+  "level": "N2",
+  "title": "Interview: Getting a Job in Japan",
+  "titleJp": "インタビュー：日本[にほん]で就職[しゅうしょく]して",
+  "sentences": [
+    { "jp": "――日本[にほん]で就職[しゅうしょく]しようと思[おも]ったきっかけは何[なん]ですか。", "en": "— What made you decide to look for a job in Japan?" },
+    { "jp": "大学[だいがく]三年生[さんねんせい]のとき、交換[こうかん]留学[りゅうがく]で一年間[いちねんかん]名古屋[なごや]に住[す]んだのがきっかけです。", "en": "It started when I lived in Nagoya for a year as an exchange student in my third year of university." },
+    { "jp": "ものづくりの現場[げんば]を見学[けんがく]する機会[きかい]があって、品質[ひんしつ]に対[たい]するこだわりに強[つよ]く心[こころ]を打[う]たれました。", "en": "I had the chance to visit manufacturing sites, and I was deeply moved by their dedication to quality." },
+    { "jp": "――就職[しゅうしょく]活動[かつどう]で苦労[くろう]したことはありますか。", "en": "— Did you have any difficulties during your job hunt?" },
+    { "jp": "一番[いちばん]大変[たいへん]だったのは、エントリーシートです。", "en": "The hardest part was the entry sheets." },
+    { "jp": "「学生[がくせい]時代[じだい]に力[ちから]を入[い]れたこと」を何度[なんど]も書[か]かされましたが、自分[じぶん]の経験[けいけん]を日本[にほん]の企業[きぎょう]が求[もと]める形[かたち]で表現[ひょうげん]するのに、かなり時間[じかん]がかかりました。", "en": "I had to write about \"what I put the most effort into as a student\" over and over, and it took me quite a long time to express my experiences in the way Japanese companies expect." },
+    { "jp": "それから面接[めんせつ]では、話[はな]す内容[ないよう]だけでなく、ノックの回数[かいすう]やお辞儀[じぎ]の角度[かくど]まで気[き]にしなければならず、最初[さいしょ]はとても緊張[きんちょう]しました。", "en": "And in interviews, I had to worry not only about what I said but even about how many times to knock and how deeply to bow, so at first I was very nervous." },
+    { "jp": "――どうやって乗[の]り越[こ]えたのですか。", "en": "— How did you get through it?" },
+    { "jp": "大学[だいがく]のキャリアセンターで、模擬[もぎ]面接[めんせつ]を何回[なんかい]も受[う]けました。", "en": "I did many mock interviews at my university's career center." },
+    { "jp": "職員[しょくいん]の方[かた]に「マナーは慣[な]れれば誰[だれ]でもできる。それより、あなたにしか話[はな]せない経験[けいけん]を大切[たいせつ]にしなさい」と言[い]われて、気持[きも]ちが楽[らく]になりました。", "en": "A staff member told me, \"Anyone can do the etiquette once they get used to it. Value the experiences that only you can talk about,\" and that took a weight off my mind." },
+    { "jp": "――実際[じっさい]に働[はたら]き始[はじ]めて、イメージと違[ちが]ったことはありますか。", "en": "— Now that you've actually started working, has anything been different from what you imagined?" },
+    { "jp": "思[おも]っていたより、若手[わかて]の意見[いけん]を聞[き]いてくれる職場[しょくば]だったことです。", "en": "The workplace listens to younger employees' opinions more than I expected." },
+    { "jp": "ただ、会議[かいぎ]の前[まえ]に関係者[かんけいしゃ]に個別[こべつ]に説明[せつめい]しておく「根回[ねまわ]し」には、今[いま]でも少[すこ]し戸惑[とまど]います。", "en": "However, I still find nemawashi, briefing the people involved one by one before a meeting, a little confusing." },
+    { "jp": "――最後[さいご]に、日本[にほん]での就職[しゅうしょく]を考[かんが]えている人[ひと]にアドバイスをお願[ねが]いします。", "en": "— Finally, do you have any advice for people thinking about getting a job in Japan?" },
+    { "jp": "日本語[にほんご]の能力[のうりょく]はもちろん大切[たいせつ]ですが、それ以上[いじょう]に「なぜ日本[にほん]なのか」を自分[じぶん]の言葉[ことば]で語[かた]れることが大事[だいじ]だと思[おも]います。", "en": "Japanese ability is of course important, but I think being able to explain in your own words \"why Japan?\" matters even more." },
+    { "jp": "準備[じゅんび]は大変[たいへん]ですが、その分[ぶん]、得[え]られるものも大[おお]きいですよ。", "en": "The preparation is tough, but you gain that much more from it." }
+  ],
+  "questions": [
+    { "q": "What impressed the interviewee during the exchange year?", "choices": ["The friendliness of people in Nagoya", "The dedication to quality at manufacturing sites", "The punctuality of the trains", "The food culture"], "answer": 1 },
+    { "q": "What helped the interviewee get past the difficulties of interviews?", "choices": ["Mock interviews at the career center and a staff member's advice", "Reading books about business manners", "Practicing with a Japanese friend", "Applying only to foreign companies"], "answer": 0 },
+    { "q": "What does the interviewee still find a little confusing at work?", "choices": ["Senior staff ignoring younger employees' opinions", "Writing entry sheets", "Bowing to customers", "Briefing people individually before meetings"], "answer": 3 }
+  ]
+}

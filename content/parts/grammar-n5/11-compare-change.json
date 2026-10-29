@@ -1,0 +1,383 @@
+{
+  "id": "n5-u11",
+  "title": "Comparing, changing and guessing",
+  "summary": "Comparing two or more things, saying something has changed with {なる}, 'already' and 'not yet' with {もう}/{まだ}, guessing with {でしょう}, and 'something / nothing' words.",
+  "points": [
+    {
+      "id": "n5-yori",
+      "title": "AはBより〜",
+      "meaning": "A is more ~ than B",
+      "structure": "A + は + B + より + Adjective",
+      "explanation": "Japanese adjectives don't have a special '-er' form like 'bigger' or 'faster'. Instead, put {より} ('than') after the thing you're comparing **against**:\n\n{東京[とうきょう]は大阪[おおさか]より大[おお]きいです。} 'Tokyo is bigger than Osaka.'\n\nRead it as: Tokyo / Osaka-**than** / big. The adjective stays in its normal form, and the meaning 'more' comes from {より}.\n\nThe order of the first two parts can be swapped without changing the meaning, because the particles show which is which: {大阪[おおさか]より東京[とうきょう]のほうが大[おお]きいです} (see the next point).",
+      "examples": [
+        {
+          "jp": "東京[とうきょう]は大阪[おおさか]より大[おお]きいです。",
+          "en": "Tokyo is bigger than Osaka."
+        },
+        {
+          "jp": "今日[きょう]は昨日[きのう]より暑[あつ]いです。",
+          "en": "Today is hotter than yesterday."
+        },
+        {
+          "jp": "電車[でんしゃ]はバスより速[はや]いです。",
+          "en": "Trains are faster than buses."
+        },
+        {
+          "jp": "兄[あに]は私[わたし]より背[せ]が高[たか]いです。",
+          "en": "My older brother is taller than me."
+        },
+        {
+          "jp": "日本語[にほんご]は英語[えいご]より難[むずか]しいですか。",
+          "en": "Is Japanese harder than English?"
+        }
+      ],
+      "notes": "{背[せ]が高[たか]い} (back is high) is how you say a person is tall. {高[たか]い} alone usually means 'expensive' or 'high'.",
+      "quiz": [
+        {
+          "q": "新幹線[しんかんせん]はバス＿＿速[はや]いです。",
+          "en": "The bullet train is faster than the bus.",
+          "choices": [
+            "より",
+            "から",
+            "ほう",
+            "まで"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "この部屋[へや]はあの部屋[へや]より＿＿です。",
+          "en": "This room is more spacious than that room.",
+          "choices": [
+            "広[ひろ]い",
+            "広[ひろ]いな",
+            "広[ひろ]くて",
+            "広[ひろ]く"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-hou-ga",
+      "title": "AとBとどちらが〜 / Aのほうが〜",
+      "meaning": "Which is more ~, A or B? / A is more ~",
+      "structure": "A + と + B + と + どちらが + Adj + ですか / A + のほうが + Adj + です",
+      "explanation": "To ask someone to compare **two** things, use this pattern:\n\n{肉[にく]と魚[さかな]とどちらが好[す]きですか。} 'Which do you like better, meat or fish?'\n\nList both items with {と}, then ask with {どちらが} ('which of the two'). In casual speech, {どっち} replaces {どちら}.\n\nTo answer, use {のほうが} after the winner. {ほう} means 'side' or 'direction', so it's like saying 'the fish side is liked more':\n\n{魚[さかな]のほうが好[す]きです。} 'I like fish better.'\n\nYou can combine it with {より} for a full comparison: {夏[なつ]より冬[ふゆ]のほうが好[す]きです。} 'I like winter more than summer.'",
+      "examples": [
+        {
+          "jp": "肉[にく]と魚[さかな]とどちらが好[す]きですか。",
+          "en": "Which do you like better, meat or fish?"
+        },
+        {
+          "jp": "魚[さかな]のほうが好[す]きです。",
+          "en": "I like fish better."
+        },
+        {
+          "jp": "バスと電車[でんしゃ]とどちらが便利[べんり]ですか。",
+          "en": "Which is more convenient, the bus or the train?"
+        },
+        {
+          "jp": "電車[でんしゃ]のほうが便利[べんり]です。",
+          "en": "The train is more convenient."
+        },
+        {
+          "jp": "夏[なつ]より冬[ふゆ]のほうが好[す]きです。",
+          "en": "I like winter more than summer."
+        }
+      ],
+      "notes": "If you like both equally, say {どちらも好[す]きです。} 'I like both.'",
+      "quiz": [
+        {
+          "q": "コーヒーと紅茶[こうちゃ]と＿＿が好[す]きですか。",
+          "en": "Which do you like better, coffee or tea?",
+          "choices": [
+            "どれ",
+            "だれ",
+            "どこ",
+            "どちら"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A：犬[いぬ]と猫[ねこ]とどちらが好[す]きですか。B：猫[ねこ]の＿＿が好[す]きです。",
+          "en": "A: Which do you like better, dogs or cats? B: I like cats better.",
+          "choices": [
+            "より",
+            "どちら",
+            "ほう",
+            "ほど"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-ichiban",
+      "title": "〜の中[なか]で…がいちばん〜",
+      "meaning": "the most ~ (of all)",
+      "structure": "Group + の中[なか]で + Item + が + いちばん + Adjective",
+      "explanation": "For the **most** (the superlative), put {いちばん} ('number one') before the adjective:\n\n{いちばん高[たか]い山[やま]} 'the highest mountain'\n\nTo say what group you're choosing from, use {〜の中[なか]で} ('among ~'), or just {で} with places and time periods:\n\n{果物[くだもの]の中[なか]で何[なに]がいちばん好[す]きですか。} 'Of all fruits, which do you like best?'\n{日本[にほん]でいちばん高[たか]い山[やま]は富士山[ふじさん]です。} 'The highest mountain in Japan is Mt. Fuji.'\n\nThe question word depends on the group: {何[なに]} for things, {だれ} for people, {どこ} for places, {いつ} for times. (For three or more items, don't use {どちら}.)",
+      "examples": [
+        {
+          "jp": "果物[くだもの]の中[なか]で何[なに]がいちばん好[す]きですか。",
+          "en": "Of all fruits, which do you like best?"
+        },
+        {
+          "jp": "いちごがいちばん好[す]きです。",
+          "en": "I like strawberries best."
+        },
+        {
+          "jp": "クラスの中[なか]で田中[たなか]さんがいちばん背[せ]が高[たか]いです。",
+          "en": "Mr. Tanaka is the tallest in the class."
+        },
+        {
+          "jp": "日本[にほん]でいちばん高[たか]い山[やま]は富士山[ふじさん]です。",
+          "en": "The highest mountain in Japan is Mt. Fuji."
+        },
+        {
+          "jp": "一年[いちねん]で八月[はちがつ]がいちばん暑[あつ]いです。",
+          "en": "August is the hottest month of the year."
+        }
+      ],
+      "notes": "{いちばん} is often written in kanji as {一番[いちばん]}.",
+      "quiz": [
+        {
+          "q": "スポーツの中[なか]で何[なに]が＿＿好[す]きですか。",
+          "en": "Of all sports, which do you like the most?",
+          "choices": [
+            "より",
+            "どちら",
+            "いちばん",
+            "ほう"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "家族[かぞく]の中[なか]で＿＿がいちばん料理[りょうり]が上手[じょうず]ですか。",
+          "en": "Who is the best cook in your family?",
+          "choices": [
+            "だれ",
+            "どちら",
+            "どこ",
+            "何[なに]"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-naru",
+      "title": "〜くなる / 〜になる",
+      "meaning": "become ~ / get ~",
+      "structure": "い-adj minus い + くなる / な-adj・Noun + になる",
+      "explanation": "{なる} means 'to become'. How you connect it depends on the word before it:\n\n- **{い}-adjectives:** drop {い}, add {く}. {寒[さむ]い} → {寒[さむ]くなる} 'get cold'\n- **{な}-adjectives and nouns:** add {に}. {上手[じょうず]} → {上手[じょうず]になる} 'get good at'; {医者[いしゃ]} → {医者[いしゃ]になる} 'become a doctor'\n\n{なる} is a u-verb: {なります}, {なりました}, {なって}...\n\nIt's how you talk about changes: seasons, weather, skills, jobs, prices. {春[はる]になりました。} 'Spring has come.' A great goal sentence for you: {日本語[にほんご]が上手[じょうず]になりたいです。} 'I want to get good at Japanese.'",
+      "examples": [
+        {
+          "jp": "だんだん寒[さむ]くなりました。",
+          "en": "It's gradually gotten colder."
+        },
+        {
+          "jp": "部屋[へや]がきれいになりました。",
+          "en": "The room has become clean."
+        },
+        {
+          "jp": "春[はる]になりました。",
+          "en": "Spring has come."
+        },
+        {
+          "jp": "弟[おとうと]は医者[いしゃ]になりました。",
+          "en": "My younger brother became a doctor."
+        },
+        {
+          "jp": "日本語[にほんご]が上手[じょうず]になりたいです。",
+          "en": "I want to get good at Japanese."
+        }
+      ],
+      "notes": "The same {く} / {に} change turns adjectives into adverbs: {早[はや]く起[お]きます} 'get up early', {静[しず]かに話[はな]してください} 'please speak quietly'.",
+      "quiz": [
+        {
+          "q": "だんだん暑[あつ]＿＿なりましたね。",
+          "en": "It's gradually gotten hotter, hasn't it?",
+          "choices": [
+            "い",
+            "で",
+            "に",
+            "く"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "将来[しょうらい]、先生[せんせい]＿＿なりたいです。",
+          "en": "In the future, I want to become a teacher.",
+          "choices": [
+            "く",
+            "に",
+            "を",
+            "が"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n5-mou-mada",
+      "title": "もう / まだ",
+      "meaning": "already, (not) anymore / still, (not) yet",
+      "structure": "もう + Verb (past) / まだ + Verb て-form + いません",
+      "explanation": "These two little words change meaning depending on whether the verb is positive or negative:\n\n- {もう} + positive = **already**: {もう食[た]べました。} 'I've already eaten.'\n- {もう} + negative = **not anymore**: {もうお金[かね]がありません。} 'I have no money left.'\n- {まだ} + positive = **still**: {父[ちち]はまだ会社[かいしゃ]にいます。} 'My father is still at the office.'\n- {まだ} + negative = **not yet**\n\nThe tricky one: for 'not yet', Japanese uses {まだ〜ていません}, **not** {まだ〜ませんでした}. That's because the action still hasn't happened, so the situation continues now.\n\nA: {もう昼[ひる]ご飯[はん]を食[た]べましたか。} 'Have you had lunch yet?'\nB: {いいえ、まだ食[た]べていません。} or just {いいえ、まだです。} 'No, not yet.'",
+      "examples": [
+        {
+          "jp": "もう昼[ひる]ご飯[はん]を食[た]べましたか。",
+          "en": "Have you eaten lunch yet?"
+        },
+        {
+          "jp": "はい、もう食[た]べました。",
+          "en": "Yes, I've already eaten."
+        },
+        {
+          "jp": "いいえ、まだ食[た]べていません。",
+          "en": "No, I haven't eaten yet."
+        },
+        {
+          "jp": "父[ちち]はまだ会社[かいしゃ]にいます。",
+          "en": "My father is still at the office."
+        },
+        {
+          "jp": "もうお金[かね]がありません。",
+          "en": "I don't have any money left."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "A：宿題[しゅくだい]はもうしましたか。B：いいえ、まだ＿＿。",
+          "en": "A: Have you done your homework yet? B: No, not yet.",
+          "choices": [
+            "しませんでした",
+            "していません",
+            "しました",
+            "します"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A：もう晩[ばん]ご飯[はん]を食[た]べましたか。B：いいえ、＿＿です。",
+          "en": "A: Have you had dinner yet? B: No, not yet.",
+          "choices": [
+            "もう",
+            "よく",
+            "まだ",
+            "とても"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-deshou",
+      "title": "〜でしょう",
+      "meaning": "probably ~ / ~, right?",
+      "structure": "Noun・な-adj / い-adj / Verb (plain) + でしょう",
+      "explanation": "{でしょう} adds **probability**: 'probably', 'I think', 'I expect'. You'll hear it every day in weather forecasts:\n\n{明日[あした]は雨[あめ]でしょう。} 'It will probably rain tomorrow.'\n\nIt attaches to plain forms:\n\n- Nouns and {な}-adjectives directly: {雨[あめ]でしょう}, {静[しず]かでしょう}\n- {い}-adjectives: {寒[さむ]いでしょう}\n- Verbs in plain form: {来[く]るでしょう}, {来[こ]ないでしょう}\n\nIt often comes with {たぶん} (maybe, probably).\n\nWith a rising tone, {でしょう？} checks that the listener agrees: 'right?'. In casual speech, {でしょう} becomes {だろう} (when guessing) or {でしょ？} (when checking).",
+      "examples": [
+        {
+          "jp": "明日[あした]は雨[あめ]でしょう。",
+          "en": "It will probably rain tomorrow."
+        },
+        {
+          "jp": "明日[あした]は晴[は]れるでしょう。",
+          "en": "It will probably be sunny tomorrow."
+        },
+        {
+          "jp": "北海道[ほっかいどう]は寒[さむ]いでしょう。",
+          "en": "Hokkaido is probably cold."
+        },
+        {
+          "jp": "田中[たなか]さんはもうすぐ来[く]るでしょう。",
+          "en": "Mr. Tanaka will probably be here soon."
+        },
+        {
+          "jp": "この問題[もんだい]、難[むずか]しいでしょう？",
+          "en": "This problem is hard, isn't it?"
+        }
+      ],
+      "notes": "{でしょうか} is a very polite way of asking: {駅[えき]はどこでしょうか。} 'Where might the station be?' It's softer than {ですか}.",
+      "quiz": [
+        {
+          "q": "明日[あした]はたぶん雪[ゆき]＿＿。",
+          "en": "It will probably snow tomorrow.",
+          "choices": [
+            "ください",
+            "でしょう",
+            "ません",
+            "ましょう"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "山田[やまだ]さんはたぶん＿＿でしょう。",
+          "en": "Mr. Yamada probably won't come.",
+          "choices": [
+            "くない",
+            "こない",
+            "こなく",
+            "きない"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n5-nanika-nanimo",
+      "title": "何[なに]か / 何[なに]も, だれか / だれも",
+      "meaning": "something / nothing; someone / no one",
+      "structure": "Question word + か (some-) / Question word + も + negative (no-)",
+      "explanation": "Add {か} or {も} to a question word to change its meaning:\n\n- {何[なに]か} = something, {だれか} = someone, {どこか} = somewhere\n- {何[なに]も} + negative = nothing, {だれも} + negative = no one, {どこも} / {どこにも} + negative = nowhere\n\n{何[なに]か飲[の]みますか。} 'Will you have something to drink?'\n{いいえ、何[なに]もいりません。} 'No, I don't need anything.'\n\nWith {か}-words, particles {が} and {を} are usually dropped. With {も}-words, the verb **must** be negative: {だれもいません} 'There's no one here.'\n\nWith other particles, they go before {も}: {どこにも行[い]きません} 'I'm not going anywhere.'",
+      "examples": [
+        {
+          "jp": "何[なに]か飲[の]みますか。",
+          "en": "Would you like something to drink?"
+        },
+        {
+          "jp": "いいえ、何[なに]もいりません。",
+          "en": "No, I don't need anything."
+        },
+        {
+          "jp": "だれかいますか。",
+          "en": "Is anyone there?"
+        },
+        {
+          "jp": "教室[きょうしつ]にだれもいません。",
+          "en": "There's no one in the classroom."
+        },
+        {
+          "jp": "週末[しゅうまつ]はどこにも行[い]きませんでした。",
+          "en": "I didn't go anywhere on the weekend."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "冷蔵庫[れいぞうこ]の中[なか]に＿＿ありません。",
+          "en": "There's nothing in the fridge.",
+          "choices": [
+            "何[なに]か",
+            "何[なに]も",
+            "何[なに]が",
+            "何[なん]で"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "＿＿来[き]ましたよ。",
+          "en": "Someone has come.",
+          "choices": [
+            "だれも",
+            "だれ",
+            "だれか",
+            "だれが"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

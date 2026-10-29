@@ -1,0 +1,60 @@
+{
+  "id": "life-email",
+  "title": "Business email",
+  "level": "N2",
+  "intro": "Japanese business email ({ビジネスメール}) follows a clear structure. Once you have a template, most emails are easy to write.\n\n- **Subject** ({件名[けんめい]}): specific and informative, often with a tag in brackets, e.g. {【ご確認[かくにん]のお願[ねが]い】12月[じゅうにがつ]定例[ていれい]会議[かいぎ]の資料[しりょう]}.\n- **Addressee** ({宛名[あてな]}): company, department, then name with {様[さま]}, each on its own line, e.g. {株式会社[かぶしきがいしゃ]ABC}, {営業部[えいぎょうぶ]}, {山本[やまもと]様[さま]}. Use {御中[おんちゅう]} for an organization or department without a specific person, and {各位[かくい]} for a group of people (e.g. {関係者[かんけいしゃ]各位[かくい]}).\n- **Opening**: {お世話[せわ]になっております} for people outside the company, {お疲[つか]れ様[さま]です} for colleagues. Then say who you are: {株式会社[かぶしきがいしゃ]ミチのスミスです}. For a first contact, use {初[はじ]めてご連絡[れんらく]いたします}.\n- **Body**: state the purpose early, keep paragraphs short and leave blank lines between them. Seasonal greetings are not needed in ordinary emails.\n- **Closing**: {何卒[なにとぞ]よろしくお願[ねが]いいたします}, {引[ひ]き続[つづ]きよろしくお願[ねが]いいたします} or {ご確認[かくにん]のほど、よろしくお願[ねが]いいたします}.\n- **Signature** ({署名[しょめい]}): name, company, department, phone and email.\n\nWhen replying, keep the original subject line so the thread stays together. If you are late, start with an apology for the delay. Many companies now use chat tools for internal communication, which are lighter in tone, but emails to clients remain formal.",
+  "phrases": [
+    { "jp": "株式会社[かぶしきがいしゃ]ABC 営業部[えいぎょうぶ] 山本[やまもと]様[さま]", "en": "Mr./Ms. Yamamoto, Sales Dept., ABC Co., Ltd. (addressee)" },
+    { "jp": "いつもお世話[せわ]になっております。", "en": "Thank you for your continued support. (standard opening)" },
+    { "jp": "株式会社[かぶしきがいしゃ]ミチのスミスでございます。", "en": "This is Smith from Michi Co., Ltd." },
+    { "jp": "突然[とつぜん]のご連絡[れんらく]失礼[しつれい]いたします。", "en": "Please excuse me for contacting you out of the blue." },
+    { "jp": "先日[せんじつ]はお忙[いそが]しい中[なか]、お時間[じかん]をいただき、誠[まこと]にありがとうございました。", "en": "Thank you very much for taking the time to meet with us the other day despite your busy schedule." },
+    { "jp": "来月[らいげつ]の打[う]ち合[あ]わせの件[けん]でご連絡[れんらく]いたしました。", "en": "I'm writing about next month's meeting." },
+    { "jp": "資料[しりょう]を添付[てんぷ]いたしましたので、ご確認[かくにん]いただけますと幸[さいわ]いです。", "en": "I have attached the materials and would be grateful if you could check them." },
+    { "jp": "恐[おそ]れ入[い]りますが、10日[とおか]までにご返信[へんしん]いただけますでしょうか。", "en": "I'm sorry to ask, but could you reply by the 10th?" },
+    { "jp": "ご不明[ふめい]な点[てん]がございましたら、お気軽[きがる]にお問[と]い合[あ]わせください。", "en": "If anything is unclear, please feel free to contact me." },
+    { "jp": "ご返信[へんしん]が遅[おそ]くなり、大変[たいへん]申[もう]し訳[わけ]ございません。", "en": "I'm very sorry for the late reply." },
+    { "jp": "ご連絡[れんらく]いただき、ありがとうございます。", "en": "Thank you for getting in touch." },
+    { "jp": "承知[しょうち]いたしました。", "en": "Understood." },
+    { "jp": "何卒[なにとぞ]よろしくお願[ねが]いいたします。", "en": "Thank you very much in advance. (formal closing)" },
+    { "jp": "引[ひ]き続[つづ]きよろしくお願[ねが]いいたします。", "en": "I look forward to continuing to work with you." },
+    { "jp": "お疲[つか]れ様[さま]です。開発部[かいはつぶ]のスミスです。", "en": "Hi, this is Smith from Development. (internal opening)" },
+    { "jp": "取[と]り急[いそ]ぎ、ご報告[ほうこく]まで。", "en": "Just a quick report for now.", "note": "Fine internally or with people you know well; it can feel abrupt to senior people or new clients." }
+  ],
+  "vocab": [
+    { "jp": "件名[けんめい]", "en": "subject line" },
+    { "jp": "宛名[あてな]", "en": "addressee" },
+    { "jp": "本文[ほんぶん]", "en": "body text" },
+    { "jp": "署名[しょめい]", "en": "signature (block)" },
+    { "jp": "添付[てんぷ]", "en": "attachment" },
+    { "jp": "返信[へんしん]", "en": "reply" },
+    { "jp": "転送[てんそう]", "en": "forwarding" },
+    { "jp": "宛先[あてさき]", "en": "recipient, To field" },
+    { "jp": "敬称[けいしょう]", "en": "honorific title (such as -sama)" },
+    { "jp": "様[さま]", "en": "Mr./Ms. (formal honorific)" },
+    { "jp": "御中[おんちゅう]", "en": "honorific for an organization or department" },
+    { "jp": "各位[かくい]", "en": "to all (of you), honorific for a group" },
+    { "jp": "取引先[とりひきさき]", "en": "client, business partner" },
+    { "jp": "ご査収[さしゅう]ください", "en": "please find (the attached) and check it" }
+  ],
+  "dialogue": [
+    { "speaker": "You", "jp": "田中[たなか]さん、すみません。取引先[とりひきさき]へのメール、送[おく]る前[まえ]に見[み]ていただけますか。", "en": "Ms. Tanaka, excuse me. Could you look at my email to the client before I send it?" },
+    { "speaker": "Tanaka", "jp": "いいよ。どれどれ…。宛名[あてな]が「山本[やまもと]部長[ぶちょう]様[さま]」になってるね。", "en": "Sure. Let's see... The addressee says Yamamoto Buchō-sama." },
+    { "speaker": "You", "jp": "はい。何[なに]か問題[もんだい]がありますか。", "en": "Yes. Is something wrong?" },
+    { "speaker": "Tanaka", "jp": "「部長[ぶちょう]」自体[じたい]が敬称[けいしょう]だから、「部長[ぶちょう] 山本[やまもと]様[さま]」か「山本[やまもと]部長[ぶちょう]」にしたほうがいいよ。", "en": "Buchō is already a title of respect, so it's better to write 'Buchō, Yamamoto-sama' or 'Yamamoto Buchō'." },
+    { "speaker": "You", "jp": "なるほど。書[か]き出[だ]しは「お世話[せわ]になっております」で大丈夫[だいじょうぶ]ですか。", "en": "I see. Is 'osewa ni natte orimasu' OK for the opening?" },
+    { "speaker": "Tanaka", "jp": "うん、社外[しゃがい]ならそれが基本[きほん]。社内[しゃない]なら「お疲[つか]れ様[さま]です」ね。", "en": "Yes, that's the standard for outside the company. Inside, it's 'otsukaresama desu'." },
+    { "speaker": "You", "jp": "件名[けんめい]は「資料[しりょう]について」にしました。", "en": "I made the subject 'About the materials'." },
+    { "speaker": "Tanaka", "jp": "それだとちょっとわかりにくいかな。「【ご確認[かくにん]のお願[ねが]い】12月[じゅうにがつ]2日[ふつか]打[う]ち合[あ]わせ資料[しりょう]」みたいに具体的[ぐたいてき]に書[か]くといいよ。", "en": "That's a bit vague. It's better to be specific, like '[Request for review] Materials for the December 2 meeting'." },
+    { "speaker": "You", "jp": "わかりました。最後[さいご]は「何卒[なにとぞ]よろしくお願[ねが]いいたします」で締[し]めます。", "en": "Got it. I'll close with 'nanitozo yoroshiku onegai itashimasu'." },
+    { "speaker": "Tanaka", "jp": "ばっちり。あとは署名[しょめい]を忘[わす]れずにね。", "en": "Perfect. Just don't forget your signature." },
+    { "speaker": "You", "jp": "ありがとうございます。助[たす]かりました。", "en": "Thank you. That was a big help." }
+  ],
+  "tips": [
+    "Never use {様[さま]} and {御中[おんちゅう]} together. {様[さま]} is for a person, {御中[おんちゅう]} for an organization.",
+    "Avoid stacking honorifics like {部長[ぶちょう]様[さま]}. Write {部長[ぶちょう] 山本[やまもと]様[さま]} or {山本[やまもと]部長[ぶちょう]}.",
+    "Keep your own template with your standard opening, closing and signature, and reuse it.",
+    "Reply to client emails promptly, ideally within a business day. If you need time, send a short note saying you have received it and will reply later.",
+    "When attaching files, mention them in the body and use {ご査収[さしゅう]ください} or {ご確認[かくにん]ください}."
+  ]
+}

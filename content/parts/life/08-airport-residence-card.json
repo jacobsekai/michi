@@ -1,0 +1,57 @@
+{
+  "id": "life-airport",
+  "title": "Arrival: the airport & your residence card",
+  "level": "N4",
+  "intro": "If you enter Japan to live there for the mid to long term (for work, study, as a spouse and so on), immigration will check your passport and your visa or Certificate of Eligibility. At the major international airports, such as Narita, Haneda, Kansai and Chubu, you are usually handed your residence card ({在留[ざいりゅう]カード}) on the spot. If you arrive elsewhere, your passport is stamped and the card is sent to you after you register your address.\n\nThe residence card is your main ID in Japan. Adults are required to carry it at all times, and you will need it for almost every procedure: the ward office, bank, phone, apartment and job. Check it carefully as soon as you receive it. It shows your status of residence ({在留[ざいりゅう]資格[しかく]}), your period of stay ({在留[ざいりゅう]期間[きかん]}), and whether you are allowed to work.\n\nAfter you find a place to live, you must register your address at the municipal office within 14 days (see the next unit).\n\nTo extend your stay, you apply to a regional immigration office before your period of stay ends; applications can generally be made from a few months before expiry. Requirements change, so always confirm the current rules with the Immigration Services Agency ({出入国[しゅつにゅうこく]在留[ざいりゅう]管理庁[かんりちょう]}). If you plan to leave Japan temporarily and come back, check the re-entry rules before you travel.\n\nPractical tip: airports have counters where you can send heavy luggage to your new address by courier, so you can travel into the city light.",
+  "phrases": [
+    { "jp": "仕事[しごと]で来[き]ました。", "en": "I've come for work." },
+    { "jp": "三年[さんねん]ぐらい住[す]む予定[よてい]です。", "en": "I plan to live here for about three years." },
+    { "jp": "在留[ざいりゅう]カードはここでもらえますか。", "en": "Can I get my residence card here?" },
+    { "jp": "申告[しんこく]するものはありません。", "en": "I have nothing to declare. (customs)" },
+    { "jp": "これは自分[じぶん]で使[つか]う物[もの]です。", "en": "These are for my personal use." },
+    { "jp": "この荷物[にもつ]を家[いえ]に送[おく]りたいんですが。", "en": "I'd like to send this luggage to my home." },
+    { "jp": "両替[りょうがえ]はどこでできますか。", "en": "Where can I exchange money?" },
+    { "jp": "都内[とない]行[い]きのバス乗[の]り場[ば]はどこですか。", "en": "Where is the stop for buses into central Tokyo?" },
+    { "jp": "SIMカードはどこで買[か]えますか。", "en": "Where can I buy a SIM card?" },
+    { "jp": "在留[ざいりゅう]期間[きかん]の更新[こうしん]の申請[しんせい]に来[き]ました。", "en": "I've come to apply to extend my period of stay." },
+    { "jp": "必要[ひつよう]な書類[しょるい]を教[おし]えていただけますか。", "en": "Could you tell me which documents I need?" },
+    { "jp": "在留[ざいりゅう]カードをなくしてしまいました。", "en": "I've lost my residence card.", "note": "Report the loss to the police first, then apply for a replacement at immigration within the deadline." },
+    { "jp": "来月[らいげつ]、一時[いちじ]帰国[きこく]します。", "en": "I'm going back to my country for a short visit next month." },
+    { "jp": "再入国[さいにゅうこく]の手続[てつづ]きは必要[ひつよう]ですか。", "en": "Do I need a re-entry procedure?" },
+    { "jp": "審査[しんさ]にはどのくらい時間[じかん]がかかりますか。", "en": "How long does the review take?" }
+  ],
+  "vocab": [
+    { "jp": "空港[くうこう]", "en": "airport" },
+    { "jp": "入国[にゅうこく]審査[しんさ]", "en": "immigration inspection" },
+    { "jp": "税関[ぜいかん]", "en": "customs" },
+    { "jp": "在留[ざいりゅう]カード", "en": "residence card" },
+    { "jp": "在留[ざいりゅう]資格[しかく]", "en": "status of residence (visa type)" },
+    { "jp": "在留[ざいりゅう]期間[きかん]", "en": "period of stay" },
+    { "jp": "入管[にゅうかん]", "en": "immigration office (short form)" },
+    { "jp": "更新[こうしん]", "en": "renewal, extension" },
+    { "jp": "申請[しんせい]", "en": "application" },
+    { "jp": "書類[しょるい]", "en": "documents" },
+    { "jp": "再入国[さいにゅうこく]", "en": "re-entry" },
+    { "jp": "住居地[じゅうきょち]", "en": "place of residence (official term)" },
+    { "jp": "宅配便[たくはいびん]", "en": "courier delivery service" },
+    { "jp": "両替[りょうがえ]", "en": "currency exchange" }
+  ],
+  "dialogue": [
+    { "speaker": "Officer", "jp": "パスポートをお願[ねが]いします。日本[にほん]には何[なん]の目的[もくてき]で来[こ]られましたか。", "en": "Your passport, please. What is the purpose of your stay in Japan?" },
+    { "speaker": "You", "jp": "仕事[しごと]です。東京[とうきょう]の会社[かいしゃ]で働[はたら]きます。", "en": "Work. I'll be working for a company in Tokyo." },
+    { "speaker": "Officer", "jp": "日本[にほん]での住所[じゅうしょ]は決[き]まっていますか。", "en": "Have you decided on your address in Japan?" },
+    { "speaker": "You", "jp": "まだです。しばらくホテルに泊[と]まります。", "en": "Not yet. I'll stay in a hotel for a while." },
+    { "speaker": "Officer", "jp": "わかりました。住所[じゅうしょ]が決[き]まったら、14日[じゅうよっか]以内[いない]に市区町村[しくちょうそん]の役所[やくしょ]で届[とど]け出[で]をしてください。", "en": "I see. Once you have an address, please register it at your municipal office within 14 days." },
+    { "speaker": "You", "jp": "わかりました。", "en": "Understood." },
+    { "speaker": "Officer", "jp": "こちらが在留[ざいりゅう]カードです。いつも持[も]ち歩[ある]いてください。", "en": "Here is your residence card. Please carry it with you at all times." },
+    { "speaker": "You", "jp": "ありがとうございます。", "en": "Thank you." },
+    { "speaker": "Officer", "jp": "では、次[つぎ]は税関[ぜいかん]へお進[すす]みください。", "en": "Please proceed to customs next." }
+  ],
+  "tips": [
+    "Put your residence card expiry date in your calendar with a reminder several months ahead. Overstaying, even by accident, is a serious problem.",
+    "Check the work permission line on the card. If it is restricted, do not take on work outside what your status allows.",
+    "Keep digital copies of your passport, residence card and visa documents somewhere safe.",
+    "Immigration offices can be crowded. Many procedures can now be started online; check the Immigration Services Agency website first.",
+    "When you report a change, such as a new employer or a lost card, there are usually strict deadlines. Look them up the moment something changes."
+  ]
+}

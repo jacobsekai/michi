@@ -1,0 +1,382 @@
+{
+  "id": "n5-u12",
+  "title": "Before, after, when, why and but",
+  "summary": "Joining ideas into longer sentences: before and after, 'when', giving reasons with {から} and asking {どうして}, 'but', doing two things at once with {ながら}, and 'only' with {だけ}.",
+  "points": [
+    {
+      "id": "n5-mae-ni",
+      "title": "〜前[まえ]に",
+      "meaning": "before ~",
+      "structure": "Verb (dictionary) + 前[まえ]に / Noun + の + 前[まえ]に / Time length + 前[まえ]に",
+      "explanation": "You already know {前[まえ]} as 'in front of'. It also means '**before**' in time.\n\n- After a verb, always use the **dictionary form**, even when the sentence is about the past: {寝[ね]る前[まえ]に} 'before going to bed'.\n- After a noun, add {の}: {授業[じゅぎょう]の前[まえ]に} 'before class'.\n- After a length of time, it means 'ago': {三年前[さんねんまえ]に} 'three years ago'.\n\n{日本[にほん]へ来[く]る前[まえ]に、少[すこ]し日本語[にほんご]を勉強[べんきょう]しました。} 'Before coming to Japan, I studied a little Japanese.' Notice {来[く]る} stays in the dictionary form; the past tense goes on the final verb.",
+      "examples": [
+        {
+          "jp": "寝[ね]る前[まえ]に、歯[は]をみがきます。",
+          "en": "I brush my teeth before going to bed."
+        },
+        {
+          "jp": "ご飯[はん]を食[た]べる前[まえ]に、手[て]を洗[あら]います。",
+          "en": "I wash my hands before eating."
+        },
+        {
+          "jp": "授業[じゅぎょう]の前[まえ]に、コーヒーを飲[の]みます。",
+          "en": "I drink coffee before class."
+        },
+        {
+          "jp": "日本[にほん]へ来[く]る前[まえ]に、少[すこ]し日本語[にほんご]を勉強[べんきょう]しました。",
+          "en": "Before coming to Japan, I studied a little Japanese."
+        },
+        {
+          "jp": "三年前[さんねんまえ]に日本[にほん]に来[き]ました。",
+          "en": "I came to Japan three years ago."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "寝[ね]る＿＿に、シャワーを浴[あ]びます。",
+          "en": "I take a shower before going to bed.",
+          "choices": [
+            "後[あと]",
+            "前[まえ]",
+            "から",
+            "より"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "日本[にほん]に＿＿前[まえ]に、ひらがなを覚[おぼ]えました。",
+          "en": "Before coming to Japan, I learned hiragana.",
+          "choices": [
+            "来[き]て",
+            "来[く]る",
+            "来[き]ます",
+            "来[き]た"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n5-ato-de",
+      "title": "〜後[あと]で",
+      "meaning": "after ~ / later",
+      "structure": "Verb (た-form) + 後[あと]で / Noun + の + 後[あと]で",
+      "explanation": "{後[あと]で} means '**after**'. It's the mirror image of {前[まえ]に}, but with one key difference: after a verb, use the **{た}-form**, because the first action is finished.\n\n- {食[た]べた後[あと]で} after eating\n- {仕事[しごと]の後[あと]で} after work\n\n{晩[ばん]ご飯[はん]を食[た]べた後[あと]で、散歩[さんぽ]します。} 'After eating dinner, I take a walk.' Even though this is about the future, {食[た]べた} is in the {た}-form.\n\nOn its own, {後[あと]で} means 'later': {じゃ、また後[あと]で。} 'See you later.'",
+      "examples": [
+        {
+          "jp": "晩[ばん]ご飯[はん]を食[た]べた後[あと]で、散歩[さんぽ]します。",
+          "en": "After dinner, I take a walk."
+        },
+        {
+          "jp": "仕事[しごと]の後[あと]で、飲[の]みに行[い]きませんか。",
+          "en": "Do you want to go for a drink after work?"
+        },
+        {
+          "jp": "授業[じゅぎょう]が終[お]わった後[あと]で、図書館[としょかん]へ行[い]きます。",
+          "en": "After class ends, I'll go to the library."
+        },
+        {
+          "jp": "シャワーを浴[あ]びた後[あと]で、ビールを飲[の]みました。",
+          "en": "After I took a shower, I drank a beer."
+        },
+        {
+          "jp": "じゃ、また後[あと]で。",
+          "en": "Okay, see you later."
+        }
+      ],
+      "notes": "{〜た後[あと]で} and {〜てから} (Unit 8) are very similar. {てから} puts a little more stress on 'first A, and only then B'.",
+      "quiz": [
+        {
+          "q": "宿題[しゅくだい]を＿＿後[あと]で、ゲームをします。",
+          "en": "I'll play games after I do my homework.",
+          "choices": [
+            "する",
+            "します",
+            "した",
+            "して"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "会議[かいぎ]＿＿後[あと]で、電話[でんわ]してください。",
+          "en": "Please call me after the meeting.",
+          "choices": [
+            "を",
+            "に",
+            "が",
+            "の"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-toki",
+      "title": "〜とき",
+      "meaning": "when ~ / at the time ~",
+      "structure": "Verb (plain) / い-adj + とき / な-adj + な + とき / Noun + の + とき",
+      "explanation": "{とき} means 'time', and it's used to say '**when** ~'. Put a description in front of it, just like describing any noun:\n\n- Verb (plain form): {わからないとき} when you don't understand\n- {い}-adjective: {寒[さむ]いとき} when it's cold\n- {な}-adjective + {な}: {暇[ひま]なとき} when you're free\n- Noun + {の}: {子[こ]どものとき} when I was a child\n\nThe {とき} part usually comes first, then a comma, then what happens:\n\n{寒[さむ]いとき、温[あたた]かいお茶[ちゃ]を飲[の]みます。} 'When it's cold, I drink hot tea.'\n\n{とき} can also be written in kanji as {時[とき]}.",
+      "examples": [
+        {
+          "jp": "子[こ]どものとき、ピアノを習[なら]いました。",
+          "en": "When I was a child, I took piano lessons."
+        },
+        {
+          "jp": "暇[ひま]なとき、何[なに]をしますか。",
+          "en": "What do you do when you're free?"
+        },
+        {
+          "jp": "寒[さむ]いとき、温[あたた]かいお茶[ちゃ]を飲[の]みます。",
+          "en": "When it's cold, I drink hot tea."
+        },
+        {
+          "jp": "わからないとき、先生[せんせい]に聞[き]いてください。",
+          "en": "When you don't understand, please ask the teacher."
+        },
+        {
+          "jp": "電車[でんしゃ]に乗[の]るとき、切符[きっぷ]を買[か]います。",
+          "en": "When I take the train, I buy a ticket."
+        }
+      ],
+      "notes": "With verbs, the tense before {とき} can matter: {日本[にほん]へ行[い]くとき} 'when (on the way / before) going to Japan' vs {日本[にほん]へ行[い]ったとき} 'when I went to (was in) Japan'. You'll practice this more at N4.",
+      "quiz": [
+        {
+          "q": "子[こ]ども＿＿とき、よく川[かわ]で泳[およ]ぎました。",
+          "en": "When I was a child, I often swam in the river.",
+          "choices": [
+            "だ",
+            "の",
+            "に",
+            "な"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "＿＿とき、何[なに]をしますか。",
+          "en": "What do you do when you're free?",
+          "choices": [
+            "暇[ひま]な",
+            "暇[ひま]だ",
+            "暇[ひま]の",
+            "暇[ひま]"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-kara-reason",
+      "title": "〜から (because) / どうして",
+      "meaning": "because, so / why",
+      "structure": "Reason + から、Result / どうして〜か / 〜からです",
+      "explanation": "Put {から} at the end of a reason, then say the result:\n\n{時間[じかん]がありませんから、急[いそ]いでください。} 'We don't have time, so please hurry.'\n\nThe order is the **reverse** of English 'because': the reason comes **first**, then {から}, then what happens. Think of {から} as 'so' instead.\n\nThe reason can be polite ({ありませんから}) or plain ({ないから}). Plain is common in casual speech.\n\nTo ask **why**, use {どうして} (or the more formal {なぜ}). Answer with the reason + {からです}:\n\nA: {どうして日本語[にほんご]を勉強[べんきょう]していますか。} 'Why are you studying Japanese?'\nB: {日本[にほん]で働[はたら]きたいからです。} 'Because I want to work in Japan.'",
+      "examples": [
+        {
+          "jp": "時間[じかん]がありませんから、急[いそ]いでください。",
+          "en": "We don't have time, so please hurry."
+        },
+        {
+          "jp": "雨[あめ]ですから、タクシーで行[い]きましょう。",
+          "en": "It's raining, so let's take a taxi."
+        },
+        {
+          "jp": "昨日[きのう]は頭[あたま]が痛[いた]かったから、学校[がっこう]を休[やす]みました。",
+          "en": "I had a headache yesterday, so I stayed home from school."
+        },
+        {
+          "jp": "どうして日本語[にほんご]を勉強[べんきょう]していますか。",
+          "en": "Why are you studying Japanese?"
+        },
+        {
+          "jp": "日本[にほん]で働[はたら]きたいからです。",
+          "en": "Because I want to work in Japan."
+        }
+      ],
+      "notes": "When the reason ends in a noun or {な}-adjective in plain style, add {だ}: {雨[あめ]だから}. You'll later learn {ので}, a softer 'because' that's preferred when making excuses or polite requests.",
+      "quiz": [
+        {
+          "q": "おなかがすきました＿＿、何[なに]か食[た]べましょう。",
+          "en": "I'm hungry, so let's eat something.",
+          "choices": [
+            "から",
+            "を",
+            "より",
+            "まで"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A：＿＿昨日[きのう]休[やす]みましたか。B：かぜをひいたからです。",
+          "en": "A: Why were you absent yesterday? B: Because I caught a cold.",
+          "choices": [
+            "どうして",
+            "どこで",
+            "何[なに]を",
+            "だれと"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-ga-but",
+      "title": "〜が / 〜けど / でも (but)",
+      "meaning": "but, however",
+      "structure": "Sentence₁ + が、Sentence₂ / Sentence₁ + けど、Sentence₂ / Sentence₁。でも、Sentence₂",
+      "explanation": "Three common ways to say '**but**':\n\n- {が} joins two sentences: {この店[みせ]は高[たか]いですが、おいしいです。} 'This shop is expensive, but it's good.' (Not the subject marker {が}. This one comes after a full sentence.)\n- {けど} means the same, but is more casual: {行[い]きたいけど、時間[じかん]がない。} 'I want to go, but I don't have time.'\n- {でも} starts a **new** sentence: {昨日[きのう]は雨[あめ]でした。でも、楽[たの]しかったです。} 'It rained yesterday. But it was fun.'\n\n{が} also softens an opening, without meaning 'but': {すみませんが…} 'Excuse me, but...' This is a very polite way to start a request.",
+      "examples": [
+        {
+          "jp": "この店[みせ]は高[たか]いですが、おいしいです。",
+          "en": "This shop is expensive, but the food is good."
+        },
+        {
+          "jp": "日本語[にほんご]は難[むずか]しいですが、おもしろいです。",
+          "en": "Japanese is difficult, but it's interesting."
+        },
+        {
+          "jp": "すみませんが、ちょっと手伝[てつだ]ってください。",
+          "en": "Sorry to bother you, but could you help me a bit?"
+        },
+        {
+          "jp": "行[い]きたいけど、時間[じかん]がない。",
+          "en": "I want to go, but I don't have time."
+        },
+        {
+          "jp": "昨日[きのう]は雨[あめ]でした。でも、楽[たの]しかったです。",
+          "en": "It rained yesterday. But it was fun."
+        }
+      ],
+      "notes": "Japanese speakers often end a sentence with {が} or {けど} and leave the rest unsaid, to sound soft: {明日[あした]はちょっと用事[ようじ]があるんですけど…} 'Tomorrow I have something on, so...'",
+      "quiz": [
+        {
+          "q": "このアパートは駅[えき]から遠[とお]いです＿＿、安[やす]いです。",
+          "en": "This apartment is far from the station, but it's cheap.",
+          "choices": [
+            "て",
+            "を",
+            "に",
+            "が"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "昨日[きのう]は雨[あめ]でした。＿＿、楽[たの]しかったです。",
+          "en": "It rained yesterday. But it was fun.",
+          "choices": [
+            "だから",
+            "それから",
+            "でも",
+            "そして"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-nagara",
+      "title": "〜ながら",
+      "meaning": "while ~ing (doing two things at once)",
+      "structure": "Verb stem + ながら、Verb",
+      "explanation": "{ながら} lets you say someone is doing **two actions at the same time**. Take the verb stem (the {ます}-form without {ます}) and add {ながら}:\n\n{聞[き]きます} → {聞[き]き} → {聞[き]きながら} 'while listening'\n\n{音楽[おんがく]を聞[き]きながら勉強[べんきょう]します。} 'I study while listening to music.'\n\nTwo rules:\n\n- Both actions are done by the **same person**.\n- The **main** action goes at the end. The {ながら} action is the background one. So {テレビを見[み]ながら食[た]べます} focuses on eating, with TV in the background.\n\nIt also describes long-term situations: {働[はたら]きながら日本語[にほんご]を勉強[べんきょう]しています。} 'I'm studying Japanese while working.'",
+      "examples": [
+        {
+          "jp": "音楽[おんがく]を聞[き]きながら勉強[べんきょう]します。",
+          "en": "I study while listening to music."
+        },
+        {
+          "jp": "テレビを見[み]ながらご飯[はん]を食[た]べます。",
+          "en": "I eat while watching TV."
+        },
+        {
+          "jp": "コーヒーを飲[の]みながら話[はな]しましょう。",
+          "en": "Let's talk over coffee."
+        },
+        {
+          "jp": "歩[ある]きながら電話[でんわ]をしてはいけません。",
+          "en": "You shouldn't talk on the phone while walking."
+        },
+        {
+          "jp": "働[はたら]きながら日本語[にほんご]を勉強[べんきょう]しています。",
+          "en": "I'm studying Japanese while working."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "歌[うた]を歌[うた]い＿＿料理[りょうり]をします。",
+          "en": "I cook while singing.",
+          "choices": [
+            "て",
+            "たり",
+            "ながら",
+            "に"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "ラジオを＿＿ながら運転[うんてん]します。",
+          "en": "I drive while listening to the radio.",
+          "choices": [
+            "聞[き]き",
+            "聞[き]いて",
+            "聞[き]か",
+            "聞[き]く"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-dake",
+      "title": "だけ",
+      "meaning": "only, just",
+      "structure": "Noun / Amount + だけ",
+      "explanation": "{だけ} means '**only**' or 'just'. Put it right after the word it limits:\n\n- {一[ひと]つだけ} just one\n- {日曜日[にちようび]だけ} only Sunday\n- {田中[たなか]さんだけ} only Mr. Tanaka\n\n{だけ} can replace {が} and {を}, or sit before other particles: {田中[たなか]さんだけ来[き]ました。} 'Only Mr. Tanaka came.' / {日曜日[にちようび]だけに} 'only on Sunday'.\n\nThe sentence stays positive with {だけ}. (Japanese also has {しか}, which means 'only' but needs a negative verb: {千円[せんえん]しかありません} 'I only have 1,000 yen.' You'll practice it at N4.)\n\n{少[すこ]しだけ} ('just a little') is a handy, modest phrase.",
+      "examples": [
+        {
+          "jp": "日本語[にほんご]は少[すこ]しだけわかります。",
+          "en": "I understand just a little Japanese."
+        },
+        {
+          "jp": "一[ひと]つだけください。",
+          "en": "Just one, please."
+        },
+        {
+          "jp": "休[やす]みは日曜日[にちようび]だけです。",
+          "en": "My only day off is Sunday."
+        },
+        {
+          "jp": "田中[たなか]さんだけ来[き]ました。",
+          "en": "Only Mr. Tanaka came."
+        },
+        {
+          "jp": "朝[あさ]はコーヒーだけ飲[の]みます。",
+          "en": "In the morning I only drink coffee."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "休[やす]みは日曜日[にちようび]＿＿です。",
+          "en": "My only day off is Sunday.",
+          "choices": [
+            "より",
+            "だけ",
+            "しか",
+            "を"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "お金[かね]が千円[せんえん]＿＿あります。",
+          "en": "I have only 1,000 yen.",
+          "choices": [
+            "ごろ",
+            "しか",
+            "より",
+            "だけ"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "r-n5-03",
+  "level": "N5",
+  "title": "My Day",
+  "titleJp": "私[わたし]の一日[いちにち]",
+  "sentences": [
+    { "jp": "私[わたし]は毎朝[まいあさ]七時[しちじ]に起[お]きます。", "en": "I get up at seven every morning." },
+    { "jp": "朝[あさ]ご飯[はん]はパンとコーヒーです。", "en": "For breakfast I have bread and coffee." },
+    { "jp": "八時[はちじ]半[はん]に家[いえ]を出[で]て、会社[かいしゃ]へ行[い]きます。", "en": "I leave home at eight thirty and go to the office." },
+    { "jp": "会社[かいしゃ]は九時[くじ]から六時[ろくじ]までです。", "en": "Work is from nine to six." },
+    { "jp": "昼[ひる]ご飯[はん]は、たいてい会社[かいしゃ]の近[ちか]くの店[みせ]で食[た]べます。", "en": "I usually eat lunch at a restaurant near the office." },
+    { "jp": "仕事[しごと]の後[あと]で、スーパーで買[か]い物[もの]をします。", "en": "After work, I do some shopping at the supermarket." },
+    { "jp": "夜[よる]は家[いえ]で本[ほん]を読[よ]みます。", "en": "In the evening I read books at home." },
+    { "jp": "そして、十一時[じゅういちじ]ごろ寝[ね]ます。", "en": "Then I go to bed at around eleven." }
+  ],
+  "questions": [
+    { "q": "What time does the writer leave home?", "choices": ["7:00", "8:00", "8:30", "9:00"], "answer": 2 },
+    { "q": "Where does the writer usually eat lunch?", "choices": ["At home", "At a restaurant near the office", "At the supermarket", "At the desk in the office"], "answer": 1 },
+    { "q": "What does the writer do after work?", "choices": ["Reads books at a café", "Goes to the gym", "Meets friends", "Shops at the supermarket"], "answer": 3 }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "id": "n5-u10",
+  "title": "Wants, likes, skills and plans",
+  "summary": "Talking about yourself: what you want to do and want to have, what you like and are good at, what you understand or can do, listing activities with {たり}, and your plans with {つもり}.",
+  "points": [
+    {
+      "id": "n5-tai",
+      "title": "〜たい",
+      "meaning": "want to ~",
+      "structure": "Verb stem + たいです",
+      "explanation": "To say you **want to do** something, take the verb stem (the {ます}-form without {ます}) and add {たい}.\n\n{行[い]きます} → {行[い]き} → {行[い]きたいです。} 'I want to go.'\n\n{たい} works like an {い}-adjective, so it changes the same way:\n\n- {行[い]きたい} want to go\n- {行[い]きたくない} don't want to go\n- {行[い]きたかった} wanted to go\n- {行[い]きたくなかった} didn't want to go\n\nAdd {です} to be polite. When the verb has an object, {を} is often replaced by {が}: {水[みず]が飲[の]みたいです} (both {を} and {が} are fine).\n\nUse {たい} for **your own** wishes, or to ask about the listener's: {何[なに]が食[た]べたいですか。}",
+      "examples": [
+        {
+          "jp": "日本[にほん]で働[はたら]きたいです。",
+          "en": "I want to work in Japan."
+        },
+        {
+          "jp": "冷[つめ]たい水[みず]が飲[の]みたいです。",
+          "en": "I want to drink some cold water."
+        },
+        {
+          "jp": "何[なに]が食[た]べたいですか。",
+          "en": "What do you want to eat?"
+        },
+        {
+          "jp": "今日[きょう]はどこへも行[い]きたくないです。",
+          "en": "I don't want to go anywhere today."
+        },
+        {
+          "jp": "昨日[きのう]は早[はや]く帰[かえ]りたかったです。",
+          "en": "I wanted to go home early yesterday."
+        }
+      ],
+      "notes": "Japanese avoids stating other people's feelings directly. For 'he wants to ~', a different form ({〜たがっています}) is used; you'll learn it at N4. Also, asking a boss {〜たいですか} can sound too direct; offering with {〜ませんか} is more polite.",
+      "quiz": [
+        {
+          "q": "将来[しょうらい]、日本[にほん]に住[す]み＿＿です。",
+          "en": "In the future, I want to live in Japan.",
+          "choices": [
+            "ない",
+            "たく",
+            "たかった",
+            "たい"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "今日[きょう]は疲[つか]れました。何[なに]も＿＿ないです。",
+          "en": "I'm tired today. I don't want to do anything.",
+          "choices": [
+            "しなく",
+            "すたく",
+            "したい",
+            "したく"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-hoshii",
+      "title": "〜がほしい",
+      "meaning": "want (a thing)",
+      "structure": "Noun + が + ほしいです",
+      "explanation": "{たい} is for wanting to **do** something. For wanting a **thing**, use {ほしい}.\n\n{新[あたら]しいパソコンがほしいです。} 'I want a new computer.'\n\nThe thing you want is marked with {が}. {ほしい} is an {い}-adjective, so:\n\n- {ほしい} want\n- {ほしくない} don't want\n- {ほしかった} wanted\n\nCompare:\n\n- {車[くるま]がほしいです。} I want a car. (thing → {ほしい})\n- {車[くるま]を買[か]いたいです。} I want to buy a car. (action → {たい})\n\nLike {たい}, it's used for your own wishes or for asking about the listener's.",
+      "examples": [
+        {
+          "jp": "新[あたら]しいパソコンがほしいです。",
+          "en": "I want a new computer."
+        },
+        {
+          "jp": "誕生日[たんじょうび]に何[なに]がほしいですか。",
+          "en": "What do you want for your birthday?"
+        },
+        {
+          "jp": "大[おお]きい部屋[へや]がほしいです。",
+          "en": "I want a big room."
+        },
+        {
+          "jp": "もっと時間[じかん]がほしいです。",
+          "en": "I want more time."
+        },
+        {
+          "jp": "今[いま]は何[なに]もほしくないです。",
+          "en": "I don't want anything right now."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "新[あたら]しいくつ＿＿ほしいです。",
+          "en": "I want new shoes.",
+          "choices": [
+            "へ",
+            "が",
+            "で",
+            "に"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A：何[なに]が＿＿ですか。B：お金[かね]がほしいです。",
+          "en": "A: What do you want? B: I want money.",
+          "choices": [
+            "ほしい",
+            "ほしく",
+            "ほしがる",
+            "たい"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-suki-kirai",
+      "title": "〜が好[す]き / 〜が嫌[きら]い",
+      "meaning": "like / dislike",
+      "structure": "Noun + が + 好[す]き・嫌[きら]い + です / Verb (dictionary) + のが好[す]きです",
+      "explanation": "In English 'like' is a verb, but in Japanese {好[す]き} is a **{な}-adjective**. So the thing you like is marked with {が}, not {を}:\n\n{私[わたし]は猫[ねこ]が好[す]きです。} 'I like cats.' (literally, 'As for me, cats are liked.')\n\n- {大好[だいす]き} = love, like very much\n- {嫌[きら]い} = dislike (also a {な}-adjective, despite ending in {い})\n- {あまり好[す]きじゃありません} = I don't really like it. This is more tactful than {嫌[きら]い}, which is quite strong.\n\nTo like an **activity**, add {のが} after the dictionary form: {本[ほん]を読[よ]むのが好[す]きです。} 'I like reading books.'\n\nBefore a noun, use {な}: {好[す]きな食[た]べ物[もの]} 'favorite food'.",
+      "examples": [
+        {
+          "jp": "私[わたし]は猫[ねこ]が好[す]きです。",
+          "en": "I like cats."
+        },
+        {
+          "jp": "母[はは]は甘[あま]いものが大好[だいす]きです。",
+          "en": "My mother loves sweet things."
+        },
+        {
+          "jp": "野菜[やさい]はあまり好[す]きじゃありません。",
+          "en": "I don't really like vegetables."
+        },
+        {
+          "jp": "本[ほん]を読[よ]むのが好[す]きです。",
+          "en": "I like reading books."
+        },
+        {
+          "jp": "好[す]きな食[た]べ物[もの]は何[なん]ですか。",
+          "en": "What's your favorite food?"
+        }
+      ],
+      "notes": "{好[す]きです} said directly to a person can mean 'I have feelings for you', so be careful with how you use it!",
+      "quiz": [
+        {
+          "q": "私[わたし]は日本[にほん]の映画[えいが]＿＿好[す]きです。",
+          "en": "I like Japanese movies.",
+          "choices": [
+            "を",
+            "で",
+            "に",
+            "が"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "＿＿食[た]べ物[もの]は何[なん]ですか。",
+          "en": "What's your favorite food?",
+          "choices": [
+            "好[す]きな",
+            "好[す]きい",
+            "好[す]きの",
+            "好[す]き"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-jouzu-heta",
+      "title": "〜が上手[じょうず] / 〜が下手[へた]",
+      "meaning": "good at / bad at",
+      "structure": "Person + は + Noun + が + 上手[じょうず]・下手[へた] + です",
+      "explanation": "{上手[じょうず]} (skillful) and {下手[へた]} (unskillful) are {な}-adjectives, and just like {好[す]き}, the skill takes {が}:\n\n{田中[たなか]さんは歌[うた]が上手[じょうず]です。} 'Mr. Tanaka is good at singing.'\n\nFor activities, use {のが}: {絵[え]をかくのが上手[じょうず]です。} 'is good at drawing'.\n\n**Cultural tip:** don't use {上手[じょうず]} about yourself; it sounds like bragging. It's a word for praising others. When someone praises you, the modest reply is {いいえ、まだまだです。} 'No, I still have a long way to go.' You'll hear {日本語[にほんご]がお上手[じょうず]ですね！} a lot as a learner, often after just one sentence.",
+      "examples": [
+        {
+          "jp": "田中[たなか]さんは歌[うた]が上手[じょうず]です。",
+          "en": "Mr. Tanaka is good at singing."
+        },
+        {
+          "jp": "私[わたし]は料理[りょうり]が下手[へた]です。",
+          "en": "I'm bad at cooking."
+        },
+        {
+          "jp": "日本語[にほんご]がお上手[じょうず]ですね。",
+          "en": "Your Japanese is very good."
+        },
+        {
+          "jp": "兄[あに]は絵[え]をかくのが上手[じょうず]です。",
+          "en": "My older brother is good at drawing."
+        },
+        {
+          "jp": "私[わたし]は字[じ]があまり上手[じょうず]じゃありません。",
+          "en": "My handwriting isn't very good."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "マリアさんはピアノ＿＿上手[じょうず]です。",
+          "en": "Maria is good at playing the piano.",
+          "choices": [
+            "が",
+            "に",
+            "で",
+            "を"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "私[わたし]は歌[うた]が＿＿です。",
+          "en": "I'm bad at singing.",
+          "choices": [
+            "下手[へた]",
+            "上手[じょうず]",
+            "下手[へた]い",
+            "下手[へた]な"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-wakaru-dekiru",
+      "title": "〜がわかります / 〜ができます",
+      "meaning": "understand ~ / can do ~",
+      "structure": "Noun + が + わかります・できます",
+      "explanation": "Two very useful verbs that take {が} instead of {を}:\n\n- {わかる} = understand, know (a fact or a language). {日本語[にほんご]が少[すこ]しわかります。} 'I understand a little Japanese.'\n- {できる} = can do, be able to. {マリアさんはスペイン語[ご]ができます。} 'Maria can speak Spanish.'\n\nAs a learner, you'll say these all the time:\n\n- {わかりました。} Understood. / Got it.\n- {すみません、わかりません。} Sorry, I don't understand.\n\n{できる} also works with {する}-nouns: {運転[うんてん]ができます} 'can drive', {料理[りょうり]ができます} 'can cook'.",
+      "examples": [
+        {
+          "jp": "日本語[にほんご]が少[すこ]しわかります。",
+          "en": "I understand a little Japanese."
+        },
+        {
+          "jp": "漢字[かんじ]がぜんぜんわかりません。",
+          "en": "I don't understand kanji at all."
+        },
+        {
+          "jp": "この言葉[ことば]の意味[いみ]がわかりますか。",
+          "en": "Do you know what this word means?"
+        },
+        {
+          "jp": "マリアさんはスペイン語[ご]ができます。",
+          "en": "Maria can speak Spanish."
+        },
+        {
+          "jp": "私[わたし]は料理[りょうり]ができません。",
+          "en": "I can't cook."
+        }
+      ],
+      "notes": "At work, {わかりました} is a standard way to say 'Understood' to a coworker. For a boss or customer, the more formal {かしこまりました} or {承知[しょうち]しました} is often used.",
+      "quiz": [
+        {
+          "q": "英語[えいご]＿＿わかりますか。",
+          "en": "Do you understand English?",
+          "choices": [
+            "に",
+            "を",
+            "が",
+            "へ"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "私[わたし]は車[くるま]の運転[うんてん]が＿＿。",
+          "en": "I can't drive a car.",
+          "choices": [
+            "できません",
+            "いません",
+            "ありません",
+            "しません"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-tari-tari",
+      "title": "〜たり〜たりする",
+      "meaning": "do things like A and B",
+      "structure": "Verb₁ た-form + り、Verb₂ た-form + り + する",
+      "explanation": "Use {〜たり〜たりする} to give a few **examples** of activities, without listing everything. It's the verb version of {や}.\n\nTake the plain past ({た}-form), add {り}, and finish with a form of {する}:\n\n- {見[み]た} → {見[み]たり}\n- {読[よ]んだ} → {読[よ]んだり}\n\n{休[やす]みの日[ひ]は本[ほん]を読[よ]んだり、音楽[おんがく]を聞[き]いたりします。} 'On my days off, I do things like read books and listen to music.'\n\nThe tense and politeness go on the final {する}: {しました} (past), {したいです} (want to). Don't forget it. The sentence isn't finished without {する}.",
+      "examples": [
+        {
+          "jp": "週末[しゅうまつ]は掃除[そうじ]をしたり、洗濯[せんたく]をしたりします。",
+          "en": "On weekends I do things like cleaning and laundry."
+        },
+        {
+          "jp": "休[やす]みの日[ひ]は本[ほん]を読[よ]んだり、音楽[おんがく]を聞[き]いたりします。",
+          "en": "On my days off I read books, listen to music, and so on."
+        },
+        {
+          "jp": "昨日[きのう]は友達[ともだち]と買[か]い物[もの]をしたり、映画[えいが]を見[み]たりしました。",
+          "en": "Yesterday I went shopping, saw a movie and so on with a friend."
+        },
+        {
+          "jp": "日本[にほん]で寿司[すし]を食[た]べたり、温泉[おんせん]に入[はい]ったりしたいです。",
+          "en": "In Japan I want to do things like eat sushi and go to hot springs."
+        }
+      ],
+      "notes": "Compare with {て}: {〜て、〜て} lists actions in order (I did A, then B). {〜たり〜たり} just gives examples, with no particular order.",
+      "quiz": [
+        {
+          "q": "日曜日[にちようび]はテレビを見[み]たり、ゲームをし＿＿します。",
+          "en": "On Sundays I do things like watch TV and play games.",
+          "choices": [
+            "たり",
+            "ながら",
+            "たら",
+            "て"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "夏休[なつやす]みは海[うみ]で泳[およ]い＿＿、山[やま]に登[のぼ]ったりしました。",
+          "en": "During summer vacation I did things like swimming in the sea and climbing mountains.",
+          "choices": [
+            "だり",
+            "ったり",
+            "たり",
+            "んだり"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-tsumori",
+      "title": "〜つもりです",
+      "meaning": "plan to ~ / intend to ~",
+      "structure": "Verb (dictionary) + つもりです / Verb (ない) + つもりです",
+      "explanation": "{つもり} means 'intention'. Put it after a dictionary-form verb to say what you **plan** to do:\n\n{来年[らいねん]、日本[にほん]へ行[い]くつもりです。} 'I plan to go to Japan next year.'\n\nFor something you plan **not** to do, use the {ない}-form: {飲[の]まないつもりです。} 'I don't intend to drink.'\n\nHow is it different from {たい}?\n\n- {行[い]きたいです} = I want to go (a wish)\n- {行[い]くつもりです} = I plan to go (a decision)\n\n{つもり} sounds firm and personal. To ask a superior about their plans, it can sound a little too direct; something like {〜ますか} is safer.",
+      "examples": [
+        {
+          "jp": "来年[らいねん]、日本[にほん]へ行[い]くつもりです。",
+          "en": "I plan to go to Japan next year."
+        },
+        {
+          "jp": "日本[にほん]の会社[かいしゃ]で働[はたら]くつもりです。",
+          "en": "I intend to work at a Japanese company."
+        },
+        {
+          "jp": "夏休[なつやす]みは国[くに]に帰[かえ]るつもりです。",
+          "en": "I plan to go back to my home country for summer vacation."
+        },
+        {
+          "jp": "今日[きょう]はお酒[さけ]を飲[の]まないつもりです。",
+          "en": "I don't intend to drink alcohol today."
+        },
+        {
+          "jp": "週末[しゅうまつ]は何[なに]をするつもりですか。",
+          "en": "What are you planning to do this weekend?"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "来月[らいげつ]、＿＿つもりです。",
+          "en": "I plan to move next month.",
+          "choices": [
+            "引[ひ]っ越[こ]して",
+            "引[ひ]っ越[こ]し",
+            "引[ひ]っ越[こ]します",
+            "引[ひ]っ越[こ]す"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "今夜[こんや]は何[なに]も食[た]べ＿＿つもりです。",
+          "en": "I intend not to eat anything tonight.",
+          "choices": [
+            "ない",
+            "ます",
+            "た",
+            "て"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

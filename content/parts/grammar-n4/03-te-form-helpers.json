@@ -1,0 +1,177 @@
+{
+  "id": "n4-u03",
+  "title": "Te-form helpers: finish, prepare, try, leave",
+  "summary": "Attach helper verbs to the {て}-form to add meaning: {しまう} (finish / oops), {おく} (do in advance), {みる} (try), {ある} (has been done) and {いく}/{くる} (direction and change), plus the transitive/intransitive pairs that {てある} depends on.",
+  "points": [
+    {
+      "id": "n4-te-shimau",
+      "title": "〜てしまう",
+      "meaning": "do completely / (unfortunately) end up doing",
+      "structure": "V-て + しまう (casual: 〜ちゃう / 〜じゃう)",
+      "explanation": "{しまう} on its own means 'to put away'. After a {て}-form it adds one of two flavours:\n\n- **Completion**: doing something all the way to the end. {宿題[しゅくだい]を全部[ぜんぶ]やってしまった} 'I finished all my homework.'\n- **Regret or accident**: something happened that you didn't want, or can't undo. {財布[さいふ]を落[お]としてしまった} 'I (accidentally) dropped my wallet.'\n\nOften both feelings are mixed, as in 'I ate the whole thing (oops)'. Context and tone tell you which is stronger.\n\nIn casual speech, {てしまう} shrinks to {ちゃう} and {でしまう} to {じゃう}: {食[た]べちゃった}, {飲[の]んじゃった}, {忘[わす]れちゃった}. You'll hear these constantly.",
+      "examples": [
+        { "jp": "電車[でんしゃ]の中[なか]に傘[かさ]を忘[わす]れてしまいました。", "en": "I left my umbrella on the train." },
+        { "jp": "この本[ほん]、面白[おもしろ]くて一日[いちにち]で読[よ]んでしまった。", "en": "This book was so interesting that I read it all in one day." },
+        { "jp": "寝坊[ねぼう]して、授業[じゅぎょう]に遅[おく]れてしまった。", "en": "I overslept and ended up being late for class." },
+        { "jp": "友[とも]だちのケーキ、食[た]べちゃった。どうしよう。", "en": "I ate my friend's cake. What should I do?" },
+        { "jp": "時間[じかん]がないから、先[さき]に仕事[しごと]をやってしまいます。", "en": "I'm short on time, so I'll get the work done first." }
+      ],
+      "quiz": [
+        {
+          "q": "大切[たいせつ]なお皿[さら]を＿＿しまいました。",
+          "en": "I (accidentally) broke an important plate.",
+          "choices": ["割[わ]って", "割[わ]れて", "割[わ]る", "割[わ]った"],
+          "answer": 0
+        },
+        {
+          "q": "お腹[なか]がすいていたので、全部[ぜんぶ]食[た]べ＿＿。",
+          "en": "I was hungry, so I ate it all up.",
+          "choices": ["ちゃった", "じゃった", "しまった", "ちった"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-te-oku",
+      "title": "〜ておく",
+      "meaning": "do in advance / do and leave it that way",
+      "structure": "V-て + おく (casual: 〜とく / 〜どく)",
+      "explanation": "{おく} means 'to put / place'. After a {て}-form it means doing something now so that things are ready for later: {旅行[りょこう]の前[まえ]にホテルを予約[よやく]しておく} 'book a hotel before the trip (in advance)'.\n\nIt can also mean leaving something in a certain state on purpose: {窓[まど]を開[あ]けておいてください} 'Please leave the window open.' {そのままにしておいてください} 'Please leave it as it is.'\n\nIn casual speech, {ておく} contracts to {とく} and {でおく} to {どく}: {買[か]っとく} 'I'll buy it (ahead of time)', {読[よ]んどいて} 'Read it (beforehand), OK?'",
+      "examples": [
+        { "jp": "友[とも]だちが来[く]る前[まえ]に、部屋[へや]を掃除[そうじ]しておきます。", "en": "I'll clean my room before my friend comes." },
+        { "jp": "明日[あした]の会議[かいぎ]の資料[しりょう]を読[よ]んでおいてください。", "en": "Please read the materials for tomorrow's meeting beforehand." },
+        { "jp": "暑[あつ]いから、窓[まど]を開[あ]けておこう。", "en": "It's hot, so let's leave the window open." },
+        { "jp": "ビール、冷蔵庫[れいぞうこ]に入[い]れとくね。", "en": "I'll put the beer in the fridge (so it's ready)." }
+      ],
+      "notes": "When someone offers to tidy something away and you want it left alone: {あ、そのままにしておいてください}.",
+      "quiz": [
+        {
+          "q": "パーティーの前[まえ]に、飲[の]み物[もの]を買[か]って＿＿。",
+          "en": "I'll buy the drinks in advance, before the party.",
+          "choices": ["おきます", "あります", "います", "みます"],
+          "answer": 0
+        },
+        {
+          "q": "明日[あした]使[つか]うから、そのままにして＿＿ください。",
+          "en": "I'll use it tomorrow, so please leave it as it is.",
+          "choices": ["おいて", "あって", "しまって", "みて"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-te-miru",
+      "title": "〜てみる",
+      "meaning": "try doing (to see what it's like)",
+      "structure": "V-て + みる",
+      "explanation": "{みる} here is the verb 'to see', written in hiragana. {V-て + みる} means 'do it and see' — try something out to find out what it's like: {この服[ふく]、着[き]てみてもいいですか} 'May I try this on?'\n\nIt's about testing or sampling, not about struggling to do something difficult. 'I tried to open the door (but couldn't)' needs a different pattern ({〜ようとした}, which you'll meet at N3).\n\nVery common combinations: {〜てみたい} 'I'd like to try ~', {〜てみてください} 'Try ~ing', and {〜てみよう} 'Let's try ~ / I'll give it a go'.",
+      "examples": [
+        { "jp": "この服[ふく]、着[き]てみてもいいですか。", "en": "May I try this on?" },
+        { "jp": "初[はじ]めて納豆[なっとう]を食[た]べてみました。", "en": "I tried natto for the first time." },
+        { "jp": "分[わ]からない言葉[ことば]は、辞書[じしょ]で調[しら]べてみてください。", "en": "Try looking up words you don't know in the dictionary." },
+        { "jp": "一度[いちど]、富士山[ふじさん]に登[のぼ]ってみたいです。", "en": "I'd like to try climbing Mt. Fuji once." },
+        { "jp": "店[みせ]の人[ひと]に聞[き]いてみよう。", "en": "Let's try asking someone at the shop." }
+      ],
+      "quiz": [
+        {
+          "q": "この靴[くつ]、はいて＿＿もいいですか。",
+          "en": "May I try these shoes on?",
+          "choices": ["みて", "おいて", "しまって", "あって"],
+          "answer": 0
+        },
+        {
+          "q": "日本[にほん]の温泉[おんせん]に一度[いちど]行[い]って＿＿たいです。",
+          "en": "I'd like to try going to a Japanese hot spring once.",
+          "choices": ["み", "しまい", "あり", "おり"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-transitive-intransitive",
+      "title": "Transitive and intransitive pairs (開[あ]ける / 開[あ]く)",
+      "meaning": "someone does something to X / X happens by itself",
+      "structure": "Thing を + transitive verb / Thing が + intransitive verb",
+      "explanation": "Many Japanese verbs come in pairs. A **transitive** verb has someone acting on an object marked with {を}: {私[わたし]がドアを開[あ]けた} 'I opened the door.' An **intransitive** verb describes the thing changing by itself, marked with {が}: {ドアが開[あ]いた} 'The door opened.'\n\nCommon pairs (transitive / intransitive):\n\n- {開[あ]ける} / {開[あ]く}, {閉[し]める} / {閉[し]まる}\n- {始[はじ]める} / {始[はじ]まる}, {止[と]める} / {止[と]まる}\n- {つける} / {つく}, {消[け]す} / {消[き]える}\n- {入[い]れる} / {入[はい]る}, {出[だ]す} / {出[で]る}\n- {落[お]とす} / {落[お]ちる}, {壊[こわ]す} / {壊[こわ]れる}\n\nJapanese often prefers the intransitive when describing what happened without focusing on who did it, which can sound less like blaming: {コップが割[わ]れた} 'The glass broke.'",
+      "examples": [
+        { "jp": "授業[じゅぎょう]は九時[くじ]に始[はじ]まります。", "en": "Class starts at nine." },
+        { "jp": "先生[せんせい]が授業[じゅぎょう]を始[はじ]めました。", "en": "The teacher started the class." },
+        { "jp": "急[きゅう]に電気[でんき]が消[き]えました。", "en": "The lights suddenly went out." },
+        { "jp": "寝[ね]る前[まえ]に電気[でんき]を消[け]してください。", "en": "Please turn off the lights before you go to bed." },
+        { "jp": "子[こ]どもがおもちゃを壊[こわ]して、おもちゃが動[うご]かなくなった。", "en": "The child broke the toy, and it stopped working." }
+      ],
+      "notes": "Patterns that help (they're tendencies, not perfect rules): verbs ending in {-す} are usually transitive ({出[だ]す}, {消[け]す}, {落[お]とす}); in {-eる} / {-aる} pairs, the {-aる} verb is intransitive ({閉[し]める} / {閉[し]まる}, {始[はじ]める} / {始[はじ]まる}).",
+      "quiz": [
+        {
+          "q": "風[かぜ]で窓[まど]が＿＿。",
+          "en": "The window opened because of the wind.",
+          "choices": ["開[あ]きました", "開[あ]けました", "開[あ]けてしまいました", "開[あ]けておきました"],
+          "answer": 0
+        },
+        {
+          "q": "寒[さむ]いので、窓[まど]を＿＿ください。",
+          "en": "It's cold, so please close the window.",
+          "choices": ["閉[し]めて", "閉[し]まって", "閉[し]まりて", "閉[し]めって"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-te-aru",
+      "title": "〜てある",
+      "meaning": "has been done (on purpose, and stays that way)",
+      "structure": "Thing が + transitive V-て + ある",
+      "explanation": "{V-て + ある} describes a state that is the result of someone's deliberate action. It uses **transitive** verbs, and the object becomes {が}: {窓[まど]が開[あ]けてある} 'The window has been opened (by someone, for a reason) and is open.' Who did it usually doesn't matter.\n\nCompare it with intransitive verb + {ている}: {窓[まど]が開[あ]いている} 'The window is open.' This just describes what you see, with no suggestion that anyone did it on purpose.\n\n{てある} often reports the result of {ておく}: {ビールを冷[ひ]やしておいた} 'I chilled the beer (in advance)' → {ビールが冷[ひ]やしてある} 'The beer has been chilled (it's ready).'",
+      "examples": [
+        { "jp": "壁[かべ]にカレンダーが掛[か]けてあります。", "en": "A calendar has been hung on the wall." },
+        { "jp": "机[つくえ]の上[うえ]にメモが置[お]いてあります。", "en": "A note has been left on the desk." },
+        { "jp": "冷蔵庫[れいぞうこ]にビールが冷[ひ]やしてありますよ。", "en": "There's beer chilling in the fridge (I put it there for you)." },
+        { "jp": "ホテルはもう予約[よやく]してあるから、大丈夫[だいじょうぶ]だよ。", "en": "The hotel is already booked, so don't worry." },
+        { "jp": "あれ、ドアが開[あ]いていますね。", "en": "Huh, the door is open." }
+      ],
+      "notes": "A common mistake is mixing the two patterns: {窓[まど]が開[あ]けている} is wrong. Remember: transitive + {てある}, intransitive + {ている}.",
+      "quiz": [
+        {
+          "q": "玄関[げんかん]に花[はな]が飾[かざ]って＿＿。",
+          "en": "Flowers have been put out as decoration in the entrance.",
+          "choices": ["あります", "います", "おきます", "みます"],
+          "answer": 0
+        },
+        {
+          "q": "部屋[へや]が暑[あつ]かったので、窓[まど]が＿＿あります。",
+          "en": "The room was hot, so the windows have been opened.",
+          "choices": ["開[あ]けて", "開[あ]いて", "開[あ]けた", "開[あ]き"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-te-iku-kuru",
+      "title": "〜ていく / 〜てくる",
+      "meaning": "go/come doing; change from now on / up to now",
+      "structure": "V-て + いく / V-て + くる",
+      "explanation": "{いく} ('go') and {くる} ('come') after a {て}-form have two main uses.\n\n**1. Direction in space.** {持[も]っていく} 'take (something) along', {持[も]ってくる} 'bring', {歩[ある]いていく} 'go on foot'. {〜てくる} can also mean 'go, do something, and come back': {ちょっと買[か]ってくる} 'I'll just go buy it (and be right back).'\n\n**2. Change over time.** {〜てくる} shows change that has developed up to now, or something that has started to happen: {寒[さむ]くなってきた} 'It's gotten colder', {雨[あめ]が降[ふ]ってきた} 'It's started to rain.' {〜ていく} shows change continuing from now into the future: {これから増[ふ]えていく} 'will keep increasing from now on.'\n\nAs helpers, {いく} and {くる} are written in hiragana.",
+      "examples": [
+        { "jp": "明日[あした]のピクニックにお弁当[べんとう]を持[も]っていきます。", "en": "I'll take a packed lunch to tomorrow's picnic." },
+        { "jp": "ちょっとコンビニで飲[の]み物[もの]を買[か]ってくるね。", "en": "I'll just pop to the convenience store and get a drink." },
+        { "jp": "だんだん寒[さむ]くなってきましたね。", "en": "It's been getting colder and colder, hasn't it?" },
+        { "jp": "これから日本[にほん]に住[す]む外国人[がいこくじん]はもっと増[ふ]えていくでしょう。", "en": "From now on, the number of foreigners living in Japan will probably keep increasing." }
+      ],
+      "notes": "The everyday greeting {行[い]ってきます} literally means 'I'll go and come back.'",
+      "quiz": [
+        {
+          "q": "最近[さいきん]、だんだん暑[あつ]くなって＿＿ね。",
+          "en": "It's been getting hotter lately, hasn't it?",
+          "choices": ["きました", "いきました", "おきました", "みました"],
+          "answer": 0
+        },
+        {
+          "q": "出[で]かけるとき、傘[かさ]を持[も]って＿＿ね。",
+          "en": "When you go out, take an umbrella with you, OK?",
+          "choices": ["いって", "きて", "おいて", "あって"],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

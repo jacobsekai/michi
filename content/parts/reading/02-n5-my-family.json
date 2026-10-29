@@ -1,0 +1,21 @@
+{
+  "id": "r-n5-02",
+  "level": "N5",
+  "title": "My Family",
+  "titleJp": "私[わたし]の家族[かぞく]",
+  "sentences": [
+    { "jp": "私[わたし]の家族[かぞく]は四人[よにん]です。", "en": "There are four people in my family." },
+    { "jp": "父[ちち]と母[はは]と姉[あね]と私[わたし]です。", "en": "My father, my mother, my older sister, and me." },
+    { "jp": "父[ちち]は銀行[ぎんこう]で働[はたら]いています。", "en": "My father works at a bank." },
+    { "jp": "母[はは]は料理[りょうり]がとても上手[じょうず]です。", "en": "My mother is very good at cooking." },
+    { "jp": "姉[あね]は大学生[だいがくせい]で、今[いま]、大阪[おおさか]に住[す]んでいます。", "en": "My older sister is a university student and lives in Osaka now." },
+    { "jp": "家[いえ]には小[ちい]さい犬[いぬ]もいます。", "en": "We also have a small dog at home." },
+    { "jp": "名前[なまえ]はポチです。", "en": "Its name is Pochi." },
+    { "jp": "日曜日[にちようび]の夜[よる]は、みんなでいっしょに晩[ばん]ご飯[はん]を食[た]べます。", "en": "On Sunday evenings, we all eat dinner together." }
+  ],
+  "questions": [
+    { "q": "How many people are in the writer's family?", "choices": ["Four", "Three", "Five", "Six"], "answer": 0 },
+    { "q": "Where does the writer's older sister live now?", "choices": ["With the family", "In Tokyo", "In Osaka", "In Kyoto"], "answer": 2 },
+    { "q": "What does the family do on Sunday evenings?", "choices": ["Walk the dog", "Eat dinner together", "Go to the bank", "Cook with their mother"], "answer": 1 }
+  ]
+}

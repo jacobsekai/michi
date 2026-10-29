@@ -1,0 +1,58 @@
+{
+  "id": "life-trains",
+  "title": "Trains, IC cards & asking directions",
+  "level": "N5",
+  "intro": "Trains and subways are the backbone of daily life in Japanese cities. The easiest way to ride is a rechargeable IC card such as Suica, PASMO or ICOCA. The major cards work on most trains, subways and buses in the big metropolitan areas and at many shops, and you can also put one on many smartphones. Tap the card on the gate when you enter and again when you leave; the fare is deducted automatically. Top it up ({チャージ}) with cash at station machines.\n\nIf you commute, you will probably buy a commuter pass ({定期券[ていきけん]}) for your regular route. Many employers pay commuting costs ({通勤[つうきん]手当[てあて]}), so ask before you buy.\n\nTrains come in several types, and faster ones skip stations: {各駅停車[かくえきていしゃ]} (local, stops everywhere), {快速[かいそく]} (rapid), {急行[きゅうこう]} (express), and {特急[とっきゅう]} (limited express, which often needs an extra ticket). Always check that your train stops at your station.\n\nTrain etiquette: keep your voice low, do not take phone calls, let people off before getting on, and leave priority seats ({優先席[ゆうせんせき]}) for those who need them. Some lines have women-only cars during rush hours. Last trains ({終電[しゅうでん]}) leave around midnight.\n\nIf you get lost, ask station staff or go to a police box ({交番[こうばん]}); officers there give directions all the time.",
+  "phrases": [
+    { "jp": "すみません、渋谷駅[しぶやえき]はどこですか。", "en": "Excuse me, where is Shibuya Station?" },
+    { "jp": "この電車[でんしゃ]は新宿[しんじゅく]に行[い]きますか。", "en": "Does this train go to Shinjuku?" },
+    { "jp": "この電車[でんしゃ]は荻窪[おぎくぼ]に止[と]まりますか。", "en": "Does this train stop at Ogikubo?" },
+    { "jp": "横浜[よこはま]は何番線[なんばんせん]ですか。", "en": "Which platform is it for Yokohama?" },
+    { "jp": "どこで乗[の]り換[か]えればいいですか。", "en": "Where should I change trains?" },
+    { "jp": "新宿[しんじゅく]までいくらですか。", "en": "How much is it to Shinjuku?" },
+    { "jp": "ICカードにチャージしたいんですが。", "en": "I'd like to top up my IC card." },
+    { "jp": "改札[かいさつ]が通[とお]れません。", "en": "I can't get through the ticket gate.", "note": "Usually means not enough balance. Station staff at the window next to the gates will help." },
+    { "jp": "電車[でんしゃ]に忘[わす]れ物[もの]をしました。", "en": "I left something on the train." },
+    { "jp": "道[みち]に迷[まよ]ってしまいました。", "en": "I've got lost." },
+    { "jp": "市役所[しやくしょ]への行[い]き方[かた]を教[おし]えていただけませんか。", "en": "Could you tell me how to get to the city office?" },
+    { "jp": "ここから歩[ある]いて何分[なんぷん]ぐらいですか。", "en": "About how many minutes is it on foot from here?" },
+    { "jp": "まっすぐ行[い]って、二[ふた]つ目[め]の信号[しんごう]を右[みぎ]に曲[ま]がってください。", "en": "Go straight and turn right at the second traffic light.", "note": "A typical answer. Listen for {右[みぎ]} (right), {左[ひだり]} (left), {まっすぐ} (straight)." },
+    { "jp": "地図[ちず]で教[おし]えてもらえますか。", "en": "Could you show me on the map?" },
+    { "jp": "東口[ひがしぐち]はどちらですか。", "en": "Which way is the east exit?" }
+  ],
+  "vocab": [
+    { "jp": "駅[えき]", "en": "station" },
+    { "jp": "電車[でんしゃ]", "en": "train" },
+    { "jp": "地下鉄[ちかてつ]", "en": "subway" },
+    { "jp": "改札[かいさつ]", "en": "ticket gate" },
+    { "jp": "〜番線[ばんせん]", "en": "platform number ~" },
+    { "jp": "乗[の]り換[か]え", "en": "transfer, change of trains" },
+    { "jp": "各駅停車[かくえきていしゃ]", "en": "local train (all stops)" },
+    { "jp": "快速[かいそく]", "en": "rapid train" },
+    { "jp": "特急[とっきゅう]", "en": "limited express" },
+    { "jp": "終電[しゅうでん]", "en": "last train" },
+    { "jp": "定期券[ていきけん]", "en": "commuter pass" },
+    { "jp": "優先席[ゆうせんせき]", "en": "priority seat" },
+    { "jp": "出口[でぐち]", "en": "exit" },
+    { "jp": "交番[こうばん]", "en": "police box" },
+    { "jp": "信号[しんごう]", "en": "traffic light" }
+  ],
+  "dialogue": [
+    { "speaker": "You", "jp": "すみません、横浜[よこはま]に行[い]きたいんですが、何番線[なんばんせん]ですか。", "en": "Excuse me, I want to go to Yokohama. Which platform is it?" },
+    { "speaker": "Staff", "jp": "横浜[よこはま]でしたら、3番線[さんばんせん]です。", "en": "For Yokohama, platform 3." },
+    { "speaker": "You", "jp": "乗[の]り換[か]えはありますか。", "en": "Do I need to change trains?" },
+    { "speaker": "Staff", "jp": "いいえ、乗[の]り換[か]えなしで行[い]けますよ。快速[かいそく]が早[はや]いです。", "en": "No, you can go without changing. The rapid train is faster." },
+    { "speaker": "You", "jp": "次[つぎ]の快速[かいそく]は何時[なんじ]ですか。", "en": "What time is the next rapid train?" },
+    { "speaker": "Staff", "jp": "10時[じゅうじ]15分[じゅうごふん]発[はつ]です。", "en": "It leaves at 10:15." },
+    { "speaker": "You", "jp": "ICカードの残高[ざんだか]が足[た]りないかもしれません。", "en": "I might not have enough balance on my IC card." },
+    { "speaker": "Staff", "jp": "改札[かいさつ]の手前[てまえ]にチャージ機[き]がありますよ。", "en": "There's a top-up machine just before the gates." },
+    { "speaker": "You", "jp": "ありがとうございます。助[たす]かりました。", "en": "Thank you. That really helped." }
+  ],
+  "tips": [
+    "Use a route app in your phone's language, but learn to read station names in kanji too; signs and announcements switch between them.",
+    "Many people walk on one side of escalators, but rail companies and some local governments officially ask everyone to stand still on both sides.",
+    "Ask your employer whether they reimburse commuting before buying a {定期券[ていきけん]}; you usually need to report your route.",
+    "If your train is badly delayed, stations can issue a delay certificate ({遅延[ちえん]証明書[しょうめいしょ]}) to show your workplace. Many rail companies also publish them online.",
+    "Check the time of the last train when you go out at night. Taxis after midnight can be expensive."
+  ]
+}

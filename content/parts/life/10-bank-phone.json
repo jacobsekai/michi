@@ -1,0 +1,58 @@
+{
+  "id": "life-bank-phone",
+  "title": "Bank account & phone contract",
+  "level": "N4",
+  "intro": "A bank account and a phone number are the next two things you need, and each tends to ask for the other. Many newcomers solve this by getting a data SIM or eSIM first, or by using a number arranged through their workplace or school.\n\n**Banks.** You will need your residence card (with your registered address), a Japanese phone number, and sometimes proof of employment or study. Some banks also ask for a personal seal ({印鑑[いんかん]}), though many now accept a signature. Some banks are stricter with people who have only just arrived, so ask before you go. Japan Post Bank ({ゆうちょ銀行[ぎんこう]}) is a common first choice because it has branches and ATMs almost everywhere. Expect to be asked why you are opening the account; this is a routine anti-fraud check. Your cash card is usually sent to your registered address by registered mail, which is not forwarded.\n\nYour salary will be paid by bank transfer ({振込[ふりこみ]}), and many bills can be paid by automatic debit ({口座[こうざ]振替[ふりかえ]}).\n\n**Phones.** There are a few large carriers, their cheaper sub-brands, and many low-cost providers ({格安[かくやす]SIM}). Bring your residence card and a payment method; some providers require a credit card. Early cancellation penalties are much smaller than they once were, but always ask.\n\nImportant: never sell, lend or hand over your bank account or SIM to anyone, even when you leave Japan. This is a crime, and such accounts are used for fraud. Close them properly before you go.",
+  "phrases": [
+    { "jp": "口座[こうざ]を開設[かいせつ]したいんですが。", "en": "I'd like to open an account." },
+    { "jp": "何[なに]を持[も]ってくればいいですか。", "en": "What do I need to bring?" },
+    { "jp": "印鑑[いんかん]がないんですが、サインでも大丈夫[だいじょうぶ]ですか。", "en": "I don't have a seal. Is a signature OK?" },
+    { "jp": "給料[きゅうりょう]の振込[ふりこみ]に使[つか]います。", "en": "I'll use it to receive my salary." },
+    { "jp": "キャッシュカードはいつ届[とど]きますか。", "en": "When will my cash card arrive?" },
+    { "jp": "ネットバンキングは使[つか]えますか。", "en": "Can I use online banking?" },
+    { "jp": "海外[かいがい]に送金[そうきん]できますか。", "en": "Can I send money abroad?" },
+    { "jp": "暗証番号[あんしょうばんごう]を忘[わす]れてしまいました。", "en": "I've forgotten my PIN." },
+    { "jp": "携帯[けいたい]の契約[けいやく]をしたいんですが。", "en": "I'd like to sign up for a phone contract." },
+    { "jp": "一番[いちばん]安[やす]いプランはどれですか。", "en": "Which is the cheapest plan?" },
+    { "jp": "データ通信[つうしん]だけのプランはありますか。", "en": "Do you have a data-only plan?" },
+    { "jp": "今[いま]のスマホをそのまま使[つか]えますか。", "en": "Can I keep using my current smartphone?" },
+    { "jp": "支払[しはら]いは口座[こうざ]振替[ふりかえ]にできますか。", "en": "Can I pay by automatic bank debit?" },
+    { "jp": "解約[かいやく]するとき、お金[かね]はかかりますか。", "en": "Is there a fee if I cancel?" },
+    { "jp": "帰国[きこく]するので、口座[こうざ]を解約[かいやく]したいです。", "en": "I'm returning home, so I'd like to close my account." }
+  ],
+  "vocab": [
+    { "jp": "銀行[ぎんこう]", "en": "bank" },
+    { "jp": "口座[こうざ]", "en": "bank account" },
+    { "jp": "通帳[つうちょう]", "en": "bankbook, passbook" },
+    { "jp": "キャッシュカード", "en": "cash (ATM) card" },
+    { "jp": "暗証番号[あんしょうばんごう]", "en": "PIN" },
+    { "jp": "振込[ふりこみ]", "en": "bank transfer (payment)" },
+    { "jp": "口座[こうざ]振替[ふりかえ]", "en": "automatic debit" },
+    { "jp": "引[ひ]き出[だ]す", "en": "to withdraw (money)" },
+    { "jp": "手数料[てすうりょう]", "en": "fee, commission" },
+    { "jp": "残高[ざんだか]", "en": "balance" },
+    { "jp": "送金[そうきん]", "en": "remittance, sending money" },
+    { "jp": "契約[けいやく]", "en": "contract" },
+    { "jp": "解約[かいやく]", "en": "cancellation (of a contract or account)" },
+    { "jp": "格安[かくやす]SIM", "en": "budget mobile provider / SIM" }
+  ],
+  "dialogue": [
+    { "speaker": "Teller", "jp": "いらっしゃいませ。本日[ほんじつ]はどのようなご用件[ようけん]でしょうか。", "en": "Welcome. How may I help you today?" },
+    { "speaker": "You", "jp": "口座[こうざ]を開設[かいせつ]したいんですが。", "en": "I'd like to open an account." },
+    { "speaker": "Teller", "jp": "かしこまりました。在留[ざいりゅう]カードと、お勤[つと]め先[さき]がわかる書類[しょるい]はお持[も]ちでしょうか。", "en": "Certainly. Do you have your residence card and a document showing your employer?" },
+    { "speaker": "You", "jp": "はい、在留[ざいりゅう]カードと社員証[しゃいんしょう]があります。", "en": "Yes, I have my residence card and my staff ID." },
+    { "speaker": "Teller", "jp": "ありがとうございます。口座[こうざ]のご利用[りよう]目的[もくてき]を伺[うかが]ってもよろしいでしょうか。", "en": "Thank you. May I ask what you'll use the account for?" },
+    { "speaker": "You", "jp": "給料[きゅうりょう]の受[う]け取[と]りと、生活費[せいかつひ]の支払[しはら]いです。", "en": "Receiving my salary and paying living expenses." },
+    { "speaker": "Teller", "jp": "かしこまりました。では、こちらの申込書[もうしこみしょ]にご記入[きにゅう]をお願[ねが]いいたします。", "en": "Understood. Then please fill in this application form." },
+    { "speaker": "You", "jp": "印鑑[いんかん]は必要[ひつよう]ですか。", "en": "Do I need a seal?" },
+    { "speaker": "Teller", "jp": "サインでも大丈夫[だいじょうぶ]です。キャッシュカードは、1、2週間[にしゅうかん]ほどでご自宅[じたく]に郵送[ゆうそう]いたします。", "en": "A signature is fine. We'll mail your cash card to your home in about one to two weeks." },
+    { "speaker": "You", "jp": "わかりました。よろしくお願[ねが]いします。", "en": "OK. Thank you." }
+  ],
+  "tips": [
+    "Make sure your name is on your mailbox before the cash card is sent, or the registered mail may be returned.",
+    "ATM fees can depend on the time of day and whether you use your own bank's machine. Convenience store ATMs are handy but often charge.",
+    "Bank account names are usually registered in katakana. Know how your name is written so you can give it to your employer for salary payments.",
+    "If someone offers to buy your bank account or phone line when you leave Japan, refuse. It is illegal and you can be held responsible.",
+    "Before leaving Japan, cancel your phone contract and close or settle your bank account, but keep one account open until your final salary and any refunds have arrived."
+  ]
+}

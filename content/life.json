@@ -1,0 +1,4658 @@
+{
+ "units": [
+  {
+   "id": "life-greetings",
+   "title": "Greetings & politeness basics",
+   "level": "N5",
+   "intro": "Daily life in Japan runs on a small set of fixed phrases. You will hear the same greetings, thanks and apologies dozens of times a day, and using them smoothly matters more than perfect grammar.\n\nThe most important choice is **politeness level**. With strangers, shop staff, neighbors, officials and colleagues, speak in the polite {です／ます} style. Casual speech is for friends, family and people who have clearly invited you to relax. If you are unsure, stay polite: nobody is offended by politeness, but sudden casual speech can sound rude.\n\nGreetings usually come with a small bow ({お辞儀[じぎ]}). For everyday situations, a slight nod of the head is enough; deeper bows are for apologies, formal thanks and ceremonies. You do not need to bow and shake hands at the same time, though many Japanese people will offer a handshake to foreigners.\n\nWhen you enter a shop, staff will call out {いらっしゃいませ} (welcome). You are not expected to answer; a nod or simply carrying on is normal.\n\nOne word does a lot of work: {すみません}. It means excuse me (to get attention), sorry (for a small mistake), and even thank you (when someone has gone to trouble for you). Learn it first.\n\nFinally, names: add {さん} to other people's names, but never to your own.",
+   "phrases": [
+    {
+     "jp": "おはようございます。",
+     "en": "Good morning.",
+     "note": "Polite form. Among friends, just {おはよう}. Some workplaces use it as the first greeting of a shift, whatever the time."
+    },
+    {
+     "jp": "こんにちは。",
+     "en": "Hello. / Good afternoon.",
+     "note": "Used from late morning to early evening. Not normally used with your own colleagues or family."
+    },
+    {
+     "jp": "こんばんは。",
+     "en": "Good evening."
+    },
+    {
+     "jp": "ありがとうございます。",
+     "en": "Thank you."
+    },
+    {
+     "jp": "どうもありがとうございました。",
+     "en": "Thank you very much (for what you did).",
+     "note": "The past form {ございました} thanks someone for something already finished, such as at the end of a shop visit."
+    },
+    {
+     "jp": "すみません。",
+     "en": "Excuse me. / Sorry. / Thanks (for your trouble)."
+    },
+    {
+     "jp": "ごめんなさい。",
+     "en": "I'm sorry.",
+     "note": "A personal apology, softer and less formal. In business, use {申[もう]し訳[わけ]ありません} instead."
+    },
+    {
+     "jp": "お願[ねが]いします。",
+     "en": "Please. (when asking for something)",
+     "note": "Put it after a noun to request it: {これ、お願[ねが]いします} (This one, please)."
+    },
+    {
+     "jp": "大丈夫[だいじょうぶ]です。",
+     "en": "I'm fine. / No thanks, I'm OK.",
+     "note": "Very common as a polite refusal, e.g. when offered a bag. Context decides whether it means yes or no."
+    },
+    {
+     "jp": "日本語[にほんご]が少[すこ]しわかります。",
+     "en": "I understand a little Japanese."
+    },
+    {
+     "jp": "もう一度[いちど]お願[ねが]いします。",
+     "en": "One more time, please."
+    },
+    {
+     "jp": "ゆっくり話[はな]していただけますか。",
+     "en": "Could you speak slowly, please?"
+    },
+    {
+     "jp": "英語[えいご]は大丈夫[だいじょうぶ]ですか。",
+     "en": "Is English OK (for you)?"
+    },
+    {
+     "jp": "失礼[しつれい]します。",
+     "en": "Excuse me (as I enter / leave).",
+     "note": "Said when entering a room, leaving, or passing in front of someone."
+    },
+    {
+     "jp": "いただきます。／ごちそうさまでした。",
+     "en": "(before eating) / Thank you for the meal. (after eating)"
+    },
+    {
+     "jp": "行[い]ってきます。／行[い]ってらっしゃい。",
+     "en": "I'm off (and will be back). / See you later (take care).",
+     "note": "Said at home or the office when someone leaves and will return."
+    },
+    {
+     "jp": "じゃあ、また。",
+     "en": "See you. (casual)",
+     "note": "{さようなら} sounds like a long goodbye and is mostly used by children and teachers. Adults usually say {失礼[しつれい]します} or {じゃあ、また}."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "挨拶[あいさつ]",
+     "en": "greeting"
+    },
+    {
+     "jp": "お辞儀[じぎ]",
+     "en": "bow"
+    },
+    {
+     "jp": "敬語[けいご]",
+     "en": "polite / honorific language"
+    },
+    {
+     "jp": "丁寧[ていねい]",
+     "en": "polite, courteous"
+    },
+    {
+     "jp": "名前[なまえ]",
+     "en": "name"
+    },
+    {
+     "jp": "日本語[にほんご]",
+     "en": "Japanese (language)"
+    },
+    {
+     "jp": "英語[えいご]",
+     "en": "English (language)"
+    },
+    {
+     "jp": "少[すこ]し",
+     "en": "a little"
+    },
+    {
+     "jp": "ゆっくり",
+     "en": "slowly"
+    },
+    {
+     "jp": "上手[じょうず]",
+     "en": "skilled, good at"
+    },
+    {
+     "jp": "近所[きんじょ]の人[ひと]",
+     "en": "neighbor"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Neighbor",
+     "jp": "おはようございます。",
+     "en": "Good morning."
+    },
+    {
+     "speaker": "You",
+     "jp": "おはようございます。",
+     "en": "Good morning."
+    },
+    {
+     "speaker": "Neighbor",
+     "jp": "今日[きょう]は寒[さむ]いですね。",
+     "en": "It's cold today, isn't it?"
+    },
+    {
+     "speaker": "You",
+     "jp": "すみません、もう一度[いちど]お願[ねが]いします。",
+     "en": "Sorry, one more time, please."
+    },
+    {
+     "speaker": "Neighbor",
+     "jp": "今日[きょう]は、寒[さむ]い、ですね。",
+     "en": "Today... is cold... isn't it?"
+    },
+    {
+     "speaker": "You",
+     "jp": "ああ、はい。本当[ほんとう]に寒[さむ]いですね。",
+     "en": "Ah, yes. It really is cold."
+    },
+    {
+     "speaker": "Neighbor",
+     "jp": "日本語[にほんご]、お上手[じょうず]ですね。",
+     "en": "Your Japanese is good."
+    },
+    {
+     "speaker": "You",
+     "jp": "いえいえ、まだまだです。",
+     "en": "Oh no, I still have a long way to go."
+    },
+    {
+     "speaker": "Neighbor",
+     "jp": "じゃあ、お気[き]をつけて。",
+     "en": "Well, take care."
+    },
+    {
+     "speaker": "You",
+     "jp": "ありがとうございます。失礼[しつれい]します。",
+     "en": "Thank you. Goodbye."
+    }
+   ],
+   "tips": [
+    "When someone compliments your Japanese ({日本語[にほんご]、上手[じょうず]ですね}), the natural reply is modest: {いえいえ、まだまだです}. Saying a plain thank you is fine too, but agreeing (I know!) sounds odd.",
+    "{お元気[げんき]ですか} is not an everyday how are you. It is used when you haven't seen someone for a while. Day to day, people comment on the weather instead.",
+    "A direct {いいえ} (no) can feel blunt. People soften refusals with {ちょっと…} or {大丈夫[だいじょうぶ]です}.",
+    "Bow while saying the phrase, not after it, and keep your eyes down slightly. Do not overthink it; a sincere small bow is always fine.",
+    "Never add {さん} to your own name or your family members' names when talking to others."
+   ]
+  },
+  {
+   "id": "life-self-intro",
+   "title": "Self-introduction",
+   "level": "N5",
+   "intro": "You will introduce yourself constantly in your first months: to neighbors, at language exchanges, in a share house, at the ward office and later at work. In Japan this is called {自己紹介[じこしょうかい]}, and it follows a fairly fixed pattern, which makes it easy to prepare.\n\nA typical self-introduction has four or five parts:\n\n- An opener: {はじめまして} (nice to meet you, used only at a first meeting).\n- Your name: {〜です}, or the more formal {〜と申[もう]します}.\n- Where you are from and/or where you live now.\n- What you do (job, study) and perhaps a hobby.\n- A closing: {よろしくお願[ねが]いします}, which roughly means I look forward to our relationship, please treat me well.\n\nKeep it short. Japanese self-introductions are usually brief and modest; ten to twenty seconds is perfectly normal in a casual setting. Bow slightly at the end with {よろしくお願[ねが]いします}.\n\nForeign names are written in katakana. Decide early how you want to be called, and say it clearly. In formal settings Japanese people use family names, so colleagues may call you by your family name plus {さん}. If you prefer your first name, it is fine to say so: {〜と呼[よ]んでください}.\n\nExpect a few standard follow-up questions: where you are from, how long you have been in Japan, and whether you like Japanese food.",
+   "phrases": [
+    {
+     "jp": "はじめまして。",
+     "en": "Nice to meet you. (first meeting)"
+    },
+    {
+     "jp": "スミスです。",
+     "en": "I'm Smith."
+    },
+    {
+     "jp": "ジョン・スミスと申[もう]します。",
+     "en": "My name is John Smith. (formal)",
+     "note": "{申[もう]します} is the humble verb for say. Use it at work, interviews and formal occasions."
+    },
+    {
+     "jp": "ジョンと呼[よ]んでください。",
+     "en": "Please call me John."
+    },
+    {
+     "jp": "アメリカから来[き]ました。",
+     "en": "I'm from America. (lit. I came from America.)"
+    },
+    {
+     "jp": "カナダ出身[しゅっしん]です。",
+     "en": "I'm originally from Canada."
+    },
+    {
+     "jp": "今[いま]は横浜[よこはま]に住[す]んでいます。",
+     "en": "I live in Yokohama now."
+    },
+    {
+     "jp": "先月[せんげつ]、日本[にほん]に引[ひ]っ越[こ]してきました。",
+     "en": "I moved to Japan last month."
+    },
+    {
+     "jp": "エンジニアとして働[はたら]いています。",
+     "en": "I work as an engineer."
+    },
+    {
+     "jp": "日本語[にほんご]を勉強[べんきょう]中[ちゅう]です。",
+     "en": "I'm studying Japanese."
+    },
+    {
+     "jp": "趣味[しゅみ]は料理[りょうり]と山登[やまのぼ]りです。",
+     "en": "My hobbies are cooking and hiking."
+    },
+    {
+     "jp": "よろしくお願[ねが]いします。",
+     "en": "Pleased to meet you. / I look forward to working with you."
+    },
+    {
+     "jp": "どうぞよろしくお願[ねが]いいたします。",
+     "en": "(more formal version of the above)"
+    },
+    {
+     "jp": "こちらこそ、よろしくお願[ねが]いします。",
+     "en": "Likewise, pleased to meet you.",
+     "note": "The standard reply when someone says {よろしくお願[ねが]いします} to you."
+    },
+    {
+     "jp": "お国[くに]はどちらですか。",
+     "en": "Which country are you from?",
+     "note": "A polite question you will often be asked."
+    },
+    {
+     "jp": "日本[にほん]に来[き]てどのくらいですか。",
+     "en": "How long have you been in Japan?"
+    },
+    {
+     "jp": "半年[はんとし]ぐらいです。",
+     "en": "About half a year."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "自己紹介[じこしょうかい]",
+     "en": "self-introduction"
+    },
+    {
+     "jp": "名前[なまえ]",
+     "en": "name"
+    },
+    {
+     "jp": "名字[みょうじ]",
+     "en": "family name, surname"
+    },
+    {
+     "jp": "下[した]の名前[なまえ]",
+     "en": "given name, first name"
+    },
+    {
+     "jp": "出身[しゅっしん]",
+     "en": "place of origin, hometown"
+    },
+    {
+     "jp": "国[くに]",
+     "en": "country"
+    },
+    {
+     "jp": "仕事[しごと]",
+     "en": "job, work"
+    },
+    {
+     "jp": "会社員[かいしゃいん]",
+     "en": "company employee"
+    },
+    {
+     "jp": "留学生[りゅうがくせい]",
+     "en": "international student"
+    },
+    {
+     "jp": "趣味[しゅみ]",
+     "en": "hobby"
+    },
+    {
+     "jp": "住[す]む",
+     "en": "to live (somewhere)"
+    },
+    {
+     "jp": "引[ひ]っ越[こ]す",
+     "en": "to move (house)"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Yuki",
+     "jp": "はじめまして。佐藤[さとう]ゆきです。",
+     "en": "Nice to meet you. I'm Yuki Sato."
+    },
+    {
+     "speaker": "You",
+     "jp": "はじめまして。マイク・ジョンソンです。マイクと呼[よ]んでください。",
+     "en": "Nice to meet you. I'm Mike Johnson. Please call me Mike."
+    },
+    {
+     "speaker": "Yuki",
+     "jp": "マイクさん、お国[くに]はどちらですか。",
+     "en": "Mike, which country are you from?"
+    },
+    {
+     "speaker": "You",
+     "jp": "カナダです。トロント出身[しゅっしん]です。",
+     "en": "Canada. I'm from Toronto."
+    },
+    {
+     "speaker": "Yuki",
+     "jp": "日本[にほん]に来[き]てどのくらいですか。",
+     "en": "How long have you been in Japan?"
+    },
+    {
+     "speaker": "You",
+     "jp": "まだ三ヶ月[さんかげつ]ぐらいです。",
+     "en": "Only about three months."
+    },
+    {
+     "speaker": "Yuki",
+     "jp": "お仕事[しごと]は何[なに]をされているんですか。",
+     "en": "What do you do for work?"
+    },
+    {
+     "speaker": "You",
+     "jp": "IT会社[がいしゃ]で働[はたら]いています。",
+     "en": "I work at an IT company."
+    },
+    {
+     "speaker": "Yuki",
+     "jp": "日本語[にほんご]、上手[じょうず]ですね。",
+     "en": "Your Japanese is good."
+    },
+    {
+     "speaker": "You",
+     "jp": "いえ、まだ勉強[べんきょう]中[ちゅう]です。よろしくお願[ねが]いします。",
+     "en": "No, I'm still learning. Nice to meet you."
+    },
+    {
+     "speaker": "Yuki",
+     "jp": "こちらこそ、よろしくお願[ねが]いします。",
+     "en": "Likewise, nice to meet you."
+    }
+   ],
+   "tips": [
+    "Prepare and memorize a 15-second version of your self-introduction now. You will use it far more often than you expect.",
+    "Practice saying your name in katakana pronunciation. A name that is easy to say (for example {マイク} rather than a long full name) helps people remember you.",
+    "{はじめまして} is only for the very first meeting. Next time, use a normal greeting.",
+    "Avoid long personal stories in a first introduction. Modesty is valued; let people ask follow-up questions.",
+    "At work, introductions become more formal and are often followed by an exchange of business cards. See the office units later in this track."
+   ]
+  },
+  {
+   "id": "life-shopping",
+   "title": "Numbers, money & shopping",
+   "level": "N5",
+   "intro": "Japan's currency is the yen ({円[えん]}). Coins come in 1, 5, 10, 50, 100 and 500 yen; common notes are 1,000, 5,000 and 10,000 yen (a 2,000-yen note exists but is rare). New banknote designs were introduced in 2024, and older notes remain valid.\n\nJapanese counts large numbers in units of ten thousand ({万[まん]}), not thousands. So 10,000 is {一万[いちまん]}, 50,000 is {五万[ごまん]}, and 120,000 is {十二万[じゅうにまん]}. Rents and salaries are almost always quoted this way, so practice it until it is automatic.\n\nPrices shown to consumers must include consumption tax, so the big number on the tag is usually what you pay ({税込[ぜいこみ]}). You may also see the pre-tax price ({税抜[ぜいぬき]}) in smaller print. Food bought to take away is taxed at a lower rate than eating in.\n\nCash is still widely used, but card, IC-card and QR-code payments are now common in cities. Smaller shops and restaurants may still be cash only, so keep some cash on you.\n\nAt the register, put your money in the small tray rather than handing it directly to the cashier, and receive your change the same way or by hand. Plastic shopping bags cost a few yen, so you will be asked if you need one. Note that tax-free shopping is for short-term visitors; once you live in Japan you are generally not eligible.",
+   "phrases": [
+    {
+     "jp": "これはいくらですか。",
+     "en": "How much is this?"
+    },
+    {
+     "jp": "これをください。",
+     "en": "I'll take this, please."
+    },
+    {
+     "jp": "全部[ぜんぶ]でいくらですか。",
+     "en": "How much is it altogether?"
+    },
+    {
+     "jp": "見[み]ているだけです。",
+     "en": "I'm just looking."
+    },
+    {
+     "jp": "〜はどこにありますか。",
+     "en": "Where is ~?",
+     "note": "For example {電池[でんち]はどこにありますか} (Where are the batteries?)."
+    },
+    {
+     "jp": "もう少[すこ]し大[おお]きいサイズはありますか。",
+     "en": "Do you have a slightly bigger size?"
+    },
+    {
+     "jp": "試着[しちゃく]してもいいですか。",
+     "en": "May I try this on?"
+    },
+    {
+     "jp": "カードは使[つか]えますか。",
+     "en": "Can I use a card?"
+    },
+    {
+     "jp": "現金[げんきん]でお願[ねが]いします。",
+     "en": "I'll pay in cash."
+    },
+    {
+     "jp": "一括[いっかつ]払[ばら]いでお願[ねが]いします。",
+     "en": "In a single payment, please.",
+     "note": "When you pay by credit card, staff may ask how many installments you want. {一括[いっかつ]} (one payment) is the normal answer."
+    },
+    {
+     "jp": "袋[ふくろ]はいりません。",
+     "en": "I don't need a bag."
+    },
+    {
+     "jp": "レシートをください。",
+     "en": "Can I have the receipt?"
+    },
+    {
+     "jp": "領収書[りょうしゅうしょ]をお願[ねが]いします。",
+     "en": "A formal receipt, please.",
+     "note": "A {領収書[りょうしゅうしょ]} is the official receipt used for work expense claims. Staff will ask who to make it out to ({宛名[あてな]})."
+    },
+    {
+     "jp": "一万円[いちまんえん]からお願[ねが]いします。",
+     "en": "Here's ten thousand yen. (please take it out of this)"
+    },
+    {
+     "jp": "返品[へんぴん]できますか。",
+     "en": "Can I return this?"
+    },
+    {
+     "jp": "ポイントカードはお持[も]ちですか。",
+     "en": "Do you have a point card? (staff)",
+     "note": "You will hear this constantly. {持[も]っていません} or simply {大丈夫[だいじょうぶ]です} is fine."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "円[えん]",
+     "en": "yen"
+    },
+    {
+     "jp": "百[ひゃく]・千[せん]・万[まん]",
+     "en": "hundred, thousand, ten thousand"
+    },
+    {
+     "jp": "値段[ねだん]",
+     "en": "price"
+    },
+    {
+     "jp": "税込[ぜいこみ]",
+     "en": "tax included"
+    },
+    {
+     "jp": "税抜[ぜいぬき]",
+     "en": "tax not included"
+    },
+    {
+     "jp": "消費税[しょうひぜい]",
+     "en": "consumption tax"
+    },
+    {
+     "jp": "現金[げんきん]",
+     "en": "cash"
+    },
+    {
+     "jp": "お釣[つ]り",
+     "en": "change (money returned)"
+    },
+    {
+     "jp": "割引[わりびき]",
+     "en": "discount"
+    },
+    {
+     "jp": "安[やす]い／高[たか]い",
+     "en": "cheap / expensive"
+    },
+    {
+     "jp": "レジ",
+     "en": "cash register, checkout"
+    },
+    {
+     "jp": "袋[ふくろ]",
+     "en": "bag"
+    },
+    {
+     "jp": "財布[さいふ]",
+     "en": "wallet"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Clerk",
+     "jp": "いらっしゃいませ。",
+     "en": "Welcome."
+    },
+    {
+     "speaker": "You",
+     "jp": "すみません、このシャツのMサイズはありますか。",
+     "en": "Excuse me, do you have this shirt in medium?"
+    },
+    {
+     "speaker": "Clerk",
+     "jp": "少々[しょうしょう]お待[ま]ちください。……お待[ま]たせいたしました。こちらでございます。",
+     "en": "One moment please... Sorry to keep you waiting. Here it is."
+    },
+    {
+     "speaker": "You",
+     "jp": "ありがとうございます。これをください。",
+     "en": "Thank you. I'll take this."
+    },
+    {
+     "speaker": "Clerk",
+     "jp": "ありがとうございます。お会計[かいけい]、3300円[さんぜんさんびゃくえん]でございます。",
+     "en": "Thank you. That comes to 3,300 yen."
+    },
+    {
+     "speaker": "You",
+     "jp": "カードは使[つか]えますか。",
+     "en": "Can I use a card?"
+    },
+    {
+     "speaker": "Clerk",
+     "jp": "はい、ご利用[りよう]いただけます。お支払[しはら]いは一括[いっかつ]でよろしいですか。",
+     "en": "Yes, you can. Is a single payment all right?"
+    },
+    {
+     "speaker": "You",
+     "jp": "はい、お願[ねが]いします。",
+     "en": "Yes, please."
+    },
+    {
+     "speaker": "Clerk",
+     "jp": "袋[ふくろ]はご利用[りよう]になりますか。",
+     "en": "Would you like a bag?"
+    },
+    {
+     "speaker": "You",
+     "jp": "いえ、大丈夫[だいじょうぶ]です。",
+     "en": "No, I'm fine, thanks."
+    },
+    {
+     "speaker": "Clerk",
+     "jp": "ありがとうございました。",
+     "en": "Thank you very much."
+    }
+   ],
+   "tips": [
+    "Learn to hear prices in units of {万[まん]}: 75,000 yen is {七万五千円[ななまんごせんえん]}. Practice by reading rent listings aloud.",
+    "Use the money tray at the register. Placing cash in it is the normal, polite way to pay.",
+    "Carry a reusable bag. Plastic bags are charged in almost all shops.",
+    "Keep receipts for work purchases, and ask for a {領収書[りょうしゅうしょ]} when your company will reimburse you.",
+    "Shop staff speak very polite Japanese ({ございます}, {いただけます}). You only need to answer in normal {です／ます}."
+   ]
+  },
+  {
+   "id": "life-konbini-restaurants",
+   "title": "Convenience stores & restaurants",
+   "level": "N5",
+   "intro": "Convenience stores ({コンビニ}) are a lifeline for new residents. Besides food and drinks, most let you pay utility bills and some tax bills with the payment slip, withdraw cash from an ATM that accepts many foreign cards, print and copy documents, send and receive parcels, and buy event tickets. They are open long hours, often 24/7.\n\nAt the register you will hear a few standard questions: whether to heat your lunch box ({温[あたた]めますか}), whether you need chopsticks or a spoon, whether you need a bag, and whether you have a point card. Short answers like {はい、お願[ねが]いします} or {大丈夫[だいじょうぶ]です} cover almost everything.\n\nIn restaurants, staff greet you with {いらっしゃいませ} and ask how many people are in your group ({何名様[なんめいさま]ですか}). Many casual places, especially ramen and set-meal shops, use a ticket machine ({食券[しょっけん]}): you buy a ticket at the entrance and hand it to staff. Water or tea is usually free and refilled. To call staff, raise your hand and say {すみません}, or press the call button on the table if there is one.\n\nThere is no tipping in Japan; leaving money behind may cause staff to chase after you. You normally pay at the register near the exit, not at the table. Indoor smoking is now restricted in most restaurants, though some small bars still allow it.",
+   "phrases": [
+    {
+     "jp": "温[あたた]めますか。",
+     "en": "Shall I heat it up? (staff)"
+    },
+    {
+     "jp": "はい、お願[ねが]いします。",
+     "en": "Yes, please."
+    },
+    {
+     "jp": "いいえ、そのままで大丈夫[だいじょうぶ]です。",
+     "en": "No, it's fine as it is."
+    },
+    {
+     "jp": "お箸[はし]を一膳[いちぜん]お願[ねが]いします。",
+     "en": "One pair of chopsticks, please.",
+     "note": "{膳[ぜん]} is the counter for pairs of chopsticks. You can also just say {お箸[はし]、お願[ねが]いします}."
+    },
+    {
+     "jp": "二人[ふたり]です。",
+     "en": "Two people."
+    },
+    {
+     "jp": "予約[よやく]していないんですが、大丈夫[だいじょうぶ]ですか。",
+     "en": "We don't have a reservation. Is that OK?"
+    },
+    {
+     "jp": "英語[えいご]のメニューはありますか。",
+     "en": "Do you have an English menu?"
+    },
+    {
+     "jp": "おすすめは何[なん]ですか。",
+     "en": "What do you recommend?"
+    },
+    {
+     "jp": "すみません、注文[ちゅうもん]お願[ねが]いします。",
+     "en": "Excuse me, we'd like to order."
+    },
+    {
+     "jp": "これを一[ひと]つと、これを二[ふた]つお願[ねが]いします。",
+     "en": "One of these and two of these, please.",
+     "note": "Pointing at the menu is perfectly acceptable."
+    },
+    {
+     "jp": "卵[たまご]のアレルギーがあります。",
+     "en": "I'm allergic to eggs."
+    },
+    {
+     "jp": "これに豚肉[ぶたにく]は入[はい]っていますか。",
+     "en": "Does this contain pork?"
+    },
+    {
+     "jp": "店内[てんない]でお召[め]し上[あ]がりですか。",
+     "en": "Will you be eating in? (staff)",
+     "note": "Answer {店内[てんない]で} (eat in) or {持[も]ち帰[かえ]りで} (take away)."
+    },
+    {
+     "jp": "持[も]ち帰[かえ]りでお願[ねが]いします。",
+     "en": "To take away, please."
+    },
+    {
+     "jp": "お水[みず]をもらえますか。",
+     "en": "Could I have some water?"
+    },
+    {
+     "jp": "お会計[かいけい]お願[ねが]いします。",
+     "en": "The bill, please."
+    },
+    {
+     "jp": "別々[べつべつ]に払[はら]えますか。",
+     "en": "Can we pay separately?"
+    },
+    {
+     "jp": "ごちそうさまでした。",
+     "en": "Thank you for the meal.",
+     "note": "Saying this to staff as you leave is a nice touch."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "コンビニ",
+     "en": "convenience store"
+    },
+    {
+     "jp": "お弁当[べんとう]",
+     "en": "boxed lunch"
+    },
+    {
+     "jp": "温[あたた]める",
+     "en": "to heat up, warm"
+    },
+    {
+     "jp": "お箸[はし]",
+     "en": "chopsticks"
+    },
+    {
+     "jp": "店員[てんいん]",
+     "en": "shop / restaurant staff"
+    },
+    {
+     "jp": "注文[ちゅうもん]",
+     "en": "order"
+    },
+    {
+     "jp": "食券[しょっけん]",
+     "en": "meal ticket (from a machine)"
+    },
+    {
+     "jp": "お冷[ひや]",
+     "en": "(free) cold water in restaurants"
+    },
+    {
+     "jp": "定食[ていしょく]",
+     "en": "set meal"
+    },
+    {
+     "jp": "大盛[おおも]り",
+     "en": "large portion"
+    },
+    {
+     "jp": "持[も]ち帰[かえ]り",
+     "en": "takeaway"
+    },
+    {
+     "jp": "予約[よやく]",
+     "en": "reservation"
+    },
+    {
+     "jp": "お会計[かいけい]",
+     "en": "the bill, payment"
+    },
+    {
+     "jp": "割[わ]り勘[かん]",
+     "en": "splitting the bill equally"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Staff",
+     "jp": "いらっしゃいませ。何名様[なんめいさま]ですか。",
+     "en": "Welcome. How many people?"
+    },
+    {
+     "speaker": "You",
+     "jp": "二人[ふたり]です。",
+     "en": "Two."
+    },
+    {
+     "speaker": "Staff",
+     "jp": "こちらのお席[せき]へどうぞ。ご注文[ちゅうもん]がお決[き]まりになりましたら、お呼[よ]びください。",
+     "en": "This way to your table, please. Call me when you've decided what to order."
+    },
+    {
+     "speaker": "You",
+     "jp": "すみません、注文[ちゅうもん]お願[ねが]いします。",
+     "en": "Excuse me, we'd like to order."
+    },
+    {
+     "speaker": "Staff",
+     "jp": "はい、お伺[うかが]いします。",
+     "en": "Yes, what would you like?"
+    },
+    {
+     "speaker": "You",
+     "jp": "唐揚[からあ]げ定食[ていしょく]を二[ふた]つお願[ねが]いします。一[ひと]つは大盛[おおも]りで。",
+     "en": "Two fried chicken set meals, please. One of them a large portion."
+    },
+    {
+     "speaker": "Staff",
+     "jp": "かしこまりました。お飲[の]み物[もの]はいかがですか。",
+     "en": "Certainly. Would you like anything to drink?"
+    },
+    {
+     "speaker": "You",
+     "jp": "大丈夫[だいじょうぶ]です。",
+     "en": "We're fine, thanks."
+    },
+    {
+     "speaker": "You",
+     "jp": "すみません、お会計[かいけい]お願[ねが]いします。",
+     "en": "(later) Excuse me, the bill please."
+    },
+    {
+     "speaker": "Staff",
+     "jp": "ありがとうございます。2100円[にせんひゃくえん]でございます。",
+     "en": "Thank you. That will be 2,100 yen."
+    }
+   ],
+   "tips": [
+    "No tipping, anywhere. Good service is simply expected and included.",
+    "When the bill is placed on your table, take it to the register at the exit to pay.",
+    "Learn the ticket machine: buttons usually show photos and prices. Insert money first, press the button, take your ticket and change.",
+    "You can pay many household bills at a {コンビニ} using the barcode on the payment slip. Keep the receipt as proof of payment.",
+    "Making an X with your index fingers is a common gesture for the bill, but saying {お会計[かいけい]お願[ねが]いします} is clearer."
+   ]
+  },
+  {
+   "id": "life-trains",
+   "title": "Trains, IC cards & asking directions",
+   "level": "N5",
+   "intro": "Trains and subways are the backbone of daily life in Japanese cities. The easiest way to ride is a rechargeable IC card such as Suica, PASMO or ICOCA. The major cards work on most trains, subways and buses in the big metropolitan areas and at many shops, and you can also put one on many smartphones. Tap the card on the gate when you enter and again when you leave; the fare is deducted automatically. Top it up ({チャージ}) with cash at station machines.\n\nIf you commute, you will probably buy a commuter pass ({定期券[ていきけん]}) for your regular route. Many employers pay commuting costs ({通勤[つうきん]手当[てあて]}), so ask before you buy.\n\nTrains come in several types, and faster ones skip stations: {各駅停車[かくえきていしゃ]} (local, stops everywhere), {快速[かいそく]} (rapid), {急行[きゅうこう]} (express), and {特急[とっきゅう]} (limited express, which often needs an extra ticket). Always check that your train stops at your station.\n\nTrain etiquette: keep your voice low, do not take phone calls, let people off before getting on, and leave priority seats ({優先席[ゆうせんせき]}) for those who need them. Some lines have women-only cars during rush hours. Last trains ({終電[しゅうでん]}) leave around midnight.\n\nIf you get lost, ask station staff or go to a police box ({交番[こうばん]}); officers there give directions all the time.",
+   "phrases": [
+    {
+     "jp": "すみません、渋谷駅[しぶやえき]はどこですか。",
+     "en": "Excuse me, where is Shibuya Station?"
+    },
+    {
+     "jp": "この電車[でんしゃ]は新宿[しんじゅく]に行[い]きますか。",
+     "en": "Does this train go to Shinjuku?"
+    },
+    {
+     "jp": "この電車[でんしゃ]は荻窪[おぎくぼ]に止[と]まりますか。",
+     "en": "Does this train stop at Ogikubo?"
+    },
+    {
+     "jp": "横浜[よこはま]は何番線[なんばんせん]ですか。",
+     "en": "Which platform is it for Yokohama?"
+    },
+    {
+     "jp": "どこで乗[の]り換[か]えればいいですか。",
+     "en": "Where should I change trains?"
+    },
+    {
+     "jp": "新宿[しんじゅく]までいくらですか。",
+     "en": "How much is it to Shinjuku?"
+    },
+    {
+     "jp": "ICカードにチャージしたいんですが。",
+     "en": "I'd like to top up my IC card."
+    },
+    {
+     "jp": "改札[かいさつ]が通[とお]れません。",
+     "en": "I can't get through the ticket gate.",
+     "note": "Usually means not enough balance. Station staff at the window next to the gates will help."
+    },
+    {
+     "jp": "電車[でんしゃ]に忘[わす]れ物[もの]をしました。",
+     "en": "I left something on the train."
+    },
+    {
+     "jp": "道[みち]に迷[まよ]ってしまいました。",
+     "en": "I've got lost."
+    },
+    {
+     "jp": "市役所[しやくしょ]への行[い]き方[かた]を教[おし]えていただけませんか。",
+     "en": "Could you tell me how to get to the city office?"
+    },
+    {
+     "jp": "ここから歩[ある]いて何分[なんぷん]ぐらいですか。",
+     "en": "About how many minutes is it on foot from here?"
+    },
+    {
+     "jp": "まっすぐ行[い]って、二[ふた]つ目[め]の信号[しんごう]を右[みぎ]に曲[ま]がってください。",
+     "en": "Go straight and turn right at the second traffic light.",
+     "note": "A typical answer. Listen for {右[みぎ]} (right), {左[ひだり]} (left), {まっすぐ} (straight)."
+    },
+    {
+     "jp": "地図[ちず]で教[おし]えてもらえますか。",
+     "en": "Could you show me on the map?"
+    },
+    {
+     "jp": "東口[ひがしぐち]はどちらですか。",
+     "en": "Which way is the east exit?"
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "駅[えき]",
+     "en": "station"
+    },
+    {
+     "jp": "電車[でんしゃ]",
+     "en": "train"
+    },
+    {
+     "jp": "地下鉄[ちかてつ]",
+     "en": "subway"
+    },
+    {
+     "jp": "改札[かいさつ]",
+     "en": "ticket gate"
+    },
+    {
+     "jp": "〜番線[ばんせん]",
+     "en": "platform number ~"
+    },
+    {
+     "jp": "乗[の]り換[か]え",
+     "en": "transfer, change of trains"
+    },
+    {
+     "jp": "各駅停車[かくえきていしゃ]",
+     "en": "local train (all stops)"
+    },
+    {
+     "jp": "快速[かいそく]",
+     "en": "rapid train"
+    },
+    {
+     "jp": "特急[とっきゅう]",
+     "en": "limited express"
+    },
+    {
+     "jp": "終電[しゅうでん]",
+     "en": "last train"
+    },
+    {
+     "jp": "定期券[ていきけん]",
+     "en": "commuter pass"
+    },
+    {
+     "jp": "優先席[ゆうせんせき]",
+     "en": "priority seat"
+    },
+    {
+     "jp": "出口[でぐち]",
+     "en": "exit"
+    },
+    {
+     "jp": "交番[こうばん]",
+     "en": "police box"
+    },
+    {
+     "jp": "信号[しんごう]",
+     "en": "traffic light"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "You",
+     "jp": "すみません、横浜[よこはま]に行[い]きたいんですが、何番線[なんばんせん]ですか。",
+     "en": "Excuse me, I want to go to Yokohama. Which platform is it?"
+    },
+    {
+     "speaker": "Staff",
+     "jp": "横浜[よこはま]でしたら、3番線[さんばんせん]です。",
+     "en": "For Yokohama, platform 3."
+    },
+    {
+     "speaker": "You",
+     "jp": "乗[の]り換[か]えはありますか。",
+     "en": "Do I need to change trains?"
+    },
+    {
+     "speaker": "Staff",
+     "jp": "いいえ、乗[の]り換[か]えなしで行[い]けますよ。快速[かいそく]が早[はや]いです。",
+     "en": "No, you can go without changing. The rapid train is faster."
+    },
+    {
+     "speaker": "You",
+     "jp": "次[つぎ]の快速[かいそく]は何時[なんじ]ですか。",
+     "en": "What time is the next rapid train?"
+    },
+    {
+     "speaker": "Staff",
+     "jp": "10時[じゅうじ]15分[じゅうごふん]発[はつ]です。",
+     "en": "It leaves at 10:15."
+    },
+    {
+     "speaker": "You",
+     "jp": "ICカードの残高[ざんだか]が足[た]りないかもしれません。",
+     "en": "I might not have enough balance on my IC card."
+    },
+    {
+     "speaker": "Staff",
+     "jp": "改札[かいさつ]の手前[てまえ]にチャージ機[き]がありますよ。",
+     "en": "There's a top-up machine just before the gates."
+    },
+    {
+     "speaker": "You",
+     "jp": "ありがとうございます。助[たす]かりました。",
+     "en": "Thank you. That really helped."
+    }
+   ],
+   "tips": [
+    "Use a route app in your phone's language, but learn to read station names in kanji too; signs and announcements switch between them.",
+    "Many people walk on one side of escalators, but rail companies and some local governments officially ask everyone to stand still on both sides.",
+    "Ask your employer whether they reimburse commuting before buying a {定期券[ていきけん]}; you usually need to report your route.",
+    "If your train is badly delayed, stations can issue a delay certificate ({遅延[ちえん]証明書[しょうめいしょ]}) to show your workplace. Many rail companies also publish them online.",
+    "Check the time of the last train when you go out at night. Taxis after midnight can be expensive."
+   ]
+  },
+  {
+   "id": "life-emergencies",
+   "title": "Emergencies & disaster preparation",
+   "level": "N4",
+   "intro": "Memorize two numbers: **110** for the police ({警察[けいさつ]}) and **119** for fire and ambulance ({消防[しょうぼう]}・{救急[きゅうきゅう]}). Both work free from any phone. When you call 119, the first question is {火事[かじ]ですか、救急[きゅうきゅう]ですか} (fire or medical emergency?). Then you will be asked for the address, what happened, and your name and phone number. Many emergency centers can connect to an interpreter, so stay on the line even if your Japanese runs out.\n\nIf you are unsure whether something needs an ambulance, many areas run a medical advice line on **#7119**; check whether yours does.\n\nJapan has frequent earthquakes, and also typhoons, heavy rain and floods. Phones sound an emergency earthquake alert ({緊急地震速報[きんきゅうじしんそくほう]}) seconds before strong shaking. Protect your head, get under a sturdy table, and stay away from windows and tall furniture. After the shaking stops, check for fire and be ready for aftershocks ({余震[よしん]}). Near the coast, a tsunami warning means move to high ground immediately.\n\nPrepare now: find your local hazard map and evacuation sites on your city's website. An {避難場所[ひなんばしょ]} is an open place to escape to right away; an {避難所[ひなんじょ]} is a shelter, often a school, where people stay. Keep an emergency bag ({非常[ひじょう]持[も]ち出[だ]し袋[ぶくろ]}) and store water and food for at least several days. After a big disaster, the **171** message dial lets families leave voice messages for each other.",
+   "phrases": [
+    {
+     "jp": "助[たす]けて！",
+     "en": "Help!"
+    },
+    {
+     "jp": "救急[きゅうきゅう]です。",
+     "en": "It's a medical emergency. (answer to 119)"
+    },
+    {
+     "jp": "火事[かじ]です！",
+     "en": "Fire!"
+    },
+    {
+     "jp": "救急車[きゅうきゅうしゃ]を呼[よ]んでください。",
+     "en": "Please call an ambulance."
+    },
+    {
+     "jp": "警察[けいさつ]を呼[よ]んでください。",
+     "en": "Please call the police."
+    },
+    {
+     "jp": "住所[じゅうしょ]は世田谷区[せたがやく]桜[さくら]一丁目[いっちょうめ]2番[にばん]3号[さんごう]です。",
+     "en": "The address is 1-2-3 Sakura, Setagaya Ward."
+    },
+    {
+     "jp": "友達[ともだち]が倒[たお]れました。",
+     "en": "My friend has collapsed."
+    },
+    {
+     "jp": "意識[いしき]がありません。",
+     "en": "He/She is unconscious."
+    },
+    {
+     "jp": "息[いき]をしていません。",
+     "en": "He/She isn't breathing."
+    },
+    {
+     "jp": "血[ち]が止[と]まりません。",
+     "en": "The bleeding won't stop."
+    },
+    {
+     "jp": "財布[さいふ]を盗[ぬす]まれました。",
+     "en": "My wallet was stolen."
+    },
+    {
+     "jp": "英語[えいご]を話[はな]せる人[ひと]はいますか。",
+     "en": "Is there anyone who speaks English?"
+    },
+    {
+     "jp": "大丈夫[だいじょうぶ]ですか。けがはありませんか。",
+     "en": "Are you OK? Are you hurt?"
+    },
+    {
+     "jp": "地震[じしん]だ！机[つくえ]の下[した]に入[はい]って！",
+     "en": "Earthquake! Get under the desk!"
+    },
+    {
+     "jp": "津波[つなみ]が来[く]るかもしれません。高[たか]い所[ところ]に逃[に]げてください。",
+     "en": "A tsunami may come. Get to high ground."
+    },
+    {
+     "jp": "一番[いちばん]近[ちか]い避難所[ひなんじょ]はどこですか。",
+     "en": "Where is the nearest evacuation shelter?"
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "警察[けいさつ]",
+     "en": "police"
+    },
+    {
+     "jp": "消防[しょうぼう]",
+     "en": "fire department"
+    },
+    {
+     "jp": "救急車[きゅうきゅうしゃ]",
+     "en": "ambulance"
+    },
+    {
+     "jp": "火事[かじ]",
+     "en": "fire"
+    },
+    {
+     "jp": "けが",
+     "en": "injury"
+    },
+    {
+     "jp": "地震[じしん]",
+     "en": "earthquake"
+    },
+    {
+     "jp": "余震[よしん]",
+     "en": "aftershock"
+    },
+    {
+     "jp": "津波[つなみ]",
+     "en": "tsunami"
+    },
+    {
+     "jp": "台風[たいふう]",
+     "en": "typhoon"
+    },
+    {
+     "jp": "避難[ひなん]",
+     "en": "evacuation"
+    },
+    {
+     "jp": "避難所[ひなんじょ]",
+     "en": "evacuation shelter"
+    },
+    {
+     "jp": "避難場所[ひなんばしょ]",
+     "en": "evacuation site (open area)"
+    },
+    {
+     "jp": "緊急地震速報[きんきゅうじしんそくほう]",
+     "en": "earthquake early warning"
+    },
+    {
+     "jp": "防災[ぼうさい]",
+     "en": "disaster prevention / preparedness"
+    },
+    {
+     "jp": "非常[ひじょう]持[も]ち出[だ]し袋[ぶくろ]",
+     "en": "emergency grab bag"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Dispatcher",
+     "jp": "はい、119番[ひゃくじゅうきゅうばん]です。火事[かじ]ですか、救急[きゅうきゅう]ですか。",
+     "en": "119. Is it a fire or a medical emergency?"
+    },
+    {
+     "speaker": "You",
+     "jp": "救急[きゅうきゅう]です。",
+     "en": "Medical emergency."
+    },
+    {
+     "speaker": "Dispatcher",
+     "jp": "どうしましたか。",
+     "en": "What happened?"
+    },
+    {
+     "speaker": "You",
+     "jp": "友達[ともだち]が急[きゅう]に倒[たお]れて、意識[いしき]がありません。",
+     "en": "My friend suddenly collapsed and is unconscious."
+    },
+    {
+     "speaker": "Dispatcher",
+     "jp": "住所[じゅうしょ]を教[おし]えてください。",
+     "en": "Tell me the address."
+    },
+    {
+     "speaker": "You",
+     "jp": "中野区[なかのく]本町[ほんちょう]三丁目[さんちょうめ]5番[ごばん]8号[はちごう]、さくらハイツの302号室[さんびゃくにごうしつ]です。",
+     "en": "3-5-8 Honcho, Nakano Ward, Sakura Heights, room 302."
+    },
+    {
+     "speaker": "Dispatcher",
+     "jp": "息[いき]はしていますか。",
+     "en": "Is he breathing?"
+    },
+    {
+     "speaker": "You",
+     "jp": "はい、息[いき]はしています。",
+     "en": "Yes, he's breathing."
+    },
+    {
+     "speaker": "Dispatcher",
+     "jp": "わかりました。すぐに救急車[きゅうきゅうしゃ]が向[む]かいます。お名前[なまえ]と電話[でんわ]番号[ばんごう]を教[おし]えてください。",
+     "en": "Understood. An ambulance is on its way. Please tell me your name and phone number."
+    },
+    {
+     "speaker": "You",
+     "jp": "ジョーンズです。電話[でんわ]番号[ばんごう]は090-1234-5678です。",
+     "en": "Jones. My number is 090-1234-5678."
+    }
+   ],
+   "tips": [
+    "Save your full home address in Japanese in your phone, and practice saying it aloud. In an emergency you will not want to read it for the first time.",
+    "Look up your area's hazard map and walk to your nearest evacuation site once, so you know the way.",
+    "Keep drinking water, non-perishable food, a flashlight, a battery pack, medicine, copies of documents and some cash ready at home.",
+    "Your embassy may offer a registration service for residents so it can contact you in a crisis; it is worth signing up.",
+    "Many local governments and the national tourism authority provide multilingual disaster information and apps. Install one and turn on notifications."
+   ]
+  },
+  {
+   "id": "life-doctor",
+   "title": "The doctor & pharmacy",
+   "level": "N4",
+   "intro": "For everyday illness, go to a local clinic ({クリニック} or {医院[いいん]}) rather than a big hospital. Clinics are organized by specialty: {内科[ないか]} (internal medicine, for colds, fever and stomach trouble), {耳鼻科[じびか]} (ear, nose and throat), {皮膚科[ひふか]} (skin), {整形外科[せいけいげか]} (bones, joints and injuries), {歯科[しか]} (dentist). Large hospitals often expect a referral letter ({紹介状[しょうかいじょう]}) and may charge an extra fee without one.\n\nBring proof of health insurance. Japan has been moving health insurance onto the My Number card, so many clinics now have a card reader at reception; if you have a different insurance document, bring that. With public insurance, most working-age adults pay a share of the cost (commonly 30%) at the counter. Some small clinics still accept only cash.\n\nOn your first visit ({初診[しょしん]}) you will fill in a questionnaire ({問診票[もんしんひょう]}) about your symptoms, allergies and current medication. Ask for an English version if there is one, or prepare your answers in advance with a translation app.\n\nThe doctor gives you a prescription ({処方箋[しょほうせん]}), which you take to a pharmacy ({薬局[やっきょく]}), often right next to the clinic. The pharmacist explains how to take the medicine and may offer a medication notebook ({お薬[くすり]手帳[てちょう]}) that records your prescriptions. Over-the-counter medicine is sold at drugstores. Note that some medicines common abroad are restricted in Japan; check official guidance before bringing medicine with you.",
+   "phrases": [
+    {
+     "jp": "初[はじ]めてなんですが、診[み]ていただけますか。",
+     "en": "It's my first time here. Could I see a doctor?"
+    },
+    {
+     "jp": "マイナンバーカードを保険証[ほけんしょう]として使[つか]えますか。",
+     "en": "Can I use my My Number card as my insurance card?"
+    },
+    {
+     "jp": "熱[ねつ]があります。",
+     "en": "I have a fever."
+    },
+    {
+     "jp": "頭[あたま]が痛[いた]いです。",
+     "en": "I have a headache."
+    },
+    {
+     "jp": "喉[のど]が痛[いた]くて、咳[せき]が出[で]ます。",
+     "en": "My throat hurts and I have a cough."
+    },
+    {
+     "jp": "昨日[きのう]から下痢[げり]が続[つづ]いています。",
+     "en": "I've had diarrhea since yesterday."
+    },
+    {
+     "jp": "吐[は]き気[け]がします。",
+     "en": "I feel nauseous."
+    },
+    {
+     "jp": "三日前[みっかまえ]からです。",
+     "en": "Since three days ago."
+    },
+    {
+     "jp": "ペニシリンにアレルギーがあります。",
+     "en": "I'm allergic to penicillin."
+    },
+    {
+     "jp": "今[いま]、飲[の]んでいる薬[くすり]はありません。",
+     "en": "I'm not taking any medication right now."
+    },
+    {
+     "jp": "英語[えいご]が話[はな]せる先生[せんせい]はいますか。",
+     "en": "Is there a doctor who speaks English?"
+    },
+    {
+     "jp": "診断書[しんだんしょ]を書[か]いていただけますか。",
+     "en": "Could you write me a medical certificate?",
+     "note": "Some employers ask for one if you are off sick for several days. There is usually a fee."
+    },
+    {
+     "jp": "この薬[くすり]は一日[いちにち]何回[なんかい]飲[の]みますか。",
+     "en": "How many times a day do I take this medicine?"
+    },
+    {
+     "jp": "食後[しょくご]に飲[の]んでください。",
+     "en": "Take it after meals. (pharmacist)"
+    },
+    {
+     "jp": "飲[の]むと眠[ねむ]くなりますか。",
+     "en": "Will it make me sleepy?"
+    },
+    {
+     "jp": "風邪薬[かぜぐすり]はどこにありますか。",
+     "en": "Where is the cold medicine? (drugstore)"
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "病院[びょういん]",
+     "en": "hospital, clinic"
+    },
+    {
+     "jp": "内科[ないか]",
+     "en": "internal medicine"
+    },
+    {
+     "jp": "歯医者[はいしゃ]",
+     "en": "dentist"
+    },
+    {
+     "jp": "受付[うけつけ]",
+     "en": "reception"
+    },
+    {
+     "jp": "保険証[ほけんしょう]",
+     "en": "health insurance card"
+    },
+    {
+     "jp": "初診[しょしん]",
+     "en": "first consultation"
+    },
+    {
+     "jp": "問診票[もんしんひょう]",
+     "en": "medical questionnaire"
+    },
+    {
+     "jp": "症状[しょうじょう]",
+     "en": "symptom"
+    },
+    {
+     "jp": "診察[しんさつ]",
+     "en": "medical examination"
+    },
+    {
+     "jp": "処方箋[しょほうせん]",
+     "en": "prescription"
+    },
+    {
+     "jp": "薬局[やっきょく]",
+     "en": "pharmacy"
+    },
+    {
+     "jp": "お薬[くすり]手帳[てちょう]",
+     "en": "medication record notebook"
+    },
+    {
+     "jp": "診断書[しんだんしょ]",
+     "en": "medical certificate"
+    },
+    {
+     "jp": "紹介状[しょうかいじょう]",
+     "en": "referral letter"
+    },
+    {
+     "jp": "咳[せき]",
+     "en": "cough"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Receptionist",
+     "jp": "こんにちは。今日[きょう]はどうされましたか。",
+     "en": "Hello. What brings you in today?"
+    },
+    {
+     "speaker": "You",
+     "jp": "熱[ねつ]と咳[せき]があって、診[み]ていただきたいんですが。",
+     "en": "I have a fever and a cough, and I'd like to see the doctor."
+    },
+    {
+     "speaker": "Receptionist",
+     "jp": "こちらは初[はじ]めてですか。",
+     "en": "Is this your first visit here?"
+    },
+    {
+     "speaker": "You",
+     "jp": "はい、初[はじ]めてです。",
+     "en": "Yes, it is."
+    },
+    {
+     "speaker": "Receptionist",
+     "jp": "では、保険証[ほけんしょう]かマイナンバーカードをお願[ねが]いします。こちらの問診票[もんしんひょう]にご記入[きにゅう]ください。",
+     "en": "Then your insurance card or My Number card, please. And please fill in this questionnaire."
+    },
+    {
+     "speaker": "Doctor",
+     "jp": "いつから熱[ねつ]がありますか。",
+     "en": "Since when have you had the fever?"
+    },
+    {
+     "speaker": "You",
+     "jp": "一昨日[おととい]の夜[よる]からです。",
+     "en": "Since the night before last."
+    },
+    {
+     "speaker": "Doctor",
+     "jp": "喉[のど]が少[すこ]し赤[あか]いですね。風邪[かぜ]だと思[おも]います。お薬[くすり]を出[だ]しておきますね。",
+     "en": "Your throat is a little red. I think it's a cold. I'll prescribe some medicine."
+    },
+    {
+     "speaker": "You",
+     "jp": "仕事[しごと]は休[やす]んだほうがいいですか。",
+     "en": "Should I take time off work?"
+    },
+    {
+     "speaker": "Doctor",
+     "jp": "熱[ねつ]が下[さ]がるまでは、休[やす]んでください。",
+     "en": "Please rest until the fever goes down."
+    }
+   ],
+   "tips": [
+    "Check clinic opening hours online before going. Many close for a long lunch break, on Sundays, and on one weekday afternoon.",
+    "Use your medication notebook ({お薬[くすり]手帳[てちょう]}) or its app version every time; it helps pharmacists avoid dangerous combinations.",
+    "Before moving to Japan, check the official rules on bringing medicine. Some stimulant-based medicines that are legal elsewhere are prohibited, and larger quantities may need advance paperwork.",
+    "Write down your symptoms, when they started and any allergies in Japanese before you go. Showing a note is perfectly acceptable.",
+    "Keep receipts for medical costs. If your household's medical spending is high in a year, you may be able to claim a tax deduction."
+   ]
+  },
+  {
+   "id": "life-airport",
+   "title": "Arrival: the airport & your residence card",
+   "level": "N4",
+   "intro": "If you enter Japan to live there for the mid to long term (for work, study, as a spouse and so on), immigration will check your passport and your visa or Certificate of Eligibility. At the major international airports, such as Narita, Haneda, Kansai and Chubu, you are usually handed your residence card ({在留[ざいりゅう]カード}) on the spot. If you arrive elsewhere, your passport is stamped and the card is sent to you after you register your address.\n\nThe residence card is your main ID in Japan. Adults are required to carry it at all times, and you will need it for almost every procedure: the ward office, bank, phone, apartment and job. Check it carefully as soon as you receive it. It shows your status of residence ({在留[ざいりゅう]資格[しかく]}), your period of stay ({在留[ざいりゅう]期間[きかん]}), and whether you are allowed to work.\n\nAfter you find a place to live, you must register your address at the municipal office within 14 days (see the next unit).\n\nTo extend your stay, you apply to a regional immigration office before your period of stay ends; applications can generally be made from a few months before expiry. Requirements change, so always confirm the current rules with the Immigration Services Agency ({出入国[しゅつにゅうこく]在留[ざいりゅう]管理庁[かんりちょう]}). If you plan to leave Japan temporarily and come back, check the re-entry rules before you travel.\n\nPractical tip: airports have counters where you can send heavy luggage to your new address by courier, so you can travel into the city light.",
+   "phrases": [
+    {
+     "jp": "仕事[しごと]で来[き]ました。",
+     "en": "I've come for work."
+    },
+    {
+     "jp": "三年[さんねん]ぐらい住[す]む予定[よてい]です。",
+     "en": "I plan to live here for about three years."
+    },
+    {
+     "jp": "在留[ざいりゅう]カードはここでもらえますか。",
+     "en": "Can I get my residence card here?"
+    },
+    {
+     "jp": "申告[しんこく]するものはありません。",
+     "en": "I have nothing to declare. (customs)"
+    },
+    {
+     "jp": "これは自分[じぶん]で使[つか]う物[もの]です。",
+     "en": "These are for my personal use."
+    },
+    {
+     "jp": "この荷物[にもつ]を家[いえ]に送[おく]りたいんですが。",
+     "en": "I'd like to send this luggage to my home."
+    },
+    {
+     "jp": "両替[りょうがえ]はどこでできますか。",
+     "en": "Where can I exchange money?"
+    },
+    {
+     "jp": "都内[とない]行[い]きのバス乗[の]り場[ば]はどこですか。",
+     "en": "Where is the stop for buses into central Tokyo?"
+    },
+    {
+     "jp": "SIMカードはどこで買[か]えますか。",
+     "en": "Where can I buy a SIM card?"
+    },
+    {
+     "jp": "在留[ざいりゅう]期間[きかん]の更新[こうしん]の申請[しんせい]に来[き]ました。",
+     "en": "I've come to apply to extend my period of stay."
+    },
+    {
+     "jp": "必要[ひつよう]な書類[しょるい]を教[おし]えていただけますか。",
+     "en": "Could you tell me which documents I need?"
+    },
+    {
+     "jp": "在留[ざいりゅう]カードをなくしてしまいました。",
+     "en": "I've lost my residence card.",
+     "note": "Report the loss to the police first, then apply for a replacement at immigration within the deadline."
+    },
+    {
+     "jp": "来月[らいげつ]、一時[いちじ]帰国[きこく]します。",
+     "en": "I'm going back to my country for a short visit next month."
+    },
+    {
+     "jp": "再入国[さいにゅうこく]の手続[てつづ]きは必要[ひつよう]ですか。",
+     "en": "Do I need a re-entry procedure?"
+    },
+    {
+     "jp": "審査[しんさ]にはどのくらい時間[じかん]がかかりますか。",
+     "en": "How long does the review take?"
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "空港[くうこう]",
+     "en": "airport"
+    },
+    {
+     "jp": "入国[にゅうこく]審査[しんさ]",
+     "en": "immigration inspection"
+    },
+    {
+     "jp": "税関[ぜいかん]",
+     "en": "customs"
+    },
+    {
+     "jp": "在留[ざいりゅう]カード",
+     "en": "residence card"
+    },
+    {
+     "jp": "在留[ざいりゅう]資格[しかく]",
+     "en": "status of residence (visa type)"
+    },
+    {
+     "jp": "在留[ざいりゅう]期間[きかん]",
+     "en": "period of stay"
+    },
+    {
+     "jp": "入管[にゅうかん]",
+     "en": "immigration office (short form)"
+    },
+    {
+     "jp": "更新[こうしん]",
+     "en": "renewal, extension"
+    },
+    {
+     "jp": "申請[しんせい]",
+     "en": "application"
+    },
+    {
+     "jp": "書類[しょるい]",
+     "en": "documents"
+    },
+    {
+     "jp": "再入国[さいにゅうこく]",
+     "en": "re-entry"
+    },
+    {
+     "jp": "住居地[じゅうきょち]",
+     "en": "place of residence (official term)"
+    },
+    {
+     "jp": "宅配便[たくはいびん]",
+     "en": "courier delivery service"
+    },
+    {
+     "jp": "両替[りょうがえ]",
+     "en": "currency exchange"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Officer",
+     "jp": "パスポートをお願[ねが]いします。日本[にほん]には何[なん]の目的[もくてき]で来[こ]られましたか。",
+     "en": "Your passport, please. What is the purpose of your stay in Japan?"
+    },
+    {
+     "speaker": "You",
+     "jp": "仕事[しごと]です。東京[とうきょう]の会社[かいしゃ]で働[はたら]きます。",
+     "en": "Work. I'll be working for a company in Tokyo."
+    },
+    {
+     "speaker": "Officer",
+     "jp": "日本[にほん]での住所[じゅうしょ]は決[き]まっていますか。",
+     "en": "Have you decided on your address in Japan?"
+    },
+    {
+     "speaker": "You",
+     "jp": "まだです。しばらくホテルに泊[と]まります。",
+     "en": "Not yet. I'll stay in a hotel for a while."
+    },
+    {
+     "speaker": "Officer",
+     "jp": "わかりました。住所[じゅうしょ]が決[き]まったら、14日[じゅうよっか]以内[いない]に市区町村[しくちょうそん]の役所[やくしょ]で届[とど]け出[で]をしてください。",
+     "en": "I see. Once you have an address, please register it at your municipal office within 14 days."
+    },
+    {
+     "speaker": "You",
+     "jp": "わかりました。",
+     "en": "Understood."
+    },
+    {
+     "speaker": "Officer",
+     "jp": "こちらが在留[ざいりゅう]カードです。いつも持[も]ち歩[ある]いてください。",
+     "en": "Here is your residence card. Please carry it with you at all times."
+    },
+    {
+     "speaker": "You",
+     "jp": "ありがとうございます。",
+     "en": "Thank you."
+    },
+    {
+     "speaker": "Officer",
+     "jp": "では、次[つぎ]は税関[ぜいかん]へお進[すす]みください。",
+     "en": "Please proceed to customs next."
+    }
+   ],
+   "tips": [
+    "Put your residence card expiry date in your calendar with a reminder several months ahead. Overstaying, even by accident, is a serious problem.",
+    "Check the work permission line on the card. If it is restricted, do not take on work outside what your status allows.",
+    "Keep digital copies of your passport, residence card and visa documents somewhere safe.",
+    "Immigration offices can be crowded. Many procedures can now be started online; check the Immigration Services Agency website first.",
+    "When you report a change, such as a new employer or a lost card, there are usually strict deadlines. Look them up the moment something changes."
+   ]
+  },
+  {
+   "id": "life-ward-office",
+   "title": "The ward office: registration, My Number, insurance & pension",
+   "level": "N4",
+   "intro": "Your city or ward office ({市役所[しやくしょ]} or {区役所[くやくしょ]}) is where you become an official resident. Within 14 days of moving in, go there with your residence card and passport and file a moving-in notification ({転入届[てんにゅうとどけ]}). Staff will print your address on the back of your residence card. You can usually handle several things in the same visit:\n\n- **Resident registration**. Once registered, you can request a certificate of residence ({住民票[じゅうみんひょう]}), which banks, employers and others often ask for.\n- **My Number**. Every resident is assigned a 12-digit personal number used for tax, social security and other administration. A notification is mailed to your registered address, and you can apply for a My Number card, a photo ID that also works as a health insurance card and lets you get some certificates at convenience stores.\n- **Health insurance**. If your employer enrolls you in its health insurance ({社会保険[しゃかいほけん]}), you use that. Otherwise you join National Health Insurance ({国民健康保険[こくみんけんこうほけん]}) at the office.\n- **Pension**. Residents aged 20 to 59 are generally part of the public pension system: through the employee pension if you work for a company, or the national pension ({国民年金[こくみんねんきん]}) otherwise.\n\nRules, fees and required documents differ by municipality and change over time, so check your city's website (many have English pages) or ask at the counter. If you move again, file a moving-out notification ({転出届[てんしゅつとどけ]}) at your old office first, and do the same when you leave Japan.",
+   "phrases": [
+    {
+     "jp": "転入届[てんにゅうとどけ]を出[だ]したいんですが。",
+     "en": "I'd like to file a moving-in notification."
+    },
+    {
+     "jp": "先週[せんしゅう]、外国[がいこく]から引[ひ]っ越[こ]してきました。",
+     "en": "I moved here from abroad last week."
+    },
+    {
+     "jp": "どの窓口[まどぐち]に行[い]けばいいですか。",
+     "en": "Which counter should I go to?"
+    },
+    {
+     "jp": "番号札[ばんごうふだ]を取[と]って、お待[ま]ちください。",
+     "en": "Please take a number and wait. (staff)"
+    },
+    {
+     "jp": "この用紙[ようし]の書[か]き方[かた]を教[おし]えていただけますか。",
+     "en": "Could you show me how to fill in this form?"
+    },
+    {
+     "jp": "国民健康保険[こくみんけんこうほけん]に加入[かにゅう]したいです。",
+     "en": "I'd like to join National Health Insurance."
+    },
+    {
+     "jp": "会社[かいしゃ]の健康[けんこう]保険[ほけん]に入[はい]る予定[よてい]です。",
+     "en": "I'm going to be on my company's health insurance."
+    },
+    {
+     "jp": "マイナンバーカードを申請[しんせい]したいです。",
+     "en": "I'd like to apply for a My Number card."
+    },
+    {
+     "jp": "住民票[じゅうみんひょう]を一通[いっつう]お願[ねが]いします。",
+     "en": "One copy of my certificate of residence, please."
+    },
+    {
+     "jp": "世帯主[せたいぬし]は私[わたし]です。",
+     "en": "I'm the head of the household.",
+     "note": "Forms ask for the {世帯主[せたいぬし]}. If you live alone, it is you."
+    },
+    {
+     "jp": "本人[ほんにん]確認[かくにん]書類[しょるい]は何[なに]が必要[ひつよう]ですか。",
+     "en": "What ID documents do I need?"
+    },
+    {
+     "jp": "印鑑[いんかん]は必要[ひつよう]ですか。",
+     "en": "Do I need a personal seal (hanko)?"
+    },
+    {
+     "jp": "年金[ねんきん]の手続[てつづ]きもここでできますか。",
+     "en": "Can I do the pension procedure here too?"
+    },
+    {
+     "jp": "英語[えいご]の案内[あんない]はありますか。",
+     "en": "Do you have information in English?"
+    },
+    {
+     "jp": "引[ひ]っ越[こ]すので、転出届[てんしゅつとどけ]を出[だ]したいです。",
+     "en": "I'm moving, so I'd like to file a moving-out notification."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "市役所[しやくしょ]／区役所[くやくしょ]",
+     "en": "city office / ward office"
+    },
+    {
+     "jp": "窓口[まどぐち]",
+     "en": "service counter"
+    },
+    {
+     "jp": "手続[てつづ]き",
+     "en": "procedure, paperwork"
+    },
+    {
+     "jp": "転入届[てんにゅうとどけ]",
+     "en": "moving-in notification"
+    },
+    {
+     "jp": "転出届[てんしゅつとどけ]",
+     "en": "moving-out notification"
+    },
+    {
+     "jp": "住民票[じゅうみんひょう]",
+     "en": "certificate of residence"
+    },
+    {
+     "jp": "マイナンバー",
+     "en": "My Number (personal ID number)"
+    },
+    {
+     "jp": "国民健康保険[こくみんけんこうほけん]",
+     "en": "National Health Insurance"
+    },
+    {
+     "jp": "国民年金[こくみんねんきん]",
+     "en": "National Pension"
+    },
+    {
+     "jp": "社会保険[しゃかいほけん]",
+     "en": "employee social insurance (health and pension)"
+    },
+    {
+     "jp": "世帯[せたい]",
+     "en": "household"
+    },
+    {
+     "jp": "申請書[しんせいしょ]",
+     "en": "application form"
+    },
+    {
+     "jp": "本人[ほんにん]確認[かくにん]",
+     "en": "identity verification"
+    },
+    {
+     "jp": "印鑑[いんかん]",
+     "en": "personal seal, hanko"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Staff",
+     "jp": "次[つぎ]の方[かた]、どうぞ。本日[ほんじつ]はどのようなご用件[ようけん]でしょうか。",
+     "en": "Next, please. How can I help you today?"
+    },
+    {
+     "speaker": "You",
+     "jp": "先週[せんしゅう]、日本[にほん]に来[き]ました。住所[じゅうしょ]の登録[とうろく]をしたいんですが。",
+     "en": "I arrived in Japan last week. I'd like to register my address."
+    },
+    {
+     "speaker": "Staff",
+     "jp": "転入[てんにゅう]の届[とど]け出[で]ですね。在留[ざいりゅう]カードとパスポートはお持[も]ちですか。",
+     "en": "A moving-in notification, then. Do you have your residence card and passport?"
+    },
+    {
+     "speaker": "You",
+     "jp": "はい、こちらです。",
+     "en": "Yes, here they are."
+    },
+    {
+     "speaker": "Staff",
+     "jp": "ありがとうございます。こちらの届出書[とどけでしょ]に、ご住所[じゅうしょ]とお名前[なまえ]をご記入[きにゅう]ください。",
+     "en": "Thank you. Please fill in your address and name on this form."
+    },
+    {
+     "speaker": "You",
+     "jp": "健康[けんこう]保険[ほけん]はどうすればいいですか。",
+     "en": "What should I do about health insurance?"
+    },
+    {
+     "speaker": "Staff",
+     "jp": "お勤[つと]め先[さき]で健康[けんこう]保険[ほけん]に加入[かにゅう]されますか。",
+     "en": "Will you be enrolled in health insurance through your employer?"
+    },
+    {
+     "speaker": "You",
+     "jp": "いいえ、まだ仕事[しごと]が決[き]まっていません。",
+     "en": "No, I haven't found a job yet."
+    },
+    {
+     "speaker": "Staff",
+     "jp": "では、国民健康保険[こくみんけんこうほけん]の手続[てつづ]きが必要[ひつよう]です。こちらが終[お]わりましたら、3番[さんばん]の窓口[まどぐち]へお越[こ]しください。",
+     "en": "Then you'll need to enroll in National Health Insurance. When we're done here, please go to counter 3."
+    },
+    {
+     "speaker": "You",
+     "jp": "わかりました。ありがとうございます。",
+     "en": "I see. Thank you."
+    }
+   ],
+   "tips": [
+    "Go early on a weekday and avoid the weeks around late March and early April, when huge numbers of people move.",
+    "Watch your mail after registering. Your My Number notification and other official letters arrive by post; do not throw away envelopes from the city.",
+    "Keep your pension records. If you leave Japan permanently, you may be able to claim a lump-sum withdrawal payment of part of your contributions; check the Japan Pension Service for current conditions.",
+    "If you cannot afford National Health Insurance or pension payments, ask about reductions or exemptions rather than just not paying. Unpaid amounts can cause problems later, including at visa renewal.",
+    "Bring a Japanese-speaking friend or use a translation app for your first visit. Many offices also have multilingual consultation services."
+   ]
+  },
+  {
+   "id": "life-bank-phone",
+   "title": "Bank account & phone contract",
+   "level": "N4",
+   "intro": "A bank account and a phone number are the next two things you need, and each tends to ask for the other. Many newcomers solve this by getting a data SIM or eSIM first, or by using a number arranged through their workplace or school.\n\n**Banks.** You will need your residence card (with your registered address), a Japanese phone number, and sometimes proof of employment or study. Some banks also ask for a personal seal ({印鑑[いんかん]}), though many now accept a signature. Some banks are stricter with people who have only just arrived, so ask before you go. Japan Post Bank ({ゆうちょ銀行[ぎんこう]}) is a common first choice because it has branches and ATMs almost everywhere. Expect to be asked why you are opening the account; this is a routine anti-fraud check. Your cash card is usually sent to your registered address by registered mail, which is not forwarded.\n\nYour salary will be paid by bank transfer ({振込[ふりこみ]}), and many bills can be paid by automatic debit ({口座[こうざ]振替[ふりかえ]}).\n\n**Phones.** There are a few large carriers, their cheaper sub-brands, and many low-cost providers ({格安[かくやす]SIM}). Bring your residence card and a payment method; some providers require a credit card. Early cancellation penalties are much smaller than they once were, but always ask.\n\nImportant: never sell, lend or hand over your bank account or SIM to anyone, even when you leave Japan. This is a crime, and such accounts are used for fraud. Close them properly before you go.",
+   "phrases": [
+    {
+     "jp": "口座[こうざ]を開設[かいせつ]したいんですが。",
+     "en": "I'd like to open an account."
+    },
+    {
+     "jp": "何[なに]を持[も]ってくればいいですか。",
+     "en": "What do I need to bring?"
+    },
+    {
+     "jp": "印鑑[いんかん]がないんですが、サインでも大丈夫[だいじょうぶ]ですか。",
+     "en": "I don't have a seal. Is a signature OK?"
+    },
+    {
+     "jp": "給料[きゅうりょう]の振込[ふりこみ]に使[つか]います。",
+     "en": "I'll use it to receive my salary."
+    },
+    {
+     "jp": "キャッシュカードはいつ届[とど]きますか。",
+     "en": "When will my cash card arrive?"
+    },
+    {
+     "jp": "ネットバンキングは使[つか]えますか。",
+     "en": "Can I use online banking?"
+    },
+    {
+     "jp": "海外[かいがい]に送金[そうきん]できますか。",
+     "en": "Can I send money abroad?"
+    },
+    {
+     "jp": "暗証番号[あんしょうばんごう]を忘[わす]れてしまいました。",
+     "en": "I've forgotten my PIN."
+    },
+    {
+     "jp": "携帯[けいたい]の契約[けいやく]をしたいんですが。",
+     "en": "I'd like to sign up for a phone contract."
+    },
+    {
+     "jp": "一番[いちばん]安[やす]いプランはどれですか。",
+     "en": "Which is the cheapest plan?"
+    },
+    {
+     "jp": "データ通信[つうしん]だけのプランはありますか。",
+     "en": "Do you have a data-only plan?"
+    },
+    {
+     "jp": "今[いま]のスマホをそのまま使[つか]えますか。",
+     "en": "Can I keep using my current smartphone?"
+    },
+    {
+     "jp": "支払[しはら]いは口座[こうざ]振替[ふりかえ]にできますか。",
+     "en": "Can I pay by automatic bank debit?"
+    },
+    {
+     "jp": "解約[かいやく]するとき、お金[かね]はかかりますか。",
+     "en": "Is there a fee if I cancel?"
+    },
+    {
+     "jp": "帰国[きこく]するので、口座[こうざ]を解約[かいやく]したいです。",
+     "en": "I'm returning home, so I'd like to close my account."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "銀行[ぎんこう]",
+     "en": "bank"
+    },
+    {
+     "jp": "口座[こうざ]",
+     "en": "bank account"
+    },
+    {
+     "jp": "通帳[つうちょう]",
+     "en": "bankbook, passbook"
+    },
+    {
+     "jp": "キャッシュカード",
+     "en": "cash (ATM) card"
+    },
+    {
+     "jp": "暗証番号[あんしょうばんごう]",
+     "en": "PIN"
+    },
+    {
+     "jp": "振込[ふりこみ]",
+     "en": "bank transfer (payment)"
+    },
+    {
+     "jp": "口座[こうざ]振替[ふりかえ]",
+     "en": "automatic debit"
+    },
+    {
+     "jp": "引[ひ]き出[だ]す",
+     "en": "to withdraw (money)"
+    },
+    {
+     "jp": "手数料[てすうりょう]",
+     "en": "fee, commission"
+    },
+    {
+     "jp": "残高[ざんだか]",
+     "en": "balance"
+    },
+    {
+     "jp": "送金[そうきん]",
+     "en": "remittance, sending money"
+    },
+    {
+     "jp": "契約[けいやく]",
+     "en": "contract"
+    },
+    {
+     "jp": "解約[かいやく]",
+     "en": "cancellation (of a contract or account)"
+    },
+    {
+     "jp": "格安[かくやす]SIM",
+     "en": "budget mobile provider / SIM"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Teller",
+     "jp": "いらっしゃいませ。本日[ほんじつ]はどのようなご用件[ようけん]でしょうか。",
+     "en": "Welcome. How may I help you today?"
+    },
+    {
+     "speaker": "You",
+     "jp": "口座[こうざ]を開設[かいせつ]したいんですが。",
+     "en": "I'd like to open an account."
+    },
+    {
+     "speaker": "Teller",
+     "jp": "かしこまりました。在留[ざいりゅう]カードと、お勤[つと]め先[さき]がわかる書類[しょるい]はお持[も]ちでしょうか。",
+     "en": "Certainly. Do you have your residence card and a document showing your employer?"
+    },
+    {
+     "speaker": "You",
+     "jp": "はい、在留[ざいりゅう]カードと社員証[しゃいんしょう]があります。",
+     "en": "Yes, I have my residence card and my staff ID."
+    },
+    {
+     "speaker": "Teller",
+     "jp": "ありがとうございます。口座[こうざ]のご利用[りよう]目的[もくてき]を伺[うかが]ってもよろしいでしょうか。",
+     "en": "Thank you. May I ask what you'll use the account for?"
+    },
+    {
+     "speaker": "You",
+     "jp": "給料[きゅうりょう]の受[う]け取[と]りと、生活費[せいかつひ]の支払[しはら]いです。",
+     "en": "Receiving my salary and paying living expenses."
+    },
+    {
+     "speaker": "Teller",
+     "jp": "かしこまりました。では、こちらの申込書[もうしこみしょ]にご記入[きにゅう]をお願[ねが]いいたします。",
+     "en": "Understood. Then please fill in this application form."
+    },
+    {
+     "speaker": "You",
+     "jp": "印鑑[いんかん]は必要[ひつよう]ですか。",
+     "en": "Do I need a seal?"
+    },
+    {
+     "speaker": "Teller",
+     "jp": "サインでも大丈夫[だいじょうぶ]です。キャッシュカードは、1、2週間[にしゅうかん]ほどでご自宅[じたく]に郵送[ゆうそう]いたします。",
+     "en": "A signature is fine. We'll mail your cash card to your home in about one to two weeks."
+    },
+    {
+     "speaker": "You",
+     "jp": "わかりました。よろしくお願[ねが]いします。",
+     "en": "OK. Thank you."
+    }
+   ],
+   "tips": [
+    "Make sure your name is on your mailbox before the cash card is sent, or the registered mail may be returned.",
+    "ATM fees can depend on the time of day and whether you use your own bank's machine. Convenience store ATMs are handy but often charge.",
+    "Bank account names are usually registered in katakana. Know how your name is written so you can give it to your employer for salary payments.",
+    "If someone offers to buy your bank account or phone line when you leave Japan, refuse. It is illegal and you can be held responsible.",
+    "Before leaving Japan, cancel your phone contract and close or settle your bank account, but keep one account open until your final salary and any refunds have arrived."
+   ]
+  },
+  {
+   "id": "life-apartment",
+   "title": "Finding an apartment",
+   "level": "N4",
+   "intro": "Most rentals go through a real-estate agency ({不動産屋[ふどうさんや]}). You browse listings online or in the shop, arrange a viewing ({内見[ないけん]}), apply, pass a screening ({審査[しんさ]}) and then sign the contract.\n\nThe upfront costs surprise many newcomers. Typical items include:\n\n- {敷金[しききん]}: a deposit, used for cleaning and repairs when you move out; the rest is returned.\n- {礼金[れいきん]}: key money, a non-refundable payment to the landlord. Many listings now have none.\n- {仲介[ちゅうかい]手数料[てすうりょう]}: the agency's fee.\n- The first month's rent, fire insurance, a lock change fee and a guarantor company fee.\n\nTogether these often add up to several months' rent, so budget carefully and ask for a full estimate.\n\nLandlords usually want a guarantor ({保証人[ほしょうにん]}). Since most foreigners don't have a Japanese relative to ask, you will normally use a guarantor company ({保証[ほしょう]会社[がいしゃ]}) instead. Unfortunately, some landlords still refuse foreign tenants; agencies that specialize in helping foreigners can save you time.\n\nLayouts are written as codes: the number is the count of rooms, plus K (kitchen), DK (dining-kitchen) or LDK (living-dining-kitchen). A 1R is a single room with the kitchen in it, 1K has a separate small kitchen, and 1LDK has a bedroom plus a living area. Room sizes are often given in tatami mats ({畳[じょう]}). Contracts commonly run for two years, and in some regions renewal requires a fee ({更新料[こうしんりょう]}).",
+   "phrases": [
+    {
+     "jp": "部屋[へや]を探[さが]しているんですが。",
+     "en": "I'm looking for an apartment."
+    },
+    {
+     "jp": "家賃[やちん]は8万円[はちまんえん]以内[いない]がいいです。",
+     "en": "I'd like the rent to be 80,000 yen or less."
+    },
+    {
+     "jp": "駅[えき]から徒歩[とほ]10分[じゅっぷん]以内[いない]がいいです。",
+     "en": "I'd prefer within a 10-minute walk of the station."
+    },
+    {
+     "jp": "1LDKの部屋[へや]はありますか。",
+     "en": "Do you have any 1LDK apartments?"
+    },
+    {
+     "jp": "外国人[がいこくじん]でも借[か]りられますか。",
+     "en": "Can a foreigner rent this?"
+    },
+    {
+     "jp": "礼金[れいきん]なしの物件[ぶっけん]はありますか。",
+     "en": "Are there any places with no key money?"
+    },
+    {
+     "jp": "初期[しょき]費用[ひよう]は全部[ぜんぶ]でいくらぐらいですか。",
+     "en": "About how much are the move-in costs in total?"
+    },
+    {
+     "jp": "管理費[かんりひ]は含[ふく]まれていますか。",
+     "en": "Is the maintenance fee included?"
+    },
+    {
+     "jp": "内見[ないけん]できますか。",
+     "en": "Can I view it?"
+    },
+    {
+     "jp": "保証人[ほしょうにん]がいないんですが。",
+     "en": "I don't have a guarantor."
+    },
+    {
+     "jp": "保証[ほしょう]会社[がいしゃ]を利用[りよう]できますか。",
+     "en": "Can I use a guarantor company?"
+    },
+    {
+     "jp": "ペット可[か]ですか。",
+     "en": "Are pets allowed?"
+    },
+    {
+     "jp": "バス・トイレ別[べつ]ですか。",
+     "en": "Are the bath and toilet separate?"
+    },
+    {
+     "jp": "契約[けいやく]期間[きかん]は何年[なんねん]ですか。",
+     "en": "How long is the contract?"
+    },
+    {
+     "jp": "更新料[こうしんりょう]はかかりますか。",
+     "en": "Is there a renewal fee?"
+    },
+    {
+     "jp": "退去[たいきょ]するときは、いつまでに連絡[れんらく]すればいいですか。",
+     "en": "How much notice do I need to give when moving out?"
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "不動産屋[ふどうさんや]",
+     "en": "real-estate agency"
+    },
+    {
+     "jp": "物件[ぶっけん]",
+     "en": "property, listing"
+    },
+    {
+     "jp": "家賃[やちん]",
+     "en": "rent"
+    },
+    {
+     "jp": "管理費[かんりひ]",
+     "en": "building maintenance fee"
+    },
+    {
+     "jp": "敷金[しききん]",
+     "en": "security deposit"
+    },
+    {
+     "jp": "礼金[れいきん]",
+     "en": "key money (non-refundable)"
+    },
+    {
+     "jp": "仲介[ちゅうかい]手数料[てすうりょう]",
+     "en": "agency (brokerage) fee"
+    },
+    {
+     "jp": "保証人[ほしょうにん]",
+     "en": "guarantor (person)"
+    },
+    {
+     "jp": "保証[ほしょう]会社[がいしゃ]",
+     "en": "rent guarantor company"
+    },
+    {
+     "jp": "審査[しんさ]",
+     "en": "screening"
+    },
+    {
+     "jp": "間取[まど]り",
+     "en": "floor plan, layout"
+    },
+    {
+     "jp": "内見[ないけん]",
+     "en": "viewing"
+    },
+    {
+     "jp": "更新料[こうしんりょう]",
+     "en": "contract renewal fee"
+    },
+    {
+     "jp": "畳[じょう]",
+     "en": "tatami mat (unit of room size)"
+    },
+    {
+     "jp": "築年数[ちくねんすう]",
+     "en": "age of the building"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Agent",
+     "jp": "いらっしゃいませ。お部屋[へや]をお探[さが]しですか。",
+     "en": "Welcome. Are you looking for an apartment?"
+    },
+    {
+     "speaker": "You",
+     "jp": "はい。会社[かいしゃ]の近[ちか]くで、1Kか1DKの部屋[へや]を探[さが]しています。",
+     "en": "Yes. I'm looking for a 1K or 1DK near my office."
+    },
+    {
+     "speaker": "Agent",
+     "jp": "ご予算[よさん]はどのくらいでしょうか。",
+     "en": "What's your budget?"
+    },
+    {
+     "speaker": "You",
+     "jp": "管理費[かんりひ]込[こ]みで7万円[ななまんえん]ぐらいです。",
+     "en": "Around 70,000 yen including the maintenance fee."
+    },
+    {
+     "speaker": "Agent",
+     "jp": "かしこまりました。こちらの物件[ぶっけん]はいかがでしょうか。駅[えき]から徒歩[とほ]8分[はっぷん]で、築[ちく]10年[じゅうねん]です。",
+     "en": "Certainly. How about this one? It's an 8-minute walk from the station and the building is 10 years old."
+    },
+    {
+     "speaker": "You",
+     "jp": "いいですね。外国人[がいこくじん]でも大丈夫[だいじょうぶ]ですか。",
+     "en": "Looks good. Is it OK for a foreigner?"
+    },
+    {
+     "speaker": "Agent",
+     "jp": "はい。保証[ほしょう]会社[がいしゃ]のご利用[りよう]が条件[じょうけん]ですが、問題[もんだい]ございません。",
+     "en": "Yes. Using a guarantor company is a condition, but that's no problem."
+    },
+    {
+     "speaker": "You",
+     "jp": "初期[しょき]費用[ひよう]はどのくらいかかりますか。",
+     "en": "How much will the move-in costs be?"
+    },
+    {
+     "speaker": "Agent",
+     "jp": "敷金[しききん]1ヶ月[いっかげつ]、礼金[れいきん]なしなので、全部[ぜんぶ]で家賃[やちん]の4ヶ月分[よんかげつぶん]ぐらいです。",
+     "en": "Deposit is one month and there's no key money, so in total about four months' rent."
+    },
+    {
+     "speaker": "You",
+     "jp": "内見[ないけん]できますか。",
+     "en": "Can I view it?"
+    },
+    {
+     "speaker": "Agent",
+     "jp": "はい、今日[きょう]の午後[ごご]でしたらご案内[あんない]できます。",
+     "en": "Yes, I can take you this afternoon."
+    }
+   ],
+   "tips": [
+    "Take photos of every scratch and stain on move-in day and send them to the agency. It helps when the deposit is settled at move-out.",
+    "One tatami mat is roughly 1.5 to 1.7 square meters depending on the region. A 6-mat room is small by many Western standards.",
+    "Read the move-out notice period in your contract; one month is common, but check.",
+    "Ask whether the place comes with lights, air conditioning and a gas stove. Unfurnished in Japan can mean very bare.",
+    "Share houses and furnished monthly apartments are an easy first step while you get your bank account, phone and job sorted out."
+   ]
+  },
+  {
+   "id": "life-garbage-neighbors",
+   "title": "Garbage sorting & neighbors",
+   "level": "N4",
+   "intro": "Garbage rules in Japan are strict and set by each municipality, so the rules in your new town may differ from what a friend in another city told you. When you register at the city office or move into your building, ask for the sorting guide and collection calendar. Many cities publish them in English and other languages, and some have apps that remind you what goes out each day.\n\nCommon categories include:\n\n- {燃[も]えるゴミ} (burnable): food waste, paper scraps, many everyday items.\n- {燃[も]えないゴミ} (non-burnable): things like ceramics, small metal items, broken glass.\n- {資源[しげん]ゴミ} (recyclables): cans, glass bottles, PET bottles, paper and cardboard. Usually rinsed, with caps and labels removed.\n- {粗大[そだい]ゴミ} (oversized items): furniture, bicycles and so on. You normally book a collection and pay by buying a sticker or ticket.\n\nSome cities require designated bags ({指定袋[していぶくろ]}) sold at supermarkets and convenience stores. Put garbage out on the morning of collection day, at your building's designated spot, by the time on the calendar. Wrongly sorted bags may be left behind with a warning sticker. Large appliances such as TVs, refrigerators, washing machines and air conditioners are handled under a separate recycling system and cannot go out as ordinary garbage.\n\nGood relations with neighbors matter. Greet people you meet, keep noise down at night (walls can be thin), and follow the garbage rules; these three things prevent most problems.",
+   "phrases": [
+    {
+     "jp": "ゴミの出[だ]し方[かた]を教[おし]えていただけますか。",
+     "en": "Could you tell me how to put out the garbage?"
+    },
+    {
+     "jp": "燃[も]えるゴミは何曜日[なんようび]ですか。",
+     "en": "Which day is burnable garbage?"
+    },
+    {
+     "jp": "これは何[なに]ゴミですか。",
+     "en": "What type of garbage is this?"
+    },
+    {
+     "jp": "ペットボトルのキャップはどうすればいいですか。",
+     "en": "What should I do with PET bottle caps?"
+    },
+    {
+     "jp": "ゴミ置[お]き場[ば]はどこですか。",
+     "en": "Where is the garbage collection point?"
+    },
+    {
+     "jp": "粗大[そだい]ゴミを出[だ]したいんですが。",
+     "en": "I'd like to dispose of an oversized item."
+    },
+    {
+     "jp": "指定[してい]のゴミ袋[ぶくろ]はどこで買[か]えますか。",
+     "en": "Where can I buy the designated garbage bags?"
+    },
+    {
+     "jp": "すみません、分別[ぶんべつ]を間違[まちが]えました。",
+     "en": "Sorry, I sorted it wrong."
+    },
+    {
+     "jp": "隣[となり]に引[ひ]っ越[こ]してきたスミスです。",
+     "en": "I'm Smith, I just moved in next door."
+    },
+    {
+     "jp": "ほんの気持[きも]ちですが、どうぞ。",
+     "en": "It's just a small token, but please accept it.",
+     "note": "A modest phrase when giving a small gift. The traditional {つまらないものですが} is also still heard."
+    },
+    {
+     "jp": "これからよろしくお願[ねが]いします。",
+     "en": "I look forward to being your neighbor."
+    },
+    {
+     "jp": "夜[よる]遅[おそ]くにうるさくして、すみませんでした。",
+     "en": "Sorry for being noisy late at night."
+    },
+    {
+     "jp": "夜[よる]、少[すこ]し音[おと]が気[き]になるんですが…。",
+     "en": "The noise at night is bothering me a little..."
+    },
+    {
+     "jp": "回覧板[かいらんばん]は、お隣[となり]に回[まわ]せばいいですか。",
+     "en": "Should I pass the circular notice on to the next house?",
+     "note": "A {回覧板[かいらんばん]} is a clipboard of neighborhood notices passed from house to house."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "ゴミ",
+     "en": "garbage, trash"
+    },
+    {
+     "jp": "分別[ぶんべつ]",
+     "en": "sorting (garbage)"
+    },
+    {
+     "jp": "燃[も]えるゴミ",
+     "en": "burnable garbage"
+    },
+    {
+     "jp": "燃[も]えないゴミ",
+     "en": "non-burnable garbage"
+    },
+    {
+     "jp": "資源[しげん]ゴミ",
+     "en": "recyclables"
+    },
+    {
+     "jp": "粗大[そだい]ゴミ",
+     "en": "oversized garbage"
+    },
+    {
+     "jp": "缶[かん]",
+     "en": "can"
+    },
+    {
+     "jp": "瓶[びん]",
+     "en": "glass bottle"
+    },
+    {
+     "jp": "収集日[しゅうしゅうび]",
+     "en": "collection day"
+    },
+    {
+     "jp": "ゴミ置[お]き場[ば]",
+     "en": "garbage collection point"
+    },
+    {
+     "jp": "指定袋[していぶくろ]",
+     "en": "designated garbage bag"
+    },
+    {
+     "jp": "近所[きんじょ]",
+     "en": "neighborhood"
+    },
+    {
+     "jp": "大家[おおや]さん",
+     "en": "landlord"
+    },
+    {
+     "jp": "管理[かんり]会社[がいしゃ]",
+     "en": "property management company"
+    },
+    {
+     "jp": "町内会[ちょうないかい]",
+     "en": "neighborhood association"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Neighbor",
+     "jp": "おはようございます。あの、すみません、それ、今日[きょう]は出[だ]せないんですよ。",
+     "en": "Good morning. Um, excuse me, you can't put that out today."
+    },
+    {
+     "speaker": "You",
+     "jp": "えっ、そうなんですか。すみません。",
+     "en": "Oh, really? I'm sorry."
+    },
+    {
+     "speaker": "Neighbor",
+     "jp": "今日[きょう]は燃[も]えるゴミの日[ひ]で、ペットボトルは金曜日[きんようび]なんです。",
+     "en": "Today is burnable garbage day. PET bottles are on Friday."
+    },
+    {
+     "speaker": "You",
+     "jp": "知[し]りませんでした。教[おし]えてくださって、ありがとうございます。",
+     "en": "I didn't know. Thank you for telling me."
+    },
+    {
+     "speaker": "Neighbor",
+     "jp": "最近[さいきん]引[ひ]っ越[こ]してこられた方[かた]ですよね。",
+     "en": "You're the one who just moved in, right?"
+    },
+    {
+     "speaker": "You",
+     "jp": "はい、先月[せんげつ]201号室[にひゃくいちごうしつ]に引[ひ]っ越[こ]してきたスミスです。",
+     "en": "Yes, I'm Smith. I moved into room 201 last month."
+    },
+    {
+     "speaker": "Neighbor",
+     "jp": "そうですか。ゴミのカレンダーはもらいました？",
+     "en": "I see. Did you get the garbage calendar?"
+    },
+    {
+     "speaker": "You",
+     "jp": "いいえ、まだです。",
+     "en": "No, not yet."
+    },
+    {
+     "speaker": "Neighbor",
+     "jp": "市[し]のホームページに英語版[えいごばん]もあると思[おも]いますよ。",
+     "en": "I think there's an English version on the city's website too."
+    },
+    {
+     "speaker": "You",
+     "jp": "確認[かくにん]してみます。ご親切[しんせつ]にありがとうございます。",
+     "en": "I'll check. That's very kind of you."
+    }
+   ],
+   "tips": [
+    "Search for your city name plus {ゴミ} or the word garbage to find the official sorting guide; it is the only source that really counts.",
+    "When moving out, book oversized garbage collection early; around March and April slots fill up fast.",
+    "In apartment buildings, giving a small gift (such as a box of sweets or a hand towel) to the neighbors on each side when you move in is a nice gesture, though not everyone does it in big cities.",
+    "If you have a noise problem with a neighbor, it is usually better to contact the management company than to confront them directly.",
+    "Ask before putting out items you are unsure about. Neighbors and building managers would much rather you ask than guess."
+   ]
+  },
+  {
+   "id": "life-post-deliveries",
+   "title": "Post office & deliveries",
+   "level": "N4",
+   "intro": "The post office ({郵便局[ゆうびんきょく]}) handles letters, parcels, registered mail and the services of Japan Post Bank. Japanese addresses are written from largest to smallest: postal code (seven digits, after the {〒} mark), prefecture, city or ward, district, block numbers, building name and room number, then the person's name with {様[さま]}.\n\nPrivate courier companies ({宅配便[たくはいびん]}) deliver most online shopping, quickly and to a chosen time slot. If you are not home, the driver leaves a missed-delivery notice ({不在[ふざい]連絡票[れんらくひょう]}) in your mailbox. It has a QR code, a website and a phone number for arranging redelivery ({再配達[さいはいたつ]}); you choose a date and time window. Many services also let you pick up at a convenience store or delivery locker, or ask for the parcel to be left at your door ({置[お]き配[はい]}).\n\nWhen you move within Japan, you can submit a change-of-address notice ({転居届[てんきょとどけ]}) to the post office, and your mail is forwarded to the new address for a limited period. Note that some official mail is not forwarded, so update your address everywhere as well.\n\nPut your name on your mailbox and door. Mail and parcels without a clearly matching name may be returned to the sender.\n\nBe careful with text messages claiming to be from a delivery company with a link to click. Fake delivery messages are a common scam; use the official app or website instead.",
+   "phrases": [
+    {
+     "jp": "これを速達[そくたつ]でお願[ねが]いします。",
+     "en": "Express delivery for this, please."
+    },
+    {
+     "jp": "アメリカまで航空便[こうくうびん]でいくらですか。",
+     "en": "How much is it to send this to the US by airmail?"
+    },
+    {
+     "jp": "書留[かきとめ]でお願[ねが]いします。",
+     "en": "By registered mail, please."
+    },
+    {
+     "jp": "中身[なかみ]は本[ほん]です。",
+     "en": "The contents are books."
+    },
+    {
+     "jp": "いつ頃[ごろ]届[とど]きますか。",
+     "en": "About when will it arrive?"
+    },
+    {
+     "jp": "110円[ひゃくじゅうえん]切手[きって]を5枚[ごまい]ください。",
+     "en": "Five 110-yen stamps, please.",
+     "note": "Postage rates change from time to time; this is just a model sentence. You can always ask {はがきはいくらですか}."
+    },
+    {
+     "jp": "不在[ふざい]連絡票[れんらくひょう]が入[はい]っていました。",
+     "en": "There was a missed-delivery notice in my mailbox."
+    },
+    {
+     "jp": "再配達[さいはいたつ]をお願[ねが]いしたいんですが。",
+     "en": "I'd like to request redelivery."
+    },
+    {
+     "jp": "明日[あした]の19時[じゅうくじ]から21時[にじゅういちじ]の間[あいだ]にお願[ねが]いします。",
+     "en": "Between 7 and 9 p.m. tomorrow, please."
+    },
+    {
+     "jp": "置[お]き配[はい]でお願[ねが]いします。",
+     "en": "Please leave it at the door."
+    },
+    {
+     "jp": "宅配[たくはい]ボックスに入[い]れてください。",
+     "en": "Please put it in the delivery locker."
+    },
+    {
+     "jp": "コンビニで受[う]け取[と]れますか。",
+     "en": "Can I pick it up at a convenience store?"
+    },
+    {
+     "jp": "この荷物[にもつ]を着払[ちゃくばら]いで送[おく]りたいです。",
+     "en": "I'd like to send this parcel with the recipient paying."
+    },
+    {
+     "jp": "引[ひ]っ越[こ]したので、転居届[てんきょとどけ]を出[だ]したいです。",
+     "en": "I've moved, so I'd like to submit a change-of-address notice."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "郵便局[ゆうびんきょく]",
+     "en": "post office"
+    },
+    {
+     "jp": "郵便[ゆうびん]番号[ばんごう]",
+     "en": "postal code"
+    },
+    {
+     "jp": "切手[きって]",
+     "en": "stamp"
+    },
+    {
+     "jp": "はがき",
+     "en": "postcard"
+    },
+    {
+     "jp": "封筒[ふうとう]",
+     "en": "envelope"
+    },
+    {
+     "jp": "速達[そくたつ]",
+     "en": "express mail"
+    },
+    {
+     "jp": "書留[かきとめ]",
+     "en": "registered mail"
+    },
+    {
+     "jp": "荷物[にもつ]",
+     "en": "parcel, luggage"
+    },
+    {
+     "jp": "宅配便[たくはいびん]",
+     "en": "courier delivery"
+    },
+    {
+     "jp": "再配達[さいはいたつ]",
+     "en": "redelivery"
+    },
+    {
+     "jp": "不在[ふざい]連絡票[れんらくひょう]",
+     "en": "missed-delivery notice"
+    },
+    {
+     "jp": "置[お]き配[はい]",
+     "en": "leave-at-door delivery"
+    },
+    {
+     "jp": "着払[ちゃくばら]い",
+     "en": "cash on delivery (recipient pays postage)"
+    },
+    {
+     "jp": "送料[そうりょう]",
+     "en": "shipping fee"
+    },
+    {
+     "jp": "宛先[あてさき]",
+     "en": "destination address"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Driver",
+     "jp": "こんにちは。お届[とど]け物[もの]です。",
+     "en": "Hello. I have a delivery for you."
+    },
+    {
+     "speaker": "You",
+     "jp": "はい、今[いま]開[あ]けます。",
+     "en": "OK, I'll open the door now."
+    },
+    {
+     "speaker": "Driver",
+     "jp": "スミス様[さま]でお間違[まちが]いないでしょうか。",
+     "en": "You're Mr. Smith, is that right?"
+    },
+    {
+     "speaker": "You",
+     "jp": "はい、そうです。",
+     "en": "Yes, that's right."
+    },
+    {
+     "speaker": "Driver",
+     "jp": "こちらにサインかハンコをお願[ねが]いします。",
+     "en": "Please sign or stamp here."
+    },
+    {
+     "speaker": "You",
+     "jp": "サインでいいですか。",
+     "en": "Is a signature OK?"
+    },
+    {
+     "speaker": "Driver",
+     "jp": "はい、大丈夫[だいじょうぶ]です。昨日[きのう]も伺[うかが]ったんですが、ご不在[ふざい]だったので。",
+     "en": "Yes, that's fine. I came by yesterday too, but you were out."
+    },
+    {
+     "speaker": "You",
+     "jp": "すみません。次[つぎ]から置[お]き配[はい]にできますか。",
+     "en": "Sorry about that. Can I have it left at the door from now on?"
+    },
+    {
+     "speaker": "Driver",
+     "jp": "アプリかホームページから設定[せってい]できますよ。",
+     "en": "You can set that up through the app or website."
+    },
+    {
+     "speaker": "You",
+     "jp": "わかりました。ありがとうございます。",
+     "en": "OK. Thank you."
+    },
+    {
+     "speaker": "Driver",
+     "jp": "ありがとうございました。失礼[しつれい]します。",
+     "en": "Thank you. Goodbye."
+    }
+   ],
+   "tips": [
+    "Learn to write your own address in Japanese from memory; you will fill it in on countless forms.",
+    "Courier redelivery requests can usually be made the same day for an evening slot, but deadlines vary. Request early in the day.",
+    "Important documents such as bank cards and some official papers are sent by registered mail and need a signature. Watch for notices.",
+    "If you receive a delivery text with a strange link, do not click it. Check the tracking number on the courier's official site.",
+    "Convenience stores accept parcels for several courier companies, which is handy for returns."
+   ]
+  },
+  {
+   "id": "life-social",
+   "title": "Making friends & social etiquette",
+   "level": "N4",
+   "intro": "Friendships in Japan often build slowly, through repeated contact in a shared setting: a hobby club ({サークル}), a sports team, a language exchange, volunteering, or regular colleagues. Showing up consistently matters more than one great conversation.\n\nInvitations can be vague. {今度[こんど]、飲[の]みに行[い]きましょう} (let's go for a drink sometime) may be sincere or just friendly politeness. If you want to meet, follow up with a concrete day. Refusals are also indirect: {その日[ひ]はちょっと…} (that day is a bit...) is a clear no, and you shouldn't press for a reason.\n\nDrinking parties ({飲[の]み会[かい]}) are a big part of social and work life. Wait for the toast ({乾杯[かんぱい]}) before drinking. It is polite to notice when someone's glass is empty and offer to pour. Many restaurants offer an all-you-can-drink course ({飲[の]み放題[ほうだい]}), and the bill is often split evenly ({割[わ]り勘[かん]}). You never have to drink alcohol; ordering oolong tea or a soft drink is completely normal.\n\nGifts are woven into daily life. After a trip, people bring souvenirs ({お土産[みやげ]}), usually individually wrapped snacks to share at work. When you visit someone's home, bring a small gift ({手土産[てみやげ]}), take your shoes off at the entrance, and say {お邪魔[じゃま]します}. If you receive a gift for a special occasion, a return gift ({お返[かえ]し}) is often expected.\n\nWith new acquaintances, start in polite speech and switch to casual speech when the other person does.",
+   "phrases": [
+    {
+     "jp": "今度[こんど]、一緒[いっしょ]にご飯[はん]でもどうですか。",
+     "en": "Would you like to get a meal together sometime?"
+    },
+    {
+     "jp": "来週[らいしゅう]の金曜日[きんようび]、空[あ]いていますか。",
+     "en": "Are you free next Friday?"
+    },
+    {
+     "jp": "ぜひ行[い]きたいです。",
+     "en": "I'd love to go."
+    },
+    {
+     "jp": "すみません、その日[ひ]はちょっと…。",
+     "en": "Sorry, that day is a bit difficult..."
+    },
+    {
+     "jp": "また誘[さそ]ってください。",
+     "en": "Please invite me again."
+    },
+    {
+     "jp": "乾杯[かんぱい]！",
+     "en": "Cheers!"
+    },
+    {
+     "jp": "お酒[さけ]はあまり飲[の]めないので、ウーロン茶[ちゃ]にします。",
+     "en": "I can't drink much alcohol, so I'll have oolong tea."
+    },
+    {
+     "jp": "どうぞ、お注[つ]ぎします。",
+     "en": "Here, let me pour for you."
+    },
+    {
+     "jp": "LINE、交換[こうかん]しませんか。",
+     "en": "Shall we exchange LINE contacts?",
+     "note": "LINE is the dominant messaging app in Japan."
+    },
+    {
+     "jp": "お邪魔[じゃま]します。",
+     "en": "Excuse me for intruding. (entering someone's home)"
+    },
+    {
+     "jp": "お邪魔[じゃま]しました。",
+     "en": "Thank you for having me. (leaving someone's home)"
+    },
+    {
+     "jp": "これ、旅行[りょこう]のお土産[みやげ]です。皆[みな]さんでどうぞ。",
+     "en": "These are souvenirs from my trip. Please help yourselves, everyone."
+    },
+    {
+     "jp": "素敵[すてき]なプレゼント、ありがとうございます。",
+     "en": "Thank you for the lovely present."
+    },
+    {
+     "jp": "今日[きょう]は誘[さそ]ってくれてありがとう。楽[たの]しかった！",
+     "en": "Thanks for inviting me today. It was fun! (casual)"
+    },
+    {
+     "jp": "割[わ]り勘[かん]にしましょう。",
+     "en": "Let's split the bill."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "友達[ともだち]",
+     "en": "friend"
+    },
+    {
+     "jp": "飲[の]み会[かい]",
+     "en": "drinking party"
+    },
+    {
+     "jp": "乾杯[かんぱい]",
+     "en": "toast, cheers"
+    },
+    {
+     "jp": "二次会[にじかい]",
+     "en": "after-party, second venue"
+    },
+    {
+     "jp": "飲[の]み放題[ほうだい]",
+     "en": "all-you-can-drink"
+    },
+    {
+     "jp": "割[わ]り勘[かん]",
+     "en": "splitting the bill"
+    },
+    {
+     "jp": "誘[さそ]う",
+     "en": "to invite"
+    },
+    {
+     "jp": "断[ことわ]る",
+     "en": "to decline"
+    },
+    {
+     "jp": "お土産[みやげ]",
+     "en": "souvenir (gift from a trip)"
+    },
+    {
+     "jp": "手土産[てみやげ]",
+     "en": "small gift brought when visiting"
+    },
+    {
+     "jp": "お返[かえ]し",
+     "en": "return gift"
+    },
+    {
+     "jp": "遠慮[えんりょ]",
+     "en": "holding back, restraint (out of politeness)"
+    },
+    {
+     "jp": "タメ口[ぐち]",
+     "en": "casual speech (as between equals)"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Kenta",
+     "jp": "マークさん、今週[こんしゅう]の土曜日[どようび]、何[なに]か予定[よてい]ある？",
+     "en": "Mark, do you have any plans this Saturday?"
+    },
+    {
+     "speaker": "You",
+     "jp": "土曜日[どようび]？特[とく]にないよ。",
+     "en": "Saturday? Nothing in particular."
+    },
+    {
+     "speaker": "Kenta",
+     "jp": "大学[だいがく]の友達[ともだち]とバーベキューするんだけど、一緒[いっしょ]にどう？",
+     "en": "I'm having a barbecue with some friends from university. Want to come?"
+    },
+    {
+     "speaker": "You",
+     "jp": "いいの？ぜひ行[い]きたい！何[なに]か持[も]っていこうか。",
+     "en": "Really? I'd love to! Shall I bring something?"
+    },
+    {
+     "speaker": "Kenta",
+     "jp": "じゃあ、飲[の]み物[もの]をちょっとお願[ねが]いしてもいい？",
+     "en": "Then could you bring a few drinks?"
+    },
+    {
+     "speaker": "You",
+     "jp": "もちろん。何時[なんじ]にどこ？",
+     "en": "Of course. What time and where?"
+    },
+    {
+     "speaker": "Kenta",
+     "jp": "11時[じゅういちじ]に駅[えき]の改札[かいさつ]で。費用[ひよう]は割[わ]り勘[かん]ね。",
+     "en": "At the station ticket gates at 11. We'll split the costs."
+    },
+    {
+     "speaker": "You",
+     "jp": "了解[りょうかい]！楽[たの]しみにしてる。",
+     "en": "Got it! Looking forward to it."
+    }
+   ],
+   "tips": [
+    "Follow up on vague invitations with a specific suggestion. If the other person keeps being busy, they may be politely declining.",
+    "At work drinking parties, juniors often pour for seniors. If someone pours for you, lift your glass slightly with both hands.",
+    "Bring small, individually wrapped souvenirs for your workplace after a holiday. It's a small effort that people notice.",
+    "In homes, also take off the house slippers before stepping on tatami, and use the separate toilet slippers if provided.",
+    "Switching to casual speech too early can feel pushy, and staying formal too long can feel distant. Mirror the other person."
+   ]
+  },
+  {
+   "id": "life-job-hunting",
+   "title": "Job hunting in Japan",
+   "level": "N3",
+   "intro": "To work in Japan you need a status of residence that allows the work you will do. At a high level, common routes are:\n\n- **Engineer / Specialist in Humanities / International Services** ({技術[ぎじゅつ]・人文[じんぶん]知識[ちしき]・国際[こくさい]業務[ぎょうむ]}): the usual status for office, IT, engineering, translation and similar professional jobs. It generally expects a relevant degree or work experience.\n- **Highly Skilled Professional** ({高度[こうど]専門職[せんもんしょく]}): a points-based status with extra benefits.\n- **Specified Skilled Worker** ({特定[とくてい]技能[ぎのう]}): for certain industries with labor shortages, usually requiring skills and Japanese tests.\n- Others include intra-company transfer, instructor and working holiday. Spouses of Japanese nationals and permanent residents can generally work freely, and students can work limited hours with permission.\n\nYour employer usually provides documents for your visa application. Rules and requirements change, so always check the Immigration Services Agency.\n\nJapanese applications usually need two documents. The {履歴書[りれきしょ]} is a resume on a standard form: personal details, photo, education and work history in date order, qualifications, and a short section on motivation. The {職務[しょくむ]経歴書[けいれきしょ]} is a freer document describing your past roles, responsibilities and achievements in detail.\n\nWhere to look: bilingual job boards, professional networking sites, recruitment agencies ({転職[てんしょく]エージェント}), which are usually free for job seekers, and Hello Work ({ハローワーク}), the public employment service. Many Japanese-speaking roles ask for JLPT N2 or N1, so list your level clearly.",
+   "phrases": [
+    {
+     "jp": "日本[にほん]で仕事[しごと]を探[さが]しています。",
+     "en": "I'm looking for a job in Japan."
+    },
+    {
+     "jp": "ITエンジニアとして5年[ごねん]の経験[けいけん]があります。",
+     "en": "I have five years of experience as an IT engineer."
+    },
+    {
+     "jp": "日本語[にほんご]能力[のうりょく]試験[しけん]のN2を持[も]っています。",
+     "en": "I have JLPT N2."
+    },
+    {
+     "jp": "正社員[せいしゃいん]の求人[きゅうじん]を探[さが]しています。",
+     "en": "I'm looking for full-time permanent positions."
+    },
+    {
+     "jp": "ビザのサポートはありますか。",
+     "en": "Do you provide visa support?"
+    },
+    {
+     "jp": "就職[しゅうしょく]が決[き]まったら、在留[ざいりゅう]資格[しかく]の変更[へんこう]が必要[ひつよう]です。",
+     "en": "Once I get a job, I'll need to change my status of residence."
+    },
+    {
+     "jp": "こちらの求人[きゅうじん]に応募[おうぼ]したいのですが。",
+     "en": "I'd like to apply for this position."
+    },
+    {
+     "jp": "募集[ぼしゅう]要項[ようこう]を拝見[はいけん]しました。",
+     "en": "I've read the job posting.",
+     "note": "{拝見[はいけん]する} is the humble verb for see/read. Useful in cover letters."
+    },
+    {
+     "jp": "履歴書[りれきしょ]と職務[しょくむ]経歴書[けいれきしょ]をお送[おく]りします。",
+     "en": "I'll send my resume and career history."
+    },
+    {
+     "jp": "勤務地[きんむち]はどちらになりますか。",
+     "en": "Where would the work location be?"
+    },
+    {
+     "jp": "リモートワークは可能[かのう]でしょうか。",
+     "en": "Is remote work possible?"
+    },
+    {
+     "jp": "給与[きゅうよ]の条件[じょうけん]を教[おし]えていただけますか。",
+     "en": "Could you tell me about the salary conditions?"
+    },
+    {
+     "jp": "契約[けいやく]社員[しゃいん]と正社員[せいしゃいん]の違[ちが]いは何[なん]ですか。",
+     "en": "What's the difference between a contract employee and a permanent employee?"
+    },
+    {
+     "jp": "面接[めんせつ]の日程[にってい]はいつがよろしいでしょうか。",
+     "en": "When would be a good date for the interview?"
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "就職[しゅうしょく]",
+     "en": "getting a job, employment"
+    },
+    {
+     "jp": "転職[てんしょく]",
+     "en": "changing jobs"
+    },
+    {
+     "jp": "求人[きゅうじん]",
+     "en": "job opening"
+    },
+    {
+     "jp": "応募[おうぼ]",
+     "en": "application (for a job)"
+    },
+    {
+     "jp": "履歴書[りれきしょ]",
+     "en": "resume (standard form)"
+    },
+    {
+     "jp": "職務[しょくむ]経歴書[けいれきしょ]",
+     "en": "detailed career history"
+    },
+    {
+     "jp": "正社員[せいしゃいん]",
+     "en": "regular full-time employee"
+    },
+    {
+     "jp": "契約[けいやく]社員[しゃいん]",
+     "en": "contract employee"
+    },
+    {
+     "jp": "派遣[はけん]",
+     "en": "temp staffing / dispatched work"
+    },
+    {
+     "jp": "新卒[しんそつ]",
+     "en": "new graduate (hiring)"
+    },
+    {
+     "jp": "中途[ちゅうと]採用[さいよう]",
+     "en": "mid-career hiring"
+    },
+    {
+     "jp": "年収[ねんしゅう]",
+     "en": "annual income"
+    },
+    {
+     "jp": "勤務地[きんむち]",
+     "en": "work location"
+    },
+    {
+     "jp": "職種[しょくしゅ]",
+     "en": "type of job, occupation"
+    },
+    {
+     "jp": "資格外[しかくがい]活動[かつどう]許可[きょか]",
+     "en": "permission to work outside one's status (e.g. for students)"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Recruiter",
+     "jp": "本日[ほんじつ]はお時間[じかん]をいただき、ありがとうございます。まず、ご希望[きぼう]の職種[しょくしゅ]を教[おし]えていただけますか。",
+     "en": "Thank you for your time today. First, could you tell me what kind of position you're looking for?"
+    },
+    {
+     "speaker": "You",
+     "jp": "Webエンジニアの仕事[しごと]を探[さが]しています。前[まえ]の会社[かいしゃ]で5年間[ごねんかん]、開発[かいはつ]をしていました。",
+     "en": "I'm looking for a web engineer role. I did development at my previous company for five years."
+    },
+    {
+     "speaker": "Recruiter",
+     "jp": "日本語[にほんご]はどのくらいお話[はな]しになれますか。",
+     "en": "How well do you speak Japanese?"
+    },
+    {
+     "speaker": "You",
+     "jp": "日常[にちじょう]会話[かいわ]はできます。今[いま]はN2の勉強[べんきょう]をしています。",
+     "en": "I can handle everyday conversation. I'm studying for N2 now."
+    },
+    {
+     "speaker": "Recruiter",
+     "jp": "現在[げんざい]の在留[ざいりゅう]資格[しかく]は何[なん]でしょうか。",
+     "en": "What is your current status of residence?"
+    },
+    {
+     "speaker": "You",
+     "jp": "今[いま]は大学院[だいがくいん]の留学生[りゅうがくせい]なので、就職[しゅうしょく]が決[き]まったら変更[へんこう]が必要[ひつよう]です。",
+     "en": "I'm a graduate student now, so I'll need to change it once I get a job."
+    },
+    {
+     "speaker": "Recruiter",
+     "jp": "承知[しょうち]しました。ビザのサポートがある企業[きぎょう]をいくつかご紹介[しょうかい]しますね。",
+     "en": "Understood. I'll introduce you to some companies that offer visa support."
+    },
+    {
+     "speaker": "You",
+     "jp": "ありがとうございます。リモートワークができる会社[かいしゃ]だとうれしいです。",
+     "en": "Thank you. I'd be happy if they allow remote work."
+    },
+    {
+     "speaker": "Recruiter",
+     "jp": "では、日本語[にほんご]の履歴書[りれきしょ]と職務[しょくむ]経歴書[けいれきしょ]をご準備[じゅんび]いただけますか。",
+     "en": "Then could you prepare a Japanese resume and career history?"
+    },
+    {
+     "speaker": "You",
+     "jp": "はい、今週[こんしゅう]中[ちゅう]にお送[おく]りします。",
+     "en": "Yes, I'll send them this week."
+    }
+   ],
+   "tips": [
+    "Use a proper ID-style photo for your {履歴書[りれきしょ]}: plain background, business clothes, recent. Photo booths at stations are made for this.",
+    "Keep your {職務[しょくむ]経歴書[けいれきしょ]} to about one to three pages, with concrete numbers for achievements where you can.",
+    "Japanese companies traditionally hire new graduates in one big yearly cycle; as a mid-career applicant you will mostly apply through {中途[ちゅうと]採用[さいよう]} postings, which open year-round.",
+    "Be clear about your visa situation early. Recruiters can match you much better when they know exactly what status you hold and when it expires.",
+    "Check whether a job is permanent ({正社員[せいしゃいん]}), contract or dispatched. Pay, job security and benefits can differ a lot."
+   ]
+  },
+  {
+   "id": "life-interview",
+   "title": "The job interview",
+   "level": "N3",
+   "intro": "Japanese job interviews ({面接[めんせつ]}) follow a fairly set ritual, and getting the manners right makes a strong first impression. There are often several rounds, ending in a final interview with senior managers.\n\nArrive a few minutes early, but not too early; around five to ten minutes before is ideal. Wear a dark, conservative suit unless told otherwise. For an in-person interview, the typical sequence is:\n\n- Knock on the door, wait for {どうぞ}, enter and say {失礼[しつれい]いたします}.\n- Close the door, turn and bow, walk to the side of the chair.\n- Give your name and {よろしくお願[ねが]いいたします}, and bow again.\n- Sit only when invited: {どうぞおかけください}.\n- At the end, stand, thank them, bow, and say {失礼[しつれい]いたします} again at the door.\n\nRefer to the company you are applying to as {御社[おんしゃ]} when speaking (in writing it becomes {貴社[きしゃ]}), and speak in polite, humble Japanese about yourself.\n\nCommon questions include a self-introduction or self-PR, your reason for applying ({志望[しぼう]動機[どうき]}), strengths and weaknesses, why you want to work in Japan, and how long you plan to stay. At the end you will almost always be asked if you have any questions ({逆質問[ぎゃくしつもん]}); prepare at least one or two thoughtful ones. Online interviews are common too: test your camera and sound beforehand, and keep the same level of politeness.",
+   "phrases": [
+    {
+     "jp": "失礼[しつれい]いたします。",
+     "en": "Excuse me. (entering, sitting, leaving)"
+    },
+    {
+     "jp": "ジョン・スミスと申[もう]します。本日[ほんじつ]はよろしくお願[ねが]いいたします。",
+     "en": "My name is John Smith. Thank you for seeing me today."
+    },
+    {
+     "jp": "どうぞおかけください。",
+     "en": "Please have a seat. (interviewer)"
+    },
+    {
+     "jp": "簡単[かんたん]に自己紹介[じこしょうかい]をお願[ねが]いします。",
+     "en": "Please briefly introduce yourself. (interviewer)"
+    },
+    {
+     "jp": "前職[ぜんしょく]では、3年間[さんねんかん]営業[えいぎょう]を担当[たんとう]しておりました。",
+     "en": "In my previous job, I worked in sales for three years."
+    },
+    {
+     "jp": "御社[おんしゃ]を志望[しぼう]した理由[りゆう]は二[ふた]つございます。",
+     "en": "There are two reasons I applied to your company."
+    },
+    {
+     "jp": "私[わたし]の強[つよ]みは、粘[ねば]り強[づよ]さです。",
+     "en": "My strength is perseverance."
+    },
+    {
+     "jp": "日本[にほん]で長[なが]く働[はたら]きたいと考[かんが]えております。",
+     "en": "I'm thinking of working in Japan for a long time."
+    },
+    {
+     "jp": "申[もう]し訳[わけ]ございません。もう一度[いちど]おっしゃっていただけますか。",
+     "en": "I'm sorry. Could you say that once more?"
+    },
+    {
+     "jp": "少[すこ]し考[かんが]えてもよろしいでしょうか。",
+     "en": "May I take a moment to think?"
+    },
+    {
+     "jp": "何[なに]かご質問[しつもん]はありますか。",
+     "en": "Do you have any questions? (interviewer)"
+    },
+    {
+     "jp": "入社[にゅうしゃ]までに勉強[べんきょう]しておくべきことはありますか。",
+     "en": "Is there anything I should study before joining?"
+    },
+    {
+     "jp": "配属[はいぞく]先[さき]のチームについて、教[おし]えていただけますか。",
+     "en": "Could you tell me about the team I'd be assigned to?"
+    },
+    {
+     "jp": "本日[ほんじつ]は貴重[きちょう]なお時間[じかん]をいただき、ありがとうございました。",
+     "en": "Thank you for your valuable time today."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "面接[めんせつ]",
+     "en": "interview"
+    },
+    {
+     "jp": "面接官[めんせつかん]",
+     "en": "interviewer"
+    },
+    {
+     "jp": "御社[おんしゃ]",
+     "en": "your company (spoken, respectful)"
+    },
+    {
+     "jp": "貴社[きしゃ]",
+     "en": "your company (written, respectful)"
+    },
+    {
+     "jp": "志望[しぼう]動機[どうき]",
+     "en": "reason for applying"
+    },
+    {
+     "jp": "自己[じこ]PR",
+     "en": "self-promotion (describing your strengths)"
+    },
+    {
+     "jp": "長所[ちょうしょ]",
+     "en": "strong point"
+    },
+    {
+     "jp": "短所[たんしょ]",
+     "en": "weak point"
+    },
+    {
+     "jp": "強[つよ]み",
+     "en": "strength"
+    },
+    {
+     "jp": "前職[ぜんしょく]",
+     "en": "previous job"
+    },
+    {
+     "jp": "経験[けいけん]",
+     "en": "experience"
+    },
+    {
+     "jp": "逆質問[ぎゃくしつもん]",
+     "en": "questions the candidate asks the interviewer"
+    },
+    {
+     "jp": "一次[いちじ]面接[めんせつ]／最終[さいしゅう]面接[めんせつ]",
+     "en": "first-round interview / final interview"
+    },
+    {
+     "jp": "内定[ないてい]",
+     "en": "(informal) job offer"
+    },
+    {
+     "jp": "入社[にゅうしゃ]",
+     "en": "joining a company"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Interviewer",
+     "jp": "どうぞおかけください。",
+     "en": "Please have a seat."
+    },
+    {
+     "speaker": "You",
+     "jp": "失礼[しつれい]いたします。",
+     "en": "Thank you."
+    },
+    {
+     "speaker": "Interviewer",
+     "jp": "では、簡単[かんたん]に自己紹介[じこしょうかい]をお願[ねが]いします。",
+     "en": "Then, please briefly introduce yourself."
+    },
+    {
+     "speaker": "You",
+     "jp": "エマ・ブラウンと申[もう]します。イギリスの大学[だいがく]でマーケティングを学[まな]び、前職[ぜんしょく]では4年間[よねんかん]、デジタル広告[こうこく]を担当[たんとう]しておりました。",
+     "en": "My name is Emma Brown. I studied marketing at a university in the UK, and in my previous job I was in charge of digital advertising for four years."
+    },
+    {
+     "speaker": "Interviewer",
+     "jp": "当社[とうしゃ]を志望[しぼう]された理由[りゆう]を教[おし]えてください。",
+     "en": "Please tell us why you applied to our company."
+    },
+    {
+     "speaker": "You",
+     "jp": "御社[おんしゃ]が海外[かいがい]市場[しじょう]への展開[てんかい]に力[ちから]を入[い]れていらっしゃると伺[うかが]い、私[わたし]の経験[けいけん]を生[い]かせると考[かんが]えたからです。",
+     "en": "I heard that your company is focusing on expanding into overseas markets, and I believe I can make use of my experience."
+    },
+    {
+     "speaker": "Interviewer",
+     "jp": "日本[にほん]で働[はたら]く上[うえ]で、不安[ふあん]なことはありますか。",
+     "en": "Do you have any concerns about working in Japan?"
+    },
+    {
+     "speaker": "You",
+     "jp": "敬語[けいご]はまだ勉強[べんきょう]中[ちゅう]ですが、毎日[まいにち]練習[れんしゅう]しております。",
+     "en": "I'm still learning keigo, but I practice every day."
+    },
+    {
+     "speaker": "Interviewer",
+     "jp": "最後[さいご]に、何[なに]かご質問[しつもん]はありますか。",
+     "en": "Finally, do you have any questions?"
+    },
+    {
+     "speaker": "You",
+     "jp": "はい。入社[にゅうしゃ]後[ご]の研修[けんしゅう]について、教[おし]えていただけますか。",
+     "en": "Yes. Could you tell me about the training after joining?"
+    }
+   ],
+   "tips": [
+    "Prepare a 1-minute self-introduction and a clear reason for applying. Interviewers often ask for a specific reason why this company, not just Japan.",
+    "Never speak badly of your previous employer. Frame reasons for leaving positively, as wanting a new challenge or growth.",
+    "Note the difference: {御社[おんしゃ]} when speaking, {貴社[きしゃ]} in emails and documents.",
+    "If you don't understand a question, ask politely for it to be repeated. That is far better than answering the wrong question.",
+    "After an offer ({内定[ないてい]}), check the employment contract terms carefully, including salary breakdown, trial period, overtime rules and visa support, before you accept."
+   ]
+  },
+  {
+   "id": "life-first-day",
+   "title": "First day at work",
+   "level": "N3",
+   "intro": "On your first day you will very likely be asked to introduce yourself to your team, often at a morning meeting ({朝礼[ちょうれい]}) or as you are walked around the office. Prepare a short speech of about 30 seconds to a minute. A common structure is:\n\n- Your name, with the department you are joining: {本日[ほんじつ]から〜でお世話[せわ]になります}.\n- Where you are from and what you did before.\n- One light personal detail, if you like.\n- A humble closing, asking for guidance: {ご指導[しどう]よろしくお願[ねが]いいたします}.\n\nYou will also handle paperwork: the employment contract, social insurance enrollment, a bank account for salary, your commuting route for the commuting allowance, and your My Number, which employers need for tax and social insurance. Read the work rules ({就業[しゅうぎょう]規則[きそく]}) for working hours, leave and overtime.\n\nLearn the daily phrases. Say {おはようございます} when you arrive, {お疲[つか]れ様[さま]です} when you pass colleagues during the day, {お先[さき]に失礼[しつれい]します} when you leave before others, and {お疲[つか]れ様[さま]でした} to people who are leaving. Ask questions freely in the first weeks; it is expected of a newcomer. You will probably be assigned a mentor or senior colleague ({先輩[せんぱい]}) to help you.\n\nTake notes, learn names and roles quickly, and watch how colleagues behave. Every workplace has its own unwritten rules.",
+   "phrases": [
+    {
+     "jp": "本日[ほんじつ]から営業部[えいぎょうぶ]でお世話[せわ]になります、スミスと申[もう]します。",
+     "en": "I'm Smith, and I'm joining the sales department from today."
+    },
+    {
+     "jp": "前職[ぜんしょく]ではITサポートを担当[たんとう]しておりました。",
+     "en": "In my previous job I worked in IT support."
+    },
+    {
+     "jp": "一日[いちにち]も早[はや]く仕事[しごと]を覚[おぼ]えられるよう、頑張[がんば]ります。",
+     "en": "I'll do my best to learn the job as quickly as possible."
+    },
+    {
+     "jp": "至[いた]らない点[てん]も多[おお]いかと思[おも]いますが、ご指導[しどう]よろしくお願[ねが]いいたします。",
+     "en": "I'm sure I have a lot to learn, so I would appreciate your guidance.",
+     "note": "A classic humble closing for a work self-introduction."
+    },
+    {
+     "jp": "何[なに]かお手伝[てつだ]いできることはありますか。",
+     "en": "Is there anything I can help with?"
+    },
+    {
+     "jp": "すみません、これはどうすればよろしいでしょうか。",
+     "en": "Excuse me, what should I do with this?"
+    },
+    {
+     "jp": "メモを取[と]ってもよろしいですか。",
+     "en": "May I take notes?"
+    },
+    {
+     "jp": "念[ねん]のため、確認[かくにん]させてください。",
+     "en": "Just to be sure, let me confirm."
+    },
+    {
+     "jp": "教[おし]えていただき、ありがとうございます。",
+     "en": "Thank you for showing me."
+    },
+    {
+     "jp": "お手洗[てあら]いはどちらですか。",
+     "en": "Where is the restroom?"
+    },
+    {
+     "jp": "〜さんは、どちらの部署[ぶしょ]ですか。",
+     "en": "Which department are you in, ~?"
+    },
+    {
+     "jp": "お昼[ひる]、ご一緒[いっしょ]してもいいですか。",
+     "en": "May I join you for lunch?"
+    },
+    {
+     "jp": "お疲[つか]れ様[さま]です。",
+     "en": "(greeting / thanks to colleagues during the day)"
+    },
+    {
+     "jp": "お先[さき]に失礼[しつれい]します。",
+     "en": "Excuse me for leaving before you."
+    },
+    {
+     "jp": "お疲[つか]れ様[さま]でした。",
+     "en": "Thanks for your hard work. (to someone leaving)"
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "出社[しゅっしゃ]",
+     "en": "arriving at / going in to the office"
+    },
+    {
+     "jp": "朝礼[ちょうれい]",
+     "en": "morning meeting"
+    },
+    {
+     "jp": "部署[ぶしょ]",
+     "en": "department, section"
+    },
+    {
+     "jp": "配属[はいぞく]",
+     "en": "assignment (to a department)"
+    },
+    {
+     "jp": "上司[じょうし]",
+     "en": "boss, superior"
+    },
+    {
+     "jp": "先輩[せんぱい]",
+     "en": "senior colleague"
+    },
+    {
+     "jp": "後輩[こうはい]",
+     "en": "junior colleague"
+    },
+    {
+     "jp": "同僚[どうりょう]",
+     "en": "colleague, coworker"
+    },
+    {
+     "jp": "新人[しんじん]",
+     "en": "newcomer, new employee"
+    },
+    {
+     "jp": "研修[けんしゅう]",
+     "en": "training"
+    },
+    {
+     "jp": "雇用[こよう]契約書[けいやくしょ]",
+     "en": "employment contract"
+    },
+    {
+     "jp": "就業[しゅうぎょう]規則[きそく]",
+     "en": "company work rules"
+    },
+    {
+     "jp": "社員証[しゃいんしょう]",
+     "en": "employee ID card"
+    },
+    {
+     "jp": "通勤[つうきん]手当[てあて]",
+     "en": "commuting allowance"
+    },
+    {
+     "jp": "定時[ていじ]",
+     "en": "regular finishing time"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Manager",
+     "jp": "皆[みな]さん、おはようございます。今日[きょう]から新[あたら]しいメンバーが入[はい]りました。スミスさん、一言[ひとこと]お願[ねが]いします。",
+     "en": "Good morning, everyone. A new member joins us from today. Mr. Smith, a few words, please."
+    },
+    {
+     "speaker": "You",
+     "jp": "はい。本日[ほんじつ]から開発部[かいはつぶ]でお世話[せわ]になります、ダニエル・スミスと申[もう]します。",
+     "en": "Yes. I'm Daniel Smith, and I'm joining the development department from today."
+    },
+    {
+     "speaker": "You",
+     "jp": "アメリカ出身[しゅっしん]で、前職[ぜんしょく]ではアプリの開発[かいはつ]をしておりました。",
+     "en": "I'm from the US, and in my previous job I developed apps."
+    },
+    {
+     "speaker": "You",
+     "jp": "日本語[にほんご]はまだ勉強[べんきょう]中[ちゅう]で、ご迷惑[めいわく]をおかけすることもあるかと思[おも]いますが、一日[いちにち]も早[はや]くお役[やく]に立[た]てるよう頑張[がんば]ります。",
+     "en": "I'm still studying Japanese, so I may cause you some trouble, but I'll work hard to be useful as soon as possible."
+    },
+    {
+     "speaker": "You",
+     "jp": "どうぞよろしくお願[ねが]いいたします。",
+     "en": "I look forward to working with you all."
+    },
+    {
+     "speaker": "Manager",
+     "jp": "ありがとう。じゃあ、田中[たなか]さん、スミスさんの指導[しどう]係[がかり]をお願[ねが]いできるかな。",
+     "en": "Thanks. Ms. Tanaka, could you be Mr. Smith's mentor?"
+    },
+    {
+     "speaker": "Tanaka",
+     "jp": "はい。スミスさん、田中[たなか]です。わからないことがあったら、何[なん]でも聞[き]いてくださいね。",
+     "en": "Sure. Mr. Smith, I'm Tanaka. If there's anything you don't understand, just ask."
+    },
+    {
+     "speaker": "You",
+     "jp": "ありがとうございます。よろしくお願[ねが]いします。",
+     "en": "Thank you. I look forward to working with you."
+    },
+    {
+     "speaker": "You",
+     "jp": "お先[さき]に失礼[しつれい]します。",
+     "en": "(Evening) Excuse me for leaving first."
+    },
+    {
+     "speaker": "Tanaka",
+     "jp": "お疲[つか]れ様[さま]でした。また明日[あした]。",
+     "en": "Thanks for today. See you tomorrow."
+    }
+   ],
+   "tips": [
+    "Rehearse your self-introduction out loud until you can say it without notes. Keep it short.",
+    "Say {お疲[つか]れ様[さま]です} to superiors, not {ご苦労[くろう]様[さま]です}, which is traditionally used toward people of lower rank.",
+    "Your employer will ask for your My Number. Giving it to your employer is normal and required for tax and social insurance.",
+    "Bring a notebook and write things down. Asking the same question twice is fine; asking it five times is less so.",
+    "Watch what time people actually arrive and how they leave. Workplace culture varies a lot between companies, especially between traditional Japanese firms and foreign-owned ones."
+   ]
+  },
+  {
+   "id": "life-keigo",
+   "title": "Workplace keigo essentials",
+   "level": "N3",
+   "intro": "Keigo ({敬語[けいご]}) is the system of respectful language used at work, with customers and with anyone of higher status. It has three main layers:\n\n- **Polite language** ({丁寧語[ていねいご]}): {です／ます}, plus {ございます} in very formal speech.\n- **Respectful language** ({尊敬語[そんけいご]}): raises the other person by using special verbs for their actions, such as {いらっしゃる} (be / go / come), {おっしゃる} (say), {ご覧[らん]になる} (see), {召[め]し上[あ]がる} (eat / drink), or the pattern {お〜になる}.\n- **Humble language** ({謙譲語[けんじょうご]}): lowers yourself when your action relates to the other person, such as {参[まい]る} (go / come), {申[もう]す} (say), {伺[うかが]う} (visit / ask), {拝見[はいけん]する} (see), {いただく} (receive / eat), or the pattern {お〜する}.\n\nThe key rule is **inside vs outside** ({ウチ／ソト}). Inside your company, you show respect to your boss. But when speaking to an outside person such as a client, your whole company is inside, so you talk about your boss humbly, without {さん} or a title: {部長[ぶちょう]の田中[たなか]は外出[がいしゅつ]しております}.\n\nA few set phrases cover a huge amount of office life: {お疲[つか]れ様[さま]です}, {失礼[しつれい]します}, {かしこまりました} or {承知[しょうち]しました} (certainly / understood), {申[もう]し訳[わけ]ございません}, and cushion phrases like {恐[おそ]れ入[い]りますが} and {お手数[てすう]ですが} placed before requests.\n\nDon't panic about perfection. Many Japanese people make keigo mistakes too. Clear polite {です／ます} with the right set phrases will carry you a long way while you learn.",
+   "phrases": [
+    {
+     "jp": "かしこまりました。",
+     "en": "Certainly. (to a customer or superior)"
+    },
+    {
+     "jp": "承知[しょうち]いたしました。",
+     "en": "Understood. (formal)",
+     "note": "Use this instead of {わかりました} with superiors and clients. {了解[りょうかい]しました} is common between colleagues but many people consider it too casual toward superiors."
+    },
+    {
+     "jp": "申[もう]し訳[わけ]ございません。",
+     "en": "I'm very sorry."
+    },
+    {
+     "jp": "恐[おそ]れ入[い]りますが、お名前[なまえ]をもう一度[いちど]伺[うかが]えますか。",
+     "en": "I'm sorry to trouble you, but could I ask your name once more?"
+    },
+    {
+     "jp": "部長[ぶちょう]は今日[きょう]、いらっしゃいますか。",
+     "en": "Is the department manager in today?"
+    },
+    {
+     "jp": "課長[かちょう]がそうおっしゃっていました。",
+     "en": "The section manager said so."
+    },
+    {
+     "jp": "資料[しりょう]はご覧[らん]になりましたか。",
+     "en": "Have you looked at the materials?"
+    },
+    {
+     "jp": "資料[しりょう]を拝見[はいけん]しました。",
+     "en": "I've looked at the materials."
+    },
+    {
+     "jp": "明日[あした]の午後[ごご]、御社[おんしゃ]に伺[うかが]います。",
+     "en": "I'll visit your company tomorrow afternoon."
+    },
+    {
+     "jp": "会議室[かいぎしつ]までご案内[あんない]いたします。",
+     "en": "I'll show you to the meeting room."
+    },
+    {
+     "jp": "少々[しょうしょう]お待[ま]ちいただけますか。",
+     "en": "Could you wait a moment, please?"
+    },
+    {
+     "jp": "お手数[てすう]をおかけしますが、ご確認[かくにん]をお願[ねが]いいたします。",
+     "en": "Sorry for the trouble, but could you please check it?"
+    },
+    {
+     "jp": "田中[たなか]はただいま外出[がいしゅつ]しております。",
+     "en": "Tanaka is out at the moment. (to an outside person)",
+     "note": "Your own colleague, even your boss, loses {さん} when you talk to outsiders."
+    },
+    {
+     "jp": "その件[けん]は存[ぞん]じております。",
+     "en": "I'm aware of that matter."
+    },
+    {
+     "jp": "よろしければ、お茶[ちゃ]を召[め]し上[あ]がってください。",
+     "en": "Please have some tea, if you like."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "敬語[けいご]",
+     "en": "honorific / polite language"
+    },
+    {
+     "jp": "尊敬語[そんけいご]",
+     "en": "respectful language (raising others)"
+    },
+    {
+     "jp": "謙譲語[けんじょうご]",
+     "en": "humble language (lowering yourself)"
+    },
+    {
+     "jp": "丁寧語[ていねいご]",
+     "en": "polite language (です／ます)"
+    },
+    {
+     "jp": "いらっしゃる",
+     "en": "to be / go / come (respectful)"
+    },
+    {
+     "jp": "おっしゃる",
+     "en": "to say (respectful)"
+    },
+    {
+     "jp": "ご覧[らん]になる",
+     "en": "to see, look (respectful)"
+    },
+    {
+     "jp": "召[め]し上[あ]がる",
+     "en": "to eat, drink (respectful)"
+    },
+    {
+     "jp": "参[まい]る",
+     "en": "to go / come (humble)"
+    },
+    {
+     "jp": "申[もう]す",
+     "en": "to say (humble)"
+    },
+    {
+     "jp": "伺[うかが]う",
+     "en": "to visit, ask (humble)"
+    },
+    {
+     "jp": "拝見[はいけん]する",
+     "en": "to see, look at (humble)"
+    },
+    {
+     "jp": "存[ぞん]じる",
+     "en": "to know (humble)"
+    },
+    {
+     "jp": "クッション言葉[ことば]",
+     "en": "cushion phrases that soften a request"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Visitor",
+     "jp": "失礼[しつれい]いたします。ABC商事[しょうじ]の山本[やまもと]と申[もう]します。営業部[えいぎょうぶ]の佐藤[さとう]様[さま]はいらっしゃいますか。",
+     "en": "Excuse me. I'm Yamamoto from ABC Trading. Is Mr. Sato from the sales department in?"
+    },
+    {
+     "speaker": "You",
+     "jp": "いつもお世話[せわ]になっております。申[もう]し訳[わけ]ございません、佐藤[さとう]はただいま会議[かいぎ]中[ちゅう]でございます。",
+     "en": "Thank you for your continued business. I'm very sorry, Sato is in a meeting at the moment."
+    },
+    {
+     "speaker": "Visitor",
+     "jp": "そうですか。3時[さんじ]にお約束[やくそく]をいただいているのですが。",
+     "en": "I see. I have an appointment with him at three."
+    },
+    {
+     "speaker": "You",
+     "jp": "大変[たいへん]失礼[しつれい]いたしました。すぐに確認[かくにん]いたしますので、こちらで少々[しょうしょう]お待[ま]ちいただけますか。",
+     "en": "My apologies. I'll check right away, so could you wait here a moment?"
+    },
+    {
+     "speaker": "Visitor",
+     "jp": "はい、お願[ねが]いします。",
+     "en": "Yes, please."
+    },
+    {
+     "speaker": "You",
+     "jp": "佐藤[さとう]さん、お疲[つか]れ様[さま]です。ABC商事[しょうじ]の山本[やまもと]様[さま]がお見[み]えになっています。",
+     "en": "(On the internal line) Mr. Sato, sorry to bother you. Mr. Yamamoto from ABC Trading has arrived."
+    },
+    {
+     "speaker": "Sato",
+     "jp": "あ、もうそんな時間[じかん]か。すぐ行[い]きます。",
+     "en": "Oh, is it that time already? I'll come right away."
+    },
+    {
+     "speaker": "You",
+     "jp": "山本[やまもと]様[さま]、お待[ま]たせいたしました。佐藤[さとう]はすぐに参[まい]ります。",
+     "en": "Mr. Yamamoto, sorry to keep you waiting. Sato will be with you shortly."
+    },
+    {
+     "speaker": "Visitor",
+     "jp": "ありがとうございます。",
+     "en": "Thank you."
+    }
+   ],
+   "tips": [
+    "Notice the switch in the dialogue: to the visitor, your colleague is {佐藤[さとう]} and comes with humble {参[まい]ります}; on the internal call, he is {佐藤[さとう]さん} again.",
+    "Avoid double keigo such as {おっしゃられる}. One respectful form is enough: {おっしゃる}.",
+    "Don't use respectful verbs about yourself. {私[わたし]がいらっしゃいます} is a classic learner mistake; it should be {私[わたし]が参[まい]ります}.",
+    "Overusing {させていただく} can sound stiff or unnatural. Simple humble forms like {いたします} are often better.",
+    "Learn keigo as fixed phrases first. You will understand the system faster once you can already say the most common sentences."
+   ]
+  },
+  {
+   "id": "life-phone",
+   "title": "Business phone etiquette",
+   "level": "N2",
+   "intro": "Many offices still expect staff, especially newer employees, to answer the phone. Business phone Japanese is highly formulaic, so once you learn the script, it becomes much less scary.\n\n**Answering.** Pick up quickly. If it rang several times, start with {お待[ま]たせいたしました}. Then give the company name: {お電話[でんわ]ありがとうございます。株式会社[かぶしきがいしゃ]ミチでございます}. Do not say {もしもし} when answering a business call.\n\n**Taking the caller's details.** Confirm the caller's name and company and greet them with {いつもお世話[せわ]になっております}. Repeat important details back ({復唱[ふくしょう]}), especially names, numbers and times.\n\n**When the person is unavailable.** Explain briefly, using humble forms and no {さん} for your colleague: {あいにく田中[たなか]は席[せき]を外[はず]しております} (away from desk), {外出[がいしゅつ]しております} (out of the office), or {本日[ほんじつ]は休[やす]みをいただいております} (off today). Then offer options: a callback ({折[お]り返[かえ]し}) or taking a message ({伝言[でんごん]}).\n\n**Leaving a note.** Write a message memo for your colleague: who called, from which company, the time, the message and the callback number, plus your name.\n\n**Making a call.** Introduce yourself first, then ask for the person: {株式会社[かぶしきがいしゃ]ミチのスミスと申[もう]しますが、営業部[えいぎょうぶ]の鈴木[すずき]様[さま]はいらっしゃいますか}.\n\nAt the end, say {失礼[しつれい]いたします}, and wait for the other side to hang up first if they are a client or senior, then put the receiver down gently.",
+   "phrases": [
+    {
+     "jp": "お電話[でんわ]ありがとうございます。株式会社[かぶしきがいしゃ]ミチでございます。",
+     "en": "Thank you for calling. This is Michi Co., Ltd."
+    },
+    {
+     "jp": "お待[ま]たせいたしました。",
+     "en": "Sorry to keep you waiting."
+    },
+    {
+     "jp": "恐[おそ]れ入[い]りますが、お名前[なまえ]を伺[うかが]ってもよろしいでしょうか。",
+     "en": "Excuse me, may I have your name?"
+    },
+    {
+     "jp": "ABC商事[しょうじ]の山本[やまもと]様[さま]でいらっしゃいますね。いつもお世話[せわ]になっております。",
+     "en": "Mr. Yamamoto of ABC Trading, is that right? Thank you for your continued business."
+    },
+    {
+     "jp": "少々[しょうしょう]お待[ま]ちください。",
+     "en": "One moment, please."
+    },
+    {
+     "jp": "あいにく田中[たなか]は席[せき]を外[はず]しております。",
+     "en": "I'm afraid Tanaka is away from his desk."
+    },
+    {
+     "jp": "田中[たなか]は本日[ほんじつ]、休[やす]みをいただいております。",
+     "en": "Tanaka is off today."
+    },
+    {
+     "jp": "戻[もど]りましたら、折[お]り返[かえ]しお電話[でんわ]するよう申[もう]し伝[つた]えます。",
+     "en": "When he returns, I'll tell him to call you back."
+    },
+    {
+     "jp": "よろしければ、ご伝言[でんごん]を承[うけたまわ]りますが。",
+     "en": "If you like, I can take a message."
+    },
+    {
+     "jp": "念[ねん]のため、お電話[でんわ]番号[ばんごう]をお願[ねが]いできますか。",
+     "en": "Just in case, could I have your phone number?"
+    },
+    {
+     "jp": "復唱[ふくしょう]いたします。",
+     "en": "Let me read that back to you."
+    },
+    {
+     "jp": "私[わたくし]、営業部[えいぎょうぶ]のスミスが承[うけたまわ]りました。",
+     "en": "This is Smith from Sales; I've taken your message."
+    },
+    {
+     "jp": "申[もう]し訳[わけ]ございません、お電話[でんわ]が少々[しょうしょう]遠[とお]いようなのですが。",
+     "en": "I'm sorry, I can't hear you very well."
+    },
+    {
+     "jp": "お忙[いそが]しいところ恐[おそ]れ入[い]ります。株式会社[かぶしきがいしゃ]ミチのスミスと申[もう]します。",
+     "en": "Sorry to trouble you when you're busy. My name is Smith from Michi Co., Ltd."
+    },
+    {
+     "jp": "営業部[えいぎょうぶ]の鈴木[すずき]様[さま]はいらっしゃいますか。",
+     "en": "Is Mr. Suzuki of the sales department available?"
+    },
+    {
+     "jp": "それでは、失礼[しつれい]いたします。",
+     "en": "Well then, goodbye."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "電話[でんわ]対応[たいおう]",
+     "en": "handling phone calls"
+    },
+    {
+     "jp": "折[お]り返[かえ]し",
+     "en": "calling back"
+    },
+    {
+     "jp": "伝言[でんごん]",
+     "en": "message"
+    },
+    {
+     "jp": "内線[ないせん]",
+     "en": "internal extension"
+    },
+    {
+     "jp": "外線[がいせん]",
+     "en": "outside line"
+    },
+    {
+     "jp": "取[と]り次[つ]ぐ",
+     "en": "to put through, pass on"
+    },
+    {
+     "jp": "席[せき]を外[はず]す",
+     "en": "to be away from one's desk"
+    },
+    {
+     "jp": "外出[がいしゅつ]",
+     "en": "going out (of the office)"
+    },
+    {
+     "jp": "直帰[ちょっき]",
+     "en": "going straight home (from an outside appointment)"
+    },
+    {
+     "jp": "承[うけたまわ]る",
+     "en": "to receive, take (a message) (humble)"
+    },
+    {
+     "jp": "申[もう]し伝[つた]える",
+     "en": "to pass on (a message) (humble)"
+    },
+    {
+     "jp": "復唱[ふくしょう]",
+     "en": "repeating back"
+    },
+    {
+     "jp": "担当者[たんとうしゃ]",
+     "en": "person in charge"
+    },
+    {
+     "jp": "不在[ふざい]",
+     "en": "absence, not in"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "You",
+     "jp": "お電話[でんわ]ありがとうございます。株式会社[かぶしきがいしゃ]ミチ、営業部[えいぎょうぶ]でございます。",
+     "en": "Thank you for calling. Michi Co., sales department."
+    },
+    {
+     "speaker": "Caller",
+     "jp": "お世話[せわ]になっております。ABC商事[しょうじ]の山本[やまもと]と申[もう]します。田中[たなか]課長[かちょう]はいらっしゃいますか。",
+     "en": "Hello, this is Yamamoto from ABC Trading. Is Section Manager Tanaka there?"
+    },
+    {
+     "speaker": "You",
+     "jp": "ABC商事[しょうじ]の山本[やまもと]様[さま]ですね。いつもお世話[せわ]になっております。申[もう]し訳[わけ]ございません、あいにく田中[たなか]は外出[がいしゅつ]しておりまして、15時[じゅうごじ]に戻[もど]る予定[よてい]です。",
+     "en": "Mr. Yamamoto of ABC Trading. Thank you for your continued business. I'm very sorry, Tanaka is out of the office and is expected back at 3 p.m."
+    },
+    {
+     "speaker": "Caller",
+     "jp": "そうですか。では、お戻[もど]りになりましたら、お電話[でんわ]をいただけますか。",
+     "en": "I see. Then could he call me when he gets back?"
+    },
+    {
+     "speaker": "You",
+     "jp": "かしこまりました。念[ねん]のため、お電話[でんわ]番号[ばんごう]を伺[うかが]ってもよろしいでしょうか。",
+     "en": "Certainly. Just in case, may I have your phone number?"
+    },
+    {
+     "speaker": "Caller",
+     "jp": "03-1234-5678です。",
+     "en": "It's 03-1234-5678."
+    },
+    {
+     "speaker": "You",
+     "jp": "復唱[ふくしょう]いたします。03-1234-5678、ABC商事[しょうじ]の山本[やまもと]様[さま]ですね。田中[たなか]が戻[もど]りましたら、折[お]り返[かえ]しお電話[でんわ]するよう申[もう]し伝[つた]えます。",
+     "en": "Let me repeat that: 03-1234-5678, Mr. Yamamoto of ABC Trading. When Tanaka returns, I'll ask him to call you back."
+    },
+    {
+     "speaker": "Caller",
+     "jp": "よろしくお願[ねが]いします。",
+     "en": "Thank you."
+    },
+    {
+     "speaker": "You",
+     "jp": "私[わたくし]、スミスが承[うけたまわ]りました。失礼[しつれい]いたします。",
+     "en": "This is Smith; I've taken the message. Goodbye."
+    }
+   ],
+   "tips": [
+    "Notice that the caller says {田中[たなか]課長[かちょう]}, but you say just {田中[たなか]}. Outsiders use your colleague's title; you don't.",
+    "Keep a notepad and pen by the phone. Write the caller's name the moment you hear it.",
+    "Read numbers back in small groups. It is normal and expected, and it prevents mistakes.",
+    "If you didn't catch something, ask: {恐[おそ]れ入[い]りますが、もう一度[いちど]お願[ねが]いできますか}. Guessing a name wrong is worse than asking.",
+    "Many younger Japanese workers also find business calls stressful. With a script and practice, you'll be fine."
+   ]
+  },
+  {
+   "id": "life-email",
+   "title": "Business email",
+   "level": "N2",
+   "intro": "Japanese business email ({ビジネスメール}) follows a clear structure. Once you have a template, most emails are easy to write.\n\n- **Subject** ({件名[けんめい]}): specific and informative, often with a tag in brackets, e.g. {【ご確認[かくにん]のお願[ねが]い】12月[じゅうにがつ]定例[ていれい]会議[かいぎ]の資料[しりょう]}.\n- **Addressee** ({宛名[あてな]}): company, department, then name with {様[さま]}, each on its own line, e.g. {株式会社[かぶしきがいしゃ]ABC}, {営業部[えいぎょうぶ]}, {山本[やまもと]様[さま]}. Use {御中[おんちゅう]} for an organization or department without a specific person, and {各位[かくい]} for a group of people (e.g. {関係者[かんけいしゃ]各位[かくい]}).\n- **Opening**: {お世話[せわ]になっております} for people outside the company, {お疲[つか]れ様[さま]です} for colleagues. Then say who you are: {株式会社[かぶしきがいしゃ]ミチのスミスです}. For a first contact, use {初[はじ]めてご連絡[れんらく]いたします}.\n- **Body**: state the purpose early, keep paragraphs short and leave blank lines between them. Seasonal greetings are not needed in ordinary emails.\n- **Closing**: {何卒[なにとぞ]よろしくお願[ねが]いいたします}, {引[ひ]き続[つづ]きよろしくお願[ねが]いいたします} or {ご確認[かくにん]のほど、よろしくお願[ねが]いいたします}.\n- **Signature** ({署名[しょめい]}): name, company, department, phone and email.\n\nWhen replying, keep the original subject line so the thread stays together. If you are late, start with an apology for the delay. Many companies now use chat tools for internal communication, which are lighter in tone, but emails to clients remain formal.",
+   "phrases": [
+    {
+     "jp": "株式会社[かぶしきがいしゃ]ABC 営業部[えいぎょうぶ] 山本[やまもと]様[さま]",
+     "en": "Mr./Ms. Yamamoto, Sales Dept., ABC Co., Ltd. (addressee)"
+    },
+    {
+     "jp": "いつもお世話[せわ]になっております。",
+     "en": "Thank you for your continued support. (standard opening)"
+    },
+    {
+     "jp": "株式会社[かぶしきがいしゃ]ミチのスミスでございます。",
+     "en": "This is Smith from Michi Co., Ltd."
+    },
+    {
+     "jp": "突然[とつぜん]のご連絡[れんらく]失礼[しつれい]いたします。",
+     "en": "Please excuse me for contacting you out of the blue."
+    },
+    {
+     "jp": "先日[せんじつ]はお忙[いそが]しい中[なか]、お時間[じかん]をいただき、誠[まこと]にありがとうございました。",
+     "en": "Thank you very much for taking the time to meet with us the other day despite your busy schedule."
+    },
+    {
+     "jp": "来月[らいげつ]の打[う]ち合[あ]わせの件[けん]でご連絡[れんらく]いたしました。",
+     "en": "I'm writing about next month's meeting."
+    },
+    {
+     "jp": "資料[しりょう]を添付[てんぷ]いたしましたので、ご確認[かくにん]いただけますと幸[さいわ]いです。",
+     "en": "I have attached the materials and would be grateful if you could check them."
+    },
+    {
+     "jp": "恐[おそ]れ入[い]りますが、10日[とおか]までにご返信[へんしん]いただけますでしょうか。",
+     "en": "I'm sorry to ask, but could you reply by the 10th?"
+    },
+    {
+     "jp": "ご不明[ふめい]な点[てん]がございましたら、お気軽[きがる]にお問[と]い合[あ]わせください。",
+     "en": "If anything is unclear, please feel free to contact me."
+    },
+    {
+     "jp": "ご返信[へんしん]が遅[おそ]くなり、大変[たいへん]申[もう]し訳[わけ]ございません。",
+     "en": "I'm very sorry for the late reply."
+    },
+    {
+     "jp": "ご連絡[れんらく]いただき、ありがとうございます。",
+     "en": "Thank you for getting in touch."
+    },
+    {
+     "jp": "承知[しょうち]いたしました。",
+     "en": "Understood."
+    },
+    {
+     "jp": "何卒[なにとぞ]よろしくお願[ねが]いいたします。",
+     "en": "Thank you very much in advance. (formal closing)"
+    },
+    {
+     "jp": "引[ひ]き続[つづ]きよろしくお願[ねが]いいたします。",
+     "en": "I look forward to continuing to work with you."
+    },
+    {
+     "jp": "お疲[つか]れ様[さま]です。開発部[かいはつぶ]のスミスです。",
+     "en": "Hi, this is Smith from Development. (internal opening)"
+    },
+    {
+     "jp": "取[と]り急[いそ]ぎ、ご報告[ほうこく]まで。",
+     "en": "Just a quick report for now.",
+     "note": "Fine internally or with people you know well; it can feel abrupt to senior people or new clients."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "件名[けんめい]",
+     "en": "subject line"
+    },
+    {
+     "jp": "宛名[あてな]",
+     "en": "addressee"
+    },
+    {
+     "jp": "本文[ほんぶん]",
+     "en": "body text"
+    },
+    {
+     "jp": "署名[しょめい]",
+     "en": "signature (block)"
+    },
+    {
+     "jp": "添付[てんぷ]",
+     "en": "attachment"
+    },
+    {
+     "jp": "返信[へんしん]",
+     "en": "reply"
+    },
+    {
+     "jp": "転送[てんそう]",
+     "en": "forwarding"
+    },
+    {
+     "jp": "宛先[あてさき]",
+     "en": "recipient, To field"
+    },
+    {
+     "jp": "敬称[けいしょう]",
+     "en": "honorific title (such as -sama)"
+    },
+    {
+     "jp": "様[さま]",
+     "en": "Mr./Ms. (formal honorific)"
+    },
+    {
+     "jp": "御中[おんちゅう]",
+     "en": "honorific for an organization or department"
+    },
+    {
+     "jp": "各位[かくい]",
+     "en": "to all (of you), honorific for a group"
+    },
+    {
+     "jp": "取引先[とりひきさき]",
+     "en": "client, business partner"
+    },
+    {
+     "jp": "ご査収[さしゅう]ください",
+     "en": "please find (the attached) and check it"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "You",
+     "jp": "田中[たなか]さん、すみません。取引先[とりひきさき]へのメール、送[おく]る前[まえ]に見[み]ていただけますか。",
+     "en": "Ms. Tanaka, excuse me. Could you look at my email to the client before I send it?"
+    },
+    {
+     "speaker": "Tanaka",
+     "jp": "いいよ。どれどれ…。宛名[あてな]が「山本[やまもと]部長[ぶちょう]様[さま]」になってるね。",
+     "en": "Sure. Let's see... The addressee says Yamamoto Buchō-sama."
+    },
+    {
+     "speaker": "You",
+     "jp": "はい。何[なに]か問題[もんだい]がありますか。",
+     "en": "Yes. Is something wrong?"
+    },
+    {
+     "speaker": "Tanaka",
+     "jp": "「部長[ぶちょう]」自体[じたい]が敬称[けいしょう]だから、「部長[ぶちょう] 山本[やまもと]様[さま]」か「山本[やまもと]部長[ぶちょう]」にしたほうがいいよ。",
+     "en": "Buchō is already a title of respect, so it's better to write 'Buchō, Yamamoto-sama' or 'Yamamoto Buchō'."
+    },
+    {
+     "speaker": "You",
+     "jp": "なるほど。書[か]き出[だ]しは「お世話[せわ]になっております」で大丈夫[だいじょうぶ]ですか。",
+     "en": "I see. Is 'osewa ni natte orimasu' OK for the opening?"
+    },
+    {
+     "speaker": "Tanaka",
+     "jp": "うん、社外[しゃがい]ならそれが基本[きほん]。社内[しゃない]なら「お疲[つか]れ様[さま]です」ね。",
+     "en": "Yes, that's the standard for outside the company. Inside, it's 'otsukaresama desu'."
+    },
+    {
+     "speaker": "You",
+     "jp": "件名[けんめい]は「資料[しりょう]について」にしました。",
+     "en": "I made the subject 'About the materials'."
+    },
+    {
+     "speaker": "Tanaka",
+     "jp": "それだとちょっとわかりにくいかな。「【ご確認[かくにん]のお願[ねが]い】12月[じゅうにがつ]2日[ふつか]打[う]ち合[あ]わせ資料[しりょう]」みたいに具体的[ぐたいてき]に書[か]くといいよ。",
+     "en": "That's a bit vague. It's better to be specific, like '[Request for review] Materials for the December 2 meeting'."
+    },
+    {
+     "speaker": "You",
+     "jp": "わかりました。最後[さいご]は「何卒[なにとぞ]よろしくお願[ねが]いいたします」で締[し]めます。",
+     "en": "Got it. I'll close with 'nanitozo yoroshiku onegai itashimasu'."
+    },
+    {
+     "speaker": "Tanaka",
+     "jp": "ばっちり。あとは署名[しょめい]を忘[わす]れずにね。",
+     "en": "Perfect. Just don't forget your signature."
+    },
+    {
+     "speaker": "You",
+     "jp": "ありがとうございます。助[たす]かりました。",
+     "en": "Thank you. That was a big help."
+    }
+   ],
+   "tips": [
+    "Never use {様[さま]} and {御中[おんちゅう]} together. {様[さま]} is for a person, {御中[おんちゅう]} for an organization.",
+    "Avoid stacking honorifics like {部長[ぶちょう]様[さま]}. Write {部長[ぶちょう] 山本[やまもと]様[さま]} or {山本[やまもと]部長[ぶちょう]}.",
+    "Keep your own template with your standard opening, closing and signature, and reuse it.",
+    "Reply to client emails promptly, ideally within a business day. If you need time, send a short note saying you have received it and will reply later.",
+    "When attaching files, mention them in the body and use {ご査収[さしゅう]ください} or {ご確認[かくにん]ください}."
+   ]
+  },
+  {
+   "id": "life-meetings",
+   "title": "Meetings & reporting (hōrensō)",
+   "level": "N3",
+   "intro": "One of the first workplace concepts you will hear about is {報連相[ほうれんそう]} (hōrensō), a pun on the word for spinach. It stands for three habits that Japanese managers value highly:\n\n- {報告[ほうこく]} (report): tell your boss about progress and results, without waiting to be asked. Report bad news, such as delays and mistakes, early.\n- {連絡[れんらく]} (inform): share facts, such as schedule changes and absences, with everyone affected.\n- {相談[そうだん]} (consult): ask for advice before making a decision or when you are stuck, rather than deciding alone.\n\nWhen reporting, start with the conclusion ({結論[けつろん]から申[もう]しますと}), then the reason, then what you propose.\n\nMeetings range from formal {会議[かいぎ]} to smaller working sessions ({打[う]ち合[あ]わせ}). In many Japanese organizations, important decisions are prepared before the meeting through informal consultation with key people ({根回[ねまわ]し}), so the meeting itself often confirms what was already discussed. If you want to propose something, talk to the right people beforehand.\n\nJunior members are often asked to take minutes ({議事録[ぎじろく]}). When you disagree, soften it: acknowledge the other view first ({おっしゃることはよくわかります}), then give yours ({ただ、〜}). A phrase you will hear from clients is {持[も]ち帰[かえ]って検討[けんとう]いたします} (we'll take this back and consider it), which means no decision today. Written approval flows ({稟議[りんぎ]}) are also common for spending and new projects.",
+   "phrases": [
+    {
+     "jp": "今[いま]、少[すこ]しお時間[じかん]よろしいでしょうか。",
+     "en": "Do you have a moment now?"
+    },
+    {
+     "jp": "A社[しゃ]の件[けん]で、ご報告[ほうこく]があります。",
+     "en": "I have a report about Company A."
+    },
+    {
+     "jp": "結論[けつろん]から申[もう]しますと、",
+     "en": "To start with the conclusion, ..."
+    },
+    {
+     "jp": "予定[よてい]より2日[ふつか]ほど遅[おく]れています。",
+     "en": "We're about two days behind schedule."
+    },
+    {
+     "jp": "ご相談[そうだん]したいことがあるのですが。",
+     "en": "There's something I'd like to consult you about."
+    },
+    {
+     "jp": "どのように進[すす]めればよろしいでしょうか。",
+     "en": "How should I proceed?"
+    },
+    {
+     "jp": "明日[あした]の会議[かいぎ]は、14時[じゅうよじ]からに変更[へんこう]になりました。",
+     "en": "Tomorrow's meeting has been changed to start at 2 p.m."
+    },
+    {
+     "jp": "念[ねん]のため、皆[みな]さんにも共有[きょうゆう]しておきます。",
+     "en": "Just in case, I'll share this with everyone too."
+    },
+    {
+     "jp": "一[ひと]つ、よろしいでしょうか。",
+     "en": "May I say one thing?"
+    },
+    {
+     "jp": "おっしゃることはよくわかります。ただ、",
+     "en": "I understand what you're saying. However, ..."
+    },
+    {
+     "jp": "私[わたし]の理解[りかい]が正[ただ]しいか、確認[かくにん]させてください。",
+     "en": "Let me check whether I've understood correctly."
+    },
+    {
+     "jp": "その件[けん]は持[も]ち帰[かえ]って検討[けんとう]いたします。",
+     "en": "We'll take that back and consider it."
+    },
+    {
+     "jp": "では、本日[ほんじつ]の決定[けってい]事項[じこう]を確認[かくにん]します。",
+     "en": "Now let's confirm today's decisions."
+    },
+    {
+     "jp": "議事録[ぎじろく]は私[わたし]が作成[さくせい]して、後[のち]ほどお送[おく]りします。",
+     "en": "I'll write the minutes and send them later."
+    },
+    {
+     "jp": "私[わたし]のミスです。申[もう]し訳[わけ]ありません。すぐに対応[たいおう]します。",
+     "en": "It was my mistake. I'm sorry. I'll deal with it right away."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "報連相[ほうれんそう]",
+     "en": "report, inform, consult (workplace principle)"
+    },
+    {
+     "jp": "報告[ほうこく]",
+     "en": "report"
+    },
+    {
+     "jp": "連絡[れんらく]",
+     "en": "contact, informing"
+    },
+    {
+     "jp": "相談[そうだん]",
+     "en": "consultation"
+    },
+    {
+     "jp": "会議[かいぎ]",
+     "en": "meeting, conference"
+    },
+    {
+     "jp": "打[う]ち合[あ]わせ",
+     "en": "(working) meeting"
+    },
+    {
+     "jp": "議題[ぎだい]",
+     "en": "agenda item, topic"
+    },
+    {
+     "jp": "議事録[ぎじろく]",
+     "en": "minutes"
+    },
+    {
+     "jp": "資料[しりょう]",
+     "en": "materials, documents"
+    },
+    {
+     "jp": "進捗[しんちょく]",
+     "en": "progress"
+    },
+    {
+     "jp": "締[し]め切[き]り",
+     "en": "deadline"
+    },
+    {
+     "jp": "根回[ねまわ]し",
+     "en": "informal groundwork before a decision"
+    },
+    {
+     "jp": "稟議[りんぎ]",
+     "en": "formal written approval process"
+    },
+    {
+     "jp": "共有[きょうゆう]",
+     "en": "sharing (information)"
+    },
+    {
+     "jp": "検討[けんとう]",
+     "en": "consideration, review"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "You",
+     "jp": "課長[かちょう]、今[いま]、少[すこ]しお時間[じかん]よろしいでしょうか。",
+     "en": "Section manager, do you have a moment now?"
+    },
+    {
+     "speaker": "Manager",
+     "jp": "うん、どうぞ。",
+     "en": "Sure, go ahead."
+    },
+    {
+     "speaker": "You",
+     "jp": "新[しん]システムの件[けん]でご報告[ほうこく]です。結論[けつろん]から申[もう]しますと、テストが予定[よてい]より3日[みっか]ほど遅[おく]れています。",
+     "en": "It's a report on the new system. To start with the conclusion, testing is about three days behind schedule."
+    },
+    {
+     "speaker": "Manager",
+     "jp": "そうか。原因[げんいん]は？",
+     "en": "I see. What's the cause?"
+    },
+    {
+     "speaker": "You",
+     "jp": "先方[せんぽう]からのデータの提供[ていきょう]が遅[おく]れたためです。",
+     "en": "The client was late providing the data."
+    },
+    {
+     "speaker": "Manager",
+     "jp": "リリース日[び]には間[ま]に合[あ]いそう？",
+     "en": "Will we make the release date?"
+    },
+    {
+     "speaker": "You",
+     "jp": "週末[しゅうまつ]までにデータが届[とど]けば、間[ま]に合[あ]います。そこでご相談[そうだん]なのですが、先方[せんぽう]に課長[かちょう]からも一言[ひとこと]お願[ねが]いできないでしょうか。",
+     "en": "If the data arrives by the weekend, we will. So I'd like to ask: could you also have a word with the client?"
+    },
+    {
+     "speaker": "Manager",
+     "jp": "わかった。今日中[きょうじゅう]に連絡[れんらく]しておく。早[はや]めに言[い]ってくれて助[たす]かったよ。",
+     "en": "OK. I'll contact them today. Thanks for telling me early."
+    },
+    {
+     "speaker": "You",
+     "jp": "ありがとうございます。進捗[しんちょく]はまた明日[あした]ご報告[ほうこく]いたします。",
+     "en": "Thank you. I'll report on progress again tomorrow."
+    }
+   ],
+   "tips": [
+    "Bad news first and early. A delay reported on day one is a small problem; the same delay reported on the deadline is a big one.",
+    "Before an important meeting, talk privately with key people about your idea. Surprising people in the meeting itself rarely works well.",
+    "Volunteer to take minutes when you are new. It is a great way to learn names, jargon and how decisions are made.",
+    "Clients and partners are often called {先方[せんぽう]} (the other party) internally.",
+    "If you are confused in a meeting, write down your questions and ask your senior colleague afterward."
+   ]
+  },
+  {
+   "id": "life-meishi",
+   "title": "Business cards & hierarchy",
+   "level": "N3",
+   "intro": "Exchanging business cards ({名刺[めいし]交換[こうかん]}) is a small ritual at first meetings with people from other companies. A card represents its owner, so handle it with care.\n\n- Keep cards in a card case ({名刺入[めいしい]れ}), not loose in a pocket or wallet.\n- Stand up and face the other person, ideally without a table between you.\n- The visitor, or the more junior person, usually offers first.\n- Hold your card with both hands, turned so the other person can read it, and say your company and name: {株式会社[かぶしきがいしゃ]ミチのスミスと申[もう]します}.\n- Hold your card slightly lower than theirs as a sign of humility.\n- If you exchange at the same time, give with your right hand and receive with your left, then support it with both hands.\n- Receive with {頂戴[ちょうだい]いたします}, and take a moment to look at the name and title.\n\nDuring the meeting, lay the cards on the table in front of you in the order people are seated. The most senior person's card is often placed on top of your card case. Never write on someone's card in front of them, and put the cards away carefully at the end.\n\nHierarchy shows up everywhere. Common titles include {社長[しゃちょう]} (president), {部長[ぶちょう]} (department head), {課長[かちょう]} (section head) and {係長[かかりちょう]} (group leader), though titles vary by company. Seating also follows rank: the place of honor ({上座[かみざ]}) is usually farthest from the door, and the lowest seat ({下座[しもざ]}) is nearest the door. Guests and seniors get the {上座[かみざ]}.",
+   "phrases": [
+    {
+     "jp": "株式会社[かぶしきがいしゃ]ミチのスミスと申[もう]します。よろしくお願[ねが]いいたします。",
+     "en": "I'm Smith from Michi Co., Ltd. Pleased to meet you."
+    },
+    {
+     "jp": "頂戴[ちょうだい]いたします。",
+     "en": "Thank you. (receiving a card)"
+    },
+    {
+     "jp": "申[もう]し訳[わけ]ございません、ただいま名刺[めいし]を切[き]らしておりまして。",
+     "en": "I'm very sorry, I've run out of business cards at the moment."
+    },
+    {
+     "jp": "失礼[しつれい]ですが、お名前[なまえ]は何[なん]とお読[よ]みすればよろしいでしょうか。",
+     "en": "Excuse me, how should I read your name?",
+     "note": "Japanese names can have several readings, so this is a common and polite question."
+    },
+    {
+     "jp": "本日[ほんじつ]はお忙[いそが]しいところ、お越[こ]しいただきありがとうございます。",
+     "en": "Thank you for coming today despite your busy schedule."
+    },
+    {
+     "jp": "本日[ほんじつ]はお時間[じかん]をいただき、ありがとうございます。",
+     "en": "Thank you for your time today."
+    },
+    {
+     "jp": "どうぞ、奥[おく]のお席[せき]へ。",
+     "en": "Please take the seat at the back. (offering the seat of honor)"
+    },
+    {
+     "jp": "ご紹介[しょうかい]いたします。こちらは弊社[へいしゃ]の部長[ぶちょう]の田中[たなか]です。",
+     "en": "Let me introduce you. This is Tanaka, our department manager."
+    },
+    {
+     "jp": "弊社[へいしゃ]の新[あたら]しいサービスについてご説明[せつめい]いたします。",
+     "en": "I'll explain our new service."
+    },
+    {
+     "jp": "担当[たんとう]が変[か]わりましたので、ご挨拶[あいさつ]に伺[うかが]いました。",
+     "en": "I've taken over as your contact, so I've come to introduce myself."
+    },
+    {
+     "jp": "後日[ごじつ]、改[あらた]めてご連絡[れんらく]いたします。",
+     "en": "I'll contact you again at a later date."
+    },
+    {
+     "jp": "今後[こんご]ともよろしくお願[ねが]いいたします。",
+     "en": "I look forward to working with you in the future."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "名刺[めいし]",
+     "en": "business card"
+    },
+    {
+     "jp": "名刺入[めいしい]れ",
+     "en": "business card case"
+    },
+    {
+     "jp": "名刺[めいし]交換[こうかん]",
+     "en": "exchange of business cards"
+    },
+    {
+     "jp": "肩書[かたが]き",
+     "en": "title, position (on a card)"
+    },
+    {
+     "jp": "役職[やくしょく]",
+     "en": "position, managerial post"
+    },
+    {
+     "jp": "社長[しゃちょう]",
+     "en": "company president"
+    },
+    {
+     "jp": "部長[ぶちょう]",
+     "en": "department manager"
+    },
+    {
+     "jp": "課長[かちょう]",
+     "en": "section manager"
+    },
+    {
+     "jp": "係長[かかりちょう]",
+     "en": "group / subsection leader"
+    },
+    {
+     "jp": "弊社[へいしゃ]",
+     "en": "our company (humble)"
+    },
+    {
+     "jp": "御社[おんしゃ]",
+     "en": "your company (respectful, spoken)"
+    },
+    {
+     "jp": "上座[かみざ]",
+     "en": "seat of honor"
+    },
+    {
+     "jp": "下座[しもざ]",
+     "en": "lowest-ranking seat"
+    },
+    {
+     "jp": "取引先[とりひきさき]",
+     "en": "client, business partner"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "Tanaka",
+     "jp": "山本[やまもと]様[さま]、ご紹介[しょうかい]いたします。今月[こんげつ]からこのプロジェクトを担当[たんとう]しております、スミスです。",
+     "en": "Mr. Yamamoto, let me introduce Smith, who has been in charge of this project since this month."
+    },
+    {
+     "speaker": "You",
+     "jp": "株式会社[かぶしきがいしゃ]ミチのスミスと申[もう]します。よろしくお願[ねが]いいたします。",
+     "en": "I'm Smith from Michi Co., Ltd. Pleased to meet you."
+    },
+    {
+     "speaker": "Client",
+     "jp": "頂戴[ちょうだい]いたします。ABC商事[しょうじ]の山本[やまもと]です。よろしくお願[ねが]いします。",
+     "en": "Thank you. I'm Yamamoto from ABC Trading. Pleased to meet you."
+    },
+    {
+     "speaker": "You",
+     "jp": "頂戴[ちょうだい]いたします。恐[おそ]れ入[い]りますが、下[した]のお名前[なまえ]は何[なん]とお読[よ]みすればよろしいでしょうか。",
+     "en": "Thank you. Excuse me, but how should I read your given name?"
+    },
+    {
+     "speaker": "Client",
+     "jp": "「たかし」と読[よ]みます。よく間違[まちが]えられるんですよ。",
+     "en": "It's read 'Takashi'. People often get it wrong."
+    },
+    {
+     "speaker": "You",
+     "jp": "ありがとうございます。今後[こんご]ともよろしくお願[ねが]いいたします。",
+     "en": "Thank you. I look forward to working with you."
+    },
+    {
+     "speaker": "Client",
+     "jp": "こちらこそ。どうぞ、おかけください。",
+     "en": "Likewise. Please, have a seat."
+    },
+    {
+     "speaker": "Tanaka",
+     "jp": "では、失礼[しつれい]いたします。",
+     "en": "Thank you, excuse us."
+    }
+   ],
+   "tips": [
+    "Always carry more cards than you think you'll need. Running out at a big meeting is awkward.",
+    "Do not put a received card straight into your pocket or write notes on it during the meeting. Afterward, recording the date and context elsewhere is fine.",
+    "In taxis, the seat behind the driver is usually the seat of honor; the front passenger seat is for the most junior person.",
+    "Your company may use different titles in English and Japanese. Learn both versions of your own title.",
+    "In foreign-owned companies and startups, these customs can be more relaxed, but with traditional Japanese clients, follow them carefully."
+   ]
+  },
+  {
+   "id": "life-time-off",
+   "title": "Asking for time off & sick days",
+   "level": "N3",
+   "intro": "Japanese law gives employees paid annual leave ({年次[ねんじ]有給[ゆうきゅう]休暇[きゅうか]}, usually just {有給[ゆうきゅう]}). In broad terms, after about six months of continuous employment with good attendance, full-time workers receive an initial allowance of days, which increases with years of service, and employers must make sure that workers with a sufficient allowance actually take a minimum number of days each year. Unused days can be carried over for a limited time. The exact numbers depend on your situation and company, so check your contract, your company's work rules ({就業[しゅうぎょう]規則[きそく]}) and official labor guidance.\n\nIn practice, ask for leave well in advance, follow your company's request system, and coordinate with your team so your work is covered. You generally don't need to give a detailed reason; {私用[しよう]のため} (for personal reasons) is the standard phrase.\n\nThere is no general legal requirement for separate paid sick leave, so many people use {有給[ゆうきゅう]} days when they are ill; some companies offer their own sick leave. If you are off work for a long illness, employee health insurance may pay a partial income allowance ({傷病[しょうびょう]手当金[てあてきん]}) after a waiting period.\n\nWhen you are sick, contact your boss before your start time, by phone or by the method your team uses. Keep it short: what is wrong, that you will rest, and how urgent work is being handled. Major holiday periods are Golden Week in spring, Obon in August and the New Year holidays, when trains and flights are very busy.",
+   "phrases": [
+    {
+     "jp": "来月[らいげつ]の10日[とおか]に、有給[ゆうきゅう]をいただきたいのですが。",
+     "en": "I'd like to take paid leave on the 10th of next month."
+    },
+    {
+     "jp": "私用[しよう]のため、休[やす]みをいただけますでしょうか。",
+     "en": "Could I take a day off for personal reasons?"
+    },
+    {
+     "jp": "申[もう]し訳[わけ]ありませんが、熱[ねつ]があるので、本日[ほんじつ]はお休[やす]みさせてください。",
+     "en": "I'm sorry, but I have a fever, so please let me take today off."
+    },
+    {
+     "jp": "病院[びょういん]に寄[よ]ってから出社[しゅっしゃ]します。",
+     "en": "I'll come in after stopping by the hospital."
+    },
+    {
+     "jp": "午前[ごぜん]半休[はんきゅう]をいただけますか。",
+     "en": "Could I take the morning off (a half day)?"
+    },
+    {
+     "jp": "体調[たいちょう]が悪[わる]いので、早退[そうたい]させていただけますか。",
+     "en": "I'm not feeling well. May I leave early?"
+    },
+    {
+     "jp": "電車[でんしゃ]が遅延[ちえん]していて、15分[じゅうごふん]ほど遅[おく]れます。",
+     "en": "My train is delayed, so I'll be about 15 minutes late."
+    },
+    {
+     "jp": "急[いそ]ぎの件[けん]は、田中[たなか]さんにお願[ねが]いしてあります。",
+     "en": "I've asked Ms. Tanaka to handle anything urgent."
+    },
+    {
+     "jp": "緊急[きんきゅう]の場合[ばあい]は、携帯[けいたい]にご連絡[れんらく]ください。",
+     "en": "In an emergency, please contact me on my mobile."
+    },
+    {
+     "jp": "家族[かぞく]の事情[じじょう]で、一週間[いっしゅうかん]ほど帰国[きこく]したいのですが。",
+     "en": "Because of a family matter, I'd like to go back to my country for about a week."
+    },
+    {
+     "jp": "有給[ゆうきゅう]はあと何日[なんにち]残[のこ]っていますか。",
+     "en": "How many days of paid leave do I have left?"
+    },
+    {
+     "jp": "お休[やす]みをいただき、ありがとうございました。",
+     "en": "Thank you for letting me take time off."
+    },
+    {
+     "jp": "ご迷惑[めいわく]をおかけしました。",
+     "en": "Sorry for the trouble I caused (while I was away)."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "有給[ゆうきゅう]休暇[きゅうか]",
+     "en": "paid leave"
+    },
+    {
+     "jp": "休暇[きゅうか]",
+     "en": "holiday, leave"
+    },
+    {
+     "jp": "半休[はんきゅう]",
+     "en": "half-day off"
+    },
+    {
+     "jp": "欠勤[けっきん]",
+     "en": "absence from work"
+    },
+    {
+     "jp": "早退[そうたい]",
+     "en": "leaving early"
+    },
+    {
+     "jp": "遅刻[ちこく]",
+     "en": "being late"
+    },
+    {
+     "jp": "体調[たいちょう]不良[ふりょう]",
+     "en": "feeling unwell"
+    },
+    {
+     "jp": "私用[しよう]",
+     "en": "personal business"
+    },
+    {
+     "jp": "申請[しんせい]",
+     "en": "request, application"
+    },
+    {
+     "jp": "代休[だいきゅう]",
+     "en": "compensatory day off"
+    },
+    {
+     "jp": "引[ひ]き継[つ]ぎ",
+     "en": "handover (of work)"
+    },
+    {
+     "jp": "傷病[しょうびょう]手当金[てあてきん]",
+     "en": "sickness and injury allowance (health insurance)"
+    },
+    {
+     "jp": "遅延[ちえん]証明書[しょうめいしょ]",
+     "en": "train delay certificate"
+    },
+    {
+     "jp": "年末年始[ねんまつねんし]",
+     "en": "New Year holiday period"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "You",
+     "jp": "おはようございます。スミスです。朝[あさ]早[はや]くに申[もう]し訳[わけ]ありません。",
+     "en": "Good morning, it's Smith. Sorry to call so early."
+    },
+    {
+     "speaker": "Manager",
+     "jp": "おはよう。どうしたの？",
+     "en": "Morning. What's up?"
+    },
+    {
+     "speaker": "You",
+     "jp": "昨夜[さくや]から熱[ねつ]が38度[さんじゅうはちど]ありまして、本日[ほんじつ]はお休[やす]みをいただきたいのですが。",
+     "en": "I've had a fever of 38 degrees since last night, so I'd like to take today off."
+    },
+    {
+     "speaker": "Manager",
+     "jp": "それは大変[たいへん]だね。今日[きょう]はゆっくり休[やす]んで。",
+     "en": "That's rough. Take it easy today."
+    },
+    {
+     "speaker": "You",
+     "jp": "ありがとうございます。10時[じゅうじ]のA社[しゃ]との打[う]ち合[あ]わせは、田中[たなか]さんに代[か]わりに出[で]ていただけるよう、お願[ねが]いしてあります。",
+     "en": "Thank you. I've asked Ms. Tanaka to attend the 10 o'clock meeting with Company A in my place."
+    },
+    {
+     "speaker": "Manager",
+     "jp": "わかった。病院[びょういん]には行[い]く？",
+     "en": "OK. Are you going to see a doctor?"
+    },
+    {
+     "speaker": "You",
+     "jp": "はい、午前中[ごぜんちゅう]に行[い]ってきます。",
+     "en": "Yes, I'll go this morning."
+    },
+    {
+     "speaker": "Manager",
+     "jp": "有給[ゆうきゅう]で処理[しょり]しておくから、明日[あした]の朝[あさ]、また体調[たいちょう]を連絡[れんらく]してくれる？",
+     "en": "I'll process it as paid leave. Can you let me know how you're feeling tomorrow morning?"
+    },
+    {
+     "speaker": "You",
+     "jp": "承知[しょうち]しました。ご迷惑[めいわく]をおかけして申[もう]し訳[わけ]ありません。",
+     "en": "Understood. I'm sorry for the inconvenience."
+    }
+   ],
+   "tips": [
+    "Request long holidays, such as a trip home, as early as possible and avoid your team's busiest periods if you can.",
+    "Before taking leave, tell the relevant people and arrange a handover so nobody has to chase you.",
+    "Bringing back a small box of individually wrapped sweets after a long holiday is a common thank-you to your team.",
+    "If your train is delayed, get a delay certificate ({遅延[ちえん]証明書[しょうめいしょ]}) from the station or the rail company's website; some workplaces ask for it.",
+    "If you are seriously ill for a long time, ask HR about {傷病[しょうびょう]手当金[てあてきん]} and other support rather than just using up your leave."
+   ]
+  },
+  {
+   "id": "life-taxes",
+   "title": "Taxes & payslips",
+   "level": "N2",
+   "intro": "Your payslip ({給与[きゅうよ]明細[めいさい]}) has two main parts. **Payments** ({支給[しきゅう]}) include base salary ({基本給[きほんきゅう]}), overtime pay and allowances such as the commuting allowance. **Deductions** ({控除[こうじょ]}) usually include health insurance, employee pension ({厚生[こうせい]年金[ねんきん]}), employment insurance ({雇用[こよう]保険[ほけん]}), income tax ({所得税[しょとくぜい]}) and resident tax ({住民税[じゅうみんぜい]}). What actually reaches your bank account is your take-home pay ({手取[てど]り}).\n\n**Income tax** is withheld from each paycheck ({源泉[げんせん]徴収[ちょうしゅう]}). Near the end of the year, your employer settles the exact amount in a year-end adjustment ({年末[ねんまつ]調整[ちょうせい]}), for which you submit forms about dependents and certain insurance. Afterward you receive a withholding slip ({源泉[げんせん]徴収票[ちょうしゅうひょう]}). Keep it; you will need it for many things.\n\n**Resident tax** is a local tax calculated on your previous year's income, based mainly on where you lived at the start of the year. For employees it is usually deducted from salary over twelve months starting around June. This is why many newcomers pay little or none in their first months and then see it appear later.\n\n**Final tax return** ({確定[かくてい]申告[しんこく]}): most salaried employees with one employer don't need to file, because the year-end adjustment handles it. You may need or want to file if you are self-employed, have significant side income, work for more than one employer, or want to claim deductions such as high medical costs. The filing period is roughly mid-February to mid-March, and online filing is available.\n\nTax rules are detailed and change; confirm with the National Tax Agency, your tax office or your city office.",
+   "phrases": [
+    {
+     "jp": "給与[きゅうよ]明細[めいさい]の見方[みかた]を教[おし]えていただけますか。",
+     "en": "Could you show me how to read my payslip?"
+    },
+    {
+     "jp": "この控除[こうじょ]は何[なん]ですか。",
+     "en": "What is this deduction?"
+    },
+    {
+     "jp": "手取[てど]りはいくらぐらいになりますか。",
+     "en": "About how much will my take-home pay be?"
+    },
+    {
+     "jp": "残業代[ざんぎょうだい]が反映[はんえい]されていないようなのですが。",
+     "en": "It looks like my overtime pay hasn't been included."
+    },
+    {
+     "jp": "住民税[じゅうみんぜい]はいつから引[ひ]かれますか。",
+     "en": "When will resident tax start being deducted?"
+    },
+    {
+     "jp": "年末[ねんまつ]調整[ちょうせい]の書類[しょるい]は、いつまでに出[だ]せばいいですか。",
+     "en": "When do I need to submit the year-end adjustment forms?"
+    },
+    {
+     "jp": "扶養[ふよう]家族[かぞく]はいません。",
+     "en": "I have no dependents."
+    },
+    {
+     "jp": "源泉[げんせん]徴収票[ちょうしゅうひょう]をいただけますか。",
+     "en": "Could I have my withholding slip?"
+    },
+    {
+     "jp": "確定[かくてい]申告[しんこく]が必要[ひつよう]かどうか知[し]りたいのですが。",
+     "en": "I'd like to know whether I need to file a tax return."
+    },
+    {
+     "jp": "副業[ふくぎょう]の収入[しゅうにゅう]があります。",
+     "en": "I have income from a side job."
+    },
+    {
+     "jp": "医療費[いりょうひ]控除[こうじょ]を受[う]けたいです。",
+     "en": "I'd like to claim the medical expense deduction."
+    },
+    {
+     "jp": "ビザの更新[こうしん]のために、課税[かぜい]証明書[しょうめいしょ]と納税[のうぜい]証明書[しょうめいしょ]が必要[ひつよう]です。",
+     "en": "I need a tax assessment certificate and a tax payment certificate for my visa renewal."
+    },
+    {
+     "jp": "納付書[のうふしょ]が届[とど]いたんですが、どこで払[はら]えますか。",
+     "en": "I received a tax payment slip. Where can I pay it?"
+    },
+    {
+     "jp": "帰国[きこく]する場合[ばあい]、住民税[じゅうみんぜい]はどうなりますか。",
+     "en": "What happens with resident tax if I leave Japan?"
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "給与[きゅうよ]明細[めいさい]",
+     "en": "payslip"
+    },
+    {
+     "jp": "基本給[きほんきゅう]",
+     "en": "base salary"
+    },
+    {
+     "jp": "額面[がくめん]",
+     "en": "gross pay"
+    },
+    {
+     "jp": "手取[てど]り",
+     "en": "take-home pay"
+    },
+    {
+     "jp": "控除[こうじょ]",
+     "en": "deduction"
+    },
+    {
+     "jp": "所得税[しょとくぜい]",
+     "en": "income tax"
+    },
+    {
+     "jp": "住民税[じゅうみんぜい]",
+     "en": "resident tax (local)"
+    },
+    {
+     "jp": "源泉[げんせん]徴収[ちょうしゅう]",
+     "en": "tax withholding"
+    },
+    {
+     "jp": "源泉[げんせん]徴収票[ちょうしゅうひょう]",
+     "en": "withholding slip (annual income and tax statement)"
+    },
+    {
+     "jp": "年末[ねんまつ]調整[ちょうせい]",
+     "en": "year-end tax adjustment"
+    },
+    {
+     "jp": "確定[かくてい]申告[しんこく]",
+     "en": "final tax return"
+    },
+    {
+     "jp": "厚生[こうせい]年金[ねんきん]",
+     "en": "employee pension insurance"
+    },
+    {
+     "jp": "雇用[こよう]保険[ほけん]",
+     "en": "employment insurance"
+    },
+    {
+     "jp": "扶養[ふよう]",
+     "en": "dependency, supporting dependents"
+    },
+    {
+     "jp": "税務署[ぜいむしょ]",
+     "en": "tax office"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "You",
+     "jp": "鈴木[すずき]さん、お疲[つか]れ様[さま]です。少[すこ]しお聞[き]きしたいことがあるのですが。",
+     "en": "Mr. Suzuki, hi. There's something I'd like to ask you."
+    },
+    {
+     "speaker": "HR",
+     "jp": "お疲[つか]れ様[さま]です。どうしました？",
+     "en": "Hi. What is it?"
+    },
+    {
+     "speaker": "You",
+     "jp": "今月[こんげつ]の給与[きゅうよ]明細[めいさい]を見[み]たら、「住民税[じゅうみんぜい]」という控除[こうじょ]が増[ふ]えていたんです。",
+     "en": "When I looked at this month's payslip, there was a new deduction called resident tax."
+    },
+    {
+     "speaker": "HR",
+     "jp": "ああ、6月[ろくがつ]から始[はじ]まったんですね。住民税[じゅうみんぜい]は前[まえ]の年[とし]の所得[しょとく]にかかるので、日本[にほん]に来[き]た翌年[よくねん]から引[ひ]かれるようになるんですよ。",
+     "en": "Ah, it started in June. Resident tax is based on the previous year's income, so it starts being deducted from the year after you come to Japan."
+    },
+    {
+     "speaker": "You",
+     "jp": "そうなんですね。所得税[しょとくぜい]とは別[べつ]なんですか。",
+     "en": "I see. Is it separate from income tax?"
+    },
+    {
+     "speaker": "HR",
+     "jp": "はい。所得税[しょとくぜい]は国[くに]の税金[ぜいきん]で、毎月[まいつき]の給料[きゅうりょう]から源泉[げんせん]徴収[ちょうしゅう]されています。住民税[じゅうみんぜい]は、住[す]んでいる自治体[じちたい]に納[おさ]める税金[ぜいきん]です。",
+     "en": "Yes. Income tax is a national tax, withheld from your salary every month. Resident tax is paid to the local government where you live."
+    },
+    {
+     "speaker": "You",
+     "jp": "確定[かくてい]申告[しんこく]はしなくてもいいんですか。",
+     "en": "Don't I need to file a tax return?"
+    },
+    {
+     "speaker": "HR",
+     "jp": "会社[かいしゃ]で年末[ねんまつ]調整[ちょうせい]をしますから、給与[きゅうよ]だけなら基本的[きほんてき]には不要[ふよう]です。副業[ふくぎょう]がある場合[ばあい]などは、必要[ひつよう]になることがありますね。",
+     "en": "We do the year-end adjustment at the company, so if salary is your only income, basically you don't. If you have a side job, for example, you might need to."
+    },
+    {
+     "speaker": "You",
+     "jp": "よくわかりました。ありがとうございます。",
+     "en": "That's very clear. Thank you."
+    }
+   ],
+   "tips": [
+    "Keep every {源泉[げんせん]徴収票[ちょうしゅうひょう]}. They are needed for tax returns, loans, and sometimes visa procedures.",
+    "Visa renewals and permanent residency applications often ask for proof that your taxes and social insurance are paid. Paying on time protects your status.",
+    "If you leave a job mid-year, remaining resident tax may be taken from your last salary or billed to you directly. Watch your mail.",
+    "If you leave Japan with taxes still to pay, you may need to settle them before leaving or appoint a tax representative. Ask your city office and tax office.",
+    "Japan's hometown tax donation scheme ({ふるさと納税[のうぜい]}) can reduce your tax in exchange for donations to municipalities; read the official rules and limits before using it."
+   ]
+  },
+  {
+   "id": "life-resigning",
+   "title": "Changing jobs & resigning",
+   "level": "N2",
+   "intro": "Changing jobs ({転職[てんしょく]}) is now common in Japan, but leaving well still matters.\n\n**Telling your company.** Speak to your direct boss first, in private and in person, before telling colleagues. Check your work rules for the required notice period; companies commonly ask for one month or more. Following your company's process makes for a smoother exit ({円満[えんまん]退職[たいしょく]}). You may be asked to submit a written resignation. A {退職願[たいしょくねがい]} is a request to resign, while a {退職届[たいしょくとどけ]} is a formal notice; many companies have their own form. The standard reason written is {一身上[いっしんじょう]の都合[つごう]により} (for personal reasons).\n\n**Before you leave.** Prepare a handover ({引[ひ]き継[つ]ぎ}), agree on your last working day, and plan any remaining paid leave. Return your ID card, health insurance card if you have one, and company equipment. Ask for the documents you will need: the withholding slip, your pension details, and, if you may claim unemployment benefits, the separation notice ({離職票[りしょくひょう]}).\n\n**Visa and insurance.** If your status of residence is tied to your work, there are usually notification duties to the Immigration Services Agency when you leave or join an employer, with a short deadline. Long periods without the activity your status covers can also cause problems. Your health insurance and pension change when you leave a company, so arrange the switch promptly. Confirm the details with the Immigration Services Agency and your city office.",
+   "phrases": [
+    {
+     "jp": "部長[ぶちょう]、少[すこ]しお時間[じかん]をいただけますでしょうか。ご相談[そうだん]したいことがございます。",
+     "en": "Could I have a little of your time? There's something I'd like to discuss with you."
+    },
+    {
+     "jp": "大変[たいへん]申[もう]し上[あ]げにくいのですが、退職[たいしょく]させていただきたいと考[かんが]えております。",
+     "en": "This is very difficult to say, but I'm thinking of resigning."
+    },
+    {
+     "jp": "3月末[さんがつまつ]で退職[たいしょく]したいと考[かんが]えております。",
+     "en": "I'd like to leave at the end of March."
+    },
+    {
+     "jp": "一身上[いっしんじょう]の都合[つごう]により、退職[たいしょく]いたします。",
+     "en": "I will resign for personal reasons. (written formula)"
+    },
+    {
+     "jp": "新[あたら]しい分野[ぶんや]に挑戦[ちょうせん]したいと思[おも]いまして。",
+     "en": "I'd like to take on a challenge in a new field."
+    },
+    {
+     "jp": "ありがたいお言葉[ことば]ですが、よく考[かんが]えて決[き]めたことです。",
+     "en": "Thank you for saying so, but I've made this decision after careful thought."
+    },
+    {
+     "jp": "引[ひ]き継[つ]ぎは責任[せきにん]を持[も]って行[おこな]います。",
+     "en": "I'll make sure the handover is done properly."
+    },
+    {
+     "jp": "最終[さいしゅう]出社日[しゅっしゃび]はいつにすればよろしいでしょうか。",
+     "en": "When should my last day in the office be?"
+    },
+    {
+     "jp": "残[のこ]っている有給[ゆうきゅう]を消化[しょうか]したいのですが。",
+     "en": "I'd like to use up my remaining paid leave."
+    },
+    {
+     "jp": "離職票[りしょくひょう]を送[おく]っていただけますか。",
+     "en": "Could you send me my separation notice?"
+    },
+    {
+     "jp": "源泉[げんせん]徴収票[ちょうしゅうひょう]はいつ頃[ごろ]いただけますか。",
+     "en": "When can I receive my withholding slip?"
+    },
+    {
+     "jp": "在職中[ざいしょくちゅう]は大変[たいへん]お世話[せわ]になりました。",
+     "en": "Thank you very much for everything during my time here."
+    },
+    {
+     "jp": "皆様[みなさま]のおかげで、多[おお]くのことを学[まな]ぶことができました。",
+     "en": "Thanks to all of you, I was able to learn a great deal."
+    },
+    {
+     "jp": "皆様[みなさま]の今後[こんご]のご活躍[かつやく]をお祈[いの]りしております。",
+     "en": "I wish you all continued success."
+    }
+   ],
+   "vocab": [
+    {
+     "jp": "退職[たいしょく]",
+     "en": "resignation, leaving a job"
+    },
+    {
+     "jp": "退職願[たいしょくねがい]",
+     "en": "letter requesting resignation"
+    },
+    {
+     "jp": "退職届[たいしょくとどけ]",
+     "en": "formal notice of resignation"
+    },
+    {
+     "jp": "転職[てんしょく]",
+     "en": "changing jobs"
+    },
+    {
+     "jp": "円満[えんまん]退職[たいしょく]",
+     "en": "leaving on good terms"
+    },
+    {
+     "jp": "引[ひ]き継[つ]ぎ",
+     "en": "handover"
+    },
+    {
+     "jp": "最終[さいしゅう]出社日[しゅっしゃび]",
+     "en": "last day in the office"
+    },
+    {
+     "jp": "有給[ゆうきゅう]消化[しょうか]",
+     "en": "using up paid leave"
+    },
+    {
+     "jp": "離職票[りしょくひょう]",
+     "en": "separation notice (for unemployment benefits)"
+    },
+    {
+     "jp": "退職金[たいしょくきん]",
+     "en": "retirement / severance allowance"
+    },
+    {
+     "jp": "送別会[そうべつかい]",
+     "en": "farewell party"
+    },
+    {
+     "jp": "引[ひ]き止[と]め",
+     "en": "being asked to stay"
+    },
+    {
+     "jp": "失業[しつぎょう]保険[ほけん]",
+     "en": "unemployment benefits (common name)"
+    },
+    {
+     "jp": "所属[しょぞく]機関[きかん]",
+     "en": "affiliated organization (employer, in immigration terms)"
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "You",
+     "jp": "部長[ぶちょう]、今[いま]、少[すこ]しお時間[じかん]よろしいでしょうか。できれば会議室[かいぎしつ]で。",
+     "en": "Do you have a moment now? In a meeting room, if possible."
+    },
+    {
+     "speaker": "Manager",
+     "jp": "いいよ。どうしたの、改[あらた]まって。",
+     "en": "Sure. What is it? You sound serious."
+    },
+    {
+     "speaker": "You",
+     "jp": "実[じつ]は、3月末[さんがつまつ]で退職[たいしょく]させていただきたいと考[かんが]えております。",
+     "en": "Actually, I'm thinking of leaving at the end of March."
+    },
+    {
+     "speaker": "Manager",
+     "jp": "そうか…。理由[りゆう]を聞[き]いてもいいかな。",
+     "en": "I see... May I ask why?"
+    },
+    {
+     "speaker": "You",
+     "jp": "以前[いぜん]から興味[きょうみ]があったデータ分析[ぶんせき]の仕事[しごと]に、挑戦[ちょうせん]したいと思[おも]いまして。",
+     "en": "I'd like to try working in data analysis, which I've been interested in for some time."
+    },
+    {
+     "speaker": "Manager",
+     "jp": "君[きみ]にはもう少[すこ]しいてほしいんだけどな。考[かんが]え直[なお]す余地[よち]はない？",
+     "en": "I was hoping you'd stay a bit longer. Is there any room to reconsider?"
+    },
+    {
+     "speaker": "You",
+     "jp": "ありがたいお言葉[ことば]ですが、よく考[かんが]えて決[き]めたことです。",
+     "en": "That's kind of you to say, but I've thought it over carefully."
+    },
+    {
+     "speaker": "Manager",
+     "jp": "わかった。じゃあ、引[ひ]き継[つ]ぎの計画[けいかく]を立[た]てよう。",
+     "en": "All right. Then let's make a handover plan."
+    },
+    {
+     "speaker": "You",
+     "jp": "はい。来週[らいしゅう]までに引[ひ]き継[つ]ぎ資料[しりょう]をまとめます。これまで本当[ほんとう]にお世話[せわ]になりました。",
+     "en": "Yes. I'll put together the handover documents by next week. Thank you so much for everything."
+    },
+    {
+     "speaker": "Manager",
+     "jp": "まだ早[はや]いよ。残[のこ]りの期間[きかん]もよろしく頼[たの]むね。",
+     "en": "It's too early for that. I'm counting on you for the rest of your time here."
+    }
+   ],
+   "tips": [
+    "Line up your next job, and check its visa implications, before you resign if you can.",
+    "Tell your boss before anyone else at work. Your boss hearing it from a colleague first can damage the relationship.",
+    "Look up the Immigration Services Agency's notification for changes of employer as soon as your dates are fixed; it can usually be done online.",
+    "Ask HR in writing for the documents you need after leaving and when they will be sent. Some, like the withholding slip, may arrive weeks later.",
+    "A short farewell email ({退職[たいしょく]のご挨拶[あいさつ]}) to colleagues and key clients on your last day is standard; include who will take over your work."
+   ]
+  }
+ ]
+}

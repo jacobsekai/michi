@@ -1,0 +1,21 @@
+{
+  "id": "r-n5-06",
+  "level": "N5",
+  "title": "My Room",
+  "titleJp": "私[わたし]の部屋[へや]",
+  "sentences": [
+    { "jp": "私[わたし]のアパートは駅[えき]から歩[ある]いて十分[じゅっぷん]です。", "en": "My apartment is a ten-minute walk from the station." },
+    { "jp": "部屋[へや]はあまり広[ひろ]くないですが、明[あか]るくて静[しず]かです。", "en": "The room isn't very big, but it's bright and quiet." },
+    { "jp": "窓[まど]の近[ちか]くに机[つくえ]といすがあります。", "en": "There's a desk and a chair near the window." },
+    { "jp": "机[つくえ]の上[うえ]には、パソコンと日本語[にほんご]の辞書[じしょ]があります。", "en": "On the desk there's a computer and a Japanese dictionary." },
+    { "jp": "ベッドの横[よこ]に小[ちい]さいテーブルがあります。", "en": "There's a small table next to the bed." },
+    { "jp": "テーブルの上[うえ]に、家族[かぞく]の写真[しゃしん]があります。", "en": "On the table there's a photo of my family." },
+    { "jp": "冷蔵庫[れいぞうこ]は台所[だいどころ]にあります。", "en": "The refrigerator is in the kitchen." },
+    { "jp": "私[わたし]はこの部屋[へや]がとても好[す]きです。", "en": "I really like this room." }
+  ],
+  "questions": [
+    { "q": "How far is the apartment from the station?", "choices": ["A five-minute walk", "A ten-minute bus ride", "A fifteen-minute walk", "A ten-minute walk"], "answer": 3 },
+    { "q": "What is on the desk?", "choices": ["A family photo", "A computer and a Japanese dictionary", "A small TV", "Books and a lamp"], "answer": 1 },
+    { "q": "Which describes the room?", "choices": ["Not very big, but bright and quiet", "Big and bright", "Small and dark", "Big but noisy"], "answer": 0 }
+  ]
+}

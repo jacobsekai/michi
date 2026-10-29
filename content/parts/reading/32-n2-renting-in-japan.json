@@ -1,0 +1,27 @@
+{
+  "id": "r-n2-08",
+  "level": "N2",
+  "title": "How Renting an Apartment Works in Japan",
+  "titleJp": "日本[にほん]で部屋[へや]を借[か]りるときの仕組[しく]み",
+  "sentences": [
+    { "jp": "日本[にほん]で賃貸[ちんたい]物件[ぶっけん]を借[か]りようとすると、多[おお]くの外国人[がいこくじん]がまず驚[おどろ]くのが、契約[けいやく]時[じ]にかかる初期[しょき]費用[ひよう]の高[たか]さである。", "en": "When trying to rent a place in Japan, what first surprises many foreigners is how high the initial costs are when signing the contract." },
+    { "jp": "一般的[いっぱんてき]に、家賃[やちん]の四[よん]か月[げつ]分[ぶん]から六[ろっ]か月[げつ]分[ぶん]ほどが必要[ひつよう]だと言[い]われている。", "en": "It is generally said that you need roughly four to six months' worth of rent." },
+    { "jp": "その内訳[うちわけ]としては、敷金[しききん]、礼金[れいきん]、仲介[ちゅうかい]手数料[てすうりょう]、前家賃[まえやちん]、火災[かさい]保険料[ほけんりょう]などが挙[あ]げられる。", "en": "The breakdown includes items such as the security deposit (shikikin), key money (reikin), the agent's commission, rent paid in advance, and fire insurance." },
+    { "jp": "敷金[しききん]は、家賃[やちん]の滞納[たいのう]や退去[たいきょ]時[じ]の修繕[しゅうぜん]費用[ひよう]に備[そな]えて大家[おおや]に預[あず]けるお金[かね]で、問題[もんだい]がなければ退去[たいきょ]時[じ]に一部[いちぶ]または全額[ぜんがく]が返[かえ]ってくる。", "en": "The security deposit is money left with the landlord to cover unpaid rent or repair costs when you move out; if there are no problems, part or all of it is returned when you leave." },
+    { "jp": "一方[いっぽう]、礼金[れいきん]は文字通[もじどお]り大家[おおや]への「お礼[れい]」として支払[しはら]うもので、返[かえ]ってくることはない。", "en": "Key money, on the other hand, is paid literally as a \"thank-you\" to the landlord, and it is never returned." },
+    { "jp": "礼金[れいきん]の習慣[しゅうかん]は、住宅[じゅうたく]が不足[ふそく]していた時代[じだい]に、部屋[へや]を貸[か]してもらう感謝[かんしゃ]の気持[きも]ちとして始[はじ]まったという説[せつ]がある。", "en": "One theory is that the custom of key money began in a time of housing shortages, as a way of showing gratitude for being allowed to rent a room." },
+    { "jp": "最近[さいきん]では、空室[くうしつ]を減[へ]らすために、礼金[れいきん]なしの物件[ぶっけん]も増[ふ]えてきている。", "en": "Recently, the number of properties with no key money has been increasing, as landlords try to reduce vacancies." },
+    { "jp": "もう一[ひと]つ、日本[にほん]独特[どくとく]なのが「保証人[ほしょうにん]」の制度[せいど]だ。", "en": "Another thing unique to Japan is the guarantor system." },
+    { "jp": "保証人[ほしょうにん]とは、借[か]り主[ぬし]が家賃[やちん]を払[はら]えなくなった場合[ばあい]に代[か]わりに支払[しはら]う責任[せきにん]を負[お]う人[ひと]のことで、従来[じゅうらい]は親[おや]や親戚[しんせき]が引[ひ]き受[う]けるのが普通[ふつう]だった。", "en": "A guarantor is a person who takes on the responsibility of paying in the tenant's place if the tenant can no longer pay the rent; traditionally, it was normal for a parent or relative to take on this role." },
+    { "jp": "しかし、日本[にほん]に家族[かぞく]のいない外国人[がいこくじん]にとって、保証人[ほしょうにん]を見[み]つけるのは容易[ようい]ではない。", "en": "However, for foreigners with no family in Japan, finding a guarantor is not easy." },
+    { "jp": "そのため現在[げんざい]では、一定[いってい]の保証料[ほしょうりょう]を払[はら]って保証[ほしょう]会社[がいしゃ]を利用[りよう]するのが主流[しゅりゅう]になりつつある。", "en": "For that reason, these days it is becoming the norm to pay a set fee and use a rent guarantee company." },
+    { "jp": "外国人[がいこくじん]向[む]けの保証[ほしょう]会社[がいしゃ]や、多言語[たげんご]で対応[たいおう]する不動産[ふどうさん]会社[がいしゃ]も増[ふ]えており、以前[いぜん]に比[くら]べれば部屋[へや]探[さが]しのハードルは下[さ]がっていると言[い]える。", "en": "With more guarantee companies aimed at foreigners and more real estate agencies offering service in multiple languages, it's fair to say the hurdles to finding a place are lower than before." },
+    { "jp": "とはいえ、契約書[けいやくしょ]には退去[たいきょ]時[じ]の費用[ひよう]負担[ふたん]など重要[じゅうよう]な条件[じょうけん]が書[か]かれているため、内容[ないよう]をよく確認[かくにん]してから署名[しょめい]することが大切[たいせつ]だ。", "en": "Even so, the contract contains important conditions, such as who pays which costs when you move out, so it is important to check its contents carefully before signing." },
+    { "jp": "わからない点[てん]があれば、遠慮[えんりょ]せずに不動産[ふどうさん]会社[がいしゃ]に質問[しつもん]しよう。", "en": "If there is anything you don't understand, don't hesitate to ask the real estate agency." }
+  ],
+  "questions": [
+    { "q": "What is the difference between shikikin and reikin?", "choices": ["Both are always returned when you move out", "Reikin may be returned, but shikikin never is", "Shikikin may be returned, but reikin never is", "Neither is ever returned"], "answer": 2 },
+    { "q": "Why is finding a guarantor hard for many foreigners?", "choices": ["Guarantors must be Japanese citizens by law", "They have no family in Japan", "Guarantee companies refuse foreigners", "Landlords don't accept guarantors"], "answer": 1 },
+    { "q": "According to the article, what is becoming the norm today?", "choices": ["Having your employer act as guarantor", "Paying a full year of rent in advance", "Renting only properties with no key money", "Paying a fee to use a rent guarantee company"], "answer": 3 }
+  ]
+}

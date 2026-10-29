@@ -1,0 +1,25 @@
+{
+  "id": "r-n3-03",
+  "level": "N3",
+  "title": "An Email to the Management Company",
+  "titleJp": "管理会社[かんりがいしゃ]へのメール",
+  "sentences": [
+    { "jp": "件名[けんめい]：お湯[ゆ]が出[で]ないことについて", "en": "Subject: No hot water" },
+    { "jp": "さくら不動産[ふどうさん]　管理[かんり]ご担当者[たんとうしゃ]様[さま]", "en": "To the person in charge of property management, Sakura Real Estate" },
+    { "jp": "いつもお世話[せわ]になっております。", "en": "Thank you as always for your help." },
+    { "jp": "メゾン緑[みどり]203号室[にまるさんごうしつ]のリー・ウェイです。", "en": "This is Li Wei from Room 203, Maison Midori." },
+    { "jp": "昨日[きのう]の夜[よる]から、台所[だいどころ]とお風呂[ふろ]でお湯[ゆ]が出[で]なくなってしまいました。", "en": "Since last night, hot water has stopped coming out in the kitchen and the bathroom." },
+    { "jp": "給湯器[きゅうとうき]のリモコンを見[み]ると、「エラー111」と表示[ひょうじ]されています。", "en": "The water heater's control panel is showing \"Error 111.\"" },
+    { "jp": "一度[いちど]電源[でんげん]を切[き]って、もう一度[いちど]入[い]れてみましたが、直[なお]りませんでした。", "en": "I tried turning the power off and on again, but it didn't fix the problem." },
+    { "jp": "ガス代[だい]はきちんと払[はら]っているので、料金[りょうきん]の問題[もんだい]ではないと思[おも]います。", "en": "I've been paying my gas bill properly, so I don't think it's a billing issue." },
+    { "jp": "寒[さむ]い時期[じき]なので、できるだけ早[はや]く修理[しゅうり]をお願[ねが]いできないでしょうか。", "en": "Since it's the cold season, could you possibly arrange a repair as soon as possible?" },
+    { "jp": "平日[へいじつ]は仕事[しごと]で夜[よる]七時[しちじ]まで家[いえ]にいませんが、今週[こんしゅう]の土曜日[どようび]と日曜日[にちようび]なら、一日中[いちにちじゅう]家[いえ]にいます。", "en": "On weekdays I'm at work and not home until 7 p.m., but this Saturday and Sunday I'll be home all day." },
+    { "jp": "平日[へいじつ]の場合[ばあい]は、七時[しちじ]以降[いこう]でしたら対応[たいおう]できます。", "en": "On weekdays, I can be available any time after seven." },
+    { "jp": "お忙[いそが]しいところ申[もう]し訳[わけ]ありませんが、どうぞよろしくお願[ねが]いいたします。", "en": "I'm sorry to trouble you when you're busy, and thank you in advance for your help." }
+  ],
+  "questions": [
+    { "q": "What is the problem Li Wei is writing about?", "choices": ["The gas bill is too high", "The neighbors are noisy", "The control panel is missing", "There is no hot water in the kitchen or bathroom"], "answer": 3 },
+    { "q": "What has Li Wei already tried?", "choices": ["Turning the power off and back on", "Calling the gas company", "Paying the gas bill again", "Buying a new remote control"], "answer": 0 },
+    { "q": "When can Li Wei be home for a repair on a weekday?", "choices": ["In the morning", "At lunchtime", "After 7 p.m.", "Never on weekdays"], "answer": 2 }
+  ]
+}

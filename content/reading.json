@@ -1,0 +1,3540 @@
+{
+ "passages": [
+  {
+   "id": "r-n5-01",
+   "level": "N5",
+   "title": "Nice to Meet You",
+   "titleJp": "はじめまして",
+   "sentences": [
+    {
+     "jp": "はじめまして。私[わたし]はマイクです。",
+     "en": "Nice to meet you. I'm Mike."
+    },
+    {
+     "jp": "アメリカから来[き]ました。",
+     "en": "I came from America."
+    },
+    {
+     "jp": "今[いま]、東京[とうきょう]の日本語[にほんご]学校[がっこう]で勉強[べんきょう]しています。",
+     "en": "I'm currently studying at a Japanese language school in Tokyo."
+    },
+    {
+     "jp": "年[とし]は二十四歳[にじゅうよんさい]です。",
+     "en": "I'm twenty-four years old."
+    },
+    {
+     "jp": "毎朝[まいあさ]、電車[でんしゃ]で学校[がっこう]へ行[い]きます。",
+     "en": "Every morning I go to school by train."
+    },
+    {
+     "jp": "日本[にほん]の食[た]べ物[もの]が大好[だいす]きです。一番[いちばん]好[す]きな食[た]べ物[もの]はラーメンです。",
+     "en": "I love Japanese food. My favorite food is ramen."
+    },
+    {
+     "jp": "いつか日本[にほん]の会社[かいしゃ]で働[はたら]きたいです。",
+     "en": "Someday I want to work at a Japanese company."
+    },
+    {
+     "jp": "どうぞよろしくお願[ねが]いします。",
+     "en": "I look forward to getting to know you."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Where is Mike studying now?",
+     "choices": [
+      "At a university in America",
+      "At a Japanese language school in Tokyo",
+      "At a company in Osaka",
+      "At home with a textbook"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How does Mike get to school?",
+     "choices": [
+      "By bus",
+      "On foot",
+      "By bicycle",
+      "By train"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "What does Mike want to do someday?",
+     "choices": [
+      "Work at a Japanese company",
+      "Open a ramen shop",
+      "Teach English in Tokyo",
+      "Go back to America"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n5-02",
+   "level": "N5",
+   "title": "My Family",
+   "titleJp": "私[わたし]の家族[かぞく]",
+   "sentences": [
+    {
+     "jp": "私[わたし]の家族[かぞく]は四人[よにん]です。",
+     "en": "There are four people in my family."
+    },
+    {
+     "jp": "父[ちち]と母[はは]と姉[あね]と私[わたし]です。",
+     "en": "My father, my mother, my older sister, and me."
+    },
+    {
+     "jp": "父[ちち]は銀行[ぎんこう]で働[はたら]いています。",
+     "en": "My father works at a bank."
+    },
+    {
+     "jp": "母[はは]は料理[りょうり]がとても上手[じょうず]です。",
+     "en": "My mother is very good at cooking."
+    },
+    {
+     "jp": "姉[あね]は大学生[だいがくせい]で、今[いま]、大阪[おおさか]に住[す]んでいます。",
+     "en": "My older sister is a university student and lives in Osaka now."
+    },
+    {
+     "jp": "家[いえ]には小[ちい]さい犬[いぬ]もいます。",
+     "en": "We also have a small dog at home."
+    },
+    {
+     "jp": "名前[なまえ]はポチです。",
+     "en": "Its name is Pochi."
+    },
+    {
+     "jp": "日曜日[にちようび]の夜[よる]は、みんなでいっしょに晩[ばん]ご飯[はん]を食[た]べます。",
+     "en": "On Sunday evenings, we all eat dinner together."
+    }
+   ],
+   "questions": [
+    {
+     "q": "How many people are in the writer's family?",
+     "choices": [
+      "Four",
+      "Three",
+      "Five",
+      "Six"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Where does the writer's older sister live now?",
+     "choices": [
+      "With the family",
+      "In Tokyo",
+      "In Osaka",
+      "In Kyoto"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What does the family do on Sunday evenings?",
+     "choices": [
+      "Walk the dog",
+      "Eat dinner together",
+      "Go to the bank",
+      "Cook with their mother"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "r-n5-03",
+   "level": "N5",
+   "title": "My Day",
+   "titleJp": "私[わたし]の一日[いちにち]",
+   "sentences": [
+    {
+     "jp": "私[わたし]は毎朝[まいあさ]七時[しちじ]に起[お]きます。",
+     "en": "I get up at seven every morning."
+    },
+    {
+     "jp": "朝[あさ]ご飯[はん]はパンとコーヒーです。",
+     "en": "For breakfast I have bread and coffee."
+    },
+    {
+     "jp": "八時[はちじ]半[はん]に家[いえ]を出[で]て、会社[かいしゃ]へ行[い]きます。",
+     "en": "I leave home at eight thirty and go to the office."
+    },
+    {
+     "jp": "会社[かいしゃ]は九時[くじ]から六時[ろくじ]までです。",
+     "en": "Work is from nine to six."
+    },
+    {
+     "jp": "昼[ひる]ご飯[はん]は、たいてい会社[かいしゃ]の近[ちか]くの店[みせ]で食[た]べます。",
+     "en": "I usually eat lunch at a restaurant near the office."
+    },
+    {
+     "jp": "仕事[しごと]の後[あと]で、スーパーで買[か]い物[もの]をします。",
+     "en": "After work, I do some shopping at the supermarket."
+    },
+    {
+     "jp": "夜[よる]は家[いえ]で本[ほん]を読[よ]みます。",
+     "en": "In the evening I read books at home."
+    },
+    {
+     "jp": "そして、十一時[じゅういちじ]ごろ寝[ね]ます。",
+     "en": "Then I go to bed at around eleven."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What time does the writer leave home?",
+     "choices": [
+      "7:00",
+      "8:00",
+      "8:30",
+      "9:00"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Where does the writer usually eat lunch?",
+     "choices": [
+      "At home",
+      "At a restaurant near the office",
+      "At the supermarket",
+      "At the desk in the office"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does the writer do after work?",
+     "choices": [
+      "Reads books at a café",
+      "Goes to the gym",
+      "Meets friends",
+      "Shops at the supermarket"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n5-04",
+   "level": "N5",
+   "title": "Shopping in Shinjuku",
+   "titleJp": "新宿[しんじゅく]で買[か]い物[もの]",
+   "sentences": [
+    {
+     "jp": "昨日[きのう]、友[とも]だちと新宿[しんじゅく]へ買[か]い物[もの]に行[い]きました。",
+     "en": "Yesterday I went shopping in Shinjuku with a friend."
+    },
+    {
+     "jp": "大[おお]きいデパートで、青[あお]いセーターを見[み]ました。",
+     "en": "At a big department store, I looked at a blue sweater."
+    },
+    {
+     "jp": "とてもきれいでしたが、一万二千円[いちまんにせんえん]でした。",
+     "en": "It was very pretty, but it was twelve thousand yen."
+    },
+    {
+     "jp": "高[たか]かったですから、買[か]いませんでした。",
+     "en": "It was expensive, so I didn't buy it."
+    },
+    {
+     "jp": "それから、駅[えき]の近[ちか]くの店[みせ]で白[しろ]いシャツを買[か]いました。",
+     "en": "After that, I bought a white shirt at a shop near the station."
+    },
+    {
+     "jp": "シャツは三千円[さんぜんえん]でした。安[やす]かったです。",
+     "en": "The shirt was three thousand yen. It was cheap."
+    },
+    {
+     "jp": "友[とも]だちは靴[くつ]を買[か]いました。",
+     "en": "My friend bought shoes."
+    },
+    {
+     "jp": "帰[かえ]りに、喫茶店[きっさてん]で冷[つめ]たいジュースを飲[の]みました。",
+     "en": "On the way home, we had cold juice at a café."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why didn't the writer buy the blue sweater?",
+     "choices": [
+      "It was too small",
+      "The friend didn't like it",
+      "It wasn't pretty",
+      "It was expensive"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "How much was the white shirt?",
+     "choices": [
+      "¥1,200",
+      "¥3,000",
+      "¥12,000",
+      "¥13,000"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did the writer's friend buy?",
+     "choices": [
+      "Shoes",
+      "A sweater",
+      "A white shirt",
+      "Nothing"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n5-05",
+   "level": "N5",
+   "title": "Last Weekend",
+   "titleJp": "先週[せんしゅう]の週末[しゅうまつ]",
+   "sentences": [
+    {
+     "jp": "先週[せんしゅう]の土曜日[どようび]は、いい天気[てんき]でした。",
+     "en": "Last Saturday the weather was nice."
+    },
+    {
+     "jp": "朝[あさ]、公園[こうえん]を散歩[さんぽ]しました。",
+     "en": "In the morning I took a walk in the park."
+    },
+    {
+     "jp": "公園[こうえん]には、子[こ]どもや犬[いぬ]がたくさんいました。",
+     "en": "There were lots of children and dogs in the park."
+    },
+    {
+     "jp": "午後[ごご]は、友[とも]だちと映画[えいが]を見[み]に行[い]きました。",
+     "en": "In the afternoon I went to see a movie with a friend."
+    },
+    {
+     "jp": "映画[えいが]はちょっと長[なが]かったですが、おもしろかったです。",
+     "en": "The movie was a little long, but it was interesting."
+    },
+    {
+     "jp": "日曜日[にちようび]は雨[あめ]でしたから、どこへも行[い]きませんでした。",
+     "en": "On Sunday it rained, so I didn't go anywhere."
+    },
+    {
+     "jp": "家[いえ]で部屋[へや]を掃除[そうじ]して、洗濯[せんたく]をしました。",
+     "en": "I cleaned my room at home and did the laundry."
+    },
+    {
+     "jp": "来週[らいしゅう]の週末[しゅうまつ]は、海[うみ]へ行[い]きたいです。",
+     "en": "Next weekend I want to go to the sea."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What did the writer do on Saturday morning?",
+     "choices": [
+      "Watched a movie",
+      "Cleaned the room",
+      "Took a walk in the park",
+      "Went to the sea"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What did the writer think of the movie?",
+     "choices": [
+      "Short and boring",
+      "A little long, but interesting",
+      "Too scary",
+      "Long and boring"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Why did the writer stay home on Sunday?",
+     "choices": [
+      "It rained",
+      "The writer was tired",
+      "A friend was sick",
+      "The writer had homework"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n5-06",
+   "level": "N5",
+   "title": "My Room",
+   "titleJp": "私[わたし]の部屋[へや]",
+   "sentences": [
+    {
+     "jp": "私[わたし]のアパートは駅[えき]から歩[ある]いて十分[じゅっぷん]です。",
+     "en": "My apartment is a ten-minute walk from the station."
+    },
+    {
+     "jp": "部屋[へや]はあまり広[ひろ]くないですが、明[あか]るくて静[しず]かです。",
+     "en": "The room isn't very big, but it's bright and quiet."
+    },
+    {
+     "jp": "窓[まど]の近[ちか]くに机[つくえ]といすがあります。",
+     "en": "There's a desk and a chair near the window."
+    },
+    {
+     "jp": "机[つくえ]の上[うえ]には、パソコンと日本語[にほんご]の辞書[じしょ]があります。",
+     "en": "On the desk there's a computer and a Japanese dictionary."
+    },
+    {
+     "jp": "ベッドの横[よこ]に小[ちい]さいテーブルがあります。",
+     "en": "There's a small table next to the bed."
+    },
+    {
+     "jp": "テーブルの上[うえ]に、家族[かぞく]の写真[しゃしん]があります。",
+     "en": "On the table there's a photo of my family."
+    },
+    {
+     "jp": "冷蔵庫[れいぞうこ]は台所[だいどころ]にあります。",
+     "en": "The refrigerator is in the kitchen."
+    },
+    {
+     "jp": "私[わたし]はこの部屋[へや]がとても好[す]きです。",
+     "en": "I really like this room."
+    }
+   ],
+   "questions": [
+    {
+     "q": "How far is the apartment from the station?",
+     "choices": [
+      "A five-minute walk",
+      "A ten-minute bus ride",
+      "A fifteen-minute walk",
+      "A ten-minute walk"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "What is on the desk?",
+     "choices": [
+      "A family photo",
+      "A computer and a Japanese dictionary",
+      "A small TV",
+      "Books and a lamp"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which describes the room?",
+     "choices": [
+      "Not very big, but bright and quiet",
+      "Big and bright",
+      "Small and dark",
+      "Big but noisy"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n5-07",
+   "level": "N5",
+   "title": "Today's Weather",
+   "titleJp": "今日[きょう]の天気[てんき]",
+   "sentences": [
+    {
+     "jp": "おはようございます。今日[きょう]の天気[てんき]です。",
+     "en": "Good morning. Here is today's weather."
+    },
+    {
+     "jp": "今日[きょう]は朝[あさ]から曇[くも]りです。",
+     "en": "Today it's cloudy from the morning."
+    },
+    {
+     "jp": "午後[ごご]から雨[あめ]が降[ふ]りますから、傘[かさ]を持[も]って出[で]かけましょう。",
+     "en": "It will rain from the afternoon, so take an umbrella when you go out."
+    },
+    {
+     "jp": "昼[ひる]は少[すこ]し暖[あたた]かいですが、夜[よる]は寒[さむ]くなります。",
+     "en": "It will be a little warm during the day, but it will get cold at night."
+    },
+    {
+     "jp": "明日[あした]は晴[は]れです。風[かぜ]も弱[よわ]いですから、洗濯[せんたく]にいい日[ひ]です。",
+     "en": "Tomorrow will be sunny. The wind will be light too, so it's a good day for laundry."
+    },
+    {
+     "jp": "あさっては、とても寒[さむ]いでしょう。",
+     "en": "The day after tomorrow will probably be very cold."
+    },
+    {
+     "jp": "山[やま]では雪[ゆき]が降[ふ]るでしょう。",
+     "en": "It will probably snow in the mountains."
+    },
+    {
+     "jp": "暖[あたた]かいコートを着[き]てください。",
+     "en": "Please wear a warm coat."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why should you take an umbrella today?",
+     "choices": [
+      "It is raining this morning",
+      "It will snow tonight",
+      "It will rain from the afternoon",
+      "It will be very windy"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What will tomorrow be like?",
+     "choices": [
+      "Cloudy with rain",
+      "Sunny with light wind",
+      "Snowy and cold",
+      "Windy and warm"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Where will it probably snow the day after tomorrow?",
+     "choices": [
+      "In the city",
+      "By the sea",
+      "Everywhere",
+      "In the mountains"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n5-08",
+   "level": "N5",
+   "title": "A Postcard from Kyoto",
+   "titleJp": "京都[きょうと]からのはがき",
+   "sentences": [
+    {
+     "jp": "田中[たなか]先生[せんせい]、お元気[げんき]ですか。",
+     "en": "Dear Tanaka-sensei, how are you?"
+    },
+    {
+     "jp": "私[わたし]は今[いま]、京都[きょうと]にいます。",
+     "en": "I'm in Kyoto now."
+    },
+    {
+     "jp": "昨日[きのう]、東京[とうきょう]から新幹線[しんかんせん]で来[き]ました。",
+     "en": "I came from Tokyo by shinkansen yesterday."
+    },
+    {
+     "jp": "京都[きょうと]は古[ふる]いお寺[てら]がたくさんあって、とてもきれいな町[まち]です。",
+     "en": "Kyoto has lots of old temples, and it's a very beautiful city."
+    },
+    {
+     "jp": "今日[きょう]は金閣寺[きんかくじ]へ行[い]きました。",
+     "en": "Today I went to Kinkakuji."
+    },
+    {
+     "jp": "人[ひと]が多[おお]かったですが、写真[しゃしん]をたくさん撮[と]りました。",
+     "en": "There were a lot of people, but I took lots of photos."
+    },
+    {
+     "jp": "昨日[きのう]の夜[よる]は、おいしいそばを食[た]べました。",
+     "en": "Last night I ate delicious soba."
+    },
+    {
+     "jp": "来週[らいしゅう]の月曜日[げつようび]に東京[とうきょう]へ帰[かえ]ります。また学校[がっこう]で会[あ]いましょう。",
+     "en": "I'll go back to Tokyo next Monday. See you at school again."
+    }
+   ],
+   "questions": [
+    {
+     "q": "How did the writer travel to Kyoto?",
+     "choices": [
+      "By plane",
+      "By bus",
+      "By car",
+      "By shinkansen"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "What was Kinkakuji like when the writer visited?",
+     "choices": [
+      "It was crowded",
+      "It was closed",
+      "It was raining",
+      "It was quiet and empty"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "When will the writer return to Tokyo?",
+     "choices": [
+      "Tomorrow",
+      "This weekend",
+      "Next Monday",
+      "Next month"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "id": "r-n4-01",
+   "level": "N4",
+   "title": "A Winter Trip to Hokkaido",
+   "titleJp": "冬[ふゆ]の北海道[ほっかいどう]旅行[りょこう]",
+   "sentences": [
+    {
+     "jp": "去年[きょねん]の冬[ふゆ]、会社[かいしゃ]の休[やす]みを使[つか]って、北海道[ほっかいどう]へ旅行[りょこう]に行[い]きました。",
+     "en": "Last winter, I used my time off from work to take a trip to Hokkaido."
+    },
+    {
+     "jp": "東京[とうきょう]から札幌[さっぽろ]までは、飛行機[ひこうき]で一時間[いちじかん]半[はん]ぐらいでした。",
+     "en": "From Tokyo to Sapporo took about an hour and a half by plane."
+    },
+    {
+     "jp": "空港[くうこう]に着[つ]いたとき、外[そと]は雪[ゆき]で真[ま]っ白[しろ]でした。",
+     "en": "When I arrived at the airport, everything outside was white with snow."
+    },
+    {
+     "jp": "札幌[さっぽろ]では、雪[ゆき]まつりを見[み]たり、有名[ゆうめい]なラーメンを食[た]べたりしました。",
+     "en": "In Sapporo, I did things like seeing the snow festival and eating the famous ramen."
+    },
+    {
+     "jp": "雪[ゆき]で作[つく]られた大[おお]きなお城[しろ]があって、びっくりしました。",
+     "en": "There was a big castle made of snow, which surprised me."
+    },
+    {
+     "jp": "二日目[ふつかめ]は電車[でんしゃ]で小樽[おたる]という町[まち]へ行[い]きました。",
+     "en": "On the second day, I took the train to a town called Otaru."
+    },
+    {
+     "jp": "小樽[おたる]は古[ふる]い建物[たてもの]が多[おお]くて、ガラスのお店[みせ]がたくさんあります。",
+     "en": "Otaru has many old buildings and lots of glassware shops."
+    },
+    {
+     "jp": "道[みち]が凍[こお]っていたので、何度[なんど]も転[ころ]びそうになりました。",
+     "en": "The roads were frozen, so I almost fell over many times."
+    },
+    {
+     "jp": "寒[さむ]かったですが、温泉[おんせん]に入[はい]ると体[からだ]がすぐに温[あたた]かくなりました。",
+     "en": "It was cold, but when I got into a hot spring my body warmed up right away."
+    },
+    {
+     "jp": "旅行[りょこう]の前[まえ]は少[すこ]し心配[しんぱい]でしたが、行[い]ってよかったと思[おも]います。",
+     "en": "I was a little worried before the trip, but I'm glad I went."
+    },
+    {
+     "jp": "今度[こんど]は夏[なつ]の北海道[ほっかいどう]にも行[い]ってみたいです。",
+     "en": "Next time, I'd like to try visiting Hokkaido in summer too."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What surprised the writer in Sapporo?",
+     "choices": [
+      "A big castle made of snow",
+      "How cheap the ramen was",
+      "How few tourists there were",
+      "That the airport was closed"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Why did the writer almost fall many times?",
+     "choices": [
+      "The writer was wearing new shoes",
+      "The streets were crowded",
+      "The roads were frozen",
+      "The writer was tired after the onsen"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What does the writer want to do next time?",
+     "choices": [
+      "Visit Otaru again in winter",
+      "Live in Sapporo",
+      "Go to the snow festival again",
+      "Visit Hokkaido in summer"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n4-02",
+   "level": "N4",
+   "title": "My Convenience Store Job",
+   "titleJp": "コンビニのアルバイト",
+   "sentences": [
+    {
+     "jp": "私[わたし]は三[さん]か月[げつ]前[まえ]から、家[いえ]の近[ちか]くのコンビニでアルバイトをしています。",
+     "en": "For the past three months, I've been working part-time at a convenience store near my home."
+    },
+    {
+     "jp": "週[しゅう]に三回[さんかい]、夕方[ゆうがた]五時[ごじ]から十時[じゅうじ]まで働[はたら]いています。",
+     "en": "I work three times a week, from five in the evening until ten."
+    },
+    {
+     "jp": "仕事[しごと]は、レジや、商品[しょうひん]を棚[たな]に並[なら]べることです。",
+     "en": "My work is things like running the register and putting products on the shelves."
+    },
+    {
+     "jp": "最初[さいしょ]は敬語[けいご]が難[むずか]しくて、よく間違[まちが]えてしまいました。",
+     "en": "At first, keigo was difficult and I often made mistakes."
+    },
+    {
+     "jp": "「温[あたた]めますか」や「袋[ふくろ]はご利用[りよう]ですか」など、決[き]まった言葉[ことば]がたくさんあります。",
+     "en": "There are lots of set phrases, like \"Shall I heat this up?\" and \"Would you like a bag?\""
+    },
+    {
+     "jp": "店長[てんちょう]はとても親切[しんせつ]で、わからないことがあれば何[なん]でも教[おし]えてくれます。",
+     "en": "The store manager is very kind and teaches me anything I don't understand."
+    },
+    {
+     "jp": "コンビニでは、食[た]べ物[もの]を買[か]うことができるし、荷物[にもつ]を送[おく]ったり、電気[でんき]代[だい]を払[はら]ったりすることもできます。",
+     "en": "At a convenience store you can buy food, and you can also do things like send packages and pay your electricity bill."
+    },
+    {
+     "jp": "それで、覚[おぼ]えなければならないことがとても多[おお]いです。",
+     "en": "So there are a lot of things I have to remember."
+    },
+    {
+     "jp": "大変[たいへん]ですが、いろいろなお客[きゃく]さんと話[はな]せるので、日本語[にほんご]が上手[じょうず]になりました。",
+     "en": "It's hard work, but because I can talk with all kinds of customers, my Japanese has improved."
+    },
+    {
+     "jp": "来月[らいげつ]からは、朝[あさ]の時間[じかん]も働[はたら]くつもりです。",
+     "en": "From next month, I plan to work morning shifts as well."
+    }
+   ],
+   "questions": [
+    {
+     "q": "How often does the writer work?",
+     "choices": [
+      "Every day",
+      "Twice a week",
+      "Three times a week",
+      "Only on weekends"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What was difficult for the writer at first?",
+     "choices": [
+      "Keigo (polite language)",
+      "Getting up early",
+      "Remembering prices",
+      "Lifting heavy boxes"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What is the writer planning to do from next month?",
+     "choices": [
+      "Quit the job",
+      "Work at a different store",
+      "Become the store manager",
+      "Also work in the mornings"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n4-03",
+   "level": "N4",
+   "title": "A Letter to Yuki",
+   "titleJp": "ゆきさんへの手紙[てがみ]",
+   "sentences": [
+    {
+     "jp": "ゆきさん、お元気[げんき]ですか。",
+     "en": "Yuki, how are you?"
+    },
+    {
+     "jp": "大阪[おおさか]に引[ひ]っ越[こ]してから、もう半年[はんとし]になりました。",
+     "en": "It's already been six months since I moved to Osaka."
+    },
+    {
+     "jp": "最初[さいしょ]は大阪弁[おおさかべん]がよくわからなくて困[こま]りましたが、今[いま]は少[すこ]しずつ慣[な]れてきました。",
+     "en": "At first I had trouble because I couldn't really understand the Osaka dialect, but now I'm gradually getting used to it."
+    },
+    {
+     "jp": "近所[きんじょ]の人[ひと]たちはとても親切[しんせつ]で、会[あ]うといつも話[はな]しかけてくれます。",
+     "en": "The people in my neighborhood are very kind, and they always talk to me when we meet."
+    },
+    {
+     "jp": "先週[せんしゅう]は、となりのおばあさんに、たこ焼[や]きの作[つく]り方[かた]を教[おし]えてもらいました。",
+     "en": "Last week, the old woman next door taught me how to make takoyaki."
+    },
+    {
+     "jp": "自分[じぶん]で作[つく]ってみたら、形[かたち]は悪[わる]かったけれど、味[あじ]はなかなかよかったです。",
+     "en": "When I tried making them myself, the shape was bad, but the taste was pretty good."
+    },
+    {
+     "jp": "ところで、ゆきさんは来月[らいげつ]、関西[かんさい]に出張[しゅっちょう]があると言[い]っていましたね。",
+     "en": "By the way, you said you have a business trip to the Kansai area next month, didn't you?"
+    },
+    {
+     "jp": "もし時間[じかん]があったら、ぜひ私[わたし]の家[いえ]に遊[あそ]びに来[き]てください。",
+     "en": "If you have time, please come and visit my place."
+    },
+    {
+     "jp": "一緒[いっしょ]にたこ焼[や]きを作[つく]りましょう。",
+     "en": "Let's make takoyaki together."
+    },
+    {
+     "jp": "返事[へんじ]を待[ま]っています。エマより",
+     "en": "I'm looking forward to your reply. From Emma"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How long has Emma lived in Osaka?",
+     "choices": [
+      "One month",
+      "Three months",
+      "Six months",
+      "One year"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "How did Emma's takoyaki turn out?",
+     "choices": [
+      "The shape was bad, but they tasted good",
+      "They looked good but tasted bad",
+      "They were burned",
+      "They were perfect"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Why might Yuki come to the Kansai area next month?",
+     "choices": [
+      "To visit her family",
+      "To go sightseeing",
+      "To take a cooking class",
+      "For a business trip"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n4-04",
+   "level": "N4",
+   "title": "How to Make Oyakodon",
+   "titleJp": "親子丼[おやこどん]の作[つく]り方[かた]",
+   "sentences": [
+    {
+     "jp": "今日[きょう]は、簡単[かんたん]な親子丼[おやこどん]の作[つく]り方[かた]を紹介[しょうかい]します。",
+     "en": "Today I'll show you how to make a simple oyakodon."
+    },
+    {
+     "jp": "鶏肉[とりにく]が「親[おや]」で、卵[たまご]が「子[こ]」なので、この名前[なまえ]になりました。",
+     "en": "The chicken is the \"parent\" and the egg is the \"child,\" so it got this name."
+    },
+    {
+     "jp": "材料[ざいりょう]は、二人分[ふたりぶん]で鶏肉[とりにく]二百[にひゃく]グラム、玉[たま]ねぎ半分[はんぶん]、卵[たまご]三[みっ]つ、それからご飯[はん]です。",
+     "en": "For two servings, the ingredients are 200 grams of chicken, half an onion, three eggs, and rice."
+    },
+    {
+     "jp": "まず、鶏肉[とりにく]を小[ちい]さく切[き]って、玉[たま]ねぎは薄[うす]く切[き]っておきます。",
+     "en": "First, cut the chicken into small pieces and slice the onion thinly."
+    },
+    {
+     "jp": "次[つぎ]に、なべに水[みず]としょうゆ、砂糖[さとう]、みりんを入[い]れて、火[ひ]にかけます。",
+     "en": "Next, put water, soy sauce, sugar, and mirin into a pot and put it on the heat."
+    },
+    {
+     "jp": "沸[わ]いたら、鶏肉[とりにく]と玉[たま]ねぎを入[い]れて、五分[ごふん]ぐらい煮[に]ます。",
+     "en": "When it boils, add the chicken and onion and simmer for about five minutes."
+    },
+    {
+     "jp": "鶏肉[とりにく]に火[ひ]が通[とお]ったら、よく混[ま]ぜた卵[たまご]を上[うえ]からゆっくり入[い]れます。",
+     "en": "Once the chicken is cooked through, slowly pour the well-beaten eggs over the top."
+    },
+    {
+     "jp": "ふたをして、一分[いっぷん]ぐらい待[ま]ちます。",
+     "en": "Put the lid on and wait about one minute."
+    },
+    {
+     "jp": "卵[たまご]が固[かた]くなりすぎないように気[き]をつけてください。",
+     "en": "Be careful that the eggs don't get too firm."
+    },
+    {
+     "jp": "最後[さいご]に、温[あたた]かいご飯[はん]の上[うえ]にのせたら、できあがりです。",
+     "en": "Finally, put it on top of warm rice, and it's done."
+    },
+    {
+     "jp": "三十分[さんじゅっぷん]もかからないので、忙[いそが]しい日[ひ]の晩[ばん]ご飯[はん]にぴったりです。",
+     "en": "It takes less than thirty minutes, so it's perfect for dinner on a busy day."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why is the dish called oyakodon (\"parent and child bowl\")?",
+     "choices": [
+      "Parents and children often eat it together",
+      "The chicken is the \"parent\" and the egg is the \"child\"",
+      "A mother invented it for her child",
+      "It is served in two bowls, a big one and a small one"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How many eggs do you need for two people?",
+     "choices": [
+      "Two",
+      "Four",
+      "Six",
+      "Three"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "What does the writer tell you to be careful about?",
+     "choices": [
+      "Not letting the eggs get too firm",
+      "Not burning the rice",
+      "Not cutting the chicken too small",
+      "Not using too much soy sauce"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n4-05",
+   "level": "N4",
+   "title": "The Summer Festival",
+   "titleJp": "夏祭[なつまつ]り",
+   "sentences": [
+    {
+     "jp": "私[わたし]の町[まち]では、毎年[まいとし]八月[はちがつ]の初[はじ]めに夏祭[なつまつ]りがあります。",
+     "en": "In my town, there is a summer festival every year at the beginning of August."
+    },
+    {
+     "jp": "去年[きょねん]、初[はじ]めて浴衣[ゆかた]を着[き]て、友[とも]だちと一緒[いっしょ]に行[い]きました。",
+     "en": "Last year, I wore a yukata for the first time and went with my friends."
+    },
+    {
+     "jp": "浴衣[ゆかた]は一人[ひとり]で着[き]るのが難[むずか]しいので、ホームステイのお母[かあ]さんに手伝[てつだ]ってもらいました。",
+     "en": "A yukata is hard to put on by yourself, so my homestay mother helped me."
+    },
+    {
+     "jp": "神社[じんじゃ]の前[まえ]の道[みち]には、たくさんの屋台[やたい]が並[なら]んでいました。",
+     "en": "Lots of food stalls were lined up along the street in front of the shrine."
+    },
+    {
+     "jp": "焼[や]きそばやかき氷[ごおり]を買[か]って、食[た]べながら歩[ある]きました。",
+     "en": "We bought yakisoba and shaved ice and ate them as we walked."
+    },
+    {
+     "jp": "夜[よる]になると、大[おお]きな太鼓[たいこ]の音[おと]が聞[き]こえてきました。",
+     "en": "When night came, we could hear the sound of big taiko drums."
+    },
+    {
+     "jp": "町[まち]の人[ひと]たちが、おみこしを担[かつ]いで、元気[げんき]な声[こえ]を出[だ]しながら通[とお]っていきました。",
+     "en": "People from the town went past carrying a portable shrine on their shoulders, shouting energetically."
+    },
+    {
+     "jp": "祭[まつ]りの最後[さいご]には、川[かわ]の近[ちか]くで花火[はなび]が上[あ]がりました。",
+     "en": "At the end of the festival, fireworks went up near the river."
+    },
+    {
+     "jp": "空[そら]いっぱいに広[ひろ]がる花火[はなび]は、本当[ほんとう]にきれいでした。",
+     "en": "The fireworks spreading across the whole sky were really beautiful."
+    },
+    {
+     "jp": "日本[にほん]の夏[なつ]は暑[あつ]くて大変[たいへん]ですが、祭[まつ]りがあるので、私[わたし]は夏[なつ]が好[す]きになりました。",
+     "en": "Summer in Japan is hot and tough, but because of the festivals, I've come to like summer."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who helped the writer put on the yukata?",
+     "choices": [
+      "A friend",
+      "A shop clerk",
+      "The writer's homestay mother",
+      "Nobody; the writer did it alone"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What happened at the end of the festival?",
+     "choices": [
+      "A taiko drum contest",
+      "Fireworks near the river",
+      "A dance in front of the shrine",
+      "The portable shrine returned to the shrine"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How does the writer feel about Japanese summer now?",
+     "choices": [
+      "Still dislikes it because it is too hot",
+      "Prefers winter festivals",
+      "Thinks it is too short",
+      "Has come to like it because of the festivals"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n4-06",
+   "level": "N4",
+   "title": "Moving to a New Apartment",
+   "titleJp": "新[あたら]しいアパートへの引[ひ]っ越[こ]し",
+   "sentences": [
+    {
+     "jp": "先月[せんげつ]、会社[かいしゃ]に近[ちか]いアパートに引[ひ]っ越[こ]しました。",
+     "en": "Last month, I moved to an apartment close to my company."
+    },
+    {
+     "jp": "前[まえ]の部屋[へや]は駅[えき]から遠[とお]かったので、毎朝[まいあさ]バスに乗[の]らなければなりませんでした。",
+     "en": "My old place was far from the station, so I had to take a bus every morning."
+    },
+    {
+     "jp": "新[あたら]しい部屋[へや]は、駅[えき]まで歩[ある]いて五分[ごふん]なので、とても便利[べんり]です。",
+     "en": "The new place is a five-minute walk to the station, so it's very convenient."
+    },
+    {
+     "jp": "引[ひ]っ越[こ]しの次[つぎ]の日[ひ]、となりの部屋[へや]の人[ひと]に、タオルを持[も]ってあいさつに行[い]きました。",
+     "en": "The day after I moved, I went to say hello to the person next door, bringing a towel."
+    },
+    {
+     "jp": "日本[にほん]では、引[ひ]っ越[こ]したときに近所[きんじょ]の人[ひと]にあいさつをすることが多[おお]いそうです。",
+     "en": "I hear that in Japan, people often greet their neighbors when they move in."
+    },
+    {
+     "jp": "それから、区役所[くやくしょ]へ行[い]って、住所[じゅうしょ]が変[か]わったことを届[とど]けました。",
+     "en": "After that, I went to the ward office and reported my change of address."
+    },
+    {
+     "jp": "一番[いちばん]大変[たいへん]だったのは、ごみの出[だ]し方[かた]です。",
+     "en": "The hardest thing was how to put out the garbage."
+    },
+    {
+     "jp": "この町[まち]では、燃[も]えるごみは月曜日[げつようび]と木曜日[もくようび]、プラスチックは水曜日[すいようび]に出[だ]すことになっています。",
+     "en": "In this town, burnable garbage goes out on Mondays and Thursdays, and plastic on Wednesdays."
+    },
+    {
+     "jp": "一度[いちど]、間違[まちが]った日[ひ]に出[だ]してしまって、ごみ袋[ぶくろ]に注意[ちゅうい]の紙[かみ]を貼[は]られてしまいました。",
+     "en": "Once, I put it out on the wrong day, and a warning notice got stuck on my garbage bag."
+    },
+    {
+     "jp": "今[いま]は、ごみのカレンダーを冷蔵庫[れいぞうこ]に貼[は]って、忘[わす]れないようにしています。",
+     "en": "Now I keep the garbage calendar stuck on my fridge so I don't forget."
+    },
+    {
+     "jp": "新[あたら]しい生活[せいかつ]にも、だんだん慣[な]れてきました。",
+     "en": "I'm gradually getting used to my new life."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What was inconvenient about the writer's old apartment?",
+     "choices": [
+      "It was far from the station, so the writer had to take a bus",
+      "It was too small",
+      "The neighbors were noisy",
+      "The rent was too high"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What did the writer bring when greeting the neighbor?",
+     "choices": [
+      "Sweets",
+      "Flowers",
+      "A towel",
+      "A garbage calendar"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "On which day is plastic put out in this town?",
+     "choices": [
+      "Monday",
+      "Thursday",
+      "Friday",
+      "Wednesday"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n4-07",
+   "level": "N4",
+   "title": "A Visit to the Doctor",
+   "titleJp": "病院[びょういん]へ行[い]った日[ひ]",
+   "sentences": [
+    {
+     "jp": "先週[せんしゅう]の火曜日[かようび]、朝[あさ]起[お]きたら、頭[あたま]が痛[いた]くて、のどもとても痛[いた]かったです。",
+     "en": "Last Tuesday, when I got up in the morning, I had a headache and my throat was very sore too."
+    },
+    {
+     "jp": "熱[ねつ]を測[はか]ったら、三十八度[さんじゅうはちど]ありました。",
+     "en": "When I took my temperature, it was 38 degrees."
+    },
+    {
+     "jp": "会社[かいしゃ]に電話[でんわ]して、休[やす]ませてもらいました。",
+     "en": "I called my company and got permission to take the day off."
+    },
+    {
+     "jp": "近[ちか]くの内科[ないか]に行[い]くと、まず受付[うけつけ]で保険証[ほけんしょう]を見[み]せて、どこが痛[いた]いかなどを紙[かみ]に書[か]きました。",
+     "en": "When I went to a nearby internal medicine clinic, I first showed my health insurance card at reception and wrote down things like where it hurt on a form."
+    },
+    {
+     "jp": "三十分[さんじゅっぷん]ぐらい待[ま]ってから、名前[なまえ]を呼[よ]ばれました。",
+     "en": "After waiting about thirty minutes, my name was called."
+    },
+    {
+     "jp": "お医者[いしゃ]さんは、のどを見[み]て、「かぜですね。インフルエンザではありません」と言[い]いました。",
+     "en": "The doctor looked at my throat and said, \"It's a cold. It isn't the flu.\""
+    },
+    {
+     "jp": "そして、「三日分[みっかぶん]の薬[くすり]を出[だ]しておきますから、ご飯[はん]を食[た]べた後[あと]に飲[の]んでください」と言[い]われました。",
+     "en": "Then I was told, \"I'll prescribe three days' worth of medicine, so please take it after meals.\""
+    },
+    {
+     "jp": "「お風呂[ふろ]には入[はい]らないほうがいいですか」と聞[き]くと、「熱[ねつ]が下[さ]がるまでは、やめたほうがいいでしょう」と言[い]われました。",
+     "en": "When I asked, \"Is it better not to take a bath?\" I was told, \"You'd better not until your fever goes down.\""
+    },
+    {
+     "jp": "薬局[やっきょく]で薬[くすり]をもらって、家[いえ]に帰[かえ]ってすぐに寝[ね]ました。",
+     "en": "I got my medicine at the pharmacy, went home, and went straight to bed."
+    },
+    {
+     "jp": "二日後[ふつかご]には熱[ねつ]が下[さ]がって、元気[げんき]になりました。",
+     "en": "Two days later my fever went down and I felt better."
+    },
+    {
+     "jp": "日本[にほん]で病院[びょういん]に行[い]くときは、保険証[ほけんしょう]を忘[わす]れないようにしましょう。",
+     "en": "When you go to a clinic in Japan, make sure not to forget your health insurance card."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What did the doctor say was wrong?",
+     "choices": [
+      "The writer had the flu",
+      "The writer needed to go to a bigger hospital",
+      "The writer had a cold, not the flu",
+      "Nothing was wrong"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "When should the writer take the medicine?",
+     "choices": [
+      "After meals",
+      "Before meals",
+      "Only before bed",
+      "Only when it hurts"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What did the doctor say about taking a bath?",
+     "choices": [
+      "A hot bath would help",
+      "It was fine at any time",
+      "Only a short shower was okay",
+      "It was better to avoid it until the fever went down"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n4-08",
+   "level": "N4",
+   "title": "My Hobby: Public Baths",
+   "titleJp": "私[わたし]の趣味[しゅみ]は銭湯[せんとう]",
+   "sentences": [
+    {
+     "jp": "私[わたし]の趣味[しゅみ]は、いろいろな町[まち]の銭湯[せんとう]に行[い]くことです。",
+     "en": "My hobby is visiting public baths in all sorts of neighborhoods."
+    },
+    {
+     "jp": "銭湯[せんとう]というのは、お金[かね]を払[はら]って入[はい]る大[おお]きなお風呂[ふろ]のことです。",
+     "en": "A sentō is a large bath that you pay to use."
+    },
+    {
+     "jp": "昔[むかし]は家[いえ]にお風呂[ふろ]がない人[ひと]が多[おお]かったので、どの町[まち]にも銭湯[せんとう]がありました。",
+     "en": "In the past, many people didn't have a bath at home, so every neighborhood had a sentō."
+    },
+    {
+     "jp": "今[いま]は数[かず]が少[すく]なくなりましたが、東京[とうきょう]にはまだたくさん残[のこ]っています。",
+     "en": "There are fewer of them now, but many still remain in Tokyo."
+    },
+    {
+     "jp": "料金[りょうきん]はそれほど高[たか]くないので、学生[がくせい]でも行[い]きやすいです。",
+     "en": "The price isn't that high, so they're easy to go to even for students."
+    },
+    {
+     "jp": "多[おお]くの銭湯[せんとう]の壁[かべ]には、富士山[ふじさん]の大[おお]きな絵[え]がかいてあります。",
+     "en": "On the walls of many sentō, there's a big painting of Mt. Fuji."
+    },
+    {
+     "jp": "初[はじ]めて行[い]ったときは、ルールがわからなくて緊張[きんちょう]しました。",
+     "en": "The first time I went, I didn't know the rules and was nervous."
+    },
+    {
+     "jp": "湯船[ゆぶね]に入[はい]る前[まえ]に体[からだ]を洗[あら]うことや、タオルをお湯[ゆ]に入[い]れないことなどを、となりのおじいさんが教[おし]えてくれました。",
+     "en": "An old man next to me taught me things like washing your body before getting into the bath and not putting your towel in the water."
+    },
+    {
+     "jp": "それから、そのおじいさんとは銭湯[せんとう]で会[あ]うと、よく話[はな]すようになりました。",
+     "en": "After that, whenever I met him at the sentō, we'd often chat."
+    },
+    {
+     "jp": "お風呂[ふろ]から出[で]た後[あと]に飲[の]む冷[つめ]たい牛乳[ぎゅうにゅう]は、最高[さいこう]です。",
+     "en": "The cold milk you drink after getting out of the bath is the best."
+    },
+    {
+     "jp": "皆[みな]さんも、ぜひ近[ちか]くの銭湯[せんとう]に行[い]ってみてください。",
+     "en": "Please try going to a sentō near you, too."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why was there a sentō in every neighborhood in the past?",
+     "choices": [
+      "They were cheaper than a home bath",
+      "Many people had no bath at home",
+      "The government required them",
+      "People liked painting Mt. Fuji"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who taught the writer the rules?",
+     "choices": [
+      "A staff member",
+      "A friend from school",
+      "A sign on the wall",
+      "An old man next to the writer"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "Which of these is one of the rules mentioned?",
+     "choices": [
+      "Don't put your towel in the bath water",
+      "Don't talk to other people",
+      "Bring your own soap",
+      "Drink milk before bathing"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n3-01",
+   "level": "N3",
+   "title": "Blog: Mornings on Packed Trains",
+   "titleJp": "ブログ：満員[まんいん]電車[でんしゃ]の朝[あさ]",
+   "sentences": [
+    {
+     "jp": "日本[にほん]に来[き]て、もうすぐ三[さん]か月[げつ]になる。",
+     "en": "It's almost three months since I came to Japan."
+    },
+    {
+     "jp": "仕事[しごと]にもだいぶ慣[な]れてきたが、どうしても慣[な]れないのが朝[あさ]の満員[まんいん]電車[でんしゃ]だ。",
+     "en": "I've gotten fairly used to work, but the one thing I just can't get used to is the packed trains in the morning."
+    },
+    {
+     "jp": "私[わたし]が毎朝[まいあさ]乗[の]る路線[ろせん]は、八時[はちじ]前後[ぜんご]になると、ドアが閉[し]まらないほど混[こ]んでいる。",
+     "en": "The line I take every morning gets so crowded around eight that the doors barely close."
+    },
+    {
+     "jp": "初[はじ]めて乗[の]った日[ひ]は、駅員[えきいん]さんに背中[せなか]を押[お]されて、やっと中[なか]に入[はい]れた。",
+     "en": "The first day I rode it, a station attendant pushed me from behind and I finally managed to get on."
+    },
+    {
+     "jp": "驚[おどろ]いたのは、そんな状態[じょうたい]でもみんな静[しず]かに立[た]っていることだ。",
+     "en": "What surprised me was that even in those conditions, everyone stands there quietly."
+    },
+    {
+     "jp": "電話[でんわ]で話[はな]す人[ひと]はほとんどいないし、リュックを体[からだ]の前[まえ]に持[も]つ人[ひと]も多[おお]い。",
+     "en": "Hardly anyone talks on the phone, and many people hold their backpacks in front of their bodies."
+    },
+    {
+     "jp": "後[あと]で同僚[どうりょう]に聞[き]いたら、それはほかの人[ひと]の迷惑[めいわく]にならないようにするためのマナーだそうだ。",
+     "en": "When I asked a coworker about it later, they said it's etiquette so as not to bother other people."
+    },
+    {
+     "jp": "最近[さいきん]は、少[すこ]しでも楽[らく]に通勤[つうきん]するために、いくつか工夫[くふう]をしている。",
+     "en": "Lately, I've been trying a few tricks to make my commute even a little easier."
+    },
+    {
+     "jp": "まず、いつもより三十分[さんじゅっぷん]早[はや]く家[いえ]を出[で]るようにした。",
+     "en": "First, I started leaving home thirty minutes earlier than usual."
+    },
+    {
+     "jp": "七時[しちじ]半[はん]ごろの電車[でんしゃ]なら、座[すわ]れることもある。",
+     "en": "On a train around seven thirty, I can sometimes even get a seat."
+    },
+    {
+     "jp": "それから、一番[いちばん]前[まえ]の車両[しゃりょう]はほかの車両[しゃりょう]より少[すこ]しすいていることにも気[き]がついた。",
+     "en": "I also noticed that the very front car is a little less crowded than the others."
+    },
+    {
+     "jp": "会社[かいしゃ]によっては、時差[じさ]出勤[しゅっきん]やリモートワークを認[みと]めているところもあるらしい。",
+     "en": "Apparently some companies allow staggered working hours or remote work."
+    },
+    {
+     "jp": "うちの会社[かいしゃ]もそうなってくれたらいいのに、と思[おも]う毎日[まいにち]だ。",
+     "en": "Every day I find myself thinking, \"I wish my company would do that too.\""
+    }
+   ],
+   "questions": [
+    {
+     "q": "What surprised the writer most about the crowded trains?",
+     "choices": [
+      "Station staff pushing passengers",
+      "That everyone stays quiet even when packed",
+      "That the trains are always on time",
+      "That nobody carries a backpack"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "According to the coworker, why do people hold their backpacks in front?",
+     "choices": [
+      "To keep them from being stolen",
+      "Because it is a company rule",
+      "So as not to bother other passengers",
+      "So they can reach their phones easily"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What has the writer started doing?",
+     "choices": [
+      "Working from home twice a week",
+      "Taking the bus instead",
+      "Riding in the last car",
+      "Leaving home thirty minutes earlier"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n3-02",
+   "level": "N3",
+   "title": "My First Big Mistake at Work",
+   "titleJp": "職場[しょくば]での失敗[しっぱい]",
+   "sentences": [
+    {
+     "jp": "入社[にゅうしゃ]して二[に]か月[げつ]ほど経[た]ったころ、私[わたし]は大[おお]きな失敗[しっぱい]をしました。",
+     "en": "About two months after joining the company, I made a big mistake."
+    },
+    {
+     "jp": "取引先[とりひきさき]に送[おく]る資料[しりょう]を、課長[かちょう]に確認[かくにん]してもらわずに送[おく]ってしまったのです。",
+     "en": "I sent some documents to a client without having my section manager check them first."
+    },
+    {
+     "jp": "しかも、その資料[しりょう]には古[ふる]い値段[ねだん]が書[か]かれていました。",
+     "en": "On top of that, the documents had the old prices written in them."
+    },
+    {
+     "jp": "次[つぎ]の日[ひ]、取引先[とりひきさき]から電話[でんわ]があって、初[はじ]めて間違[まちが]いに気[き]がつきました。",
+     "en": "The next day the client called, and that was when I first realized my mistake."
+    },
+    {
+     "jp": "怒[おこ]られると思[おも]って、課長[かちょう]に言[い]うかどうか、しばらく迷[まよ]いました。",
+     "en": "I thought I'd get scolded, so for a while I couldn't decide whether to tell my manager."
+    },
+    {
+     "jp": "でも、隣[となり]の席[せき]の先輩[せんぱい]に相談[そうだん]すると、「早[はや]く報告[ほうこく]したほうがいいよ。時間[じかん]がたつほど、問題[もんだい]は大[おお]きくなるから」と言[い]われました。",
+     "en": "But when I talked it over with the senior colleague at the next desk, I was told, \"You should report it soon. The more time passes, the bigger the problem gets.\""
+    },
+    {
+     "jp": "勇気[ゆうき]を出[だ]して課長[かちょう]に話[はな]すと、課長[かちょう]は怒[おこ]らずに、すぐ一緒[いっしょ]に取引先[とりひきさき]へ謝[あやま]りに行[い]ってくれました。",
+     "en": "When I worked up the courage to tell my manager, instead of getting angry, my manager went with me right away to apologize to the client."
+    },
+    {
+     "jp": "帰[かえ]りの電車[でんしゃ]の中[なか]で、課長[かちょう]は「ミスは誰[だれ]にでもある。大事[だいじ]なのは、隠[かく]さないことだ」と言[い]いました。",
+     "en": "On the train back, my manager said, \"Everyone makes mistakes. What matters is not hiding them.\""
+    },
+    {
+     "jp": "日本[にほん]の会社[かいしゃ]では「報連相[ほうれんそう]」という言葉[ことば]がよく使[つか]われます。",
+     "en": "In Japanese companies, the word \"hōrensō\" is often used."
+    },
+    {
+     "jp": "報告[ほうこく]・連絡[れんらく]・相談[そうだん]の最初[さいしょ]の音[おと]を合[あ]わせた言葉[ことば]です。",
+     "en": "It's a word made by combining the first sounds of hōkoku (reporting), renraku (keeping others informed), and sōdan (consulting)."
+    },
+    {
+     "jp": "野菜[やさい]のほうれん草[そう]と同[おな]じ音[おと]なので、覚[おぼ]えやすいです。",
+     "en": "It sounds the same as the vegetable hōrensō (spinach), so it's easy to remember."
+    },
+    {
+     "jp": "あの日[ひ]から、私[わたし]は小[ちい]さなことでも、すぐに上司[じょうし]に伝[つた]えるようにしています。",
+     "en": "Since that day, I make a point of telling my boss right away, even about small things."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What was the writer's mistake?",
+     "choices": [
+      "Sending documents with old prices without having the manager check them",
+      "Forgetting an important meeting with a client",
+      "Losing documents on the train",
+      "Calling the wrong client"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How did the section manager react?",
+     "choices": [
+      "Got very angry",
+      "Told the writer to apologize alone",
+      "Went with the writer to apologize to the client",
+      "Asked the senior colleague to fix it"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What does \"hōrensō\" refer to in a Japanese workplace?",
+     "choices": [
+      "Eating vegetables at lunch",
+      "Reporting, keeping others informed, and consulting",
+      "Apologizing to clients in person",
+      "Checking prices before sending documents"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "r-n3-03",
+   "level": "N3",
+   "title": "An Email to the Management Company",
+   "titleJp": "管理会社[かんりがいしゃ]へのメール",
+   "sentences": [
+    {
+     "jp": "件名[けんめい]：お湯[ゆ]が出[で]ないことについて",
+     "en": "Subject: No hot water"
+    },
+    {
+     "jp": "さくら不動産[ふどうさん]　管理[かんり]ご担当者[たんとうしゃ]様[さま]",
+     "en": "To the person in charge of property management, Sakura Real Estate"
+    },
+    {
+     "jp": "いつもお世話[せわ]になっております。",
+     "en": "Thank you as always for your help."
+    },
+    {
+     "jp": "メゾン緑[みどり]203号室[にまるさんごうしつ]のリー・ウェイです。",
+     "en": "This is Li Wei from Room 203, Maison Midori."
+    },
+    {
+     "jp": "昨日[きのう]の夜[よる]から、台所[だいどころ]とお風呂[ふろ]でお湯[ゆ]が出[で]なくなってしまいました。",
+     "en": "Since last night, hot water has stopped coming out in the kitchen and the bathroom."
+    },
+    {
+     "jp": "給湯器[きゅうとうき]のリモコンを見[み]ると、「エラー111」と表示[ひょうじ]されています。",
+     "en": "The water heater's control panel is showing \"Error 111.\""
+    },
+    {
+     "jp": "一度[いちど]電源[でんげん]を切[き]って、もう一度[いちど]入[い]れてみましたが、直[なお]りませんでした。",
+     "en": "I tried turning the power off and on again, but it didn't fix the problem."
+    },
+    {
+     "jp": "ガス代[だい]はきちんと払[はら]っているので、料金[りょうきん]の問題[もんだい]ではないと思[おも]います。",
+     "en": "I've been paying my gas bill properly, so I don't think it's a billing issue."
+    },
+    {
+     "jp": "寒[さむ]い時期[じき]なので、できるだけ早[はや]く修理[しゅうり]をお願[ねが]いできないでしょうか。",
+     "en": "Since it's the cold season, could you possibly arrange a repair as soon as possible?"
+    },
+    {
+     "jp": "平日[へいじつ]は仕事[しごと]で夜[よる]七時[しちじ]まで家[いえ]にいませんが、今週[こんしゅう]の土曜日[どようび]と日曜日[にちようび]なら、一日中[いちにちじゅう]家[いえ]にいます。",
+     "en": "On weekdays I'm at work and not home until 7 p.m., but this Saturday and Sunday I'll be home all day."
+    },
+    {
+     "jp": "平日[へいじつ]の場合[ばあい]は、七時[しちじ]以降[いこう]でしたら対応[たいおう]できます。",
+     "en": "On weekdays, I can be available any time after seven."
+    },
+    {
+     "jp": "お忙[いそが]しいところ申[もう]し訳[わけ]ありませんが、どうぞよろしくお願[ねが]いいたします。",
+     "en": "I'm sorry to trouble you when you're busy, and thank you in advance for your help."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the problem Li Wei is writing about?",
+     "choices": [
+      "The gas bill is too high",
+      "The neighbors are noisy",
+      "The control panel is missing",
+      "There is no hot water in the kitchen or bathroom"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "What has Li Wei already tried?",
+     "choices": [
+      "Turning the power off and back on",
+      "Calling the gas company",
+      "Paying the gas bill again",
+      "Buying a new remote control"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "When can Li Wei be home for a repair on a weekday?",
+     "choices": [
+      "In the morning",
+      "At lunchtime",
+      "After 7 p.m.",
+      "Never on weekdays"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "id": "r-n3-04",
+   "level": "N3",
+   "title": "Left on the Train",
+   "titleJp": "電車[でんしゃ]の忘[わす]れ物[もの]",
+   "sentences": [
+    {
+     "jp": "先月[せんげつ]の、ある金曜日[きんようび]の夜[よる]のことだ。",
+     "en": "This happened one Friday night last month."
+    },
+    {
+     "jp": "飲[の]み会[かい]の帰[かえ]りに電車[でんしゃ]で寝[ね]てしまい、慌[あわ]てて降[お]りたら、スマホがないことに気[き]づいた。",
+     "en": "On my way home from a drinking party I fell asleep on the train, and when I rushed off, I realized my phone was gone."
+    },
+    {
+     "jp": "座席[ざせき]に置[お]いたまま、降[お]りてしまったらしい。",
+     "en": "I'd apparently gotten off and left it on the seat."
+    },
+    {
+     "jp": "電車[でんしゃ]はもう出[で]てしまっていて、頭[あたま]が真[ま]っ白[しろ]になった。",
+     "en": "The train had already left, and my mind went blank."
+    },
+    {
+     "jp": "とりあえず駅員[えきいん]さんに説明[せつめい]すると、乗[の]っていた電車[でんしゃ]の時間[じかん]と、何両目[なんりょうめ]に乗[の]っていたかを聞[き]かれた。",
+     "en": "For now, I explained the situation to a station attendant, and he asked me what time the train was and which car I'd been in."
+    },
+    {
+     "jp": "駅員[えきいん]さんはすぐに終点[しゅうてん]の駅[えき]に連絡[れんらく]してくれた。",
+     "en": "He immediately contacted the station at the end of the line for me."
+    },
+    {
+     "jp": "二十分[にじゅっぷん]ほど待[ま]っていると、「黒[くろ]いケースのスマホが見[み]つかりました」と言[い]われた。",
+     "en": "After I'd waited about twenty minutes, he told me, \"A phone in a black case has been found.\""
+    },
+    {
+     "jp": "誰[だれ]かが拾[ひろ]って、届[とど]けてくれたのだ。",
+     "en": "Someone had picked it up and turned it in."
+    },
+    {
+     "jp": "次[つぎ]の日[ひ]、終点[しゅうてん]の駅[えき]まで取[と]りに行[い]った。",
+     "en": "The next day, I went to the last station on the line to pick it up."
+    },
+    {
+     "jp": "スマホは壊[こわ]れてもいなかったし、ケースに入[い]れていた一万円[いちまんえん]もそのままだった。",
+     "en": "The phone wasn't broken, and the 10,000 yen I'd kept in the case was still there."
+    },
+    {
+     "jp": "国[くに]の友[とも]だちにこの話[はなし]をしたら、「信[しん]じられない」と驚[おどろ]いていた。",
+     "en": "When I told this story to friends back home, they were amazed and said, \"That's unbelievable.\""
+    },
+    {
+     "jp": "もちろん、日本[にほん]でも必[かなら]ず見[み]つかるわけではない。",
+     "en": "Of course, even in Japan, lost things aren't always found."
+    },
+    {
+     "jp": "それでも、あの夜[よる]、名前[なまえ]も知[し]らない誰[だれ]かに助[たす]けられたことは、ずっと忘[わす]れないと思[おも]う。",
+     "en": "Even so, I don't think I'll ever forget being helped that night by someone whose name I don't even know."
+    },
+    {
+     "jp": "それ以来[いらい]、電車[でんしゃ]を降[お]りる前[まえ]には、必[かなら]ず座席[ざせき]を振[ふ]り返[かえ]って確認[かくにん]するようにしている。",
+     "en": "Since then, before getting off a train, I always make sure to look back and check my seat."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What did the station attendant ask the writer?",
+     "choices": [
+      "The phone's password",
+      "What time the train was and which car the writer was in",
+      "The writer's home address",
+      "How much money was in the case"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What happened to the 10,000 yen in the phone case?",
+     "choices": [
+      "It had been taken",
+      "It had been given to the police",
+      "Half of it was missing",
+      "It was still there"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "Which statement matches the writer's view?",
+     "choices": [
+      "Lost items aren't always found even in Japan, but the writer is grateful",
+      "In Japan, lost items always come back",
+      "The writer's friends thought the story was normal",
+      "The writer now leaves valuables at home"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n3-05",
+   "level": "N3",
+   "title": "A Notice on the Apartment Bulletin Board",
+   "titleJp": "マンションの掲示板[けいじばん]",
+   "sentences": [
+    {
+     "jp": "居住者[きょじゅうしゃ]の皆様[みなさま]へ",
+     "en": "To all residents"
+    },
+    {
+     "jp": "排水管[はいすいかん]清掃[せいそう]のお知[し]らせ",
+     "en": "Notice of drain pipe cleaning"
+    },
+    {
+     "jp": "次[つぎ]の日[ひ]に、すべての部屋[へや]の排水管[はいすいかん]の清掃[せいそう]を行[おこな]います。",
+     "en": "The drain pipes in all units will be cleaned on the following date."
+    },
+    {
+     "jp": "日時[にちじ]は十一月[じゅういちがつ]十一日[じゅういちにち]（水[すい]）、午前[ごぜん]十時[じゅうじ]から午後[ごご]四時[よじ]までです。",
+     "en": "The date and time is Wednesday, November 11, from 10 a.m. to 4 p.m."
+    },
+    {
+     "jp": "作業[さぎょう]は一部屋[ひとへや]十五分[じゅうごふん]ほどで、台所[だいどころ]、お風呂[ふろ]、洗面所[せんめんじょ]、洗濯機[せんたくき]の排水口[はいすいこう]を掃除[そうじ]します。",
+     "en": "The work takes about fifteen minutes per unit, and the drains in the kitchen, bathroom, washroom, and washing machine area will be cleaned."
+    },
+    {
+     "jp": "作業員[さぎょういん]が部屋[へや]の中[なか]に入[はい]りますので、当日[とうじつ]はご在宅[ざいたく]をお願[ねが]いします。",
+     "en": "Workers will need to enter your unit, so please be at home on the day."
+    },
+    {
+     "jp": "当日[とうじつ]ご都合[つごう]が悪[わる]い方[かた]は、十一月[じゅういちがつ]五日[いつか]までに管理[かんり]事務所[じむしょ]までご連絡[れんらく]ください。",
+     "en": "If that day is not convenient for you, please contact the management office by November 5."
+    },
+    {
+     "jp": "予備日[よびび]は十一月[じゅういちがつ]十八日[じゅうはちにち]（水[すい]）です。",
+     "en": "The backup date is Wednesday, November 18."
+    },
+    {
+     "jp": "作業[さぎょう]の前[まえ]に、流[なが]し台[だい]の下[した]や洗濯機[せんたくき]の周[まわ]りに置[お]いてある物[もの]を片付[かたづ]けておいてください。",
+     "en": "Before the work, please clear away anything kept under the sink or around the washing machine."
+    },
+    {
+     "jp": "もう一[ひと]つお願[ねが]いがあります。",
+     "en": "We have one more request."
+    },
+    {
+     "jp": "最近[さいきん]、自転車[じてんしゃ]置[お]き場[ば]に、長[なが]い間[あいだ]使[つか]われていない自転車[じてんしゃ]が増[ふ]えています。",
+     "en": "Recently, the number of bicycles that haven't been used for a long time has been increasing in the bicycle parking area."
+    },
+    {
+     "jp": "十一月[じゅういちがつ]末[まつ]までに、ご自分[じぶん]の自転車[じてんしゃ]に部屋[へや]番号[ばんごう]のシールが貼[は]ってあるか、確認[かくにん]してください。",
+     "en": "By the end of November, please check that your bicycle has a sticker with your unit number on it."
+    },
+    {
+     "jp": "シールのない自転車[じてんしゃ]は、十二月[じゅうにがつ]に処分[しょぶん]しますので、ご注意[ちゅうい]ください。",
+     "en": "Please note that bicycles without a sticker will be disposed of in December."
+    },
+    {
+     "jp": "ご協力[きょうりょく]をお願[ねが]いいたします。管理[かんり]事務所[じむしょ]",
+     "en": "Thank you for your cooperation. — The Management Office"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What should residents do if they can't be home on November 11?",
+     "choices": [
+      "Leave their key with a neighbor",
+      "Contact the management office by November 5",
+      "Clean the drains themselves",
+      "Nothing; the workers will come on the 18th anyway"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What are residents asked to do before the cleaning?",
+     "choices": [
+      "Turn off the water",
+      "Buy drain cleaner",
+      "Clear items from under the sink and around the washing machine",
+      "Move their bicycles"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What will happen to bicycles without a unit-number sticker?",
+     "choices": [
+      "They will be disposed of in December",
+      "They will be moved to another parking area",
+      "Their owners will be fined",
+      "Stickers will be put on them by the office"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n3-06",
+   "level": "N3",
+   "title": "City to Start Japanese Classes for Foreign Residents",
+   "titleJp": "外国人[がいこくじん]住民[じゅうみん]のための日本語[にほんご]教室[きょうしつ]",
+   "sentences": [
+    {
+     "jp": "みどり市[し]は、来月[らいげつ]から、市内[しない]に住[す]む外国人[がいこくじん]のための無料[むりょう]の日本語[にほんご]教室[きょうしつ]を始[はじ]めると発表[はっぴょう]した。",
+     "en": "Midori City has announced that starting next month, it will begin free Japanese classes for foreign nationals living in the city."
+    },
+    {
+     "jp": "市[し]によると、この五年[ごねん]で市内[しない]の外国人[がいこくじん]住民[じゅうみん]は約[やく]二倍[にばい]に増[ふ]えたという。",
+     "en": "According to the city, the number of foreign residents in the city has roughly doubled over the past five years."
+    },
+    {
+     "jp": "その多[おお]くは、近[ちか]くの工場[こうじょう]や介護[かいご]施設[しせつ]で働[はたら]く人[ひと]たちだ。",
+     "en": "Many of them work at nearby factories or care facilities."
+    },
+    {
+     "jp": "市[し]が去年[きょねん]行[おこな]ったアンケートでは、「病院[びょういん]や役所[やくしょ]で言葉[ことば]がわからなくて困[こま]った」という答[こた]えが最[もっと]も多[おお]かった。",
+     "en": "In a survey the city conducted last year, the most common answer was \"I had trouble because I couldn't understand the language at the hospital or at government offices.\""
+    },
+    {
+     "jp": "そこで市[し]は、生活[せいかつ]に必要[ひつよう]な日本語[にほんご]を学[まな]べる場所[ばしょ]を作[つく]ることにした。",
+     "en": "So the city decided to create a place where people can learn the Japanese they need for daily life."
+    },
+    {
+     "jp": "教室[きょうしつ]は毎週[まいしゅう]水曜日[すいようび]と土曜日[どようび]の夜[よる]に、駅前[えきまえ]の公民館[こうみんかん]で開[ひら]かれる。",
+     "en": "The classes will be held every Wednesday and Saturday evening at the community center in front of the station."
+    },
+    {
+     "jp": "授業[じゅぎょう]では、ごみの出[だ]し方[かた]や病院[びょういん]での話[はな]し方[かた]など、実際[じっさい]の場面[ばめん]を使[つか]って練習[れんしゅう]する予定[よてい]だ。",
+     "en": "In the lessons, students are expected to practice with real-life situations, such as how to put out the garbage and how to talk at a hospital."
+    },
+    {
+     "jp": "先生[せんせい]は、研修[けんしゅう]を受[う]けた地域[ちいき]のボランティアが担当[たんとう]する。",
+     "en": "The teaching will be done by local volunteers who have received training."
+    },
+    {
+     "jp": "また、子[こ]ども連[づ]れでも参加[さんか]できるように、教室[きょうしつ]の隣[となり]に子[こ]どもが遊[あそ]べる部屋[へや]も用意[ようい]される。",
+     "en": "Also, so that people with children can take part, a room where children can play will be set up next to the classroom."
+    },
+    {
+     "jp": "市[し]の担当者[たんとうしゃ]は「言葉[ことば]を学[まな]ぶだけでなく、地域[ちいき]の人[ひと]と知[し]り合[あ]うきっかけにもしてほしい」と話[はな]している。",
+     "en": "The city official in charge said, \"We hope it will be not just a place to learn the language, but also a chance to get to know people in the community.\""
+    },
+    {
+     "jp": "申[もう]し込[こ]みは、市[し]のホームページか市役所[しやくしょ]の窓口[まどぐち]でできる。",
+     "en": "Applications can be made on the city's website or at the counter at City Hall."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why did the city decide to start the classes?",
+     "choices": [
+      "Local companies asked for them",
+      "In a survey, many residents said they struggled with the language at hospitals and offices",
+      "The national government ordered it",
+      "Volunteers wanted a place to teach"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Who will teach the classes?",
+     "choices": [
+      "Professional Japanese teachers",
+      "City Hall staff",
+      "University students",
+      "Trained local volunteers"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "What is provided for participants who have children?",
+     "choices": [
+      "A play room next to the classroom",
+      "A separate class for children",
+      "Free online lessons at home",
+      "Transportation to the community center"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n3-07",
+   "level": "N3",
+   "title": "The Crane Who Returned a Kindness",
+   "titleJp": "鶴[つる]の恩返[おんがえ]し",
+   "sentences": [
+    {
+     "jp": "昔[むかし]、雪[ゆき]の深[ふか]いある村[むら]に、貧[まず]しいおじいさんとおばあさんが住[す]んでいた。",
+     "en": "Long ago, in a village deep in snow, there lived a poor old man and old woman."
+    },
+    {
+     "jp": "ある冬[ふゆ]の日[ひ]、町[まち]へ買[か]い物[もの]に行[い]った帰[かえ]り道[みち]で、おじいさんはわなにかかった一羽[いちわ]の鶴[つる]を見[み]つけた。",
+     "en": "One winter day, on his way home from shopping in town, the old man found a crane caught in a trap."
+    },
+    {
+     "jp": "かわいそうに思[おも]ったおじいさんは、わなを外[はず]して、鶴[つる]を逃[に]がしてやった。",
+     "en": "Feeling sorry for it, the old man removed the trap and let the crane go."
+    },
+    {
+     "jp": "その夜[よる]、二人[ふたり]の家[いえ]に、美[うつく]しい若[わか]い娘[むすめ]が訪[たず]ねてきた。",
+     "en": "That night, a beautiful young woman came to the couple's house."
+    },
+    {
+     "jp": "「雪[ゆき]で道[みち]がわからなくなりました。今夜[こんや]、泊[と]めていただけませんか。」",
+     "en": "\"I lost my way in the snow. Could you let me stay the night?\""
+    },
+    {
+     "jp": "二人[ふたり]は喜[よろこ]んで娘[むすめ]を迎[むか]え、娘[むすめ]はそのまま二人[ふたり]と一緒[いっしょ]に暮[く]らすようになった。",
+     "en": "The couple gladly welcomed her in, and she ended up staying on and living with them."
+    },
+    {
+     "jp": "ある日[ひ]、娘[むすめ]は「布[ぬの]を織[お]りたいので、部屋[へや]を貸[か]してください。でも、決[けっ]して中[なか]をのぞかないでください」と言[い]った。",
+     "en": "One day the young woman said, \"I'd like to weave some cloth, so please lend me a room. But you must never look inside.\""
+    },
+    {
+     "jp": "三日後[みっかご]、娘[むすめ]が部屋[へや]から出[で]てくると、その手[て]には見[み]たこともないほど美[うつく]しい布[ぬの]があった。",
+     "en": "Three days later, when she came out of the room, she was holding cloth more beautiful than anything they had ever seen."
+    },
+    {
+     "jp": "おじいさんがその布[ぬの]を町[まち]で売[う]ると、とても高[たか]い値段[ねだん]で売[う]れた。",
+     "en": "When the old man sold the cloth in town, it fetched a very high price."
+    },
+    {
+     "jp": "娘[むすめ]は何度[なんど]も布[ぬの]を織[お]ったが、そのたびに少[すこ]しずつやせていった。",
+     "en": "She wove cloth again and again, but each time she grew a little thinner."
+    },
+    {
+     "jp": "心配[しんぱい]になったおばあさんは、約束[やくそく]を破[やぶ]って、とうとう部屋[へや]の中[なか]をのぞいてしまった。",
+     "en": "The old woman grew worried, and finally she broke the promise and peeked into the room."
+    },
+    {
+     "jp": "そこにいたのは娘[むすめ]ではなく、自分[じぶん]の羽[はね]を抜[ぬ]いて布[ぬの]を織[お]る一羽[いちわ]の鶴[つる]だった。",
+     "en": "What was there was not the young woman, but a crane, plucking out its own feathers to weave the cloth."
+    },
+    {
+     "jp": "「私[わたし]はあの時[とき]助[たす]けていただいた鶴[つる]です。姿[すがた]を見[み]られてしまったので、もうここにはいられません。」",
+     "en": "\"I am the crane you saved that day. Now that you have seen my true form, I can no longer stay here.\""
+    },
+    {
+     "jp": "鶴[つる]はそう言[い]うと空[そら]へ飛[と]んでいき、二度[にど]と戻[もど]ってこなかった。",
+     "en": "With those words, the crane flew off into the sky and never came back."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What did the young woman ask the couple when she started weaving?",
+     "choices": [
+      "To sell the cloth for a high price",
+      "To buy thread in town",
+      "Never to look inside the room",
+      "To let her go home after three days"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Why did the young woman grow thinner?",
+     "choices": [
+      "She was using her own feathers to weave",
+      "She was sick from the cold",
+      "The family had no food",
+      "She worked in town at night"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Why did the crane leave?",
+     "choices": [
+      "The old couple became rich",
+      "Spring came and it had to fly north",
+      "The old man sold all the cloth",
+      "Its true form had been seen"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n3-08",
+   "level": "N3",
+   "title": "Souvenirs at the Office",
+   "titleJp": "職場[しょくば]のお土産[みやげ]",
+   "sentences": [
+    {
+     "jp": "日本[にほん]で働[はたら]き始[はじ]めると、休[やす]みの後[あと]に同僚[どうりょう]がお菓子[かし]を配[くば]っているのを見[み]ることがあるでしょう。",
+     "en": "Once you start working in Japan, you'll probably see coworkers handing out sweets after a holiday."
+    },
+    {
+     "jp": "これは「お土産[みやげ]」と呼[よ]ばれる習慣[しゅうかん]です。",
+     "en": "This is a custom called omiyage."
+    },
+    {
+     "jp": "旅行[りょこう]や帰省[きせい]で会社[かいしゃ]を休[やす]んだ人[ひと]は、その土地[とち]のお菓子[かし]などを買[か]ってきて、職場[しょくば]の人[ひと]に配[くば]ります。",
+     "en": "People who took time off for a trip or a visit to their hometown buy sweets or other things from that area and hand them out to the people at work."
+    },
+    {
+     "jp": "お土産[みやげ]を配[くば]るのは、「休[やす]んでいる間[あいだ]、仕事[しごと]を代[か]わってくれてありがとう」という気持[きも]ちを伝[つた]えるためです。",
+     "en": "The reason for handing out omiyage is to express the feeling of \"Thank you for covering my work while I was away.\""
+    },
+    {
+     "jp": "そのため、高[たか]い物[もの]である必要[ひつよう]はありません。",
+     "en": "For that reason, it doesn't need to be anything expensive."
+    },
+    {
+     "jp": "大切[たいせつ]なのは、みんなに配[くば]りやすいことです。",
+     "en": "What matters is that it's easy to share with everyone."
+    },
+    {
+     "jp": "例[たと]えば、一[ひと]つずつ袋[ふくろ]に入[はい]っているクッキーやおせんべいなどがよく選[えら]ばれます。",
+     "en": "For example, individually wrapped cookies or rice crackers are popular choices."
+    },
+    {
+     "jp": "人数[にんずう]より少[すこ]し多[おお]めに買[か]っておくと、足[た]りなくなる心配[しんぱい]がありません。",
+     "en": "If you buy a few more than the number of people, you won't have to worry about running out."
+    },
+    {
+     "jp": "空港[くうこう]や駅[えき]には、その地方[ちほう]でしか買[か]えないお菓子[かし]がたくさん売[う]られています。",
+     "en": "Airports and stations sell lots of sweets that you can only buy in that region."
+    },
+    {
+     "jp": "渡[わた]すときは、「少[すこ]しですが、皆[みな]さんでどうぞ」などと一言[ひとこと]言[い]うといいでしょう。",
+     "en": "When you hand them out, it's good to add a few words, such as \"It's just a little something, but please help yourselves.\""
+    },
+    {
+     "jp": "最近[さいきん]は、お土産[みやげ]をやめる職場[しょくば]も少[すこ]しずつ増[ふ]えているようです。",
+     "en": "These days, it seems the number of workplaces that have stopped doing omiyage is gradually increasing."
+    },
+    {
+     "jp": "迷[まよ]ったときは、まず周[まわ]りの人[ひと]がどうしているか、よく見[み]てみるのが一番[いちばん]です。",
+     "en": "When you're not sure, the best thing is to first watch carefully what the people around you do."
+    },
+    {
+     "jp": "海外[かいがい]から来[き]た人[ひと]なら、自分[じぶん]の国[くに]のお菓子[かし]を持[も]っていくと、話[はなし]のきっかけにもなって喜[よろこ]ばれるはずです。",
+     "en": "If you're from overseas, bringing sweets from your own country will likely be appreciated, and it can also be a good conversation starter."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the main feeling behind giving omiyage at work?",
+     "choices": [
+      "Showing coworkers where you traveled",
+      "Thanks to coworkers for covering your work while you were away",
+      "Following an order from the boss",
+      "Apologizing for a mistake"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What kind of omiyage does the passage recommend?",
+     "choices": [
+      "Something expensive for the boss",
+      "One large cake for the whole office",
+      "Exactly one item per person",
+      "Individually wrapped snacks that are easy to share"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "What advice does the passage give if you're unsure what to do?",
+     "choices": [
+      "Watch what the people around you do",
+      "Ask the human resources department",
+      "Don't bring anything",
+      "Bring something from the airport"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n2-01",
+   "level": "N2",
+   "title": "Column: Do Convenience Stores Need to Be Open 24 Hours?",
+   "titleJp": "コンビニは二十四時間[にじゅうよじかん]開[あ]いているべきか",
+   "sentences": [
+    {
+     "jp": "深夜[しんや]でも明[あ]かりのついたコンビニがある――それは日本[にほん]の都市[とし]では当[あ]たり前[まえ]の風景[ふうけい]になっている。",
+     "en": "A convenience store with its lights on even late at night: in Japanese cities, that has become an everyday sight."
+    },
+    {
+     "jp": "夜中[よなか]に急[きゅう]に必要[ひつよう]になった飲[の]み物[もの]や電池[でんち]を買[か]えるのはもちろん、ATMで現金[げんきん]を下[お]ろしたり、荷物[にもつ]を受[う]け取[と]ったりすることもできる。",
+     "en": "Not only can you buy drinks or batteries you suddenly need in the middle of the night, you can also withdraw cash from an ATM or pick up packages."
+    },
+    {
+     "jp": "一人暮[ひとりぐ]らしの人[ひと]が多[おお]い現代[げんだい]において、コンビニはもはや単[たん]なる店[みせ]ではなく、生活[せいかつ]の基盤[きばん]の一[ひと]つと言[い]えるだろう。",
+     "en": "In an age when many people live alone, the convenience store is no longer just a shop; it could be called one of the foundations of daily life."
+    },
+    {
+     "jp": "しかし、その便利[べんり]さの裏[うら]で、無理[むり]をしている人[ひと]たちがいることを忘[わす]れてはならない。",
+     "en": "However, we must not forget that behind that convenience, there are people pushing themselves too hard."
+    },
+    {
+     "jp": "人手[ひとで]不足[ぶそく]が深刻化[しんこくか]する中[なか]、深夜[しんや]のシフトを埋[う]められず、オーナー自身[じしん]が何日[なんにち]も続[つづ]けて夜[よる]に働[はたら]くケースも少[すく]なくないという。",
+     "en": "As the labor shortage grows more serious, it is said that there are quite a few cases where late-night shifts can't be filled and owners themselves end up working nights for many days in a row."
+    },
+    {
+     "jp": "以前[いぜん]には、こうした状況[じょうきょう]に耐[た]えきれなくなったオーナーが本部[ほんぶ]の許可[きょか]なく営業[えいぎょう]時間[じかん]を短縮[たんしゅく]し、大[おお]きなニュースになったこともあった。",
+     "en": "There was once a case where an owner who could no longer bear these conditions shortened the store's hours without the head office's permission, and it became big news."
+    },
+    {
+     "jp": "これをきっかけに、一部[いちぶ]の店舗[てんぽ]では深夜[しんや]営業[えいぎょう]をやめる試[こころ]みも始[はじ]まっている。",
+     "en": "Triggered by this, some stores have started experimenting with stopping late-night business."
+    },
+    {
+     "jp": "私[わたし]は、すべてのコンビニが二十四時間[にじゅうよじかん]開[あ]いている必要[ひつよう]はないと考[かんが]える。",
+     "en": "I believe that not every convenience store needs to be open 24 hours."
+    },
+    {
+     "jp": "もちろん、夜間[やかん]に働[はたら]く人[ひと]にとっての利便性[りべんせい]や、災害時[さいがいじ]の拠点[きょてん]としての役割[やくわり]を考[かんが]えれば、深夜[しんや]営業[えいぎょう]の価値[かち]は否定[ひてい]できない。",
+     "en": "Of course, considering the convenience for people who work at night and their role as hubs during disasters, the value of late-night business can't be denied."
+    },
+    {
+     "jp": "だが、駅前[えきまえ]や病院[びょういん]の近[ちか]くなど、本当[ほんとう]に需要[じゅよう]のある場所[ばしょ]に限[かぎ]って深夜[しんや]営業[えいぎょう]を続[つづ]け、それ以外[いがい]の店[みせ]は地域[ちいき]の実情[じつじょう]に合[あ]わせて柔軟[じゅうなん]に決[き]めればよいのではないか。",
+     "en": "But wouldn't it be fine to continue late-night business only in places where there is real demand, such as in front of stations or near hospitals, and let other stores decide flexibly according to local circumstances?"
+    },
+    {
+     "jp": "消費者[しょうひしゃ]の側[がわ]にも、意識[いしき]の変化[へんか]が求[もと]められている。",
+     "en": "A change in attitude is also needed on the part of consumers."
+    },
+    {
+     "jp": "「いつでも開[あ]いていて当然[とうぜん]」という感覚[かんかく]は、誰[だれ]かの犠牲[ぎせい]の上[うえ]に成[な]り立[た]っているのかもしれない。",
+     "en": "The feeling that \"of course it's open any time\" may be built on someone's sacrifice."
+    },
+    {
+     "jp": "少[すこ]し不便[ふべん]になることを受[う]け入[い]れられるかどうか。",
+     "en": "Can we accept things becoming a little less convenient?"
+    },
+    {
+     "jp": "それは、働[はたら]く人[ひと]を大切[たいせつ]にする社会[しゃかい]を目指[めざ]せるかどうかという問[と]いでもある。",
+     "en": "That is also the question of whether we can aim for a society that values the people who work."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the writer's position?",
+     "choices": [
+      "All convenience stores should close at night",
+      "Not every store needs to be open 24 hours; keep late-night hours where there is real demand",
+      "Every store must stay open 24 hours for disaster preparedness",
+      "The government should decide each store's hours"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Which problem behind 24-hour service does the writer point to?",
+     "choices": [
+      "Rising crime at night",
+      "High electricity costs",
+      "Owners working many nights in a row because night shifts can't be filled",
+      "Customers complaining about prices"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What does the writer ask of consumers?",
+     "choices": [
+      "To shop online instead",
+      "To complain to the head office",
+      "To shop more often at night",
+      "To be willing to accept a little inconvenience"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n2-02",
+   "level": "N2",
+   "title": "Town Turns Vacant Houses into Homes for Newcomers",
+   "titleJp": "空[あ]き家[や]を活用[かつよう]した移住[いじゅう]支援[しえん]",
+   "sentences": [
+    {
+     "jp": "人口[じんこう]減少[げんしょう]が続[つづ]く北川町[きたがわちょう]で、空[あ]き家[や]を改修[かいしゅう]し、町外[ちょうがい]からの移住者[いじゅうしゃ]に格安[かくやす]で貸[か]し出[だ]す取[と]り組[く]みが注目[ちゅうもく]を集[あつ]めている。",
+     "en": "In Kitagawa, a town whose population continues to decline, an initiative to renovate vacant houses and rent them cheaply to people moving in from outside the town is attracting attention."
+    },
+    {
+     "jp": "町[ちょう]によると、町内[ちょうない]にはおよそ三百[さんびゃく]軒[けん]の空[あ]き家[や]があり、その数[かず]はこの十年[じゅうねん]で百[ひゃく]軒[けん]以上[いじょう]増[ふ]えた。",
+     "en": "According to the town, there are about 300 vacant houses within its limits, an increase of more than 100 over the past ten years."
+    },
+    {
+     "jp": "放置[ほうち]された空[あ]き家[や]は、倒壊[とうかい]や火災[かさい]の危険[きけん]があるだけでなく、景観[けいかん]の悪化[あっか]にもつながるため、長年[ながねん]町[ちょう]の課題[かだい]となってきた。",
+     "en": "Abandoned vacant houses not only pose a risk of collapse and fire but also spoil the townscape, so they have long been a problem for the town."
+    },
+    {
+     "jp": "そこで町[ちょう]は二年前[にねんまえ]から、所有者[しょゆうしゃ]の同意[どうい]を得[え]た物件[ぶっけん]を町[ちょう]の費用[ひよう]で改修[かいしゅう]し、月[つき]二万円[にまんえん]程度[ていど]の家賃[やちん]で貸[か]し出[だ]している。",
+     "en": "So, since two years ago, the town has been renovating properties at its own expense, with the owners' consent, and renting them out for about 20,000 yen a month."
+    },
+    {
+     "jp": "入居[にゅうきょ]の条件[じょうけん]は、四十歳[よんじゅっさい]未満[みまん]であることと、町内[ちょうない]で三年[さんねん]以上[いじょう]暮[く]らすことだ。",
+     "en": "The conditions for moving in are being under 40 and living in the town for at least three years."
+    },
+    {
+     "jp": "これまでに十二[じゅうに]世帯[せたい]が入居[にゅうきょ]し、そのうち三[さん]世帯[せたい]は外国[がいこく]出身[しゅっしん]だという。",
+     "en": "So far, twelve households have moved in, three of which are reportedly from overseas."
+    },
+    {
+     "jp": "東京[とうきょう]のIT企業[きぎょう]に勤[つと]めながら、リモートで働[はたら]いている人[ひと]も多[おお]い。",
+     "en": "Many of them work remotely while employed by IT companies in Tokyo."
+    },
+    {
+     "jp": "昨年[さくねん]、妻[つま]と二人[ふたり]の子[こ]どもと共[とも]に横浜[よこはま]から移[うつ]り住[す]んだ会社員[かいしゃいん]の男性[だんせい]（三十五[さんじゅうご]）は、「家賃[やちん]が下[さ]がった分[ぶん]、生活[せいかつ]にゆとりができた」と話[はな]す。",
+     "en": "A 35-year-old office worker who moved from Yokohama last year with his wife and two children says, \"Because our rent went down, we have more breathing room in our lives.\""
+    },
+    {
+     "jp": "一方[いっぽう]で、課題[かだい]も見[み]えてきた。",
+     "en": "On the other hand, some problems have also come to light."
+    },
+    {
+     "jp": "車[くるま]がなければ買[か]い物[もの]や通院[つういん]が難[むずか]しく、冬[ふゆ]の雪[ゆき]かきに苦労[くろう]する移住者[いじゅうしゃ]も少[すく]なくない。",
+     "en": "Without a car, shopping and getting to the hospital are difficult, and quite a few newcomers struggle with shoveling snow in winter."
+    },
+    {
+     "jp": "また、自治会[じちかい]の行事[ぎょうじ]や草刈[くさか]りなど、都会[とかい]にはない地域[ちいき]の付[つ]き合[あ]いに戸惑[とまど]う声[こえ]も聞[き]かれる。",
+     "en": "Some people also say they are puzzled by local community obligations that don't exist in the city, such as neighborhood association events and grass cutting."
+    },
+    {
+     "jp": "町[ちょう]はこうした声[こえ]を受[う]け、今年度[こんねんど]から、先輩[せんぱい]移住者[いじゅうしゃ]が新[あたら]しい住民[じゅうみん]の相談[そうだん]に乗[の]る制度[せいど]を設[もう]けた。",
+     "en": "In response to these voices, the town set up a system this fiscal year in which experienced newcomers give advice to new residents."
+    },
+    {
+     "jp": "町[ちょう]の担当者[たんとうしゃ]は「家[いえ]を貸[か]すだけで終[お]わりではない。地域[ちいき]に溶[と]け込[こ]めるよう、長[なが]い目[め]で支[ささ]えていきたい」と話[はな]している。",
+     "en": "The official in charge said, \"Renting out a house isn't the end of it. We want to support people over the long term so they can fit into the community.\""
+    }
+   ],
+   "questions": [
+    {
+     "q": "What are the conditions for moving into one of the renovated houses?",
+     "choices": [
+      "Being married with children",
+      "Being under 40 and living in the town for at least three years",
+      "Working for a company in the town",
+      "Owning a car"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What change did the man from Yokohama describe?",
+     "choices": [
+      "His commute became shorter",
+      "He found a new job in the town",
+      "Lower rent gave his family more breathing room",
+      "His children made many friends"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What has the town introduced this fiscal year?",
+     "choices": [
+      "A system where experienced newcomers advise new residents",
+      "Free cars for new residents",
+      "A snow-removal service",
+      "A new bus line to the hospital"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n2-03",
+   "level": "N2",
+   "title": "Business Email: Request to Change a Delivery Date",
+   "titleJp": "納期[のうき]変更[へんこう]のお願[ねが]い",
+   "sentences": [
+    {
+     "jp": "山田[やまだ]商事[しょうじ]株式会社[かぶしきがいしゃ]　営業部[えいぎょうぶ]　佐藤[さとう]様[さま]",
+     "en": "To Mr./Ms. Sato, Sales Department, Yamada Shoji Co., Ltd."
+    },
+    {
+     "jp": "いつも大変[たいへん]お世話[せわ]になっております。",
+     "en": "Thank you very much, as always, for your continued support."
+    },
+    {
+     "jp": "株式会社[かぶしきがいしゃ]ミナトテックの林[はやし]でございます。",
+     "en": "This is Hayashi from Minato Tech Inc."
+    },
+    {
+     "jp": "先日[せんじつ]ご注文[ちゅうもん]いただきました業務用[ぎょうむよう]プリンター二十台[にじゅうだい]の納期[のうき]につきまして、ご相談[そうだん]があり、ご連絡[れんらく]いたしました。",
+     "en": "I am writing to consult with you regarding the delivery date of the twenty commercial printers you recently ordered."
+    },
+    {
+     "jp": "当初[とうしょ]、十一月[じゅういちがつ]二十日[はつか]の納品[のうひん]をお約束[やくそく]しておりましたが、部品[ぶひん]の供給元[きょうきゅうもと]である海外[かいがい]工場[こうじょう]の生産[せいさん]遅延[ちえん]により、予定[よてい]どおりの納品[のうひん]が難[むずか]しい状況[じょうきょう]となりました。",
+     "en": "We originally promised delivery on November 20, but due to a production delay at the overseas factory that supplies the parts, it has become difficult to deliver as scheduled."
+    },
+    {
+     "jp": "ご迷惑[めいわく]をおかけし、誠[まこと]に申[もう]し訳[わけ]ございません。",
+     "en": "We sincerely apologize for the inconvenience."
+    },
+    {
+     "jp": "つきましては、以下[いか]の二[ふた]つの案[あん]をご提案[ていあん]させていただきたく存[ぞん]じます。",
+     "en": "We would therefore like to propose the following two options."
+    },
+    {
+     "jp": "一[ひと]つ目[め]は、二十台[にじゅうだい]すべてを十二月[じゅうにがつ]四日[よっか]にまとめて納品[のうひん]する案[あん]です。",
+     "en": "The first is to deliver all twenty units together on December 4."
+    },
+    {
+     "jp": "二[ふた]つ目[め]は、在庫[ざいこ]のある八台[はちだい]を予定[よてい]どおり十一月[じゅういちがつ]二十日[はつか]に先行[せんこう]して納品[のうひん]し、残[のこ]りの十二台[じゅうにだい]を十二月[じゅうにがつ]四日[よっか]にお届[とど]けする案[あん]です。",
+     "en": "The second is to deliver the eight units we have in stock ahead of time on November 20 as scheduled, and deliver the remaining twelve on December 4."
+    },
+    {
+     "jp": "なお、二[ふた]つ目[め]の案[あん]の場合[ばあい]でも、追加[ついか]の送料[そうりょう]は弊社[へいしゃ]にて負担[ふたん]いたします。",
+     "en": "Please note that even with the second option, our company will cover the additional shipping costs."
+    },
+    {
+     "jp": "大変[たいへん]恐縮[きょうしゅく]ではございますが、どちらの案[あん]がよろしいか、今週[こんしゅう]金曜日[きんようび]までにご返信[へんしん]いただけますと幸[さいわ]いです。",
+     "en": "We are very sorry to trouble you, but we would be grateful if you could reply by this Friday to let us know which option you prefer."
+    },
+    {
+     "jp": "また、ご不明[ふめい]な点[てん]やほかにご希望[きぼう]がございましたら、お気軽[きがる]にお申[もう]し付[つ]けください。",
+     "en": "Also, if you have any questions or other requests, please do not hesitate to let us know."
+    },
+    {
+     "jp": "今後[こんご]このようなことがないよう、部品[ぶひん]の調達[ちょうたつ]体制[たいせい]を見直[みなお]してまいります。",
+     "en": "We will review our parts procurement system to make sure this does not happen again."
+    },
+    {
+     "jp": "何卒[なにとぞ]よろしくお願[ねが]い申[もう]し上[あ]げます。",
+     "en": "Thank you very much for your understanding."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why can't the printers be delivered on schedule?",
+     "choices": [
+      "The order was entered incorrectly",
+      "A shipping company went on strike",
+      "Production was delayed at the overseas factory that supplies parts",
+      "Bad weather stopped deliveries"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Under the second option, how many printers would arrive on November 20?",
+     "choices": [
+      "Twelve",
+      "Twenty",
+      "None",
+      "Eight"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "Who would pay the extra shipping cost under the second option?",
+     "choices": [
+      "Minato Tech",
+      "Yamada Shoji",
+      "The two companies would split it",
+      "The overseas factory"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n2-04",
+   "level": "N2",
+   "title": "Essay: On Leaving Work on Time",
+   "titleJp": "定時[ていじ]で帰[かえ]るということ",
+   "sentences": [
+    {
+     "jp": "母国[ぼこく]から日本[にほん]の会社[かいしゃ]に転職[てんしょく]して、最初[さいしょ]に戸惑[とまど]ったのは「帰[かえ]りにくさ」だった。",
+     "en": "When I moved from my home country to a job at a Japanese company, the first thing that threw me was how hard it was to leave."
+    },
+    {
+     "jp": "仕事[しごと]が終[お]わっていても、上司[じょうし]や先輩[せんぱい]がまだ席[せき]にいると、なんとなく先[さき]に帰[かえ]るのがためらわれる。",
+     "en": "Even when my work is finished, if my boss or senior colleagues are still at their desks, I somehow feel hesitant to leave before them."
+    },
+    {
+     "jp": "前[まえ]の職場[しょくば]では、決[き]められた時間[じかん]内[ない]に成果[せいか]を出[だ]して帰[かえ]る人[ひと]こそ評価[ひょうか]されていたので、この雰囲気[ふんいき]は意外[いがい]だった。",
+     "en": "At my previous workplace, it was precisely the people who got results within the set hours and went home who were valued, so this atmosphere surprised me."
+    },
+    {
+     "jp": "同僚[どうりょう]に理由[りゆう]を尋[たず]ねると、「チームで仕事[しごと]をしているんだから、自分[じぶん]だけ先[さき]に帰[かえ]るのは申[もう]し訳[わけ]ない気[き]がする」という答[こた]えが返[かえ]ってきた。",
+     "en": "When I asked a coworker why, the answer I got was, \"We work as a team, so I feel bad about being the only one to leave first.\""
+    },
+    {
+     "jp": "なるほど、長時間[ちょうじかん]労働[ろうどう]の背景[はいけい]には、怠[なま]けているように見[み]られたくないという心理[しんり]だけでなく、仲間[なかま]への気遣[きづか]いもあるのだろう。",
+     "en": "I see. Behind the long working hours, there is probably not only the wish not to look lazy, but also consideration for one's colleagues."
+    },
+    {
+     "jp": "とはいえ、その気遣[きづか]いが結果[けっか]として全員[ぜんいん]の帰宅[きたく]を遅[おく]らせているとしたら、本末[ほんまつ]転倒[てんとう]ではないだろうか。",
+     "en": "Even so, if that consideration ends up delaying everyone's return home, isn't that putting the cart before the horse?"
+    },
+    {
+     "jp": "近年[きんねん]は、法律[ほうりつ]で残業[ざんぎょう]時間[じかん]に上限[じょうげん]が設[もう]けられ、働[はたら]き方[かた]を見直[みなお]す企業[きぎょう]も増[ふ]えてきた。",
+     "en": "In recent years, the law has set an upper limit on overtime, and more companies have been rethinking how people work."
+    },
+    {
+     "jp": "私[わたし]の部署[ぶしょ]でも、去年[きょねん]から毎週[まいしゅう]水曜日[すいようび]を「ノー残業[ざんぎょう]デー」とし、部長[ぶちょう]自[みずか]ら六時[ろくじ]に退社[たいしゃ]するようになった。",
+     "en": "In my department too, since last year every Wednesday has been a \"no-overtime day,\" and the department head personally leaves at six."
+    },
+    {
+     "jp": "興味深[きょうみぶか]いことに、上[うえ]の人[ひと]が帰[かえ]り始[はじ]めると、周囲[しゅうい]も驚[おどろ]くほど自然[しぜん]に帰[かえ]るようになった。",
+     "en": "Interestingly, once the people at the top began going home, everyone else started leaving surprisingly naturally too."
+    },
+    {
+     "jp": "結局[けっきょく]、問題[もんだい]は個人[こじん]の意識[いしき]というより、職場[しょくば]の「空気[くうき]」にあったのだと思[おも]う。",
+     "en": "In the end, I think the problem lay less in individual attitudes than in the \"atmosphere\" of the workplace."
+    },
+    {
+     "jp": "もちろん、繁忙期[はんぼうき]には残業[ざんぎょう]が避[さ]けられないこともある。",
+     "en": "Of course, during busy seasons, overtime can be unavoidable."
+    },
+    {
+     "jp": "それでも、「早[はや]く帰[かえ]ること」が後[うし]ろめたさではなく、効率[こうりつ]よく働[はたら]いた証[あかし]として受[う]け止[と]められるようになれば、働[はたら]く人[ひと]の生活[せいかつ]はもっと豊[ゆた]かになるはずだ。",
+     "en": "Still, if leaving early came to be seen not as something to feel guilty about but as proof of having worked efficiently, workers' lives would surely become richer."
+    },
+    {
+     "jp": "外国人[がいこくじん]である私[わたし]にできることは小[ちい]さいが、まずは自分[じぶん]の仕事[しごと]を終[お]えたら、笑顔[えがお]で「お先[さき]に失礼[しつれい]します」と言[い]うことから始[はじ]めている。",
+     "en": "What I can do as a foreigner is small, but I've started by saying \"Excuse me for leaving first\" with a smile once I've finished my own work."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What reason did the coworker give for not leaving early?",
+     "choices": [
+      "Fear of being scolded by the boss",
+      "Wanting overtime pay",
+      "Feeling bad about leaving first when working as a team",
+      "Having too much work to finish"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What happened after the department head started leaving at six on Wednesdays?",
+     "choices": [
+      "Others began to leave surprisingly naturally",
+      "Nobody else followed",
+      "The head was criticized by upper management",
+      "Overtime on other days increased"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Where does the writer conclude the problem mainly lay?",
+     "choices": [
+      "In the overtime laws",
+      "In foreign workers' attitudes",
+      "In low salaries",
+      "In the workplace atmosphere rather than individual attitudes"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n2-05",
+   "level": "N2",
+   "title": "Press Release: A New Onigiri",
+   "titleJp": "新商品[しんしょうひん]発売[はつばい]のお知[し]らせ",
+   "sentences": [
+    {
+     "jp": "株式会社[かぶしきがいしゃ]サンライズマートは、十一月[じゅういちがつ]十日[とおか]より、全国[ぜんこく]の店舗[てんぽ]にて新商品[しんしょうひん]「ごろっと具[ぐ]だくさんおにぎり」を発売[はつばい]いたします。",
+     "en": "Sunrise Mart Co., Ltd. will launch its new product, the \"Chunky Filling-Packed Onigiri,\" at stores nationwide from November 10."
+    },
+    {
+     "jp": "本商品[ほんしょうひん]は、「おにぎりの具[ぐ]が少[すく]ない」というお客様[きゃくさま]の声[こえ]をもとに、約[やく]一年[いちねん]かけて開発[かいはつ]したものです。",
+     "en": "This product was developed over about a year based on customer feedback that \"onigiri don't have enough filling.\""
+    },
+    {
+     "jp": "従来[じゅうらい]の商品[しょうひん]と比[くら]べて具[ぐ]の量[りょう]を約[やく]二倍[にばい]に増[ふ]やし、どこを食[た]べても具[ぐ]が味[あじ]わえるよう、ご飯[はん]の形[かたち]と具[ぐ]の配置[はいち]を工夫[くふう]しました。",
+     "en": "Compared with our previous products, we have roughly doubled the amount of filling and carefully designed the shape of the rice and the placement of the filling so you can taste filling in every bite."
+    },
+    {
+     "jp": "発売[はつばい]時[じ]には、鮭[さけ]、ツナマヨネーズ、牛[ぎゅう]しぐれ煮[に]の三種類[さんしゅるい]をご用意[ようい]しています。",
+     "en": "At launch, three varieties will be available: salmon, tuna mayonnaise, and simmered beef with ginger."
+    },
+    {
+     "jp": "価格[かかく]はいずれも税込[ぜいこみ]二百三十八円[にひゃくさんじゅうはちえん]です。",
+     "en": "All are priced at 238 yen including tax."
+    },
+    {
+     "jp": "また、環境[かんきょう]への配慮[はいりょ]から、包装[ほうそう]フィルムに使[つか]うプラスチックの量[りょう]を従来[じゅうらい]より約[やく]三割[さんわり]削減[さくげん]しました。",
+     "en": "In addition, out of consideration for the environment, we have reduced the amount of plastic used in the wrapping film by about 30 percent compared with before."
+    },
+    {
+     "jp": "フィルムの開[あ]け方[かた]も見直[みなお]し、中央[ちゅうおう]のテープを引[ひ]くだけで、のりが破[やぶ]れずにきれいに巻[ま]けるようになっています。",
+     "en": "We have also redesigned how the film opens, so that just by pulling the tape in the middle, you can wrap the nori neatly without tearing it."
+    },
+    {
+     "jp": "近年[きんねん]、単身[たんしん]世帯[せたい]や共働[ともばたら]き世帯[せたい]の増加[ぞうか]に伴[ともな]い、手軽[てがる]に食[た]べられる食品[しょくひん]の需要[じゅよう]が高[たか]まっています。",
+     "en": "In recent years, with the increase in single-person and dual-income households, demand for food that can be eaten easily has been rising."
+    },
+    {
+     "jp": "当社[とうしゃ]の調査[ちょうさ]では、おにぎりを昼食[ちゅうしょく]として購入[こうにゅう]されるお客様[きゃくさま]の約[やく]六割[ろくわり]が「一個[いっこ]では物足[ものた]りない」と回答[かいとう]しています。",
+     "en": "In our survey, about 60 percent of customers who buy onigiri for lunch answered that \"one isn't quite enough.\""
+    },
+    {
+     "jp": "本商品[ほんしょうひん]は、一個[いっこ]でも満足感[まんぞくかん]を得[え]られるおにぎりとして、こうしたニーズにお応[こた]えするものです。",
+     "en": "This product responds to those needs as an onigiri that leaves you satisfied with just one."
+    },
+    {
+     "jp": "発売[はつばい]を記念[きねん]し、十一月[じゅういちがつ]十日[とおか]から十六日[じゅうろくにち]までの一週間[いっしゅうかん]、二個[にこ]お買[か]い上[あ]げごとに五十円[ごじゅうえん]を割[わ]り引[び]くキャンペーンを実施[じっし]いたします。",
+     "en": "To celebrate the launch, we will run a campaign for one week, from November 10 to 16, giving 50 yen off for every two purchased."
+    },
+    {
+     "jp": "なお、一部[いちぶ]店舗[てんぽ]では取[と]り扱[あつか]いがない場合[ばあい]や、販売[はんばい]時期[じき]が異[こと]なる場合[ばあい]がございます。",
+     "en": "Please note that some stores may not carry the product, or may begin selling it at a different time."
+    },
+    {
+     "jp": "今後[こんご]も当社[とうしゃ]は、お客様[きゃくさま]の声[こえ]を大切[たいせつ]にした商品[しょうひん]づくりに取[と]り組[く]んでまいります。",
+     "en": "We will continue to work on developing products that value our customers' voices."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What led the company to develop this product?",
+     "choices": [
+      "Complaints that onigiri were too expensive",
+      "Customer feedback that onigiri had too little filling",
+      "Pressure from environmental groups",
+      "A request from a TV program"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did the company's survey find?",
+     "choices": [
+      "Most customers prefer salmon",
+      "Customers want less plastic packaging",
+      "About 60% of lunchtime onigiri buyers find one isn't enough",
+      "About 30% of customers eat onigiri every day"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What does the launch campaign offer?",
+     "choices": [
+      "A free onigiri with any drink",
+      "Double points for one month",
+      "30% off all onigiri",
+      "50 yen off for every two purchased, for one week"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n2-06",
+   "level": "N2",
+   "title": "Interview: Getting a Job in Japan",
+   "titleJp": "インタビュー：日本[にほん]で就職[しゅうしょく]して",
+   "sentences": [
+    {
+     "jp": "――日本[にほん]で就職[しゅうしょく]しようと思[おも]ったきっかけは何[なん]ですか。",
+     "en": "— What made you decide to look for a job in Japan?"
+    },
+    {
+     "jp": "大学[だいがく]三年生[さんねんせい]のとき、交換[こうかん]留学[りゅうがく]で一年間[いちねんかん]名古屋[なごや]に住[す]んだのがきっかけです。",
+     "en": "It started when I lived in Nagoya for a year as an exchange student in my third year of university."
+    },
+    {
+     "jp": "ものづくりの現場[げんば]を見学[けんがく]する機会[きかい]があって、品質[ひんしつ]に対[たい]するこだわりに強[つよ]く心[こころ]を打[う]たれました。",
+     "en": "I had the chance to visit manufacturing sites, and I was deeply moved by their dedication to quality."
+    },
+    {
+     "jp": "――就職[しゅうしょく]活動[かつどう]で苦労[くろう]したことはありますか。",
+     "en": "— Did you have any difficulties during your job hunt?"
+    },
+    {
+     "jp": "一番[いちばん]大変[たいへん]だったのは、エントリーシートです。",
+     "en": "The hardest part was the entry sheets."
+    },
+    {
+     "jp": "「学生[がくせい]時代[じだい]に力[ちから]を入[い]れたこと」を何度[なんど]も書[か]かされましたが、自分[じぶん]の経験[けいけん]を日本[にほん]の企業[きぎょう]が求[もと]める形[かたち]で表現[ひょうげん]するのに、かなり時間[じかん]がかかりました。",
+     "en": "I had to write about \"what I put the most effort into as a student\" over and over, and it took me quite a long time to express my experiences in the way Japanese companies expect."
+    },
+    {
+     "jp": "それから面接[めんせつ]では、話[はな]す内容[ないよう]だけでなく、ノックの回数[かいすう]やお辞儀[じぎ]の角度[かくど]まで気[き]にしなければならず、最初[さいしょ]はとても緊張[きんちょう]しました。",
+     "en": "And in interviews, I had to worry not only about what I said but even about how many times to knock and how deeply to bow, so at first I was very nervous."
+    },
+    {
+     "jp": "――どうやって乗[の]り越[こ]えたのですか。",
+     "en": "— How did you get through it?"
+    },
+    {
+     "jp": "大学[だいがく]のキャリアセンターで、模擬[もぎ]面接[めんせつ]を何回[なんかい]も受[う]けました。",
+     "en": "I did many mock interviews at my university's career center."
+    },
+    {
+     "jp": "職員[しょくいん]の方[かた]に「マナーは慣[な]れれば誰[だれ]でもできる。それより、あなたにしか話[はな]せない経験[けいけん]を大切[たいせつ]にしなさい」と言[い]われて、気持[きも]ちが楽[らく]になりました。",
+     "en": "A staff member told me, \"Anyone can do the etiquette once they get used to it. Value the experiences that only you can talk about,\" and that took a weight off my mind."
+    },
+    {
+     "jp": "――実際[じっさい]に働[はたら]き始[はじ]めて、イメージと違[ちが]ったことはありますか。",
+     "en": "— Now that you've actually started working, has anything been different from what you imagined?"
+    },
+    {
+     "jp": "思[おも]っていたより、若手[わかて]の意見[いけん]を聞[き]いてくれる職場[しょくば]だったことです。",
+     "en": "The workplace listens to younger employees' opinions more than I expected."
+    },
+    {
+     "jp": "ただ、会議[かいぎ]の前[まえ]に関係者[かんけいしゃ]に個別[こべつ]に説明[せつめい]しておく「根回[ねまわ]し」には、今[いま]でも少[すこ]し戸惑[とまど]います。",
+     "en": "However, I still find nemawashi, briefing the people involved one by one before a meeting, a little confusing."
+    },
+    {
+     "jp": "――最後[さいご]に、日本[にほん]での就職[しゅうしょく]を考[かんが]えている人[ひと]にアドバイスをお願[ねが]いします。",
+     "en": "— Finally, do you have any advice for people thinking about getting a job in Japan?"
+    },
+    {
+     "jp": "日本語[にほんご]の能力[のうりょく]はもちろん大切[たいせつ]ですが、それ以上[いじょう]に「なぜ日本[にほん]なのか」を自分[じぶん]の言葉[ことば]で語[かた]れることが大事[だいじ]だと思[おも]います。",
+     "en": "Japanese ability is of course important, but I think being able to explain in your own words \"why Japan?\" matters even more."
+    },
+    {
+     "jp": "準備[じゅんび]は大変[たいへん]ですが、その分[ぶん]、得[え]られるものも大[おお]きいですよ。",
+     "en": "The preparation is tough, but you gain that much more from it."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What impressed the interviewee during the exchange year?",
+     "choices": [
+      "The friendliness of people in Nagoya",
+      "The dedication to quality at manufacturing sites",
+      "The punctuality of the trains",
+      "The food culture"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What helped the interviewee get past the difficulties of interviews?",
+     "choices": [
+      "Mock interviews at the career center and a staff member's advice",
+      "Reading books about business manners",
+      "Practicing with a Japanese friend",
+      "Applying only to foreign companies"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does the interviewee still find a little confusing at work?",
+     "choices": [
+      "Senior staff ignoring younger employees' opinions",
+      "Writing entry sheets",
+      "Bowing to customers",
+      "Briefing people individually before meetings"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n2-07",
+   "level": "N2",
+   "title": "Short Story: After the Last Train",
+   "titleJp": "終電[しゅうでん]のあとで",
+   "sentences": [
+    {
+     "jp": "改札[かいさつ]を抜[ぬ]けたとき、電光[でんこう]掲示板[けいじばん]にはもう何[なに]も表示[ひょうじ]されていなかった。",
+     "en": "When she passed through the ticket gate, the electronic departure board was already showing nothing at all."
+    },
+    {
+     "jp": "終電[しゅうでん]は、ほんの二分前[にふんまえ]に出[で]てしまったらしい。",
+     "en": "The last train, it seemed, had left just two minutes earlier."
+    },
+    {
+     "jp": "美咲[みさき]はため息[いき]をつき、スマホでタクシー料金[りょうきん]を調[しら]べたが、表示[ひょうじ]された金額[きんがく]を見[み]てすぐに画面[がめん]を閉[と]じた。",
+     "en": "Misaki sighed and looked up the taxi fare on her phone, but one look at the amount shown and she closed the screen at once."
+    },
+    {
+     "jp": "仕方[しかた]なく駅前[えきまえ]のファミレスに入[はい]ると、店内[てんない]には同[おな]じように行[い]き場[ば]をなくしたらしい客[きゃく]が、ぽつぽつと座[すわ]っていた。",
+     "en": "With no other choice, she went into the family restaurant in front of the station, where a scattering of customers who seemed to have nowhere else to go, just like her, sat here and there."
+    },
+    {
+     "jp": "窓際[まどぎわ]の席[せき]でコーヒーを頼[たの]むと、隣[となり]の席[せき]では一人[ひとり]の老人[ろうじん]が、湯気[ゆげ]の立[た]つうどんを前[まえ]に、ゆっくりと新聞[しんぶん]を読[よ]んでいた。",
+     "en": "She ordered coffee at a window seat; at the next table, an old man sat with a steaming bowl of udon in front of him, slowly reading a newspaper."
+    },
+    {
+     "jp": "こんな時間[じかん]に、この人[ひと]は何[なに]をしているのだろう。",
+     "en": "What could this man be doing here at this hour?"
+    },
+    {
+     "jp": "ぼんやりそう思[おも]っていると、老人[ろうじん]が顔[かお]を上[あ]げて、「終電[しゅうでん]、逃[のが]しましたか」と穏[おだ]やかに声[こえ]をかけてきた。",
+     "en": "As she was idly wondering this, the old man looked up and asked her gently, \"Missed the last train?\""
+    },
+    {
+     "jp": "美咲[みさき]がうなずくと、老人[ろうじん]は「私[わたし]は毎晩[まいばん]ここに来[く]るんです。家[いえ]にいても、話[はな]す相手[あいて]がいないものでね」と笑[わら]った。",
+     "en": "When Misaki nodded, the old man laughed and said, \"I come here every night. Even if I stay home, there's no one to talk to, you see.\""
+    },
+    {
+     "jp": "三年前[さんねんまえ]に妻[つま]を亡[な]くしてから、眠[ねむ]れない夜[よる]はこうして朝[あさ]まで過[す]ごすのだという。",
+     "en": "He said that since losing his wife three years ago, he spends sleepless nights like this until morning."
+    },
+    {
+     "jp": "二人[ふたり]はそれから、仕事[しごと]のことや、老人[ろうじん]が若[わか]いころに働[はたら]いていた町工場[まちこうば]のことを、とりとめもなく話[はな]した。",
+     "en": "After that, the two of them chatted aimlessly about work and about the small neighborhood factory where the old man had worked when he was young."
+    },
+    {
+     "jp": "気[き]がつくと、窓[まど]の外[そと]が白[しら]み始[はじ]めていた。",
+     "en": "Before she knew it, the sky outside the window was beginning to grow light."
+    },
+    {
+     "jp": "始発[しはつ]の時間[じかん]が近[ちか]づき、美咲[みさき]が立[た]ち上[あ]がると、老人[ろうじん]は「久[ひさ]しぶりに楽[たの]しい夜[よる]でした」と頭[あたま]を下[さ]げた。",
+     "en": "As the time of the first train drew near and Misaki stood up, the old man bowed and said, \"That was the most enjoyable night I've had in a long time.\""
+    },
+    {
+     "jp": "駅[えき]へ向[む]かう道[みち]で、美咲[みさき]はふと、終電[しゅうでん]を逃[のが]したことを少[すこ]しも後悔[こうかい]していない自分[じぶん]に気[き]づいた。",
+     "en": "On her way to the station, Misaki suddenly realized that she didn't regret missing the last train in the least."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why didn't Misaki take a taxi home?",
+     "choices": [
+      "There were no taxis at the station",
+      "The fare was too expensive",
+      "Her phone battery was dead",
+      "She wanted to stay with the old man"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Why does the old man come to the restaurant every night?",
+     "choices": [
+      "He works a night shift nearby",
+      "He likes the udon there",
+      "Since his wife died, he has no one to talk to at home",
+      "He is waiting for his daughter"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "How did Misaki feel at the end of the story?",
+     "choices": [
+      "She didn't regret missing the last train at all",
+      "She was angry at herself for being late",
+      "She was too tired to think",
+      "She was worried about being late for work"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n2-08",
+   "level": "N2",
+   "title": "How Renting an Apartment Works in Japan",
+   "titleJp": "日本[にほん]で部屋[へや]を借[か]りるときの仕組[しく]み",
+   "sentences": [
+    {
+     "jp": "日本[にほん]で賃貸[ちんたい]物件[ぶっけん]を借[か]りようとすると、多[おお]くの外国人[がいこくじん]がまず驚[おどろ]くのが、契約[けいやく]時[じ]にかかる初期[しょき]費用[ひよう]の高[たか]さである。",
+     "en": "When trying to rent a place in Japan, what first surprises many foreigners is how high the initial costs are when signing the contract."
+    },
+    {
+     "jp": "一般的[いっぱんてき]に、家賃[やちん]の四[よん]か月[げつ]分[ぶん]から六[ろっ]か月[げつ]分[ぶん]ほどが必要[ひつよう]だと言[い]われている。",
+     "en": "It is generally said that you need roughly four to six months' worth of rent."
+    },
+    {
+     "jp": "その内訳[うちわけ]としては、敷金[しききん]、礼金[れいきん]、仲介[ちゅうかい]手数料[てすうりょう]、前家賃[まえやちん]、火災[かさい]保険料[ほけんりょう]などが挙[あ]げられる。",
+     "en": "The breakdown includes items such as the security deposit (shikikin), key money (reikin), the agent's commission, rent paid in advance, and fire insurance."
+    },
+    {
+     "jp": "敷金[しききん]は、家賃[やちん]の滞納[たいのう]や退去[たいきょ]時[じ]の修繕[しゅうぜん]費用[ひよう]に備[そな]えて大家[おおや]に預[あず]けるお金[かね]で、問題[もんだい]がなければ退去[たいきょ]時[じ]に一部[いちぶ]または全額[ぜんがく]が返[かえ]ってくる。",
+     "en": "The security deposit is money left with the landlord to cover unpaid rent or repair costs when you move out; if there are no problems, part or all of it is returned when you leave."
+    },
+    {
+     "jp": "一方[いっぽう]、礼金[れいきん]は文字通[もじどお]り大家[おおや]への「お礼[れい]」として支払[しはら]うもので、返[かえ]ってくることはない。",
+     "en": "Key money, on the other hand, is paid literally as a \"thank-you\" to the landlord, and it is never returned."
+    },
+    {
+     "jp": "礼金[れいきん]の習慣[しゅうかん]は、住宅[じゅうたく]が不足[ふそく]していた時代[じだい]に、部屋[へや]を貸[か]してもらう感謝[かんしゃ]の気持[きも]ちとして始[はじ]まったという説[せつ]がある。",
+     "en": "One theory is that the custom of key money began in a time of housing shortages, as a way of showing gratitude for being allowed to rent a room."
+    },
+    {
+     "jp": "最近[さいきん]では、空室[くうしつ]を減[へ]らすために、礼金[れいきん]なしの物件[ぶっけん]も増[ふ]えてきている。",
+     "en": "Recently, the number of properties with no key money has been increasing, as landlords try to reduce vacancies."
+    },
+    {
+     "jp": "もう一[ひと]つ、日本[にほん]独特[どくとく]なのが「保証人[ほしょうにん]」の制度[せいど]だ。",
+     "en": "Another thing unique to Japan is the guarantor system."
+    },
+    {
+     "jp": "保証人[ほしょうにん]とは、借[か]り主[ぬし]が家賃[やちん]を払[はら]えなくなった場合[ばあい]に代[か]わりに支払[しはら]う責任[せきにん]を負[お]う人[ひと]のことで、従来[じゅうらい]は親[おや]や親戚[しんせき]が引[ひ]き受[う]けるのが普通[ふつう]だった。",
+     "en": "A guarantor is a person who takes on the responsibility of paying in the tenant's place if the tenant can no longer pay the rent; traditionally, it was normal for a parent or relative to take on this role."
+    },
+    {
+     "jp": "しかし、日本[にほん]に家族[かぞく]のいない外国人[がいこくじん]にとって、保証人[ほしょうにん]を見[み]つけるのは容易[ようい]ではない。",
+     "en": "However, for foreigners with no family in Japan, finding a guarantor is not easy."
+    },
+    {
+     "jp": "そのため現在[げんざい]では、一定[いってい]の保証料[ほしょうりょう]を払[はら]って保証[ほしょう]会社[がいしゃ]を利用[りよう]するのが主流[しゅりゅう]になりつつある。",
+     "en": "For that reason, these days it is becoming the norm to pay a set fee and use a rent guarantee company."
+    },
+    {
+     "jp": "外国人[がいこくじん]向[む]けの保証[ほしょう]会社[がいしゃ]や、多言語[たげんご]で対応[たいおう]する不動産[ふどうさん]会社[がいしゃ]も増[ふ]えており、以前[いぜん]に比[くら]べれば部屋[へや]探[さが]しのハードルは下[さ]がっていると言[い]える。",
+     "en": "With more guarantee companies aimed at foreigners and more real estate agencies offering service in multiple languages, it's fair to say the hurdles to finding a place are lower than before."
+    },
+    {
+     "jp": "とはいえ、契約書[けいやくしょ]には退去[たいきょ]時[じ]の費用[ひよう]負担[ふたん]など重要[じゅうよう]な条件[じょうけん]が書[か]かれているため、内容[ないよう]をよく確認[かくにん]してから署名[しょめい]することが大切[たいせつ]だ。",
+     "en": "Even so, the contract contains important conditions, such as who pays which costs when you move out, so it is important to check its contents carefully before signing."
+    },
+    {
+     "jp": "わからない点[てん]があれば、遠慮[えんりょ]せずに不動産[ふどうさん]会社[がいしゃ]に質問[しつもん]しよう。",
+     "en": "If there is anything you don't understand, don't hesitate to ask the real estate agency."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the difference between shikikin and reikin?",
+     "choices": [
+      "Both are always returned when you move out",
+      "Reikin may be returned, but shikikin never is",
+      "Shikikin may be returned, but reikin never is",
+      "Neither is ever returned"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Why is finding a guarantor hard for many foreigners?",
+     "choices": [
+      "Guarantors must be Japanese citizens by law",
+      "They have no family in Japan",
+      "Guarantee companies refuse foreigners",
+      "Landlords don't accept guarantors"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "According to the article, what is becoming the norm today?",
+     "choices": [
+      "Having your employer act as guarantor",
+      "Paying a full year of rent in advance",
+      "Renting only properties with no key money",
+      "Paying a fee to use a rent guarantee company"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n1-01",
+   "level": "N1",
+   "title": "Editorial: Coexistence Must Be More Than a Slogan",
+   "titleJp": "社説[しゃせつ]：「共生[きょうせい]」を掛[か]け声[ごえ]で終[お]わらせるな",
+   "sentences": [
+    {
+     "jp": "少子[しょうし]高齢化[こうれいか]に伴[ともな]う人手[ひとで]不足[ぶそく]を背景[はいけい]に、外国人[がいこくじん]労働者[ろうどうしゃ]の受[う]け入[い]れ拡大[かくだい]が既定[きてい]路線[ろせん]となって久[ひさ]しい。",
+     "en": "Against the backdrop of labor shortages brought on by a declining birthrate and an aging population, expanding the intake of foreign workers has long been the established course."
+    },
+    {
+     "jp": "政府[せいふ]は「多文化[たぶんか]共生[きょうせい]」を掲[かか]げ、制度[せいど]の整備[せいび]を進[すす]めてきたが、その実態[じったい]が掛[か]け声[ごえ]に追[お]いついているとは言[い]い難[がた]い。",
+     "en": "The government has held up the banner of \"multicultural coexistence\" and pressed ahead with building the necessary systems, but it is hard to say that the reality has caught up with the slogan."
+    },
+    {
+     "jp": "技能[ぎのう]実習[じっしゅう]制度[せいど]をめぐっては、劣悪[れつあく]な労働[ろうどう]環境[かんきょう]や転職[てんしょく]の制限[せいげん]が長年[ながねん]批判[ひはん]されてきた。",
+     "en": "The Technical Intern Training Program has long been criticized for poor working conditions and restrictions on changing jobs."
+    },
+    {
+     "jp": "新[あら]たな「育成[いくせい]就労[しゅうろう]」制度[せいど]への移行[いこう]はその反省[はんせい]に立[た]ったものだが、看板[かんばん]を掛[か]け替[か]えるだけでは問題[もんだい]の根[ね]は断[た]てない。",
+     "en": "The shift to the new Employment for Skill Development system is grounded in reflection on those failures, but merely changing the signboard will not cut out the root of the problem."
+    },
+    {
+     "jp": "問[と]われているのは、受[う]け入[い]れた人々[ひとびと]を「労働力[ろうどうりょく]」としてではなく、地域[ちいき]で暮[く]らす「生活者[せいかつしゃ]」として遇[ぐう]する覚悟[かくご]があるかどうかである。",
+     "en": "What is being tested is whether we are prepared to treat the people we accept not as \"labor\" but as \"residents\" who live in our communities."
+    },
+    {
+     "jp": "日本語[にほんご]教育[きょういく]の機会[きかい]、子[こ]どもの就学[しゅうがく]支援[しえん]、医療[いりょう]や行政[ぎょうせい]サービスへのアクセス――いずれも、自治体[じちたい]やボランティアの善意[ぜんい]に依存[いぞん]している面[めん]が否[いな]めない。",
+     "en": "Opportunities for Japanese-language education, support for children's schooling, access to medical and government services: it cannot be denied that all of these depend to some extent on the goodwill of local governments and volunteers."
+    },
+    {
+     "jp": "財源[ざいげん]も人材[じんざい]も乏[とぼ]しい小[ちい]さな自治体[じちたい]ほど、その負担[ふたん]は重[おも]くのしかかる。",
+     "en": "The smaller the municipality, and the scarcer its funds and staff, the more heavily that burden weighs on it."
+    },
+    {
+     "jp": "国[くに]が受[う]け入[い]れの旗[はた]を振[ふ]る以上[いじょう]、その後[ご]の生活[せいかつ]を支[ささ]える仕組[しく]みづくりにも責任[せきにん]を負[お]うべきだ。",
+     "en": "As long as the national government is the one waving the flag for accepting foreign workers, it should also bear responsibility for creating systems that support their lives afterward."
+    },
+    {
+     "jp": "一方[いっぽう]で、受[う]け入[い]れる側[がわ]の社会[しゃかい]の意識[いしき]も問[と]われる。",
+     "en": "At the same time, the attitudes of the receiving society are also being called into question."
+    },
+    {
+     "jp": "ごみ出[だ]しのルールや騒音[そうおん]をめぐる摩擦[まさつ]は、しばしば「文化[ぶんか]の違[ちが]い」の一言[ひとこと]で片付[かたづ]けられがちだ。",
+     "en": "Friction over garbage rules and noise is often brushed aside with the single phrase \"cultural differences.\""
+    },
+    {
+     "jp": "だが、その多[おお]くは必要[ひつよう]な情報[じょうほう]が届[とど]いていないことに起因[きいん]しており、丁寧[ていねい]な説明[せつめい]と対話[たいわ]によって解消[かいしょう]できるものも少[すく]なくない。",
+     "en": "But much of it stems from necessary information not reaching people, and no small part of it can be resolved through careful explanation and dialogue."
+    },
+    {
+     "jp": "隣人[りんじん]として顔[かお]の見[み]える関係[かんけい]を築[きず]くことこそ、偏見[へんけん]や排除[はいじょ]を防[ふせ]ぐ何[なに]よりの手立[てだ]てとなろう。",
+     "en": "Building relationships as neighbors who know each other's faces is surely the best means of preventing prejudice and exclusion."
+    },
+    {
+     "jp": "人口[じんこう]減少[げんしょう]が避[さ]けられない以上[いじょう]、外国人[がいこくじん]とともに地域[ちいき]を支[ささ]えていくことは、もはや選択肢[せんたくし]の一[ひと]つではなく前提[ぜんてい]である。",
+     "en": "Since population decline is unavoidable, sustaining our communities together with foreign residents is no longer one option among many; it is a given."
+    },
+    {
+     "jp": "「共生[きょうせい]」を掛[か]け声[ごえ]で終[お]わらせず、実[じつ]のあるものにできるかどうか。",
+     "en": "Can we make \"coexistence\" into something real, rather than letting it end as a slogan?"
+    },
+    {
+     "jp": "それは、この国[くに]の将来[しょうらい]の姿[すがた]そのものを左右[さゆう]する問[と]いにほかならない。",
+     "en": "That is nothing less than a question that will determine the very shape of this country's future."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the editorial's central argument?",
+     "choices": [
+      "Japan should reduce the number of foreign workers it accepts",
+      "Foreign workers must be treated as residents of the community, not just as labor",
+      "Renaming the trainee program has solved its problems",
+      "Cultural differences make coexistence impossible"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "According to the editorial, much of the friction over garbage and noise is caused by what?",
+     "choices": [
+      "Deliberate rule-breaking",
+      "Deep cultural incompatibility",
+      "A lack of laws on the issue",
+      "Necessary information not reaching people"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "Who does the editorial say should take responsibility for building support systems?",
+     "choices": [
+      "The national government, since it is promoting the intake",
+      "Volunteers and local residents alone",
+      "Employers alone",
+      "The foreign workers themselves"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n1-02",
+   "level": "N1",
+   "title": "Essay: On the Spread of \"Sasete Itadaku\"",
+   "titleJp": "「させていただく」の広[ひろ]がりをめぐって",
+   "sentences": [
+    {
+     "jp": "近年[きんねん]、「させていただく」という表現[ひょうげん]の多用[たよう]がしばしば話題[わだい]に上[のぼ]る。",
+     "en": "In recent years, the frequent use of the expression \"sasete itadaku\" has often become a topic of discussion."
+    },
+    {
+     "jp": "「本日[ほんじつ]司会[しかい]を務[つと]めさせていただきます」程度[ていど]であれば違和感[いわかん]を覚[おぼ]える人[ひと]は少[すく]ないだろうが、「このたび結婚[けっこん]させていただくことになりました」となると、首[くび]をかしげる人[ひと]もいるだろう。",
+     "en": "Few people would find something like \"I will be humbly serving as today's MC\" odd, but when it comes to \"I have humbly been permitted to get married,\" some people may well tilt their heads."
+    },
+    {
+     "jp": "本来[ほんらい]この表現[ひょうげん]は、相手[あいて]の許可[きょか]を得[え]て何[なに]かを行[おこな]い、それによって自分[じぶん]が恩恵[おんけい]を受[う]けるという構造[こうぞう]を前提[ぜんてい]としている。",
+     "en": "Originally, this expression presupposes a structure in which one does something with the other person's permission and thereby receives a benefit."
+    },
+    {
+     "jp": "つまり、許可[きょか]を与[あた]える相手[あいて]も恩恵[おんけい]の関係[かんけい]も想定[そうてい]しにくい場面[ばめん]で用[もち]いれば、規範[きはん]から逸脱[いつだつ]しているとみなされるわけである。",
+     "en": "In other words, if it is used in situations where it is hard to imagine either someone granting permission or any relationship of benefit, it is regarded as deviating from the norm."
+    },
+    {
+     "jp": "では、なぜこの表現[ひょうげん]はここまで広[ひろ]がったのだろうか。",
+     "en": "Why, then, has this expression spread so widely?"
+    },
+    {
+     "jp": "一[ひと]つの解釈[かいしゃく]として、話[はな]し手[て]が自[みずか]らの行為[こうい]を「相手[あいて]や周囲[しゅうい]に許[ゆる]されて成[な]り立[た]つもの」として位置[いち]づけることで、自己[じこ]主張[しゅちょう]の印象[いんしょう]を和[やわ]らげようとしている、という見方[みかた]がある。",
+     "en": "One interpretation is that by framing their own actions as \"something made possible by the permission of the listener and those around them,\" speakers are trying to soften the impression of asserting themselves."
+    },
+    {
+     "jp": "「結婚[けっこん]します」と言[い]い切[き]るよりも、「させていただきます」と言[い]うほうが、聞[き]き手[て]への配慮[はいりょ]を示[しめ]しているように感[かん]じられるのだろう。",
+     "en": "Saying \"sasete itadakimasu\" probably feels more considerate toward the listener than flatly stating \"I'm getting married.\""
+    },
+    {
+     "jp": "言[い]い換[か]えれば、この表現[ひょうげん]は特定[とくてい]の相手[あいて]に対[たい]する敬意[けいい]から、場[ば]全体[ぜんたい]に対[たい]する遠慮[えんりょ]を示[しめ]す標識[ひょうしき]へと、機能[きのう]を変[か]えつつあるのかもしれない。",
+     "en": "Put another way, the expression may be shifting in function from showing respect toward a specific person to serving as a marker of deference toward the whole situation."
+    },
+    {
+     "jp": "敬語[けいご]の歴史[れきし]をひもとけば、こうした変化[へんか]は決[けっ]して珍[めずら]しいものではない。",
+     "en": "If we look back through the history of keigo, changes like this are by no means unusual."
+    },
+    {
+     "jp": "「貴様[きさま]」や「お前[まえ]」が、かつては目上[めうえ]の相手[あいて]に対[たい]して用[もち]いられる敬意[けいい]の高[たか]い語[ご]であったことはよく知[し]られている。",
+     "en": "It is well known that \"kisama\" and \"omae\" were once highly respectful words used toward one's superiors."
+    },
+    {
+     "jp": "敬意[けいい]を込[こ]めた表現[ひょうげん]は使[つか]われるうちに摩耗[まもう]し、やがて新[あら]たな表現[ひょうげん]に取[と]って代[か]わられる――これは「敬意[けいい]逓減[ていげん]の法則[ほうそく]」と呼[よ]ばれる現象[げんしょう]である。",
+     "en": "Respectful expressions wear down as they are used and are eventually replaced by new ones; this phenomenon is called the \"law of diminishing respect.\""
+    },
+    {
+     "jp": "そう考[かんが]えると、「させていただく」の多用[たよう]もまた、言語[げんご]が絶[た]えず自[みずか]らを更新[こうしん]していく過程[かてい]の一端[いったん]と捉[とら]えることができる。",
+     "en": "Seen this way, the overuse of \"sasete itadaku\" can also be understood as one part of the process by which language constantly renews itself."
+    },
+    {
+     "jp": "もっとも、変化[へんか]が自然[しぜん]な現象[げんしょう]だからといって、あらゆる用法[ようほう]を無条件[むじょうけん]に容認[ようにん]すべきだということにはならない。",
+     "en": "That said, the fact that change is a natural phenomenon does not mean that every usage should be accepted unconditionally."
+    },
+    {
+     "jp": "過剰[かじょう]な敬語[けいご]は、かえって慇懃[いんぎん]無礼[ぶれい]な印象[いんしょう]を与[あた]えたり、伝[つた]えるべき内容[ないよう]をぼかしたりする危険[きけん]をはらんでいる。",
+     "en": "Excessive keigo carries the risk of instead giving an impression of hollow, overdone politeness, or of blurring the content that ought to be conveyed."
+    },
+    {
+     "jp": "肝要[かんよう]なのは、規範[きはん]を盾[たて]に他人[たにん]の言葉[ことば]遣[づか]いを裁[さば]くことでも、変化[へんか]をただ追認[ついにん]することでもなく、その表現[ひょうげん]が目[め]の前[まえ]の相手[あいて]との関係[かんけい]において何[なに]を伝[つた]えているのかを意識[いしき]し、自覚的[じかくてき]に言葉[ことば]を選[えら]び取[と]る姿勢[しせい]であろう。",
+     "en": "What matters, surely, is neither using the norms as a shield to judge other people's language nor simply rubber-stamping change, but an attitude of being aware of what an expression conveys in one's relationship with the person in front of one, and choosing one's words deliberately."
+    }
+   ],
+   "questions": [
+    {
+     "q": "According to the essay, what does \"sasete itadaku\" traditionally presuppose?",
+     "choices": [
+      "That the speaker is socially superior to the listener",
+      "That one acts with the other person's permission and benefits from it",
+      "That it is used only at weddings and ceremonies",
+      "That the listener is a close friend"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What does the \"law of diminishing respect\" describe?",
+     "choices": [
+      "Young people becoming less polite than older generations",
+      "Keigo gradually disappearing from Japanese",
+      "Respectful expressions wearing out with use and being replaced by new ones",
+      "Respect increasing the more often a word is used"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What is the writer's final position?",
+     "choices": [
+      "We should neither judge others by the norms nor accept every change uncritically, but choose words consciously",
+      "The expression should be banned in formal speech",
+      "All new usages should be fully accepted because change is natural",
+      "Japanese should return to the keigo of earlier times"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n1-03",
+   "level": "N1",
+   "title": "Short Fiction: The Persimmon Tree",
+   "titleJp": "柿[かき]の木[き]",
+   "sentences": [
+    {
+     "jp": "祖母[そぼ]の家[いえ]の庭[にわ]には、私[わたし]が物心[ものごころ]ついたころから一本[いっぽん]の柿[かき]の木[き]があった。",
+     "en": "For as long as I can remember, there was a persimmon tree in the garden of my grandmother's house."
+    },
+    {
+     "jp": "秋[あき]になると枝[えだ]がしなるほど実[み]をつけ、熟[う]れきった実[み]が音[おと]もなく落[お]ちては、土[つち]を橙色[だいだいいろ]に染[そ]めた。",
+     "en": "Every autumn it bore so much fruit that its branches bent, and the overripe persimmons would drop without a sound, staining the earth orange."
+    },
+    {
+     "jp": "祖母[そぼ]はそれを惜[お]しむでもなく、「鳥[とり]の分[ぶん]も残[のこ]しておかんとね」と言[い]って、いつも半分[はんぶん]ほどを枝[えだ]に残[のこ]したままにしていた。",
+     "en": "My grandmother never seemed to regret this; saying, \"Got to leave some for the birds, too,\" she always left about half of the fruit on the branches."
+    },
+    {
+     "jp": "幼[おさな]い私[わたし]には、それがひどくもったいないことのように思[おも]えたものだ。",
+     "en": "To me as a small child, that seemed a terrible waste."
+    },
+    {
+     "jp": "祖母[そぼ]が亡[な]くなって三年[さんねん]、空[あ]き家[や]となったその家[いえ]を手放[てばな]す話[はなし]がまとまりかけた秋[あき]、私[わたし]は久方[ひさかた]ぶりに一人[ひとり]で門[もん]をくぐった。",
+     "en": "Three years after my grandmother died, in the autumn when arrangements to sell the now-empty house were nearly settled, I passed through its gate alone for the first time in a long while."
+    },
+    {
+     "jp": "雨戸[あまど]を閉[と]ざした家[いえ]は、記憶[きおく]の中[なか]よりもひと回[まわ]り小[ちい]さく見[み]えた。",
+     "en": "With its storm shutters closed, the house looked a size smaller than in my memory."
+    },
+    {
+     "jp": "庭[にわ]は膝[ひざ]の高[たか]さまで雑草[ざっそう]に覆[おお]われていたが、柿[かき]の木[き]だけは何事[なにごと]もなかったかのように、たわわに実[み]をつけていた。",
+     "en": "The garden was overgrown with weeds up to my knees, but the persimmon tree alone, as if nothing had happened, was heavy with fruit."
+    },
+    {
+     "jp": "誰[だれ]に見[み]せるためでもなく、誰[だれ]に食[た]べられるためでもなく、ただ季節[きせつ]が巡[めぐ]ってきたから実[みの]る。",
+     "en": "Not to be seen by anyone, not to be eaten by anyone, it bore fruit simply because the season had come around again."
+    },
+    {
+     "jp": "その当[あ]たり前[まえ]の営[いとな]みが、なぜか胸[むね]に迫[せま]った。",
+     "en": "For some reason, that ordinary cycle of life moved me deeply."
+    },
+    {
+     "jp": "縁側[えんがわ]に腰[こし]を下[お]ろしていると、一羽[いちわ]のヒヨドリが舞[ま]い降[お]りてきて、熟[じゅく]した実[み]を器用[きよう]についばみ始[はじ]めた。",
+     "en": "As I sat on the veranda, a bulbul fluttered down and began deftly pecking at a ripe persimmon."
+    },
+    {
+     "jp": "鳥[とり]の分[ぶん]、という祖母[そぼ]の声[こえ]が、ふいに耳[みみ]の奥[おく]によみがえった。",
+     "en": "\"Some for the birds\": my grandmother's voice suddenly came back to me, deep in my ears."
+    },
+    {
+     "jp": "あれはもったいないことなどではなかったのだ、と私[わたし]はそのとき初[はじ]めて思[おも]い至[いた]った。",
+     "en": "It was only then that it dawned on me: that had not been a waste at all."
+    },
+    {
+     "jp": "全部[ぜんぶ]を自分[じぶん]のものにしない。取[と]りきらずに残[のこ]しておく。",
+     "en": "Not taking everything for yourself. Leaving some behind instead of picking it clean."
+    },
+    {
+     "jp": "その小[ちい]さな余白[よはく]のおかげで、この庭[にわ]は祖母[そぼ]がいなくなった今[いま]も、何[なに]かを養[やしな]い続[つづ]けている。",
+     "en": "Thanks to that small margin, this garden is still nourishing something, even now that my grandmother is gone."
+    },
+    {
+     "jp": "夕暮[ゆうぐ]れが迫[せま]るころ、私[わたし]は不動産屋[ふどうさんや]に電話[でんわ]をかけ、もう少[すこ]しだけ考[かんが]えさせてほしいと告[つ]げた。",
+     "en": "As dusk approached, I called the real estate agent and told them I'd like a little more time to think it over."
+    },
+    {
+     "jp": "電話[でんわ]の向[む]こうの戸惑[とまど]った声[こえ]を聞[き]きながら、私[わたし]は枝[えだ]に残[のこ]された実[み]を、ひとつ、ふたつと数[かぞ]えていた。",
+     "en": "Listening to the bewildered voice on the other end of the line, I was counting the fruit left on the branches: one, two..."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What did the grandmother do with the persimmons each year?",
+     "choices": [
+      "Sold them at the market",
+      "Made dried persimmons from all of them",
+      "Left about half on the tree for the birds",
+      "Gave them all to the neighbors"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What did the narrator come to realize while sitting on the veranda?",
+     "choices": [
+      "That the tree should be cut down",
+      "That leaving some fruit unpicked had not been wasteful at all",
+      "That the grandmother had been stingy",
+      "That the house was worth more than expected"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What did the narrator do at the end?",
+     "choices": [
+      "Signed the papers to sell the house",
+      "Picked all the remaining fruit",
+      "Decided to move into the house immediately",
+      "Asked the real estate agent for a little more time to think"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n1-04",
+   "level": "N1",
+   "title": "Internal Notice: Revisions to the Remote Work Policy",
+   "titleJp": "在宅[ざいたく]勤務[きんむ]制度[せいど]改定[かいてい]のお知[し]らせ",
+   "sentences": [
+    {
+     "jp": "全[ぜん]従業員[じゅうぎょういん]各位[かくい]",
+     "en": "To all employees"
+    },
+    {
+     "jp": "当社[とうしゃ]では、令和[れいわ]三年[さんねん]より在宅[ざいたく]勤務[きんむ]制度[せいど]を導入[どうにゅう]し、多様[たよう]な働[はたら]き方[かた]の実現[じつげん]に努[つと]めてまいりました。",
+     "en": "Since 2021 (Reiwa 3), the Company has operated a remote work system and has endeavored to make diverse working styles possible."
+    },
+    {
+     "jp": "このたび、制度[せいど]導入[どうにゅう]後[ご]の運用[うんよう]状況[じょうきょう]および従業員[じゅうぎょういん]アンケートの結果[けっか]を踏[ふ]まえ、下記[かき]のとおり制度[せいど]を改定[かいてい]することといたしましたので、お知[し]らせいたします。",
+     "en": "Based on how the system has operated since its introduction and the results of an employee survey, we have decided to revise the system as set out below, and hereby notify you accordingly."
+    },
+    {
+     "jp": "第一[だいいち]に、在宅[ざいたく]勤務[きんむ]の上限[じょうげん]日数[にっすう]を、現行[げんこう]の週[しゅう]二日[ふつか]から週[しゅう]三日[みっか]に拡大[かくだい]いたします。",
+     "en": "First, the maximum number of remote work days will be increased from the current two days per week to three days per week."
+    },
+    {
+     "jp": "ただし、各[かく]部署[ぶしょ]の業務[ぎょうむ]の特性[とくせい]に鑑[かんが]み、所属長[しょぞくちょう]が必要[ひつよう]と判断[はんだん]した場合[ばあい]には、出社日[しゅっしゃび]を指定[してい]できるものとします。",
+     "en": "However, in view of the nature of each department's work, department heads may designate days on which employees must come to the office when they judge it necessary."
+    },
+    {
+     "jp": "第二[だいに]に、毎月[まいつき]第一[だいいち]水曜日[すいようび]を「全社[ぜんしゃ]出社日[しゅっしゃび]」と定[さだ]め、部署間[ぶしょかん]の交流[こうりゅう]および対面[たいめん]での情報[じょうほう]共有[きょうゆう]の機会[きかい]といたします。",
+     "en": "Second, the first Wednesday of every month will be designated a \"company-wide office day,\" serving as an opportunity for interaction between departments and face-to-face information sharing."
+    },
+    {
+     "jp": "第三[だいさん]に、在宅[ざいたく]勤務[きんむ]に伴[ともな]う光熱費[こうねつひ]等[とう]の負担[ふたん]を考慮[こうりょ]し、在宅[ざいたく]勤務[きんむ]手当[てあて]を月額[げつがく]三千円[さんぜんえん]から五千円[ごせんえん]に増額[ぞうがく]いたします。",
+     "en": "Third, in consideration of utility and other costs associated with remote work, the remote work allowance will be increased from 3,000 yen to 5,000 yen per month."
+    },
+    {
+     "jp": "なお、本[ほん]手当[てあて]は在宅[ざいたく]勤務[きんむ]を月[つき]四日[よっか]以上[いじょう]実施[じっし]した者[もの]を支給[しきゅう]対象[たいしょう]とします。",
+     "en": "Note that this allowance will be paid to employees who work remotely four or more days in a month."
+    },
+    {
+     "jp": "第四[だいよん]に、情報[じょうほう]セキュリティの観点[かんてん]から、自宅[じたく]以外[いがい]の場所[ばしょ]、とりわけカフェ等[とう]の公共[こうきょう]の場[ば]における業務[ぎょうむ]は、原則[げんそく]として禁止[きんし]いたします。",
+     "en": "Fourth, from the standpoint of information security, working anywhere other than at home, particularly in public places such as cafés, will in principle be prohibited."
+    },
+    {
+     "jp": "やむを得[え]ず自宅[じたく]以外[いがい]で業務[ぎょうむ]を行[おこな]う必要[ひつよう]が生[しょう]じた場合[ばあい]は、事前[じぜん]に所属長[しょぞくちょう]の承認[しょうにん]を得[え]るものとします。",
+     "en": "If it becomes unavoidably necessary to work somewhere other than at home, employees must obtain prior approval from their department head."
+    },
+    {
+     "jp": "本[ほん]改定[かいてい]は、来年[らいねん]一月[いちがつ]一日[ついたち]より適用[てきよう]いたします。",
+     "en": "These revisions will take effect on January 1 of next year."
+    },
+    {
+     "jp": "申請[しんせい]手続[てつづ]きの詳細[しょうさい]につきましては、社内[しゃない]ポータルに掲載[けいさい]の運用[うんよう]マニュアルをご参照[さんしょう]ください。",
+     "en": "For details on application procedures, please refer to the operations manual posted on the company intranet portal."
+    },
+    {
+     "jp": "本件[ほんけん]に関[かん]するご質問[しつもん]は、人事部[じんじぶ]労務課[ろうむか]までお問[と]い合[あ]わせください。",
+     "en": "Please direct any questions regarding this matter to the Labor Affairs Section of the Human Resources Department."
+    },
+    {
+     "jp": "従業員[じゅうぎょういん]の皆様[みなさま]におかれましては、本[ほん]制度[せいど]の趣旨[しゅし]をご理解[りかい]のうえ、適切[てきせつ]な運用[うんよう]にご協力[きょうりょく]くださいますようお願[ねが]い申[もう]し上[あ]げます。",
+     "en": "We ask all employees to understand the purpose of this system and to cooperate in its proper operation."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who is eligible for the increased remote work allowance?",
+     "choices": [
+      "All employees, regardless of how often they work remotely",
+      "Employees who work remotely at least four days a month",
+      "Only employees who work remotely three days every week",
+      "Only department heads"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What is the new rule about working in cafés?",
+     "choices": [
+      "It is allowed if you use a company laptop",
+      "It is allowed only on the first Wednesday of the month",
+      "It is generally prohibited and needs prior approval if unavoidable",
+      "It is allowed up to two days a week"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What happens on the first Wednesday of each month?",
+     "choices": [
+      "All employees come to the office",
+      "All employees work from home",
+      "Employees submit remote work applications",
+      "The allowance is paid"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n1-05",
+   "level": "N1",
+   "title": "Analysis: The Light and Shadow of a Tourism Boom",
+   "titleJp": "観光[かんこう]立国[りっこく]の光[ひかり]と影[かげ]",
+   "sentences": [
+    {
+     "jp": "訪日[ほうにち]外国人[がいこくじん]旅行者[りょこうしゃ]の数[かず]が、過去[かこ]最高[さいこう]の水準[すいじゅん]で推移[すいい]している。",
+     "en": "The number of foreign visitors to Japan is running at record levels."
+    },
+    {
+     "jp": "歴史的[れきしてき]な円安[えんやす]を追[お]い風[かぜ]に、観光[かんこう]消費[しょうひ]は地域[ちいき]経済[けいざい]を潤[うるお]し、宿泊業[しゅくはくぎょう]や飲食業[いんしょくぎょう]は活況[かっきょう]を呈[てい]している。",
+     "en": "With a historically weak yen as a tailwind, tourist spending is enriching regional economies, and the lodging and restaurant industries are booming."
+    },
+    {
+     "jp": "だが、その恩恵[おんけい]の陰[かげ]で、看過[かんか]できない歪[ゆが]みも生[しょう]じつつある。",
+     "en": "Yet in the shadow of those benefits, distortions that cannot be overlooked are also emerging."
+    },
+    {
+     "jp": "京都[きょうと]や鎌倉[かまくら]などの人気[にんき]観光地[かんこうち]では、路線[ろせん]バスが観光客[かんこうきゃく]で満員[まんいん]となり、通勤[つうきん]・通学[つうがく]する住民[じゅうみん]が乗車[じょうしゃ]できない事態[じたい]も珍[めずら]しくない。",
+     "en": "In popular destinations such as Kyoto and Kamakura, it is not unusual for local buses to be packed with tourists, leaving residents commuting to work or school unable to board."
+    },
+    {
+     "jp": "私有地[しゆうち]への立[た]ち入[い]りやごみの放置[ほうち]といったマナーをめぐる問題[もんだい]も、地域[ちいき]住民[じゅうみん]の不満[ふまん]を募[つの]らせている。",
+     "en": "Problems with manners, such as trespassing on private property and leaving litter behind, are also fueling local residents' frustration."
+    },
+    {
+     "jp": "いわゆる「オーバーツーリズム」である。",
+     "en": "This is what is known as \"overtourism.\""
+    },
+    {
+     "jp": "各地[かくち]では、すでに対策[たいさく]が模索[もさく]されている。",
+     "en": "Various places are already searching for countermeasures."
+    },
+    {
+     "jp": "宿泊税[しゅくはくぜい]の導入[どうにゅう]や引[ひ]き上[あ]げ、観光客[かんこうきゃく]向[む]けの特急[とっきゅう]バスの運行[うんこう]、人気[にんき]施設[しせつ]の入場[にゅうじょう]予約制[よやくせい]などがその一例[いちれい]だ。",
+     "en": "Examples include introducing or raising lodging taxes, running express buses for tourists, and requiring advance reservations to enter popular sites."
+    },
+    {
+     "jp": "観光客[かんこうきゃく]と住民[じゅうみん]とで価格[かかく]に差[さ]を設[もう]ける「二重[にじゅう]価格[かかく]」をめぐる議論[ぎろん]も始[はじ]まっている。",
+     "en": "Debate has also begun over \"dual pricing,\" which would set different prices for tourists and residents."
+    },
+    {
+     "jp": "もっとも、こうした施策[しさく]の効果[こうか]は限定的[げんていてき]だとの見方[みかた]も根強[ねづよ]い。",
+     "en": "However, there is also a persistent view that the effects of these measures are limited."
+    },
+    {
+     "jp": "問題[もんだい]の本質[ほんしつ]は観光客[かんこうきゃく]の総数[そうすう]よりも、特定[とくてい]の場所[ばしょ]と時間帯[じかんたい]への極端[きょくたん]な集中[しゅうちゅう]にあるからだ。",
+     "en": "That is because the essence of the problem lies less in the total number of tourists than in their extreme concentration in particular places and at particular times."
+    },
+    {
+     "jp": "訪日客[ほうにちきゃく]の宿泊[しゅくはく]は依然[いぜん]として東京[とうきょう]・大阪[おおさか]・京都[きょうと]などの大都市圏[だいとしけん]に偏[かたよ]っており、地方[ちほう]への分散[ぶんさん]は道半[みちなか]ばにとどまっている。",
+     "en": "Overnight stays by foreign visitors are still heavily skewed toward major metropolitan areas such as Tokyo, Osaka, and Kyoto, and dispersal to the regions remains only halfway achieved."
+    },
+    {
+     "jp": "裏[うら]を返[かえ]せば、まだ知[し]られていない地方[ちほう]の魅力[みりょく]を発信[はっしん]し、交通網[こうつうもう]を整[ととの]えることができれば、混雑[こんざつ]の緩和[かんわ]と地方[ちほう]の活性化[かっせいか]を同時[どうじ]に実現[じつげん]できる余地[よち]があるということでもある。",
+     "en": "Looked at the other way, this also means that if the little-known attractions of the regions can be promoted and transportation networks improved, there is room to ease congestion and revitalize the regions at the same time."
+    },
+    {
+     "jp": "観光[かんこう]は本来[ほんらい]、訪[おとず]れる側[がわ]と迎[むか]える側[がわ]の双方[そうほう]が豊[ゆた]かになってこそ、持続[じぞく]可能[かのう]なものとなる。",
+     "en": "Tourism, by its nature, becomes sustainable only when both those who visit and those who welcome them are enriched."
+    },
+    {
+     "jp": "数[かず]を追[お]う段階[だんかい]から、質[しつ]と分散[ぶんさん]を問[と]う段階[だんかい]へ――観光[かんこう]政策[せいさく]は今[いま]、大[おお]きな転換点[てんかんてん]に立[た]っている。",
+     "en": "From a stage of chasing numbers to a stage that asks about quality and dispersal: tourism policy now stands at a major turning point."
+    }
+   ],
+   "questions": [
+    {
+     "q": "According to the article, what is the essence of the overtourism problem?",
+     "choices": [
+      "The total number of tourists is too high",
+      "Tourists' poor manners",
+      "Extreme concentration of tourists in particular places and times",
+      "The weak yen"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Which of the following measures is NOT mentioned in the article?",
+     "choices": [
+      "Introducing or raising lodging taxes",
+      "Express buses for tourists",
+      "Reservation systems for popular sites",
+      "Limiting the number of tourist visas"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "What opportunity does the writer see in the current situation?",
+     "choices": [
+      "Promoting lesser-known regions and improving transport could both ease congestion and revitalize those regions",
+      "Raising prices for tourists could replace local taxes",
+      "Closing popular sites would solve the problem",
+      "Building more hotels in Tokyo would reduce crowding in Kyoto"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r-n1-06",
+   "level": "N1",
+   "title": "Cultural Criticism: The Myth of Omotenashi",
+   "titleJp": "「おもてなし」という神話[しんわ]",
+   "sentences": [
+    {
+     "jp": "「お客様[きゃくさま]は神様[かみさま]です」――この言葉[ことば]ほど、日本[にほん]のサービス文化[ぶんか]を象徴[しょうちょう]し、同時[どうじ]に誤解[ごかい]されてきた言葉[ことば]もないだろう。",
+     "en": "\"The customer is a god\": perhaps no phrase has both symbolized Japan's service culture and been as misunderstood as this one."
+    },
+    {
+     "jp": "もともとは、ある歌手[かしゅ]が舞台[ぶたい]に臨[のぞ]む自[みずか]らの心構[こころがま]えを語[かた]ったものだったとされる。",
+     "en": "It is said to have originally been a singer's description of his own mindset when going on stage."
+    },
+    {
+     "jp": "神前[しんぜん]で芸[げい]を奉納[ほうのう]するように、雑念[ざつねん]を払[はら]って歌[うた]う――そこに込[こ]められていたのは演[えん]じる側[がわ]の内面[ないめん]の規律[きりつ]であって、客[きゃく]が店員[てんいん]に何[なに]を要求[ようきゅう]してもよいという免罪符[めんざいふ]ではなかったはずだ。",
+     "en": "To sing with a clear mind, as if offering one's art before the gods: what it expressed was the inner discipline of the performer, surely not a license for customers to demand anything they like of shop staff."
+    },
+    {
+     "jp": "ところが、この言葉[ことば]はいつしか文脈[ぶんみゃく]から切[き]り離[はな]され、「金[かね]を払[はら]う者[もの]が上[うえ]」という序列[じょれつ]意識[いしき]を正当化[せいとうか]する標語[ひょうご]へと変質[へんしつ]していった。",
+     "en": "Yet at some point the phrase was cut off from its context and degenerated into a slogan justifying a sense of hierarchy in which \"the one who pays is on top.\""
+    },
+    {
+     "jp": "東京[とうきょう]五輪[ごりん]の招致[しょうち]を機[き]に脚光[きゃっこう]を浴[あ]びた「おもてなし」という言葉[ことば]にも、似[に]た危[あや]うさがつきまとう。",
+     "en": "A similar danger hangs over the word omotenashi, which came into the spotlight during the bid to host the Tokyo Olympics."
+    },
+    {
+     "jp": "見返[みかえ]りを求[もと]めない心遣[こころづか]いという理想[りそう]は美[うつく]しい。",
+     "en": "The ideal of thoughtfulness that seeks nothing in return is a beautiful one."
+    },
+    {
+     "jp": "しかし、それが国家的[こっかてき]な売[う]り文句[もんく]として称揚[しょうよう]されるにつれ、現場[げんば]で働[はたら]く人々[ひとびと]には、際限[さいげん]のない献身[けんしん]が無償[むしょう]で求[もと]められるようになったのではないか。",
+     "en": "But as it was extolled as a national selling point, didn't the people working on the front lines come to be expected to show limitless devotion for nothing?"
+    },
+    {
+     "jp": "理不尽[りふじん]な要求[ようきゅう]や暴言[ぼうげん]を繰[く]り返[かえ]す、いわゆる「カスタマーハラスメント」が社会[しゃかい]問題化[もんだいか]して久[ひさ]しいのは、決[けっ]して偶然[ぐうぜん]ではあるまい。",
+     "en": "It is surely no coincidence that so-called \"customer harassment,\" repeated unreasonable demands and verbal abuse, has long been a social problem."
+    },
+    {
+     "jp": "近年[きんねん]、従業員[じゅうぎょういん]を守[まも]るための指針[ししん]を定[さだ]める企業[きぎょう]や、カスハラ防止[ぼうし]条例[じょうれい]を制定[せいてい]する自治体[じちたい]が現[あらわ]れ始[はじ]めたことは、遅[おそ]きに失[しっ]したとはいえ歓迎[かんげい]すべき動[うご]きである。",
+     "en": "In recent years, companies have begun setting guidelines to protect their employees, and local governments have begun enacting ordinances against customer harassment; though long overdue, this is a welcome development."
+    },
+    {
+     "jp": "留意[りゅうい]すべきは、行[い]き過[す]ぎた「おもてなし」が、実[じつ]は客[きゃく]の側[がわ]をも不自由[ふじゆう]にしているという点[てん]だ。",
+     "en": "What deserves attention is that excessive omotenashi actually makes customers less free as well."
+    },
+    {
+     "jp": "あらゆる要望[ようぼう]が先回[さきまわ]りして満[み]たされることに慣[な]れた消費者[しょうひしゃ]は、わずかな不備[ふび]にも苛立[いらだ]ち、寛容[かんよう]さを失[うしな]っていく。",
+     "en": "Consumers who grow used to having every wish anticipated and fulfilled become irritated at the slightest shortcoming and gradually lose their tolerance."
+    },
+    {
+     "jp": "もてなす者[もの]ともてなされる者[もの]が、本来[ほんらい]は対等[たいとう]な人間[にんげん]同士[どうし]であるという当[あ]たり前[まえ]の事実[じじつ]が、そこでは見失[みうしな]われている。",
+     "en": "The obvious fact that the host and the guest are, at bottom, equal human beings is lost sight of there."
+    },
+    {
+     "jp": "真[しん]のもてなしとは、一方[いっぽう]が他方[たほう]にひれ伏[ふ]すことではなく、互[たが]いへの敬意[けいい]の上[うえ]に成[な]り立[た]つ相互的[そうごてき]な営[いとな]みであるはずだ。",
+     "en": "True hospitality should not be one side prostrating itself before the other, but a mutual practice built on respect for each other."
+    },
+    {
+     "jp": "神話[しんわ]としての「おもてなし」を解体[かいたい]したとき、初[はじ]めて私[わたし]たちは、その言葉[ことば]が本来[ほんらい]持[も]っていた温[あたた]かさを取[と]り戻[もど]せるのかもしれない。",
+     "en": "Perhaps only when we dismantle omotenashi as a myth can we recover the warmth the word originally held."
+    }
+   ],
+   "questions": [
+    {
+     "q": "According to the writer, what did \"the customer is a god\" originally express?",
+     "choices": [
+      "A shop's promise to satisfy every demand",
+      "A religious teaching about merchants",
+      "A performer's inner discipline when going on stage",
+      "A government slogan for the service industry"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "What effect does the writer say excessive omotenashi has on customers?",
+     "choices": [
+      "They become more generous toward staff",
+      "They become irritated by small shortcomings and lose tolerance",
+      "They stop visiting shops",
+      "They begin to tip more"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "How does the writer define true hospitality?",
+     "choices": [
+      "Unlimited devotion from the host",
+      "Service that anticipates every wish",
+      "A national selling point for tourism",
+      "A mutual practice built on respect between equals"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n1-07",
+   "level": "N1",
+   "title": "Speech: The President's Address at the Entrance Ceremony",
+   "titleJp": "入社式[にゅうしゃしき]での式辞[しきじ]",
+   "sentences": [
+    {
+     "jp": "新入[しんにゅう]社員[しゃいん]の皆[みな]さん、入社[にゅうしゃ]おめでとうございます。",
+     "en": "To all of our new employees: congratulations on joining the company."
+    },
+    {
+     "jp": "本日[ほんじつ]、こうして皆[みな]さんを新[あら]たな仲間[なかま]としてお迎[むか]えできることを、社員[しゃいん]一同[いちどう]を代表[だいひょう]して心[こころ]より嬉[うれ]しく思[おも]います。",
+     "en": "On behalf of all our staff, I am truly delighted to be able to welcome you here today as our new colleagues."
+    },
+    {
+     "jp": "今年[ことし]の新入[しんにゅう]社員[しゃいん]は八十二名[はちじゅうにめい]、そのうち十一名[じゅういちめい]は海外[かいがい]出身[しゅっしん]の方々[かたがた]です。",
+     "en": "This year we have eighty-two new employees, eleven of whom come from overseas."
+    },
+    {
+     "jp": "国籍[こくせき]も専攻[せんこう]も異[こと]なる皆[みな]さんが、それぞれの道[みち]を経[へ]てここに集[つど]ったこと自体[じたい]に、私[わたし]は当社[とうしゃ]の未来[みらい]を見[み]る思[おも]いがいたします。",
+     "en": "In the very fact that you, with different nationalities and fields of study, have each followed your own path to gather here, I feel I can see our company's future."
+    },
+    {
+     "jp": "さて、晴[は]れの日[ひ]に水[みず]を差[さ]すようですが、皆[みな]さんにはまず、「すぐに役[やく]に立[た]とうとしなくてよい」ということをお伝[つた]えしたい。",
+     "en": "Now, it may seem like throwing cold water on this happy day, but the first thing I want to tell you is this: you don't need to try to be useful right away."
+    },
+    {
+     "jp": "意外[いがい]に思[おも]われるかもしれません。",
+     "en": "That may surprise you."
+    },
+    {
+     "jp": "私[わたし]自身[じしん]、三十年[さんじゅうねん]以上[いじょう]前[まえ]に入社[にゅうしゃ]した当初[とうしょ]は、一日[いちにち]も早[はや]く一人前[いちにんまえ]になろうと焦[あせ]るあまり、わからないことをわからないと言[い]えずに、かえって周囲[しゅうい]に迷惑[めいわく]をかけてばかりいました。",
+     "en": "When I myself first joined the company more than thirty years ago, I was so anxious to become fully competent as quickly as possible that I couldn't admit when I didn't understand something, and ended up constantly causing trouble for the people around me."
+    },
+    {
+     "jp": "そんな私[わたし]に、当時[とうじ]の上司[じょうし]がかけてくれた言葉[ことば]があります。",
+     "en": "There are some words my boss at the time said to me back then."
+    },
+    {
+     "jp": "「新人[しんじん]の最大[さいだい]の武器[ぶき]は、知[し]らないことだ。知[し]らないからこそ、我々[われわれ]が当[あ]たり前[まえ]だと思[おも]い込[こ]んでいることに疑問[ぎもん]を持[も]てる」。",
+     "en": "\"A newcomer's greatest weapon is not knowing. Precisely because you don't know, you can question the things we take for granted.\""
+    },
+    {
+     "jp": "この言葉[ことば]は、今[いま]も私[わたし]の仕事[しごと]の根幹[こんかん]にあります。",
+     "en": "Those words remain at the core of how I work to this day."
+    },
+    {
+     "jp": "組織[そしき]というものは、長[なが]く続[つづ]けば続[つづ]くほど、慣習[かんしゅう]が理由[りゆう]を失[うしな]ったまま残[のこ]り続[つづ]けるものです。",
+     "en": "The longer an organization exists, the more its customs tend to linger on even after the reasons for them have been lost."
+    },
+    {
+     "jp": "「なぜこうするのですか」という皆[みな]さんの素朴[そぼく]な問[と]いこそが、そうした惰性[だせい]を揺[ゆ]さぶり、組織[そしき]に新[あたら]しい風[かぜ]を吹[ふ]き込[こ]む力[ちから]となるのです。",
+     "en": "It is precisely your simple questions, \"Why do we do it this way?\", that have the power to shake up that inertia and breathe new life into the organization."
+    },
+    {
+     "jp": "どうか、遠慮[えんりょ]なく問[と]い、遠慮[えんりょ]なく失敗[しっぱい]してください。",
+     "en": "So please, ask questions without hesitation, and fail without hesitation."
+    },
+    {
+     "jp": "その代[か]わり、失敗[しっぱい]したときには一人[ひとり]で抱[かか]え込[こ]まず、必[かなら]ず周[まわ]りに相談[そうだん]すること――これだけは約束[やくそく]していただきたい。",
+     "en": "In return, when you do fail, don't keep it to yourself; always talk to the people around you. This one thing I would like you to promise me."
+    },
+    {
+     "jp": "先輩[せんぱい]社員[しゃいん]は皆[みな]、かつては同[おな]じように右[みぎ]も左[ひだり]もわからない新人[しんじん]でした。",
+     "en": "All of your senior colleagues were once newcomers who, just like you, didn't know left from right."
+    },
+    {
+     "jp": "皆[みな]さんの問[と]いに、きっと真剣[しんけん]に向[む]き合[あ]ってくれるはずです。",
+     "en": "I am sure they will take your questions seriously."
+    },
+    {
+     "jp": "結[むす]びに、皆[みな]さんがこの会社[かいしゃ]で、仕事[しごと]を通[つう]じて自[みずか]らを大[おお]きく育[そだ]てていかれることを心[こころ]より願[ねが]い、私[わたし]の式辞[しきじ]といたします。",
+     "en": "In closing, I sincerely hope that you will grow greatly through your work here at this company, and with that I conclude my address."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the first thing the president wants to tell the new employees?",
+     "choices": [
+      "They should work hard to be useful as quickly as possible",
+      "They don't need to try to be useful right away",
+      "They should never make mistakes in their first year",
+      "They should follow the company's customs closely"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "According to the president's former boss, what is a newcomer's greatest weapon?",
+     "choices": [
+      "Not knowing, which allows them to question assumptions",
+      "Youthful energy",
+      "Strong language skills",
+      "A fresh university education"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does the president ask the new employees to promise?",
+     "choices": [
+      "To stay with the company for at least ten years",
+      "To ask permission before asking questions",
+      "To fix their mistakes on their own",
+      "To consult the people around them when they fail"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "r-n1-08",
+   "level": "N1",
+   "title": "History: Fires and Firefighters of Edo",
+   "titleJp": "江戸[えど]の華[はな]と火消[ひけ]し",
+   "sentences": [
+    {
+     "jp": "「火事[かじ]と喧嘩[けんか]は江戸[えど]の華[はな]」という言葉[ことば]が残[のこ]っているように、江戸[えど]は世界[せかい]でも類[るい]を見[み]ないほど火災[かさい]の多[おお]い都市[とし]であった。",
+     "en": "As the surviving saying \"Fires and fights are the flowers of Edo\" suggests, Edo was a city with more fires than almost anywhere else in the world."
+    },
+    {
+     "jp": "木造[もくぞう]の長屋[ながや]が密集[みっしゅう]し、冬[ふゆ]から春[はる]にかけて乾[かわ]いた北西[ほくせい]の季節風[きせつふう]が吹[ふ]きつける江戸[えど]では、ひとたび火[ひ]が出[で]れば瞬[またた]く間[ま]に燃[も]え広[ひろ]がった。",
+     "en": "In Edo, where wooden row houses were packed tightly together and dry northwesterly seasonal winds blew hard from winter into spring, once a fire broke out it spread in the blink of an eye."
+    },
+    {
+     "jp": "なかでも明暦[めいれき]三年[さんねん]（1657年[せんろっぴゃくごじゅうななねん]）の大火[たいか]は市街[しがい]の大半[たいはん]を焼[や]き尽[つ]くし、死者[ししゃ]は十万人[じゅうまんにん]に及[およ]んだとも伝[つた]えられる。",
+     "en": "Above all, the Great Fire of Meireki 3 (1657) burned most of the city to the ground, and the death toll is said by some accounts to have reached 100,000."
+    },
+    {
+     "jp": "江戸城[えどじょう]の天守[てんしゅ]もこのとき焼失[しょうしつ]し、以後[いご]、再建[さいけん]されることはなかった。",
+     "en": "The main keep of Edo Castle was also destroyed in this fire and was never rebuilt."
+    },
+    {
+     "jp": "幕府[ばくふ]はこの大火[たいか]を教訓[きょうくん]に、都市[とし]の改造[かいぞう]に乗[の]り出[だ]す。",
+     "en": "Taking the great fire as a lesson, the shogunate set about remodeling the city."
+    },
+    {
+     "jp": "延焼[えんしょう]を食[く]い止[と]めるための空[あ]き地[ち]である「火除地[ひよけち]」や、道幅[みちはば]を広[ひろ]げた「広小路[ひろこうじ]」が各所[かくしょ]に設[もう]けられ、上野[うえの]の広小路[ひろこうじ]などはその名残[なごり]を今[いま]に伝[つた]えている。",
+     "en": "Open spaces called hiyokechi, meant to stop fires from spreading, and widened streets called hirokōji were created in many places; Ueno's Hirokōji, among others, still carries traces of them today."
+    },
+    {
+     "jp": "消防[しょうぼう]の担[にな]い手[て]も整[ととの]えられていった。",
+     "en": "The people responsible for firefighting were also organized."
+    },
+    {
+     "jp": "当初[とうしょ]は武士[ぶし]による火消[ひけ]しが中心[ちゅうしん]であったが、享保[きょうほう]年間[ねんかん]、町奉行[まちぶぎょう]の大岡[おおおか]忠相[ただすけ]のもとで、町人[ちょうにん]による「町火消[まちびけし]」が組織[そしき]される。",
+     "en": "At first, firefighting was mainly done by samurai, but in the Kyōhō era, under the city magistrate Ōoka Tadasuke, the machi-bikeshi, firefighting brigades made up of townspeople, were organized."
+    },
+    {
+     "jp": "町火消[まちびけし]は「いろは」の文字[もじ]を組[くみ]の名[な]に用[もち]いた四十数組[よんじゅうすうくみ]に編成[へんせい]され、それぞれが担当[たんとう]の町[まち]を受[う]け持[も]った。",
+     "en": "The machi-bikeshi were organized into some forty-odd brigades named after the letters of the iroha syllabary, each responsible for its assigned neighborhoods."
+    },
+    {
+     "jp": "もっとも、当時[とうじ]の消火[しょうか]は、現代[げんだい]のように水[みず]で火[ひ]を消[け]すものではなかった。",
+     "en": "Firefighting in those days, however, did not mean putting fires out with water as it does today."
+    },
+    {
+     "jp": "十分[じゅうぶん]な水[みず]を確保[かくほ]する手段[しゅだん]がなかったため、火元[ひもと]の風下[かざしも]にある家屋[かおく]を壊[こわ]して燃[も]え移[うつ]るものをなくす「破壊[はかい]消防[しょうぼう]」が主[おも]な方法[ほうほう]だったのである。",
+     "en": "Because there was no way to secure enough water, the main method was \"destructive firefighting\": tearing down houses downwind of the fire to remove anything it could spread to."
+    },
+    {
+     "jp": "纏[まとい]を掲[かか]げて屋根[やね]に上[のぼ]り、火[ひ]の粉[こ]をものともせず組[くみ]の持[も]ち場[ば]を示[しめ]す火消[ひけ]したちの姿[すがた]は江戸[えど]の人々[ひとびと]の喝采[かっさい]を浴[あ]び、浮世絵[うきよえ]にも数多[かずおお]く描[えが]かれた。",
+     "en": "The sight of firefighters climbing onto roofs holding their brigade standards aloft, marking their brigade's post with no regard for the flying sparks, won the cheers of the people of Edo and was depicted many times in ukiyo-e prints."
+    },
+    {
+     "jp": "頻発[ひんぱつ]する火事[かじ]は、人々[ひとびと]の暮[く]らしに独特[どくとく]の価値観[かちかん]をもたらした。",
+     "en": "The frequent fires gave rise to a distinctive set of values in people's lives."
+    },
+    {
+     "jp": "いつ焼[や]け出[だ]されるかわからない以上[いじょう]、財産[ざいさん]を蓄[たくわ]えるより今[いま]を楽[たの]しむ――「宵越[よいご]しの銭[ぜに]は持[も]たない」という江戸[えど]っ子[こ]の気風[きっぷ]は、こうした環境[かんきょう]と無縁[むえん]ではないとする見方[みかた]もある。",
+     "en": "Since you never knew when you might be burned out of your home, it was better to enjoy the present than to build up wealth; some see the Edokko spirit of \"never keeping money overnight\" as having something to do with these conditions."
+    },
+    {
+     "jp": "現在[げんざい]、東京[とうきょう]消防庁[しょうぼうちょう]の出初式[でぞめしき]で披露[ひろう]される梯子[はしご]乗[の]りは、町火消[まちびけし]の伝統[でんとう]を受[う]け継[つ]ぐものだ。",
+     "en": "The ladder-top acrobatics performed today at the Tokyo Fire Department's New Year review carry on the tradition of the machi-bikeshi."
+    },
+    {
+     "jp": "華[はな]やかな演技[えんぎ]の背後[はいご]には、炎[ほのお]と闘[たたか]い続[つづ]けた都市[とし]の記憶[きおく]が、今[いま]も静[しず]かに息[いき]づいている。",
+     "en": "Behind the dazzling performance, the memory of a city that fought fire again and again still quietly lives on."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What was the main firefighting method in Edo?",
+     "choices": [
+      "Pumping water from rivers",
+      "Tearing down houses downwind of the fire",
+      "Covering buildings with wet sand",
+      "Waiting for the seasonal rains"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What happened to the keep of Edo Castle in the Great Fire of Meireki?",
+     "choices": [
+      "It survived undamaged",
+      "It was rebuilt larger than before",
+      "It was moved to Ueno",
+      "It burned down and was never rebuilt"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "How do some explain the Edokko attitude of \"never keeping money overnight\"?",
+     "choices": [
+      "Because frequent fires made saving less meaningful than enjoying the present",
+      "Because the shogunate banned saving money",
+      "Because there were no banks in Edo",
+      "Because firefighters were paid daily"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ]
+}

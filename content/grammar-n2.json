@@ -1,0 +1,361 @@
+{
+ "level": "N2",
+ "units": [
+  {
+   "id": "n2-u01",
+   "title": "Reasons and causes",
+   "summary": "Ways to give a reason with extra nuance: emphasis ({からこそ}), guesswork ({せいか}), evidence ({ことから}), regret ({ばかりに}), excuses ({もん}), and expectations ({だけあって} / {だけに}).",
+   "points": [
+    {
+     "id": "n2-karakoso",
+     "title": "〜からこそ",
+     "meaning": "precisely because; it is exactly because ... that",
+     "structure": "Plain form + からこそ　／　Noun / な-adj + だからこそ",
+     "explanation": "{こそ} spotlights the word before it, so {からこそ} means \"it is **this** reason, and no other, that explains the result.\" It is especially common when the reason might seem to point the opposite way: being strict because you care, resting because you are busy.\n\nThe sentence often ends with {のだ} / {んです}, which reinforces the explaining tone. {だからこそ} can also stand alone at the start of a sentence to mean \"and that is exactly why...\".\n\nIt works in both speech and writing, and you will hear it in speeches, interviews and advertising: {皆様[みなさま]の支[ささ]えがあったからこそ} (\"it is only thanks to everyone's support\").",
+     "examples": [
+      {
+       "jp": "毎日[まいにち]練習[れんしゅう]したからこそ、優勝[ゆうしょう]できたのだと思[おも]う。",
+       "en": "I think it was precisely because we practised every day that we were able to win."
+      },
+      {
+       "jp": "あなたのことを大切[たいせつ]に思[おも]っているからこそ、厳[きび]しく言[い]うんです。",
+       "en": "It's exactly because I care about you that I'm being strict."
+      },
+      {
+       "jp": "忙[いそが]しいからこそ、休[やす]みの日[ひ]はしっかり休[やす]むようにしている。",
+       "en": "It's precisely because I'm busy that I make sure to rest properly on my days off."
+      },
+      {
+       "jp": "お客様[きゃくさま]の声[こえ]があったからこそ、この商品[しょうひん]は生[う]まれました。",
+       "en": "This product exists only because of our customers' feedback."
+      }
+     ],
+     "notes": "{ので} cannot be followed by {こそ}; use {から}. {からこそ} is about emphasis, not about obligation; compare {からには} (\"now that...\") in the next unit.",
+     "quiz": [
+      {
+       "q": "失敗[しっぱい]を経験[けいけん]した＿＿、人[ひと]の痛[いた]みがわかるようになった。",
+       "en": "It's precisely because I've experienced failure that I came to understand other people's pain.",
+       "choices": [
+        "からこそ",
+        "からといって",
+        "くせに",
+        "わりに"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "君[きみ]を信頼[しんらい]している＿＿、この仕事[しごと]を任[まか]せるんだ。",
+       "en": "It's exactly because I trust you that I'm leaving this job to you.",
+       "choices": [
+        "ものの",
+        "からこそ",
+        "くせに",
+        "からといって"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "n2-seika",
+     "title": "〜せいか",
+     "meaning": "perhaps because; maybe due to",
+     "structure": "Plain form + せいか　／　Noun + のせいか　／　な-adj + なせいか",
+     "explanation": "{せい} names a cause that is blamed for a bad result. Adding the question particle {か} makes the cause a guess: \"maybe it's because of X\". The speaker is not certain, so {せいか} is a softer, more tentative way to explain something.\n\nThe result is usually negative or at least unwelcome (tiredness, headaches, an empty shop), though in casual speech it can also describe neutral changes.\n\nA very common set phrase is {気[き]のせいか} \"maybe it's just my imagination, but...\".",
+     "examples": [
+      {
+       "jp": "年[とし]のせいか、最近[さいきん]疲[つか]れやすくなった。",
+       "en": "Maybe it's my age, but I get tired easily these days."
+      },
+      {
+       "jp": "昨日[きのう]遅[おそ]くまで起[お]きていたせいか、頭[あたま]が痛[いた]い。",
+       "en": "Perhaps because I stayed up late last night, I have a headache."
+      },
+      {
+       "jp": "雨[あめ]のせいか、今日[きょう]は店[みせ]が空[す]いている。",
+       "en": "Maybe because of the rain, the shop is quiet today."
+      },
+      {
+       "jp": "気[き]のせいか、部長[ぶちょう]は今日[きょう]機嫌[きげん]が悪[わる]いようだ。",
+       "en": "Maybe it's just me, but the department head seems to be in a bad mood today."
+      }
+     ],
+     "notes": "{せいで} states the cause as fact and blames it; {せいか} only guesses. For a good result use {おかげか} (\"perhaps thanks to\").",
+     "quiz": [
+      {
+       "q": "寝不足[ねぶそく]の＿＿、今日[きょう]は仕事[しごと]に集中[しゅうちゅう]できない。",
+       "en": "Maybe because I didn't get enough sleep, I can't concentrate on work today.",
+       "choices": [
+        "せいか",
+        "おかげか",
+        "くせに",
+        "以上[いじょう]"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "気[き]の＿＿、彼[かれ]は少[すこ]し元気[げんき]がないように見[み]えた。",
+       "en": "Maybe it was just my imagination, but he looked a bit down.",
+       "choices": [
+        "ものか",
+        "ことか",
+        "せいか",
+        "ためか"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "n2-kotokara",
+     "title": "〜ことから",
+     "meaning": "from the fact that; because (as evidence or origin)",
+     "structure": "Plain form + ことから　／　Noun + である + ことから　／　な-adj + な / である + ことから",
+     "explanation": "{ことから} points to a fact and says that a judgment, conclusion or name comes from it. Think of it as \"judging from the fact that...\" or \"since...\".\n\nTwo uses are especially common:\n- **Evidence**: police or reporters explaining a conclusion ({〜ことから、警察[けいさつ]は〜とみている}).\n- **Origin of a name**: {〜ことから、〜と呼[よ]ばれている} (\"it is called ... because ...\").\n\nIt is formal and written in tone, so you will meet it constantly in news articles, signs at tourist sites and explanations, less in everyday chat.",
+     "examples": [
+      {
+       "jp": "道[みち]が濡[ぬ]れていることから、夜中[よなか]に雨[あめ]が降[ふ]ったとわかった。",
+       "en": "From the fact that the road was wet, I could tell it had rained during the night."
+      },
+      {
+       "jp": "この橋[はし]は形[かたち]が眼鏡[めがね]に似[に]ていることから、「眼鏡橋[めがねばし]」と呼[よ]ばれている。",
+       "en": "This bridge is called the \"Spectacles Bridge\" because its shape resembles a pair of glasses."
+      },
+      {
+       "jp": "現場[げんば]に足跡[あしあと]が残[のこ]っていたことから、警察[けいさつ]は犯人[はんにん]が複数[ふくすう]いるとみている。",
+       "en": "Because footprints were left at the scene, police believe there was more than one culprit."
+      },
+      {
+       "jp": "駅[えき]から近[ちか]く家賃[やちん]も安[やす]いことから、この地域[ちいき]は学生[がくせい]に人気[にんき]がある。",
+       "en": "Since it is close to the station and rents are cheap, this area is popular with students."
+      }
+     ],
+     "quiz": [
+      {
+       "q": "部屋[へや]の電気[でんき]がついている＿＿、誰[だれ]かいると思[おも]われる。",
+       "en": "Since the lights in the room are on, it seems someone is there.",
+       "choices": [
+        "ことに",
+        "ことから",
+        "ことなく",
+        "ことか"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "この坂[さか]は桜[さくら]の木[き]が多[おお]い＿＿、「桜坂[さくらざか]」と呼[よ]ばれている。",
+       "en": "This slope is called \"Sakura-zaka\" because it has many cherry trees.",
+       "choices": [
+        "ことから",
+        "ことには",
+        "ことなく",
+        "ことだから"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "n2-bakarini",
+     "title": "〜ばかりに",
+     "meaning": "just because; simply because (with a bad result)",
+     "structure": "Plain form + ばかりに　／　Noun + である + ばかりに　／　V-たい + ばかりに",
+     "explanation": "{ばかりに} says that one (often small) cause led to a bad outcome, and it carries a strong feeling of regret: \"if only that hadn't happened...\". The result is always something unfortunate.\n\nA special pattern is {〜たいばかりに}, \"purely out of the desire to...\". Here the person does something extreme or costly because they want something so badly.\n\nIt appears in both speech and writing, typically when telling a story about a mistake.",
+     "examples": [
+      {
+       "jp": "一言[ひとこと]余計[よけい]なことを言[い]ったばかりに、彼女[かのじょ]を怒[おこ]らせてしまった。",
+       "en": "Just because I said one unnecessary thing, I made her angry."
+      },
+      {
+       "jp": "私[わたし]が道[みち]を間違[まちが]えたばかりに、みんなが電車[でんしゃ]に乗[の]り遅[おく]れた。",
+       "en": "Simply because I took the wrong road, everyone missed the train."
+      },
+      {
+       "jp": "パスワードを忘[わす]れたばかりに、手続[てつづ]きに一時間[いちじかん]もかかった。",
+       "en": "All because I forgot my password, the procedure took a whole hour."
+      },
+      {
+       "jp": "子[こ]どもに会[あ]いたいばかりに、彼[かれ]は毎週[まいしゅう]五百[ごひゃく]キロも運転[うんてん]した。",
+       "en": "Purely out of wanting to see his children, he drove 500 km every week."
+      }
+     ],
+     "notes": "Do not use {ばかりに} for good results; use {おかげで}. It is not the same as {〜たばかり} (\"have just done\").",
+     "quiz": [
+      {
+       "q": "確認[かくにん]を怠[おこた]った＿＿、大[おお]きなミスにつながってしまった。",
+       "en": "Just because I neglected to double-check, it led to a big mistake.",
+       "choices": [
+        "ものの",
+        "おかげで",
+        "ばかりに",
+        "だけあって"
+       ],
+       "answer": 2
+      },
+      {
+       "q": "合格[ごうかく]し＿＿ばかりに、彼[かれ]は寝[ね]る時間[じかん]も削[けず]って勉強[べんきょう]した。",
+       "en": "Purely out of wanting to pass, he studied even at the expense of sleep.",
+       "choices": [
+        "たい",
+        "たがる",
+        "よう",
+        "て"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "n2-mono-mon",
+     "title": "〜もの / 〜もん（ものだから）",
+     "meaning": "because, you see (personal excuse or justification)",
+     "structure": "Plain form + もの / もん（だもん・んだもん）　／　Plain form + ものだから / もんだから / ものですから",
+     "explanation": "At the end of a sentence, {もの} (casual {もん}) gives a personal reason, often as a self-justifying excuse: \"but I'm tired!\" It usually comes with {だって} at the start and often in the form {〜んだもん}. The tone is childish or sweet, typical of children, young people and close friends.\n\nIn the middle of a sentence, {ものだから} / {もんだから} explains a reason for something the speaker feels was unavoidable. The polite {ものですから} is often used when apologising: \"the train stopped, you see, so...\".\n\nBoth stress that the speaker feels the reason excuses them.",
+     "examples": [
+      {
+       "jp": "「どうして食[た]べないの？」「だって、まずいんだもん。」",
+       "en": "\"Why aren't you eating?\" \"Because it tastes bad!\""
+      },
+      {
+       "jp": "行[い]きたくないよ。疲[つか]れてるもん。",
+       "en": "I don't want to go. I'm tired."
+      },
+      {
+       "jp": "道[みち]が混[こ]んでいたものですから、遅[おく]れてしまいました。申[もう]し訳[わけ]ありません。",
+       "en": "The roads were congested, you see, so I'm late. I'm very sorry."
+      },
+      {
+       "jp": "あまりにかわいかったもんだから、つい買[か]っちゃった。",
+       "en": "It was just so cute that I ended up buying it."
+      }
+     ],
+     "notes": "Never use sentence-final {もん} to a boss or customer. At work, {ものですから} is acceptable, but apologise first so it doesn't sound like you are only making excuses.",
+     "quiz": [
+      {
+       "q": "「なんで泣[な]いてるの？」「だって、ママが怒[おこ]った＿＿。」",
+       "en": "\"Why are you crying?\" \"Because Mum got angry!\"",
+       "choices": [
+        "ものか",
+        "んだもん",
+        "ことか",
+        "ものの"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "電車[でんしゃ]が止[と]まってしまった＿＿、会議[かいぎ]に間[ま]に合[あ]いませんでした。",
+       "en": "The train stopped, you see, so I didn't make it to the meeting.",
+       "choices": [
+        "ものですから",
+        "ものなら",
+        "ものの",
+        "ものがあって"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "n2-dakeatte",
+     "title": "〜だけあって",
+     "meaning": "as you would expect from; living up to (praise)",
+     "structure": "Plain form + だけあって　／　Noun / な-adj stem + だけあって",
+     "explanation": "{だけあって} says that a result matches what you would expect, given someone's status, effort or reputation. It is almost always used to **praise**: the five-star hotel really does have great service; the person who lived abroad really does speak naturally.\n\nIt often appears with {さすが} at the start: {さすが〜だけあって}. A similar, slightly more formal variant is {〜だけのことはある} at the end of a sentence (\"...is worth its reputation\").\n\nBecause it is evaluative, the second half is a positive comment, not an action or request.",
+     "examples": [
+      {
+       "jp": "さすが一流[いちりゅう]ホテルだけあって、サービスが素晴[すば]らしい。",
+       "en": "As you'd expect of a top-class hotel, the service is excellent."
+      },
+      {
+       "jp": "十年[じゅうねん]もアメリカに住[す]んでいただけあって、彼[かれ]の英語[えいご]は自然[しぜん]だ。",
+       "en": "As you'd expect from someone who lived in America for ten years, his English is natural."
+      },
+      {
+       "jp": "毎日[まいにち]練習[れんしゅう]しているだけあって、ピアノがとても上手[じょうず]だ。",
+       "en": "Since she practises every day, it's no surprise she plays the piano very well."
+      },
+      {
+       "jp": "人気店[にんきてん]だけあって、平日[へいじつ]でも行列[ぎょうれつ]ができている。",
+       "en": "It's a popular restaurant, so it's no wonder there's a queue even on a weekday."
+      }
+     ],
+     "notes": "Opposite expectation: {にしては} / {わりに} (\"for a ..., surprisingly\"). See {だけに} for the difference between the two.",
+     "quiz": [
+      {
+       "q": "プロの料理人[りょうりにん]＿＿、味付[あじつ]けが完璧[かんぺき]だ。",
+       "en": "As you'd expect from a professional chef, the seasoning is perfect.",
+       "choices": [
+        "にしては",
+        "だけあって",
+        "くせに",
+        "わりに"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "高[たか]かった＿＿、このコートはとても暖[あたた]かい。",
+       "en": "As you'd expect given how expensive it was, this coat is very warm.",
+       "choices": [
+        "ばかりに",
+        "ものの",
+        "くせに",
+        "だけあって"
+       ],
+       "answer": 3
+      }
+     ]
+    },
+    {
+     "id": "n2-dakeni",
+     "title": "〜だけに",
+     "meaning": "all the more because; precisely because (good or bad)",
+     "structure": "Plain form + だけに　／　Noun / な-adj stem + だけに",
+     "explanation": "{だけに} also links a situation to a natural consequence, but it adds the idea of \"all the more\". Because of X, the feeling or result is stronger than usual.\n\nThe key difference from {だけあって}:\n- {だけあって} is praise: the result lives up to expectations.\n- {だけに} can be positive **or negative**, and is very common with emotions like disappointment or shock: {期待[きたい]していただけに、がっかりした} (\"I was looking forward to it, so I was all the more disappointed\").\n\nIt also describes natural characteristics: {年末[ねんまつ]だけに混[こ]んでいる} (\"it's the end of the year, so of course it's crowded\").",
+     "examples": [
+      {
+       "jp": "期待[きたい]していただけに、試合[しあい]に負[ま]けたときはショックだった。",
+       "en": "I'd had such high hopes, so losing the match was all the more of a shock."
+      },
+      {
+       "jp": "彼[かれ]は若[わか]いだけに、新[あたら]しいことを覚[おぼ]えるのが速[はや]い。",
+       "en": "Being young, he is quick to pick up new things."
+      },
+      {
+       "jp": "年末[ねんまつ]だけに、駅[えき]はどこも人[ひと]でいっぱいだ。",
+       "en": "It being the end of the year, every station is packed with people."
+      },
+      {
+       "jp": "一生懸命[いっしょうけんめい]準備[じゅんび]しただけに、中止[ちゅうし]になって本当[ほんとう]に残念[ざんねん]だ。",
+       "en": "Because we prepared so hard, it's all the more disappointing that it was cancelled."
+      }
+     ],
+     "notes": "Quick test: if the result is bad or is an emotion such as {残念[ざんねん]}, {ショック} or {悔[くや]しい}, choose {だけに}. If it is praise that matches a reputation, both may work, but {だけあって} is the typical choice.",
+     "quiz": [
+      {
+       "q": "楽[たの]しみにしていた＿＿、コンサートが中止[ちゅうし]になって本当[ほんとう]にがっかりした。",
+       "en": "I'd been looking forward to it, so I was all the more disappointed when the concert was cancelled.",
+       "choices": [
+        "だけに",
+        "だけあって",
+        "からといって",
+        "わりに"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "相手[あいて]は小[ちい]さい子[こ]ども＿＿、少[すこ]しも目[め]が離[はな]せない。",
+       "en": "Since I'm dealing with a small child, I can't take my eyes off them for a second.",
+       "choices": [
+        "にしては",
+        "だけあって",
+        "だけに",
+        "からには"
+       ],
+       "answer": 2
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "life-meishi",
+  "title": "Business cards & hierarchy",
+  "level": "N3",
+  "intro": "Exchanging business cards ({名刺[めいし]交換[こうかん]}) is a small ritual at first meetings with people from other companies. A card represents its owner, so handle it with care.\n\n- Keep cards in a card case ({名刺入[めいしい]れ}), not loose in a pocket or wallet.\n- Stand up and face the other person, ideally without a table between you.\n- The visitor, or the more junior person, usually offers first.\n- Hold your card with both hands, turned so the other person can read it, and say your company and name: {株式会社[かぶしきがいしゃ]ミチのスミスと申[もう]します}.\n- Hold your card slightly lower than theirs as a sign of humility.\n- If you exchange at the same time, give with your right hand and receive with your left, then support it with both hands.\n- Receive with {頂戴[ちょうだい]いたします}, and take a moment to look at the name and title.\n\nDuring the meeting, lay the cards on the table in front of you in the order people are seated. The most senior person's card is often placed on top of your card case. Never write on someone's card in front of them, and put the cards away carefully at the end.\n\nHierarchy shows up everywhere. Common titles include {社長[しゃちょう]} (president), {部長[ぶちょう]} (department head), {課長[かちょう]} (section head) and {係長[かかりちょう]} (group leader), though titles vary by company. Seating also follows rank: the place of honor ({上座[かみざ]}) is usually farthest from the door, and the lowest seat ({下座[しもざ]}) is nearest the door. Guests and seniors get the {上座[かみざ]}.",
+  "phrases": [
+    { "jp": "株式会社[かぶしきがいしゃ]ミチのスミスと申[もう]します。よろしくお願[ねが]いいたします。", "en": "I'm Smith from Michi Co., Ltd. Pleased to meet you." },
+    { "jp": "頂戴[ちょうだい]いたします。", "en": "Thank you. (receiving a card)" },
+    { "jp": "申[もう]し訳[わけ]ございません、ただいま名刺[めいし]を切[き]らしておりまして。", "en": "I'm very sorry, I've run out of business cards at the moment." },
+    { "jp": "失礼[しつれい]ですが、お名前[なまえ]は何[なん]とお読[よ]みすればよろしいでしょうか。", "en": "Excuse me, how should I read your name?", "note": "Japanese names can have several readings, so this is a common and polite question." },
+    { "jp": "本日[ほんじつ]はお忙[いそが]しいところ、お越[こ]しいただきありがとうございます。", "en": "Thank you for coming today despite your busy schedule." },
+    { "jp": "本日[ほんじつ]はお時間[じかん]をいただき、ありがとうございます。", "en": "Thank you for your time today." },
+    { "jp": "どうぞ、奥[おく]のお席[せき]へ。", "en": "Please take the seat at the back. (offering the seat of honor)" },
+    { "jp": "ご紹介[しょうかい]いたします。こちらは弊社[へいしゃ]の部長[ぶちょう]の田中[たなか]です。", "en": "Let me introduce you. This is Tanaka, our department manager." },
+    { "jp": "弊社[へいしゃ]の新[あたら]しいサービスについてご説明[せつめい]いたします。", "en": "I'll explain our new service." },
+    { "jp": "担当[たんとう]が変[か]わりましたので、ご挨拶[あいさつ]に伺[うかが]いました。", "en": "I've taken over as your contact, so I've come to introduce myself." },
+    { "jp": "後日[ごじつ]、改[あらた]めてご連絡[れんらく]いたします。", "en": "I'll contact you again at a later date." },
+    { "jp": "今後[こんご]ともよろしくお願[ねが]いいたします。", "en": "I look forward to working with you in the future." }
+  ],
+  "vocab": [
+    { "jp": "名刺[めいし]", "en": "business card" },
+    { "jp": "名刺入[めいしい]れ", "en": "business card case" },
+    { "jp": "名刺[めいし]交換[こうかん]", "en": "exchange of business cards" },
+    { "jp": "肩書[かたが]き", "en": "title, position (on a card)" },
+    { "jp": "役職[やくしょく]", "en": "position, managerial post" },
+    { "jp": "社長[しゃちょう]", "en": "company president" },
+    { "jp": "部長[ぶちょう]", "en": "department manager" },
+    { "jp": "課長[かちょう]", "en": "section manager" },
+    { "jp": "係長[かかりちょう]", "en": "group / subsection leader" },
+    { "jp": "弊社[へいしゃ]", "en": "our company (humble)" },
+    { "jp": "御社[おんしゃ]", "en": "your company (respectful, spoken)" },
+    { "jp": "上座[かみざ]", "en": "seat of honor" },
+    { "jp": "下座[しもざ]", "en": "lowest-ranking seat" },
+    { "jp": "取引先[とりひきさき]", "en": "client, business partner" }
+  ],
+  "dialogue": [
+    { "speaker": "Tanaka", "jp": "山本[やまもと]様[さま]、ご紹介[しょうかい]いたします。今月[こんげつ]からこのプロジェクトを担当[たんとう]しております、スミスです。", "en": "Mr. Yamamoto, let me introduce Smith, who has been in charge of this project since this month." },
+    { "speaker": "You", "jp": "株式会社[かぶしきがいしゃ]ミチのスミスと申[もう]します。よろしくお願[ねが]いいたします。", "en": "I'm Smith from Michi Co., Ltd. Pleased to meet you." },
+    { "speaker": "Client", "jp": "頂戴[ちょうだい]いたします。ABC商事[しょうじ]の山本[やまもと]です。よろしくお願[ねが]いします。", "en": "Thank you. I'm Yamamoto from ABC Trading. Pleased to meet you." },
+    { "speaker": "You", "jp": "頂戴[ちょうだい]いたします。恐[おそ]れ入[い]りますが、下[した]のお名前[なまえ]は何[なん]とお読[よ]みすればよろしいでしょうか。", "en": "Thank you. Excuse me, but how should I read your given name?" },
+    { "speaker": "Client", "jp": "「たかし」と読[よ]みます。よく間違[まちが]えられるんですよ。", "en": "It's read 'Takashi'. People often get it wrong." },
+    { "speaker": "You", "jp": "ありがとうございます。今後[こんご]ともよろしくお願[ねが]いいたします。", "en": "Thank you. I look forward to working with you." },
+    { "speaker": "Client", "jp": "こちらこそ。どうぞ、おかけください。", "en": "Likewise. Please, have a seat." },
+    { "speaker": "Tanaka", "jp": "では、失礼[しつれい]いたします。", "en": "Thank you, excuse us." }
+  ],
+  "tips": [
+    "Always carry more cards than you think you'll need. Running out at a big meeting is awkward.",
+    "Do not put a received card straight into your pocket or write notes on it during the meeting. Afterward, recording the date and context elsewhere is fine.",
+    "In taxis, the seat behind the driver is usually the seat of honor; the front passenger seat is for the most junior person.",
+    "Your company may use different titles in English and Japanese. Learn both versions of your own title.",
+    "In foreign-owned companies and startups, these customs can be more relaxed, but with traditional Japanese clients, follow them carefully."
+  ]
+}

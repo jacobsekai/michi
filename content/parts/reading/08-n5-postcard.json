@@ -1,0 +1,21 @@
+{
+  "id": "r-n5-08",
+  "level": "N5",
+  "title": "A Postcard from Kyoto",
+  "titleJp": "京都[きょうと]からのはがき",
+  "sentences": [
+    { "jp": "田中[たなか]先生[せんせい]、お元気[げんき]ですか。", "en": "Dear Tanaka-sensei, how are you?" },
+    { "jp": "私[わたし]は今[いま]、京都[きょうと]にいます。", "en": "I'm in Kyoto now." },
+    { "jp": "昨日[きのう]、東京[とうきょう]から新幹線[しんかんせん]で来[き]ました。", "en": "I came from Tokyo by shinkansen yesterday." },
+    { "jp": "京都[きょうと]は古[ふる]いお寺[てら]がたくさんあって、とてもきれいな町[まち]です。", "en": "Kyoto has lots of old temples, and it's a very beautiful city." },
+    { "jp": "今日[きょう]は金閣寺[きんかくじ]へ行[い]きました。", "en": "Today I went to Kinkakuji." },
+    { "jp": "人[ひと]が多[おお]かったですが、写真[しゃしん]をたくさん撮[と]りました。", "en": "There were a lot of people, but I took lots of photos." },
+    { "jp": "昨日[きのう]の夜[よる]は、おいしいそばを食[た]べました。", "en": "Last night I ate delicious soba." },
+    { "jp": "来週[らいしゅう]の月曜日[げつようび]に東京[とうきょう]へ帰[かえ]ります。また学校[がっこう]で会[あ]いましょう。", "en": "I'll go back to Tokyo next Monday. See you at school again." }
+  ],
+  "questions": [
+    { "q": "How did the writer travel to Kyoto?", "choices": ["By plane", "By bus", "By car", "By shinkansen"], "answer": 3 },
+    { "q": "What was Kinkakuji like when the writer visited?", "choices": ["It was crowded", "It was closed", "It was raining", "It was quiet and empty"], "answer": 0 },
+    { "q": "When will the writer return to Tokyo?", "choices": ["Tomorrow", "This weekend", "Next Monday", "Next month"], "answer": 2 }
+  ]
+}

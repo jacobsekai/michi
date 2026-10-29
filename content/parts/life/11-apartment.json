@@ -1,0 +1,61 @@
+{
+  "id": "life-apartment",
+  "title": "Finding an apartment",
+  "level": "N4",
+  "intro": "Most rentals go through a real-estate agency ({不動産屋[ふどうさんや]}). You browse listings online or in the shop, arrange a viewing ({内見[ないけん]}), apply, pass a screening ({審査[しんさ]}) and then sign the contract.\n\nThe upfront costs surprise many newcomers. Typical items include:\n\n- {敷金[しききん]}: a deposit, used for cleaning and repairs when you move out; the rest is returned.\n- {礼金[れいきん]}: key money, a non-refundable payment to the landlord. Many listings now have none.\n- {仲介[ちゅうかい]手数料[てすうりょう]}: the agency's fee.\n- The first month's rent, fire insurance, a lock change fee and a guarantor company fee.\n\nTogether these often add up to several months' rent, so budget carefully and ask for a full estimate.\n\nLandlords usually want a guarantor ({保証人[ほしょうにん]}). Since most foreigners don't have a Japanese relative to ask, you will normally use a guarantor company ({保証[ほしょう]会社[がいしゃ]}) instead. Unfortunately, some landlords still refuse foreign tenants; agencies that specialize in helping foreigners can save you time.\n\nLayouts are written as codes: the number is the count of rooms, plus K (kitchen), DK (dining-kitchen) or LDK (living-dining-kitchen). A 1R is a single room with the kitchen in it, 1K has a separate small kitchen, and 1LDK has a bedroom plus a living area. Room sizes are often given in tatami mats ({畳[じょう]}). Contracts commonly run for two years, and in some regions renewal requires a fee ({更新料[こうしんりょう]}).",
+  "phrases": [
+    { "jp": "部屋[へや]を探[さが]しているんですが。", "en": "I'm looking for an apartment." },
+    { "jp": "家賃[やちん]は8万円[はちまんえん]以内[いない]がいいです。", "en": "I'd like the rent to be 80,000 yen or less." },
+    { "jp": "駅[えき]から徒歩[とほ]10分[じゅっぷん]以内[いない]がいいです。", "en": "I'd prefer within a 10-minute walk of the station." },
+    { "jp": "1LDKの部屋[へや]はありますか。", "en": "Do you have any 1LDK apartments?" },
+    { "jp": "外国人[がいこくじん]でも借[か]りられますか。", "en": "Can a foreigner rent this?" },
+    { "jp": "礼金[れいきん]なしの物件[ぶっけん]はありますか。", "en": "Are there any places with no key money?" },
+    { "jp": "初期[しょき]費用[ひよう]は全部[ぜんぶ]でいくらぐらいですか。", "en": "About how much are the move-in costs in total?" },
+    { "jp": "管理費[かんりひ]は含[ふく]まれていますか。", "en": "Is the maintenance fee included?" },
+    { "jp": "内見[ないけん]できますか。", "en": "Can I view it?" },
+    { "jp": "保証人[ほしょうにん]がいないんですが。", "en": "I don't have a guarantor." },
+    { "jp": "保証[ほしょう]会社[がいしゃ]を利用[りよう]できますか。", "en": "Can I use a guarantor company?" },
+    { "jp": "ペット可[か]ですか。", "en": "Are pets allowed?" },
+    { "jp": "バス・トイレ別[べつ]ですか。", "en": "Are the bath and toilet separate?" },
+    { "jp": "契約[けいやく]期間[きかん]は何年[なんねん]ですか。", "en": "How long is the contract?" },
+    { "jp": "更新料[こうしんりょう]はかかりますか。", "en": "Is there a renewal fee?" },
+    { "jp": "退去[たいきょ]するときは、いつまでに連絡[れんらく]すればいいですか。", "en": "How much notice do I need to give when moving out?" }
+  ],
+  "vocab": [
+    { "jp": "不動産屋[ふどうさんや]", "en": "real-estate agency" },
+    { "jp": "物件[ぶっけん]", "en": "property, listing" },
+    { "jp": "家賃[やちん]", "en": "rent" },
+    { "jp": "管理費[かんりひ]", "en": "building maintenance fee" },
+    { "jp": "敷金[しききん]", "en": "security deposit" },
+    { "jp": "礼金[れいきん]", "en": "key money (non-refundable)" },
+    { "jp": "仲介[ちゅうかい]手数料[てすうりょう]", "en": "agency (brokerage) fee" },
+    { "jp": "保証人[ほしょうにん]", "en": "guarantor (person)" },
+    { "jp": "保証[ほしょう]会社[がいしゃ]", "en": "rent guarantor company" },
+    { "jp": "審査[しんさ]", "en": "screening" },
+    { "jp": "間取[まど]り", "en": "floor plan, layout" },
+    { "jp": "内見[ないけん]", "en": "viewing" },
+    { "jp": "更新料[こうしんりょう]", "en": "contract renewal fee" },
+    { "jp": "畳[じょう]", "en": "tatami mat (unit of room size)" },
+    { "jp": "築年数[ちくねんすう]", "en": "age of the building" }
+  ],
+  "dialogue": [
+    { "speaker": "Agent", "jp": "いらっしゃいませ。お部屋[へや]をお探[さが]しですか。", "en": "Welcome. Are you looking for an apartment?" },
+    { "speaker": "You", "jp": "はい。会社[かいしゃ]の近[ちか]くで、1Kか1DKの部屋[へや]を探[さが]しています。", "en": "Yes. I'm looking for a 1K or 1DK near my office." },
+    { "speaker": "Agent", "jp": "ご予算[よさん]はどのくらいでしょうか。", "en": "What's your budget?" },
+    { "speaker": "You", "jp": "管理費[かんりひ]込[こ]みで7万円[ななまんえん]ぐらいです。", "en": "Around 70,000 yen including the maintenance fee." },
+    { "speaker": "Agent", "jp": "かしこまりました。こちらの物件[ぶっけん]はいかがでしょうか。駅[えき]から徒歩[とほ]8分[はっぷん]で、築[ちく]10年[じゅうねん]です。", "en": "Certainly. How about this one? It's an 8-minute walk from the station and the building is 10 years old." },
+    { "speaker": "You", "jp": "いいですね。外国人[がいこくじん]でも大丈夫[だいじょうぶ]ですか。", "en": "Looks good. Is it OK for a foreigner?" },
+    { "speaker": "Agent", "jp": "はい。保証[ほしょう]会社[がいしゃ]のご利用[りよう]が条件[じょうけん]ですが、問題[もんだい]ございません。", "en": "Yes. Using a guarantor company is a condition, but that's no problem." },
+    { "speaker": "You", "jp": "初期[しょき]費用[ひよう]はどのくらいかかりますか。", "en": "How much will the move-in costs be?" },
+    { "speaker": "Agent", "jp": "敷金[しききん]1ヶ月[いっかげつ]、礼金[れいきん]なしなので、全部[ぜんぶ]で家賃[やちん]の4ヶ月分[よんかげつぶん]ぐらいです。", "en": "Deposit is one month and there's no key money, so in total about four months' rent." },
+    { "speaker": "You", "jp": "内見[ないけん]できますか。", "en": "Can I view it?" },
+    { "speaker": "Agent", "jp": "はい、今日[きょう]の午後[ごご]でしたらご案内[あんない]できます。", "en": "Yes, I can take you this afternoon." }
+  ],
+  "tips": [
+    "Take photos of every scratch and stain on move-in day and send them to the agency. It helps when the deposit is settled at move-out.",
+    "One tatami mat is roughly 1.5 to 1.7 square meters depending on the region. A 6-mat room is small by many Western standards.",
+    "Read the move-out notice period in your contract; one month is common, but check.",
+    "Ask whether the place comes with lights, air conditioning and a gas stove. Unfurnished in Japan can mean very bare.",
+    "Share houses and furnished monthly apartments are an easy first step while you get your bank account, phone and job sorted out."
+  ]
+}

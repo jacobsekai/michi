@@ -1,0 +1,24 @@
+{
+  "id": "r-n3-06",
+  "level": "N3",
+  "title": "City to Start Japanese Classes for Foreign Residents",
+  "titleJp": "外国人[がいこくじん]住民[じゅうみん]のための日本語[にほんご]教室[きょうしつ]",
+  "sentences": [
+    { "jp": "みどり市[し]は、来月[らいげつ]から、市内[しない]に住[す]む外国人[がいこくじん]のための無料[むりょう]の日本語[にほんご]教室[きょうしつ]を始[はじ]めると発表[はっぴょう]した。", "en": "Midori City has announced that starting next month, it will begin free Japanese classes for foreign nationals living in the city." },
+    { "jp": "市[し]によると、この五年[ごねん]で市内[しない]の外国人[がいこくじん]住民[じゅうみん]は約[やく]二倍[にばい]に増[ふ]えたという。", "en": "According to the city, the number of foreign residents in the city has roughly doubled over the past five years." },
+    { "jp": "その多[おお]くは、近[ちか]くの工場[こうじょう]や介護[かいご]施設[しせつ]で働[はたら]く人[ひと]たちだ。", "en": "Many of them work at nearby factories or care facilities." },
+    { "jp": "市[し]が去年[きょねん]行[おこな]ったアンケートでは、「病院[びょういん]や役所[やくしょ]で言葉[ことば]がわからなくて困[こま]った」という答[こた]えが最[もっと]も多[おお]かった。", "en": "In a survey the city conducted last year, the most common answer was \"I had trouble because I couldn't understand the language at the hospital or at government offices.\"" },
+    { "jp": "そこで市[し]は、生活[せいかつ]に必要[ひつよう]な日本語[にほんご]を学[まな]べる場所[ばしょ]を作[つく]ることにした。", "en": "So the city decided to create a place where people can learn the Japanese they need for daily life." },
+    { "jp": "教室[きょうしつ]は毎週[まいしゅう]水曜日[すいようび]と土曜日[どようび]の夜[よる]に、駅前[えきまえ]の公民館[こうみんかん]で開[ひら]かれる。", "en": "The classes will be held every Wednesday and Saturday evening at the community center in front of the station." },
+    { "jp": "授業[じゅぎょう]では、ごみの出[だ]し方[かた]や病院[びょういん]での話[はな]し方[かた]など、実際[じっさい]の場面[ばめん]を使[つか]って練習[れんしゅう]する予定[よてい]だ。", "en": "In the lessons, students are expected to practice with real-life situations, such as how to put out the garbage and how to talk at a hospital." },
+    { "jp": "先生[せんせい]は、研修[けんしゅう]を受[う]けた地域[ちいき]のボランティアが担当[たんとう]する。", "en": "The teaching will be done by local volunteers who have received training." },
+    { "jp": "また、子[こ]ども連[づ]れでも参加[さんか]できるように、教室[きょうしつ]の隣[となり]に子[こ]どもが遊[あそ]べる部屋[へや]も用意[ようい]される。", "en": "Also, so that people with children can take part, a room where children can play will be set up next to the classroom." },
+    { "jp": "市[し]の担当者[たんとうしゃ]は「言葉[ことば]を学[まな]ぶだけでなく、地域[ちいき]の人[ひと]と知[し]り合[あ]うきっかけにもしてほしい」と話[はな]している。", "en": "The city official in charge said, \"We hope it will be not just a place to learn the language, but also a chance to get to know people in the community.\"" },
+    { "jp": "申[もう]し込[こ]みは、市[し]のホームページか市役所[しやくしょ]の窓口[まどぐち]でできる。", "en": "Applications can be made on the city's website or at the counter at City Hall." }
+  ],
+  "questions": [
+    { "q": "Why did the city decide to start the classes?", "choices": ["Local companies asked for them", "In a survey, many residents said they struggled with the language at hospitals and offices", "The national government ordered it", "Volunteers wanted a place to teach"], "answer": 1 },
+    { "q": "Who will teach the classes?", "choices": ["Professional Japanese teachers", "City Hall staff", "University students", "Trained local volunteers"], "answer": 3 },
+    { "q": "What is provided for participants who have children?", "choices": ["A play room next to the classroom", "A separate class for children", "Free online lessons at home", "Transportation to the community center"], "answer": 0 }
+  ]
+}

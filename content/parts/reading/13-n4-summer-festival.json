@@ -1,0 +1,23 @@
+{
+  "id": "r-n4-05",
+  "level": "N4",
+  "title": "The Summer Festival",
+  "titleJp": "夏祭[なつまつ]り",
+  "sentences": [
+    { "jp": "私[わたし]の町[まち]では、毎年[まいとし]八月[はちがつ]の初[はじ]めに夏祭[なつまつ]りがあります。", "en": "In my town, there is a summer festival every year at the beginning of August." },
+    { "jp": "去年[きょねん]、初[はじ]めて浴衣[ゆかた]を着[き]て、友[とも]だちと一緒[いっしょ]に行[い]きました。", "en": "Last year, I wore a yukata for the first time and went with my friends." },
+    { "jp": "浴衣[ゆかた]は一人[ひとり]で着[き]るのが難[むずか]しいので、ホームステイのお母[かあ]さんに手伝[てつだ]ってもらいました。", "en": "A yukata is hard to put on by yourself, so my homestay mother helped me." },
+    { "jp": "神社[じんじゃ]の前[まえ]の道[みち]には、たくさんの屋台[やたい]が並[なら]んでいました。", "en": "Lots of food stalls were lined up along the street in front of the shrine." },
+    { "jp": "焼[や]きそばやかき氷[ごおり]を買[か]って、食[た]べながら歩[ある]きました。", "en": "We bought yakisoba and shaved ice and ate them as we walked." },
+    { "jp": "夜[よる]になると、大[おお]きな太鼓[たいこ]の音[おと]が聞[き]こえてきました。", "en": "When night came, we could hear the sound of big taiko drums." },
+    { "jp": "町[まち]の人[ひと]たちが、おみこしを担[かつ]いで、元気[げんき]な声[こえ]を出[だ]しながら通[とお]っていきました。", "en": "People from the town went past carrying a portable shrine on their shoulders, shouting energetically." },
+    { "jp": "祭[まつ]りの最後[さいご]には、川[かわ]の近[ちか]くで花火[はなび]が上[あ]がりました。", "en": "At the end of the festival, fireworks went up near the river." },
+    { "jp": "空[そら]いっぱいに広[ひろ]がる花火[はなび]は、本当[ほんとう]にきれいでした。", "en": "The fireworks spreading across the whole sky were really beautiful." },
+    { "jp": "日本[にほん]の夏[なつ]は暑[あつ]くて大変[たいへん]ですが、祭[まつ]りがあるので、私[わたし]は夏[なつ]が好[す]きになりました。", "en": "Summer in Japan is hot and tough, but because of the festivals, I've come to like summer." }
+  ],
+  "questions": [
+    { "q": "Who helped the writer put on the yukata?", "choices": ["A friend", "A shop clerk", "The writer's homestay mother", "Nobody; the writer did it alone"], "answer": 2 },
+    { "q": "What happened at the end of the festival?", "choices": ["A taiko drum contest", "Fireworks near the river", "A dance in front of the shrine", "The portable shrine returned to the shrine"], "answer": 1 },
+    { "q": "How does the writer feel about Japanese summer now?", "choices": ["Still dislikes it because it is too hot", "Prefers winter festivals", "Thinks it is too short", "Has come to like it because of the festivals"], "answer": 3 }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "r-n2-05",
+  "level": "N2",
+  "title": "Press Release: A New Onigiri",
+  "titleJp": "新商品[しんしょうひん]発売[はつばい]のお知[し]らせ",
+  "sentences": [
+    { "jp": "株式会社[かぶしきがいしゃ]サンライズマートは、十一月[じゅういちがつ]十日[とおか]より、全国[ぜんこく]の店舗[てんぽ]にて新商品[しんしょうひん]「ごろっと具[ぐ]だくさんおにぎり」を発売[はつばい]いたします。", "en": "Sunrise Mart Co., Ltd. will launch its new product, the \"Chunky Filling-Packed Onigiri,\" at stores nationwide from November 10." },
+    { "jp": "本商品[ほんしょうひん]は、「おにぎりの具[ぐ]が少[すく]ない」というお客様[きゃくさま]の声[こえ]をもとに、約[やく]一年[いちねん]かけて開発[かいはつ]したものです。", "en": "This product was developed over about a year based on customer feedback that \"onigiri don't have enough filling.\"" },
+    { "jp": "従来[じゅうらい]の商品[しょうひん]と比[くら]べて具[ぐ]の量[りょう]を約[やく]二倍[にばい]に増[ふ]やし、どこを食[た]べても具[ぐ]が味[あじ]わえるよう、ご飯[はん]の形[かたち]と具[ぐ]の配置[はいち]を工夫[くふう]しました。", "en": "Compared with our previous products, we have roughly doubled the amount of filling and carefully designed the shape of the rice and the placement of the filling so you can taste filling in every bite." },
+    { "jp": "発売[はつばい]時[じ]には、鮭[さけ]、ツナマヨネーズ、牛[ぎゅう]しぐれ煮[に]の三種類[さんしゅるい]をご用意[ようい]しています。", "en": "At launch, three varieties will be available: salmon, tuna mayonnaise, and simmered beef with ginger." },
+    { "jp": "価格[かかく]はいずれも税込[ぜいこみ]二百三十八円[にひゃくさんじゅうはちえん]です。", "en": "All are priced at 238 yen including tax." },
+    { "jp": "また、環境[かんきょう]への配慮[はいりょ]から、包装[ほうそう]フィルムに使[つか]うプラスチックの量[りょう]を従来[じゅうらい]より約[やく]三割[さんわり]削減[さくげん]しました。", "en": "In addition, out of consideration for the environment, we have reduced the amount of plastic used in the wrapping film by about 30 percent compared with before." },
+    { "jp": "フィルムの開[あ]け方[かた]も見直[みなお]し、中央[ちゅうおう]のテープを引[ひ]くだけで、のりが破[やぶ]れずにきれいに巻[ま]けるようになっています。", "en": "We have also redesigned how the film opens, so that just by pulling the tape in the middle, you can wrap the nori neatly without tearing it." },
+    { "jp": "近年[きんねん]、単身[たんしん]世帯[せたい]や共働[ともばたら]き世帯[せたい]の増加[ぞうか]に伴[ともな]い、手軽[てがる]に食[た]べられる食品[しょくひん]の需要[じゅよう]が高[たか]まっています。", "en": "In recent years, with the increase in single-person and dual-income households, demand for food that can be eaten easily has been rising." },
+    { "jp": "当社[とうしゃ]の調査[ちょうさ]では、おにぎりを昼食[ちゅうしょく]として購入[こうにゅう]されるお客様[きゃくさま]の約[やく]六割[ろくわり]が「一個[いっこ]では物足[ものた]りない」と回答[かいとう]しています。", "en": "In our survey, about 60 percent of customers who buy onigiri for lunch answered that \"one isn't quite enough.\"" },
+    { "jp": "本商品[ほんしょうひん]は、一個[いっこ]でも満足感[まんぞくかん]を得[え]られるおにぎりとして、こうしたニーズにお応[こた]えするものです。", "en": "This product responds to those needs as an onigiri that leaves you satisfied with just one." },
+    { "jp": "発売[はつばい]を記念[きねん]し、十一月[じゅういちがつ]十日[とおか]から十六日[じゅうろくにち]までの一週間[いっしゅうかん]、二個[にこ]お買[か]い上[あ]げごとに五十円[ごじゅうえん]を割[わ]り引[び]くキャンペーンを実施[じっし]いたします。", "en": "To celebrate the launch, we will run a campaign for one week, from November 10 to 16, giving 50 yen off for every two purchased." },
+    { "jp": "なお、一部[いちぶ]店舗[てんぽ]では取[と]り扱[あつか]いがない場合[ばあい]や、販売[はんばい]時期[じき]が異[こと]なる場合[ばあい]がございます。", "en": "Please note that some stores may not carry the product, or may begin selling it at a different time." },
+    { "jp": "今後[こんご]も当社[とうしゃ]は、お客様[きゃくさま]の声[こえ]を大切[たいせつ]にした商品[しょうひん]づくりに取[と]り組[く]んでまいります。", "en": "We will continue to work on developing products that value our customers' voices." }
+  ],
+  "questions": [
+    { "q": "What led the company to develop this product?", "choices": ["Complaints that onigiri were too expensive", "Customer feedback that onigiri had too little filling", "Pressure from environmental groups", "A request from a TV program"], "answer": 1 },
+    { "q": "What did the company's survey find?", "choices": ["Most customers prefer salmon", "Customers want less plastic packaging", "About 60% of lunchtime onigiri buyers find one isn't enough", "About 30% of customers eat onigiri every day"], "answer": 2 },
+    { "q": "What does the launch campaign offer?", "choices": ["A free onigiri with any drink", "Double points for one month", "30% off all onigiri", "50 yen off for every two purchased, for one week"], "answer": 3 }
+  ]
+}

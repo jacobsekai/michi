@@ -1,0 +1,58 @@
+{
+  "id": "life-interview",
+  "title": "The job interview",
+  "level": "N3",
+  "intro": "Japanese job interviews ({面接[めんせつ]}) follow a fairly set ritual, and getting the manners right makes a strong first impression. There are often several rounds, ending in a final interview with senior managers.\n\nArrive a few minutes early, but not too early; around five to ten minutes before is ideal. Wear a dark, conservative suit unless told otherwise. For an in-person interview, the typical sequence is:\n\n- Knock on the door, wait for {どうぞ}, enter and say {失礼[しつれい]いたします}.\n- Close the door, turn and bow, walk to the side of the chair.\n- Give your name and {よろしくお願[ねが]いいたします}, and bow again.\n- Sit only when invited: {どうぞおかけください}.\n- At the end, stand, thank them, bow, and say {失礼[しつれい]いたします} again at the door.\n\nRefer to the company you are applying to as {御社[おんしゃ]} when speaking (in writing it becomes {貴社[きしゃ]}), and speak in polite, humble Japanese about yourself.\n\nCommon questions include a self-introduction or self-PR, your reason for applying ({志望[しぼう]動機[どうき]}), strengths and weaknesses, why you want to work in Japan, and how long you plan to stay. At the end you will almost always be asked if you have any questions ({逆質問[ぎゃくしつもん]}); prepare at least one or two thoughtful ones. Online interviews are common too: test your camera and sound beforehand, and keep the same level of politeness.",
+  "phrases": [
+    { "jp": "失礼[しつれい]いたします。", "en": "Excuse me. (entering, sitting, leaving)" },
+    { "jp": "ジョン・スミスと申[もう]します。本日[ほんじつ]はよろしくお願[ねが]いいたします。", "en": "My name is John Smith. Thank you for seeing me today." },
+    { "jp": "どうぞおかけください。", "en": "Please have a seat. (interviewer)" },
+    { "jp": "簡単[かんたん]に自己紹介[じこしょうかい]をお願[ねが]いします。", "en": "Please briefly introduce yourself. (interviewer)" },
+    { "jp": "前職[ぜんしょく]では、3年間[さんねんかん]営業[えいぎょう]を担当[たんとう]しておりました。", "en": "In my previous job, I worked in sales for three years." },
+    { "jp": "御社[おんしゃ]を志望[しぼう]した理由[りゆう]は二[ふた]つございます。", "en": "There are two reasons I applied to your company." },
+    { "jp": "私[わたし]の強[つよ]みは、粘[ねば]り強[づよ]さです。", "en": "My strength is perseverance." },
+    { "jp": "日本[にほん]で長[なが]く働[はたら]きたいと考[かんが]えております。", "en": "I'm thinking of working in Japan for a long time." },
+    { "jp": "申[もう]し訳[わけ]ございません。もう一度[いちど]おっしゃっていただけますか。", "en": "I'm sorry. Could you say that once more?" },
+    { "jp": "少[すこ]し考[かんが]えてもよろしいでしょうか。", "en": "May I take a moment to think?" },
+    { "jp": "何[なに]かご質問[しつもん]はありますか。", "en": "Do you have any questions? (interviewer)" },
+    { "jp": "入社[にゅうしゃ]までに勉強[べんきょう]しておくべきことはありますか。", "en": "Is there anything I should study before joining?" },
+    { "jp": "配属[はいぞく]先[さき]のチームについて、教[おし]えていただけますか。", "en": "Could you tell me about the team I'd be assigned to?" },
+    { "jp": "本日[ほんじつ]は貴重[きちょう]なお時間[じかん]をいただき、ありがとうございました。", "en": "Thank you for your valuable time today." }
+  ],
+  "vocab": [
+    { "jp": "面接[めんせつ]", "en": "interview" },
+    { "jp": "面接官[めんせつかん]", "en": "interviewer" },
+    { "jp": "御社[おんしゃ]", "en": "your company (spoken, respectful)" },
+    { "jp": "貴社[きしゃ]", "en": "your company (written, respectful)" },
+    { "jp": "志望[しぼう]動機[どうき]", "en": "reason for applying" },
+    { "jp": "自己[じこ]PR", "en": "self-promotion (describing your strengths)" },
+    { "jp": "長所[ちょうしょ]", "en": "strong point" },
+    { "jp": "短所[たんしょ]", "en": "weak point" },
+    { "jp": "強[つよ]み", "en": "strength" },
+    { "jp": "前職[ぜんしょく]", "en": "previous job" },
+    { "jp": "経験[けいけん]", "en": "experience" },
+    { "jp": "逆質問[ぎゃくしつもん]", "en": "questions the candidate asks the interviewer" },
+    { "jp": "一次[いちじ]面接[めんせつ]／最終[さいしゅう]面接[めんせつ]", "en": "first-round interview / final interview" },
+    { "jp": "内定[ないてい]", "en": "(informal) job offer" },
+    { "jp": "入社[にゅうしゃ]", "en": "joining a company" }
+  ],
+  "dialogue": [
+    { "speaker": "Interviewer", "jp": "どうぞおかけください。", "en": "Please have a seat." },
+    { "speaker": "You", "jp": "失礼[しつれい]いたします。", "en": "Thank you." },
+    { "speaker": "Interviewer", "jp": "では、簡単[かんたん]に自己紹介[じこしょうかい]をお願[ねが]いします。", "en": "Then, please briefly introduce yourself." },
+    { "speaker": "You", "jp": "エマ・ブラウンと申[もう]します。イギリスの大学[だいがく]でマーケティングを学[まな]び、前職[ぜんしょく]では4年間[よねんかん]、デジタル広告[こうこく]を担当[たんとう]しておりました。", "en": "My name is Emma Brown. I studied marketing at a university in the UK, and in my previous job I was in charge of digital advertising for four years." },
+    { "speaker": "Interviewer", "jp": "当社[とうしゃ]を志望[しぼう]された理由[りゆう]を教[おし]えてください。", "en": "Please tell us why you applied to our company." },
+    { "speaker": "You", "jp": "御社[おんしゃ]が海外[かいがい]市場[しじょう]への展開[てんかい]に力[ちから]を入[い]れていらっしゃると伺[うかが]い、私[わたし]の経験[けいけん]を生[い]かせると考[かんが]えたからです。", "en": "I heard that your company is focusing on expanding into overseas markets, and I believe I can make use of my experience." },
+    { "speaker": "Interviewer", "jp": "日本[にほん]で働[はたら]く上[うえ]で、不安[ふあん]なことはありますか。", "en": "Do you have any concerns about working in Japan?" },
+    { "speaker": "You", "jp": "敬語[けいご]はまだ勉強[べんきょう]中[ちゅう]ですが、毎日[まいにち]練習[れんしゅう]しております。", "en": "I'm still learning keigo, but I practice every day." },
+    { "speaker": "Interviewer", "jp": "最後[さいご]に、何[なに]かご質問[しつもん]はありますか。", "en": "Finally, do you have any questions?" },
+    { "speaker": "You", "jp": "はい。入社[にゅうしゃ]後[ご]の研修[けんしゅう]について、教[おし]えていただけますか。", "en": "Yes. Could you tell me about the training after joining?" }
+  ],
+  "tips": [
+    "Prepare a 1-minute self-introduction and a clear reason for applying. Interviewers often ask for a specific reason why this company, not just Japan.",
+    "Never speak badly of your previous employer. Frame reasons for leaving positively, as wanting a new challenge or growth.",
+    "Note the difference: {御社[おんしゃ]} when speaking, {貴社[きしゃ]} in emails and documents.",
+    "If you don't understand a question, ask politely for it to be repeated. That is far better than answering the wrong question.",
+    "After an offer ({内定[ないてい]}), check the employment contract terms carefully, including salary breakdown, trial period, overtime rules and visa support, before you accept."
+  ]
+}

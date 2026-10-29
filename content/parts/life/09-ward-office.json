@@ -1,0 +1,58 @@
+{
+  "id": "life-ward-office",
+  "title": "The ward office: registration, My Number, insurance & pension",
+  "level": "N4",
+  "intro": "Your city or ward office ({市役所[しやくしょ]} or {区役所[くやくしょ]}) is where you become an official resident. Within 14 days of moving in, go there with your residence card and passport and file a moving-in notification ({転入届[てんにゅうとどけ]}). Staff will print your address on the back of your residence card. You can usually handle several things in the same visit:\n\n- **Resident registration**. Once registered, you can request a certificate of residence ({住民票[じゅうみんひょう]}), which banks, employers and others often ask for.\n- **My Number**. Every resident is assigned a 12-digit personal number used for tax, social security and other administration. A notification is mailed to your registered address, and you can apply for a My Number card, a photo ID that also works as a health insurance card and lets you get some certificates at convenience stores.\n- **Health insurance**. If your employer enrolls you in its health insurance ({社会保険[しゃかいほけん]}), you use that. Otherwise you join National Health Insurance ({国民健康保険[こくみんけんこうほけん]}) at the office.\n- **Pension**. Residents aged 20 to 59 are generally part of the public pension system: through the employee pension if you work for a company, or the national pension ({国民年金[こくみんねんきん]}) otherwise.\n\nRules, fees and required documents differ by municipality and change over time, so check your city's website (many have English pages) or ask at the counter. If you move again, file a moving-out notification ({転出届[てんしゅつとどけ]}) at your old office first, and do the same when you leave Japan.",
+  "phrases": [
+    { "jp": "転入届[てんにゅうとどけ]を出[だ]したいんですが。", "en": "I'd like to file a moving-in notification." },
+    { "jp": "先週[せんしゅう]、外国[がいこく]から引[ひ]っ越[こ]してきました。", "en": "I moved here from abroad last week." },
+    { "jp": "どの窓口[まどぐち]に行[い]けばいいですか。", "en": "Which counter should I go to?" },
+    { "jp": "番号札[ばんごうふだ]を取[と]って、お待[ま]ちください。", "en": "Please take a number and wait. (staff)" },
+    { "jp": "この用紙[ようし]の書[か]き方[かた]を教[おし]えていただけますか。", "en": "Could you show me how to fill in this form?" },
+    { "jp": "国民健康保険[こくみんけんこうほけん]に加入[かにゅう]したいです。", "en": "I'd like to join National Health Insurance." },
+    { "jp": "会社[かいしゃ]の健康[けんこう]保険[ほけん]に入[はい]る予定[よてい]です。", "en": "I'm going to be on my company's health insurance." },
+    { "jp": "マイナンバーカードを申請[しんせい]したいです。", "en": "I'd like to apply for a My Number card." },
+    { "jp": "住民票[じゅうみんひょう]を一通[いっつう]お願[ねが]いします。", "en": "One copy of my certificate of residence, please." },
+    { "jp": "世帯主[せたいぬし]は私[わたし]です。", "en": "I'm the head of the household.", "note": "Forms ask for the {世帯主[せたいぬし]}. If you live alone, it is you." },
+    { "jp": "本人[ほんにん]確認[かくにん]書類[しょるい]は何[なに]が必要[ひつよう]ですか。", "en": "What ID documents do I need?" },
+    { "jp": "印鑑[いんかん]は必要[ひつよう]ですか。", "en": "Do I need a personal seal (hanko)?" },
+    { "jp": "年金[ねんきん]の手続[てつづ]きもここでできますか。", "en": "Can I do the pension procedure here too?" },
+    { "jp": "英語[えいご]の案内[あんない]はありますか。", "en": "Do you have information in English?" },
+    { "jp": "引[ひ]っ越[こ]すので、転出届[てんしゅつとどけ]を出[だ]したいです。", "en": "I'm moving, so I'd like to file a moving-out notification." }
+  ],
+  "vocab": [
+    { "jp": "市役所[しやくしょ]／区役所[くやくしょ]", "en": "city office / ward office" },
+    { "jp": "窓口[まどぐち]", "en": "service counter" },
+    { "jp": "手続[てつづ]き", "en": "procedure, paperwork" },
+    { "jp": "転入届[てんにゅうとどけ]", "en": "moving-in notification" },
+    { "jp": "転出届[てんしゅつとどけ]", "en": "moving-out notification" },
+    { "jp": "住民票[じゅうみんひょう]", "en": "certificate of residence" },
+    { "jp": "マイナンバー", "en": "My Number (personal ID number)" },
+    { "jp": "国民健康保険[こくみんけんこうほけん]", "en": "National Health Insurance" },
+    { "jp": "国民年金[こくみんねんきん]", "en": "National Pension" },
+    { "jp": "社会保険[しゃかいほけん]", "en": "employee social insurance (health and pension)" },
+    { "jp": "世帯[せたい]", "en": "household" },
+    { "jp": "申請書[しんせいしょ]", "en": "application form" },
+    { "jp": "本人[ほんにん]確認[かくにん]", "en": "identity verification" },
+    { "jp": "印鑑[いんかん]", "en": "personal seal, hanko" }
+  ],
+  "dialogue": [
+    { "speaker": "Staff", "jp": "次[つぎ]の方[かた]、どうぞ。本日[ほんじつ]はどのようなご用件[ようけん]でしょうか。", "en": "Next, please. How can I help you today?" },
+    { "speaker": "You", "jp": "先週[せんしゅう]、日本[にほん]に来[き]ました。住所[じゅうしょ]の登録[とうろく]をしたいんですが。", "en": "I arrived in Japan last week. I'd like to register my address." },
+    { "speaker": "Staff", "jp": "転入[てんにゅう]の届[とど]け出[で]ですね。在留[ざいりゅう]カードとパスポートはお持[も]ちですか。", "en": "A moving-in notification, then. Do you have your residence card and passport?" },
+    { "speaker": "You", "jp": "はい、こちらです。", "en": "Yes, here they are." },
+    { "speaker": "Staff", "jp": "ありがとうございます。こちらの届出書[とどけでしょ]に、ご住所[じゅうしょ]とお名前[なまえ]をご記入[きにゅう]ください。", "en": "Thank you. Please fill in your address and name on this form." },
+    { "speaker": "You", "jp": "健康[けんこう]保険[ほけん]はどうすればいいですか。", "en": "What should I do about health insurance?" },
+    { "speaker": "Staff", "jp": "お勤[つと]め先[さき]で健康[けんこう]保険[ほけん]に加入[かにゅう]されますか。", "en": "Will you be enrolled in health insurance through your employer?" },
+    { "speaker": "You", "jp": "いいえ、まだ仕事[しごと]が決[き]まっていません。", "en": "No, I haven't found a job yet." },
+    { "speaker": "Staff", "jp": "では、国民健康保険[こくみんけんこうほけん]の手続[てつづ]きが必要[ひつよう]です。こちらが終[お]わりましたら、3番[さんばん]の窓口[まどぐち]へお越[こ]しください。", "en": "Then you'll need to enroll in National Health Insurance. When we're done here, please go to counter 3." },
+    { "speaker": "You", "jp": "わかりました。ありがとうございます。", "en": "I see. Thank you." }
+  ],
+  "tips": [
+    "Go early on a weekday and avoid the weeks around late March and early April, when huge numbers of people move.",
+    "Watch your mail after registering. Your My Number notification and other official letters arrive by post; do not throw away envelopes from the city.",
+    "Keep your pension records. If you leave Japan permanently, you may be able to claim a lump-sum withdrawal payment of part of your contributions; check the Japan Pension Service for current conditions.",
+    "If you cannot afford National Health Insurance or pension payments, ask about reductions or exemptions rather than just not paying. Unpaid amounts can cause problems later, including at visa renewal.",
+    "Bring a Japanese-speaking friend or use a translation app for your first visit. Many offices also have multilingual consultation services."
+  ]
+}

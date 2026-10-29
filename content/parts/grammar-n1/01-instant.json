@@ -1,0 +1,133 @@
+{
+  "id": "n1-u01",
+  "title": "The instant something happens",
+  "summary": "Literary ways to say 'the moment X happened, Y followed', plus expressions for starting and ending points like {を皮切[かわき]りに} and {を限[かぎ]りに}.",
+  "points": [
+    {
+      "id": "n1-ga-hayai-ka",
+      "title": "〜が早[はや]いか",
+      "meaning": "no sooner had X than Y; the instant X",
+      "structure": "Verb (dictionary / た-form) + が早[はや]いか",
+      "explanation": "{〜が早[はや]いか} describes two actual events that happen almost on top of each other: the instant X happens, Y follows. Literally it is something like 'is X earlier, or (is Y)?' — they are so close you can hardly tell which came first.\n\nThe second clause describes something that actually happened (usually past tense), often a quick or impulsive reaction. You cannot use it for plans, requests or commands about the future.\n\n**Register:** written and literary. You will see it in novels, essays and the occasional news story, and of course on the JLPT. In conversation people simply say {〜たとたん(に)} or {〜とすぐに}.",
+      "examples": [
+        { "jp": "ベルが鳴[な]るが早[はや]いか、生徒[せいと]たちは教室[きょうしつ]を飛[と]び出[だ]した。", "en": "The instant the bell rang, the students rushed out of the classroom." },
+        { "jp": "彼[かれ]は家[いえ]に帰[かえ]るが早[はや]いか、パソコンの電源[でんげん]を入[い]れた。", "en": "No sooner had he got home than he switched on his computer." },
+        { "jp": "新製品[しんせいひん]は発売[はつばい]されるが早[はや]いか、ネット上[じょう]で完売[かんばい]となった。", "en": "The new product sold out online the moment it was released." },
+        { "jp": "男[おとこ]は警官[けいかん]の姿[すがた]を見[み]るが早[はや]いか、人混[ひとご]みの中[なか]へ逃[に]げ込[こ]んだ。", "en": "The moment the man caught sight of the police officer, he fled into the crowd." }
+      ],
+      "notes": "Not for the future or for your own intentions: {✕家[いえ]に着[つ]くが早[はや]いか電話[でんわ]してください} is wrong — use {着[つ]いたらすぐ} or {着[つ]き次第[しだい]}. Compare {や否[いな]や} and {なり} in this unit; all three mean 'as soon as', but {なり} stresses an unexpected action by the same person.",
+      "quiz": [
+        { "q": "子[こ]どもたちはおやつを見[み]る＿＿、テーブルに駆[か]け寄[よ]った。", "en": "The moment the children saw the snacks, they ran to the table.", "choices": ["が早[はや]いか", "ばかりに", "からには", "ものの"], "answer": 0 },
+        { "q": "彼[かれ]は席[せき]に着[つ]く＿＿、ビールを注文[ちゅうもん]した。", "en": "No sooner had he sat down than he ordered a beer.", "choices": ["次第[しだい]", "が早[はや]いか", "につれて", "うちに"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "n1-ya-inaya",
+      "title": "〜や否[いな]や",
+      "meaning": "as soon as; the moment (that)",
+      "structure": "Verb (dictionary form) + や否[いな]や / + や",
+      "explanation": "{〜や否[いな]や} means 'the moment X happened, Y happened'. {否[いな]} means 'no', so the phrase is a frozen literary way of saying 'whether X or not' — i.e. before you could even say X had finished, Y occurred. A shortened form, just {〜や}, is also common in writing.\n\nLike {が早[はや]いか}, it describes real past events, and the second clause is often a sudden reaction or a big change (prices crash, criticism floods in, applause erupts).\n\n**Register:** formal written Japanese. It is a favourite in news reports and novels; you will rarely hear it in casual speech.",
+      "examples": [
+        { "jp": "彼女[かのじょ]は電話[でんわ]を切[き]るや否[いな]や、泣[な]き出[だ]した。", "en": "The moment she hung up, she burst into tears." },
+        { "jp": "幕[まく]が上[あ]がるや否[いな]や、会場[かいじょう]は大[おお]きな拍手[はくしゅ]に包[つつ]まれた。", "en": "As soon as the curtain rose, the hall filled with loud applause." },
+        { "jp": "首相[しゅしょう]の発言[はつげん]が報[ほう]じられるや否[いな]や、批判[ひはん]が殺到[さっとう]した。", "en": "The moment the prime minister's remarks were reported, a flood of criticism poured in." },
+        { "jp": "新[あら]たな規制[きせい]が発表[はっぴょう]されるや、株価[かぶか]は急落[きゅうらく]した。", "en": "As soon as the new regulations were announced, share prices plunged." }
+      ],
+      "notes": "Don't confuse it with {〜か否[いな]か} ('whether or not'), as in {参加[さんか]するか否[いな]かを決[き]める} 'decide whether or not to take part'.",
+      "quiz": [
+        { "q": "試合[しあい]終了[しゅうりょう]の笛[ふえ]が鳴[な]る＿＿、選手[せんしゅ]たちはグラウンドに倒[たお]れ込[こ]んだ。", "en": "The moment the final whistle blew, the players collapsed onto the field.", "choices": ["に先立[さきだ]って", "をもとに", "や否[いな]や", "に反[はん]して"], "answer": 2 },
+        { "q": "彼[かれ]は私[わたし]の顔[かお]を見[み]る＿＿否[いな]や、走[はし]り去[さ]った。", "en": "The moment he saw my face, he ran off.", "choices": ["の", "や", "と", "を"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "n1-nari",
+      "title": "〜なり (as soon as)",
+      "meaning": "as soon as (and then, unexpectedly)",
+      "structure": "Verb (dictionary form) + なり",
+      "explanation": "{〜なり} says that as soon as someone did X, that same person immediately did Y — and Y is usually something surprising or out of the ordinary. Both actions belong to the same subject, and the sentence describes a past event.\n\nBecause it describes someone else's behaviour from the outside, it is mostly used about third persons, not about yourself.\n\n**Register:** a bit literary, but it appears in novels, essays and storytelling, and older speakers may use it when telling an anecdote. Of the 'as soon as' expressions in this unit, it is the one you are most likely to meet in fiction.",
+      "examples": [
+        { "jp": "息子[むすこ]は帰[かえ]ってくるなり、「お腹[なか]すいた」と言[い]った。", "en": "The moment my son got home, he said, 'I'm hungry.'" },
+        { "jp": "父[ちち]は部屋[へや]に入[はい]ってくるなり、大声[おおごえ]で怒鳴[どな]った。", "en": "As soon as my father came into the room, he started yelling." },
+        { "jp": "彼女[かのじょ]はそのメールを読[よ]むなり、顔色[かおいろ]を変[か]えた。", "en": "The moment she read the email, her face changed colour." },
+        { "jp": "社長[しゃちょう]は報告書[ほうこくしょ]に目[め]を通[とお]すなり、担当者[たんとうしゃ]を呼[よ]びつけた。", "en": "The president had barely glanced at the report before he summoned the person in charge." }
+      ],
+      "notes": "{なり} has several other uses — don't mix them up: {〜なり〜なり} 'either X or Y' ({電話[でんわ]なりメールなりで連絡[れんらく]して}), {〜たなり} 'and stayed that way' ({出[で]かけたなり戻[もど]らない}), and {〜なりに} 'in one's own way' (Unit 12).",
+      "quiz": [
+        { "q": "彼[かれ]は椅子[いす]に座[すわ]る＿＿、眠[ねむ]り込[こ]んでしまった。", "en": "The moment he sat down in the chair, he fell fast asleep.", "choices": ["なりに", "ながら", "なり", "ついでに"], "answer": 2 },
+        { "q": "姉[あね]は私[わたし]の顔[かお]を＿＿なり、笑[わら]い出[だ]した。", "en": "As soon as my sister saw my face, she burst out laughing.", "choices": ["見[み]る", "見[み]て", "見[み]ない", "見[み]よう"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n1-sobakara",
+      "title": "〜そばから",
+      "meaning": "no sooner ... than (it's undone again); as fast as",
+      "structure": "Verb (dictionary / た-form) + そばから",
+      "explanation": "{そば} means 'side, right next to'. {〜そばから} describes a frustrating cycle: as soon as you do something, it is immediately undone or followed by the same thing again — and this keeps repeating. You tidy up, and the kids mess it up again; you learn a word, and you've already forgotten it.\n\nThe key ideas are **repetition** and **futility**. It is not used for one single event.\n\n**Register:** written or fairly formal, but it does show up in essays and in slightly wry everyday comments. It is less rare in speech than {が早[はや]いか}.",
+      "examples": [
+        { "jp": "片付[かたづ]けるそばから、子[こ]どもたちがおもちゃを散[ち]らかす。", "en": "As fast as I tidy up, the kids scatter their toys again." },
+        { "jp": "新[あたら]しい単語[たんご]は覚[おぼ]えるそばから忘[わす]れてしまう。", "en": "I forget new words as soon as I learn them." },
+        { "jp": "雪[ゆき]をかいたそばから、また積[つ]もっていく。", "en": "No sooner have I shovelled the snow than it piles up again." },
+        { "jp": "給料[きゅうりょう]が入[はい]るそばから、ローンの返済[へんさい]に消[き]えていく。", "en": "My salary vanishes into loan repayments as soon as it comes in." }
+      ],
+      "notes": "Compare {〜たとたん}: that is a single event ('the moment X, Y happened once'); {そばから} is a repeated, annoying pattern.",
+      "quiz": [
+        { "q": "部屋[へや]を掃除[そうじ]する＿＿、猫[ねこ]が毛[け]を散[ち]らかす。", "en": "As fast as I clean the room, the cat sheds fur everywhere again.", "choices": ["そばから", "からして", "からといって", "からには"], "answer": 0 },
+        { "q": "説明[せつめい]を聞[き]いた＿＿忘[わす]れてしまうので、メモを取[と]るようにしている。", "en": "I forget explanations as soon as I hear them, so I make a point of taking notes.", "choices": ["かたわら", "がてら", "ついでに", "そばから"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n1-te-kara-to-iu-mono",
+      "title": "〜てからというもの",
+      "meaning": "ever since (a turning point)",
+      "structure": "Verb て-form + からというもの",
+      "explanation": "{〜てからというもの} means 'ever since X, things have been (continuously) different'. It is used when a single event became a turning point and the speaker feels a strong, lasting change afterwards — often with a sense of emotion or surprise.\n\nIt is stronger and more emotional than plain {〜てから} or {〜て以来[いらい]}. The second half describes an ongoing state or habit, not a one-off action.\n\n**Register:** written and somewhat formal; common in essays, memoirs, interviews and speeches. You can use it in careful speech too, e.g. when telling your life story.",
+      "examples": [
+        { "jp": "日本[にほん]に来[き]てからというもの、毎日[まいにち]が新[あたら]しい発見[はっけん]の連続[れんぞく]だ。", "en": "Ever since I came to Japan, every day has been one new discovery after another." },
+        { "jp": "子[こ]どもが生[う]まれてからというもの、夫[おっと]はすっかり早寝[はやね]早起[はやお]きになった。", "en": "Ever since our child was born, my husband has completely switched to early nights and early mornings." },
+        { "jp": "祖母[そぼ]が亡[な]くなってからというもの、祖父[そふ]はめっきり口数[くちかず]が減[へ]った。", "en": "Ever since my grandmother died, my grandfather has become much quieter." },
+        { "jp": "そのウイルスが確認[かくにん]されてからというもの、街[まち]から観光客[かんこうきゃく]の姿[すがた]が消[き]えた。", "en": "Ever since the virus was detected, tourists have vanished from the streets." }
+      ],
+      "notes": "Not for a single action: {✕日本[にほん]に来[き]てからというもの、一度[いちど]富士山[ふじさん]に登[のぼ]った} is wrong. The result must be a continuing change.",
+      "quiz": [
+        { "q": "禁煙[きんえん]して＿＿、体[からだ]の調子[ちょうし]がとてもいい。", "en": "Ever since I quit smoking, I've been feeling really good.", "choices": ["からでないと", "からというもの", "からといって", "からして"], "answer": 1 },
+        { "q": "彼女[かのじょ]と出会[であ]って＿＿、彼[かれ]の生活[せいかつ]は一変[いっぺん]した。", "en": "Ever since he met her, his life has been completely transformed.", "choices": ["からには", "ばかりか", "からというもの", "ところで"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n1-wo-kawakiri-ni",
+      "title": "〜を皮切[かわき]りに",
+      "meaning": "starting with; beginning with (and then many more)",
+      "structure": "Noun + を皮切[かわき]りに(して) / を皮切[かわき]りとして",
+      "explanation": "{皮切[かわき]り} originally meant the first moxa burn in a traditional treatment — the first, most painful one. {〜を皮切[かわき]りに} marks X as the starting point of a whole series of similar things that follow: a concert tour, a chain of store openings, a string of revelations.\n\nThe second half usually describes expansion or a succession of events ({次々[つぎつぎ]と}, {相次[あいつ]いで}, {全国[ぜんこく]で}).\n\n**Register:** formal; very common in news, press releases and business writing. In speech you might hear it from presenters or announcers.",
+      "examples": [
+        { "jp": "来月[らいげつ]の東京[とうきょう]公演[こうえん]を皮切[かわき]りに、全国[ぜんこく]ツアーが始[はじ]まる。", "en": "Starting with next month's Tokyo show, a nationwide tour will begin." },
+        { "jp": "彼[かれ]の発言[はつげん]を皮切[かわき]りに、参加者[さんかしゃ]から次々[つぎつぎ]と意見[いけん]が出[で]た。", "en": "His remark set things off, and one participant after another voiced an opinion." },
+        { "jp": "同社[どうしゃ]は大阪店[おおさかてん]を皮切[かわき]りに、海外[かいがい]にも出店[しゅってん]していく方針[ほうしん]だ。", "en": "Beginning with its Osaka store, the company plans to open branches overseas as well." },
+        { "jp": "この発見[はっけん]を皮切[かわき]りとして、新[あら]たな研究[けんきゅう]が相次[あいつ]いだ。", "en": "This discovery was the first of a wave of new studies." }
+      ],
+      "notes": "Compare {〜を限[かぎ]りに} (next point), which marks an end point, and {〜を境[さかい]に}, which marks a turning point between 'before' and 'after'.",
+      "quiz": [
+        { "q": "新作[しんさく]映画[えいが]は、ニューヨーク＿＿世界[せかい]十[じゅっ]か国[こく]で公開[こうかい]される。", "en": "The new film will open in ten countries around the world, starting with New York.", "choices": ["を限[かぎ]りに", "をよそに", "を境[さかい]に", "を皮切[かわき]りに"], "answer": 3 },
+        { "q": "一人[ひとり]の社員[しゃいん]の告発[こくはつ]＿＿、会社[かいしゃ]の不正[ふせい]が次々[つぎつぎ]と明[あき]らかになった。", "en": "Starting with one employee's whistle-blowing, the company's wrongdoings came to light one after another.", "choices": ["を皮切[かわき]りに", "をものともせず", "をおいて", "を禁[きん]じ得[え]ず"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n1-wo-kagiri-ni",
+      "title": "〜を限[かぎ]りに",
+      "meaning": "as of (and no longer after); with ... as the last",
+      "structure": "Noun (time) + を限[かぎ]りに",
+      "explanation": "{〜を限[かぎ]りに} marks the last moment something continues: after this point, it stops. It often comes with time words like {今日[きょう]}, {本日[ほんじつ]}, {今月[こんげつ]末[まつ]} or {今[こん]シーズン}, and the second half talks about quitting, closing, retiring or ending.\n\nA separate fixed phrase, {声[こえ]を限[かぎ]りに}, means 'at the top of one's voice' — literally 'to the limit of one's voice'.\n\n**Register:** formal. You will see it on shop notices ('closing as of the end of this month'), in retirement announcements and in news. It also works in serious speech: {今日[きょう]を限[かぎ]りにお酒[さけ]をやめる}.",
+      "examples": [
+        { "jp": "今日[きょう]を限[かぎ]りに、タバコをやめることにした。", "en": "I've decided that today is my last day of smoking." },
+        { "jp": "当店[とうてん]は今月末[こんげつまつ]を限[かぎ]りに閉店[へいてん]いたします。", "en": "This shop will close permanently at the end of this month." },
+        { "jp": "彼[かれ]は今[こん]シーズンを限[かぎ]りに、現役[げんえき]を引退[いんたい]すると発表[はっぴょう]した。", "en": "He announced that he will retire from competition at the end of this season." },
+        { "jp": "遭難者[そうなんしゃ]は声[こえ]を限[かぎ]りに助[たす]けを求[もと]めた。", "en": "The stranded climber cried for help at the top of his voice." }
+      ],
+      "notes": "Don't confuse with {〜限[かぎ]り} 'as long as / as far as' ({私[わたし]の知[し]る限[かぎ]り} 'as far as I know') or {〜に限[かぎ]り} 'only, limited to' ({本日[ほんじつ]に限[かぎ]り半額[はんがく]} 'half price today only').",
+      "quiz": [
+        { "q": "本日[ほんじつ]＿＿、この番組[ばんぐみ]は終了[しゅうりょう]となります。", "en": "With today's broadcast, this programme comes to an end.", "choices": ["を皮切[かわき]りに", "を限[かぎ]りに", "をめぐって", "を通[つう]じて"], "answer": 1 },
+        { "q": "三十年[さんじゅうねん]続[つづ]いたこの商店[しょうてん]も、今年[ことし]＿＿店[みせ]を閉[し]めることになった。", "en": "This shop, which has been running for thirty years, will close for good at the end of this year.", "choices": ["にわたって", "を皮切[かわき]りに", "をもとに", "を限[かぎ]りに"], "answer": 3 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "r-n4-03",
+  "level": "N4",
+  "title": "A Letter to Yuki",
+  "titleJp": "ゆきさんへの手紙[てがみ]",
+  "sentences": [
+    { "jp": "ゆきさん、お元気[げんき]ですか。", "en": "Yuki, how are you?" },
+    { "jp": "大阪[おおさか]に引[ひ]っ越[こ]してから、もう半年[はんとし]になりました。", "en": "It's already been six months since I moved to Osaka." },
+    { "jp": "最初[さいしょ]は大阪弁[おおさかべん]がよくわからなくて困[こま]りましたが、今[いま]は少[すこ]しずつ慣[な]れてきました。", "en": "At first I had trouble because I couldn't really understand the Osaka dialect, but now I'm gradually getting used to it." },
+    { "jp": "近所[きんじょ]の人[ひと]たちはとても親切[しんせつ]で、会[あ]うといつも話[はな]しかけてくれます。", "en": "The people in my neighborhood are very kind, and they always talk to me when we meet." },
+    { "jp": "先週[せんしゅう]は、となりのおばあさんに、たこ焼[や]きの作[つく]り方[かた]を教[おし]えてもらいました。", "en": "Last week, the old woman next door taught me how to make takoyaki." },
+    { "jp": "自分[じぶん]で作[つく]ってみたら、形[かたち]は悪[わる]かったけれど、味[あじ]はなかなかよかったです。", "en": "When I tried making them myself, the shape was bad, but the taste was pretty good." },
+    { "jp": "ところで、ゆきさんは来月[らいげつ]、関西[かんさい]に出張[しゅっちょう]があると言[い]っていましたね。", "en": "By the way, you said you have a business trip to the Kansai area next month, didn't you?" },
+    { "jp": "もし時間[じかん]があったら、ぜひ私[わたし]の家[いえ]に遊[あそ]びに来[き]てください。", "en": "If you have time, please come and visit my place." },
+    { "jp": "一緒[いっしょ]にたこ焼[や]きを作[つく]りましょう。", "en": "Let's make takoyaki together." },
+    { "jp": "返事[へんじ]を待[ま]っています。エマより", "en": "I'm looking forward to your reply. From Emma" }
+  ],
+  "questions": [
+    { "q": "How long has Emma lived in Osaka?", "choices": ["One month", "Three months", "Six months", "One year"], "answer": 2 },
+    { "q": "How did Emma's takoyaki turn out?", "choices": ["The shape was bad, but they tasted good", "They looked good but tasted bad", "They were burned", "They were perfect"], "answer": 0 },
+    { "q": "Why might Yuki come to the Kansai area next month?", "choices": ["To visit her family", "To go sightseeing", "To take a cooking class", "For a business trip"], "answer": 3 }
+  ]
+}

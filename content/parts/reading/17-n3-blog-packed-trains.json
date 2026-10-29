@@ -1,0 +1,26 @@
+{
+  "id": "r-n3-01",
+  "level": "N3",
+  "title": "Blog: Mornings on Packed Trains",
+  "titleJp": "ブログ：満員[まんいん]電車[でんしゃ]の朝[あさ]",
+  "sentences": [
+    { "jp": "日本[にほん]に来[き]て、もうすぐ三[さん]か月[げつ]になる。", "en": "It's almost three months since I came to Japan." },
+    { "jp": "仕事[しごと]にもだいぶ慣[な]れてきたが、どうしても慣[な]れないのが朝[あさ]の満員[まんいん]電車[でんしゃ]だ。", "en": "I've gotten fairly used to work, but the one thing I just can't get used to is the packed trains in the morning." },
+    { "jp": "私[わたし]が毎朝[まいあさ]乗[の]る路線[ろせん]は、八時[はちじ]前後[ぜんご]になると、ドアが閉[し]まらないほど混[こ]んでいる。", "en": "The line I take every morning gets so crowded around eight that the doors barely close." },
+    { "jp": "初[はじ]めて乗[の]った日[ひ]は、駅員[えきいん]さんに背中[せなか]を押[お]されて、やっと中[なか]に入[はい]れた。", "en": "The first day I rode it, a station attendant pushed me from behind and I finally managed to get on." },
+    { "jp": "驚[おどろ]いたのは、そんな状態[じょうたい]でもみんな静[しず]かに立[た]っていることだ。", "en": "What surprised me was that even in those conditions, everyone stands there quietly." },
+    { "jp": "電話[でんわ]で話[はな]す人[ひと]はほとんどいないし、リュックを体[からだ]の前[まえ]に持[も]つ人[ひと]も多[おお]い。", "en": "Hardly anyone talks on the phone, and many people hold their backpacks in front of their bodies." },
+    { "jp": "後[あと]で同僚[どうりょう]に聞[き]いたら、それはほかの人[ひと]の迷惑[めいわく]にならないようにするためのマナーだそうだ。", "en": "When I asked a coworker about it later, they said it's etiquette so as not to bother other people." },
+    { "jp": "最近[さいきん]は、少[すこ]しでも楽[らく]に通勤[つうきん]するために、いくつか工夫[くふう]をしている。", "en": "Lately, I've been trying a few tricks to make my commute even a little easier." },
+    { "jp": "まず、いつもより三十分[さんじゅっぷん]早[はや]く家[いえ]を出[で]るようにした。", "en": "First, I started leaving home thirty minutes earlier than usual." },
+    { "jp": "七時[しちじ]半[はん]ごろの電車[でんしゃ]なら、座[すわ]れることもある。", "en": "On a train around seven thirty, I can sometimes even get a seat." },
+    { "jp": "それから、一番[いちばん]前[まえ]の車両[しゃりょう]はほかの車両[しゃりょう]より少[すこ]しすいていることにも気[き]がついた。", "en": "I also noticed that the very front car is a little less crowded than the others." },
+    { "jp": "会社[かいしゃ]によっては、時差[じさ]出勤[しゅっきん]やリモートワークを認[みと]めているところもあるらしい。", "en": "Apparently some companies allow staggered working hours or remote work." },
+    { "jp": "うちの会社[かいしゃ]もそうなってくれたらいいのに、と思[おも]う毎日[まいにち]だ。", "en": "Every day I find myself thinking, \"I wish my company would do that too.\"" }
+  ],
+  "questions": [
+    { "q": "What surprised the writer most about the crowded trains?", "choices": ["Station staff pushing passengers", "That everyone stays quiet even when packed", "That the trains are always on time", "That nobody carries a backpack"], "answer": 1 },
+    { "q": "According to the coworker, why do people hold their backpacks in front?", "choices": ["To keep them from being stolen", "Because it is a company rule", "So as not to bother other passengers", "So they can reach their phones easily"], "answer": 2 },
+    { "q": "What has the writer started doing?", "choices": ["Working from home twice a week", "Taking the bus instead", "Riding in the last car", "Leaving home thirty minutes earlier"], "answer": 3 }
+  ]
+}

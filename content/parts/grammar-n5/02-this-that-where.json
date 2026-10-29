@@ -1,0 +1,377 @@
+{
+  "id": "n5-u02",
+  "title": "This, that, and where",
+  "summary": "Pointing at things and places with the {こ・そ・あ・ど} words, asking what, who and when, and adding feeling with {ね} and {よ}.",
+  "points": [
+    {
+      "id": "n5-kore-sore-are",
+      "title": "これ / それ / あれ / どれ",
+      "meaning": "this one / that one (near you) / that one over there / which one",
+      "structure": "これ・それ・あれ + は + Noun + です / Noun + は + どれですか",
+      "explanation": "English has 'this' and 'that'. Japanese has **three** distances, and they all follow a neat pattern of first syllables:\n\n- {こ} = near me (the speaker): {これ} 'this one'\n- {そ} = near you (the listener): {それ} 'that one (by you)'\n- {あ} = far from both of us: {あれ} 'that one over there'\n- {ど} = question: {どれ} 'which one?'\n\n{これ・それ・あれ・どれ} are used **on their own** as pronouns. They are never followed directly by a noun.\n\nThis {こ・そ・あ・ど} pattern repeats in the next few grammar points, so learning it once pays off many times.",
+      "examples": [
+        {
+          "jp": "これは本[ほん]です。",
+          "en": "This is a book."
+        },
+        {
+          "jp": "それは私[わたし]のかばんです。",
+          "en": "That (by you) is my bag."
+        },
+        {
+          "jp": "あれは何[なん]ですか。",
+          "en": "What is that over there?"
+        },
+        {
+          "jp": "あれは駅[えき]です。",
+          "en": "That over there is the station."
+        },
+        {
+          "jp": "田中[たなか]さんのかさはどれですか。",
+          "en": "Which one is Mr. Tanaka's umbrella?"
+        }
+      ],
+      "notes": "When {どれ} is the subject of a question, use {が}, never {は}: {どれが田中[たなか]さんのですか。} 'Which one is Mr. Tanaka's?' (You'll learn {が} properly in Unit 3.)\n\nIf someone asks about {これ} (near them), you answer with {それ} (near them, from your point of view), and vice versa.",
+      "quiz": [
+        {
+          "q": "A：＿＿は何[なん]ですか。B：あれは富士山[ふじさん]です。",
+          "en": "A: What is that over there? B: That's Mt. Fuji.",
+          "choices": [
+            "あれ",
+            "どれ",
+            "これ",
+            "それ"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "マリアさんのかばんは＿＿ですか。",
+          "en": "Which one is Maria's bag?",
+          "choices": [
+            "だれ",
+            "どの",
+            "どれ",
+            "どんな"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-kono-sono",
+      "title": "この / その / あの / どの",
+      "meaning": "this ~ / that ~ (near you) / that ~ over there / which ~",
+      "structure": "この・その・あの・どの + Noun",
+      "explanation": "These are the partners of {これ・それ・あれ・どれ}, but with one key difference: {この・その・あの・どの} **must** be followed by a noun.\n\n- {これ} = this one\n- {この本[ほん]} = this book\n\nThink of the {の} at the end as a little hook that needs a noun to hang on. Saying {この} alone is like saying 'this...' and stopping.\n\nThe distances are the same as before: {こ} near me, {そ} near you, {あ} far from both, {ど} which.\n\n{あの人[ひと]} (that person) is also used for someone you both know who isn't present.",
+      "examples": [
+        {
+          "jp": "この本[ほん]は私[わたし]のです。",
+          "en": "This book is mine."
+        },
+        {
+          "jp": "その時計[とけい]は田中[たなか]さんのです。",
+          "en": "That watch (by you) is Mr. Tanaka's."
+        },
+        {
+          "jp": "あの人[ひと]はだれですか。",
+          "en": "Who is that person over there?"
+        },
+        {
+          "jp": "あの人[ひと]は山田[やまだ]先生[せんせい]です。",
+          "en": "That's Professor Yamada."
+        },
+        {
+          "jp": "どの電車[でんしゃ]ですか。",
+          "en": "Which train is it?"
+        }
+      ],
+      "notes": "A common beginner mistake is {これ本[ほん]} or {これの本[ほん]}. If a noun follows, always use {この}.",
+      "quiz": [
+        {
+          "q": "＿＿かさは私[わたし]のです。",
+          "en": "This umbrella is mine.",
+          "choices": [
+            "こちら",
+            "ここ",
+            "これ",
+            "この"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "＿＿人[ひと]はだれですか。",
+          "en": "Who is that person over there?",
+          "choices": [
+            "あそこ",
+            "どの",
+            "あの",
+            "あれ"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-koko-soko",
+      "title": "ここ / そこ / あそこ / どこ",
+      "meaning": "here / there (near you) / over there / where",
+      "structure": "Place + は + ここ・そこ・あそこ + です / Noun + は + どこですか",
+      "explanation": "The same {こ・そ・あ・ど} pattern again, this time for **places**:\n\n- {ここ} = here (near me)\n- {そこ} = there (near you)\n- {あそこ} = over there (far from both of us) (note the extra {そ})\n- {どこ} = where?\n\nThe most useful sentence for a newcomer in Japan is probably {〜はどこですか。} 'Where is ~?' Put any place before it: {トイレはどこですか。} {駅[えき]はどこですか。}\n\nTo answer, swap the question word for the place: {トイレはあそこです。} 'The toilet is over there.'\n\n{ここ} can also mean 'this place' as a topic: {ここは図書館[としょかん]です。} 'This (place) is the library.'",
+      "examples": [
+        {
+          "jp": "ここは図書館[としょかん]です。",
+          "en": "This is the library."
+        },
+        {
+          "jp": "トイレはどこですか。",
+          "en": "Where is the restroom?"
+        },
+        {
+          "jp": "トイレはあそこです。",
+          "en": "The restroom is over there."
+        },
+        {
+          "jp": "すみません、駅[えき]はどこですか。",
+          "en": "Excuse me, where is the station?"
+        },
+        {
+          "jp": "田中[たなか]さんの会社[かいしゃ]はどこですか。",
+          "en": "Where is Mr. Tanaka's company?"
+        }
+      ],
+      "notes": "Start with {すみません} (excuse me) to politely get a stranger's attention before asking for directions.",
+      "quiz": [
+        {
+          "q": "すみません、トイレは＿＿ですか。",
+          "en": "Excuse me, where is the restroom?",
+          "choices": [
+            "だれ",
+            "どれ",
+            "どこ",
+            "どの"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A：銀行[ぎんこう]はどこですか。B：＿＿です。",
+          "en": "A: Where is the bank? B: It's over there.",
+          "choices": [
+            "どれ",
+            "あの",
+            "どこ",
+            "あそこ"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-kochira",
+      "title": "こちら / そちら / あちら / どちら",
+      "meaning": "this way / that way / over that way / which way (polite)",
+      "structure": "こちら・そちら・あちら・どちら + は / です",
+      "explanation": "This set is the **polite** version of {ここ・そこ・あそこ・どこ}, and it also points in a direction ('this way'). You'll hear it constantly from shop staff, receptionists and at work.\n\nThree very common uses:\n\n- Directions: {エレベーターはあちらです。} 'The elevator is that way.'\n- Introducing someone politely: {こちらは田中[たなか]さんです。} 'This is Mr. Tanaka.' (Using {これ} for a person would be rude.)\n- A polite 'where': {お国[くに]はどちらですか。} 'Where are you from?'\n\n{どちら} also means 'which (of two)', which you'll use for comparisons later.\n\nIn casual speech, these shrink to {こっち・そっち・あっち・どっち}.",
+      "examples": [
+        {
+          "jp": "こちらは田中[たなか]さんです。",
+          "en": "This is Mr. Tanaka."
+        },
+        {
+          "jp": "エレベーターはあちらです。",
+          "en": "The elevator is over that way."
+        },
+        {
+          "jp": "入[い]り口[ぐち]はこちらです。",
+          "en": "The entrance is this way."
+        },
+        {
+          "jp": "お国[くに]はどちらですか。",
+          "en": "Where are you from?"
+        }
+      ],
+      "notes": "Store clerks often say {こちらへどうぞ} 'This way, please.'",
+      "quiz": [
+        {
+          "q": "＿＿は山田[やまだ]さんです。",
+          "en": "This is Ms. Yamada. (introducing someone politely)",
+          "choices": [
+            "どちら",
+            "この",
+            "こちら",
+            "ここ"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "お国[くに]は＿＿ですか。",
+          "en": "Where are you from? (polite)",
+          "choices": [
+            "どの",
+            "だれ",
+            "どちら",
+            "どれ"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-nani-dare-itsu",
+      "title": "何[なに] / だれ / いつ",
+      "meaning": "what / who / when",
+      "structure": "Noun + は + 何[なん]・だれ・いつ + ですか",
+      "explanation": "Three essential question words:\n\n- {何[なに]} = what. It's read {なん} before {です}, before {の}, and before counters ({何時[なんじ]}, what time). Elsewhere, such as before {を} or {が}, it's read {なに}.\n- {だれ} = who. The polite version is {どなた}.\n- {いつ} = when.\n\nJust like {どこ}, they go where the answer would go, and the sentence ends in {か}. There's no need to move them to the front like in English.\n\n{誕生日[たんじょうび]はいつですか。} 'When is your birthday?'\n{四月[しがつ]です。} 'It's in April.'",
+      "examples": [
+        {
+          "jp": "それは何[なん]ですか。",
+          "en": "What is that?"
+        },
+        {
+          "jp": "あの人[ひと]はだれですか。",
+          "en": "Who is that person?"
+        },
+        {
+          "jp": "誕生日[たんじょうび]はいつですか。",
+          "en": "When is your birthday?"
+        },
+        {
+          "jp": "テストはいつですか。",
+          "en": "When is the test?"
+        },
+        {
+          "jp": "失礼[しつれい]ですが、どなたですか。",
+          "en": "Excuse me, but who are you?"
+        }
+      ],
+      "notes": "Question words never take {は}. Saying {だれは} or {何[なに]は} is a mistake; use {が} instead when they are the subject.",
+      "quiz": [
+        {
+          "q": "誕生日[たんじょうび]は＿＿ですか。",
+          "en": "When is your birthday?",
+          "choices": [
+            "どの",
+            "だれ",
+            "いつ",
+            "どれ"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "あの人[ひと]は＿＿ですか。",
+          "en": "Who is that person?",
+          "choices": [
+            "どの",
+            "だれ",
+            "いつ",
+            "何[なに]"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n5-ne",
+      "title": "〜ね",
+      "meaning": "..., isn't it? / right? (seeking agreement)",
+      "structure": "Sentence + ね",
+      "explanation": "Put {ね} at the end of a sentence when you expect the listener to **agree** or when you're sharing a feeling you both have. It's like 'isn't it?', 'right?' or 'huh' in English.\n\n{いい天気[てんき]ですね。} 'Nice weather, isn't it?'\n\nYou can also use it to check information you think is true: {明日[あした]は休[やす]みですね。} 'Tomorrow's a day off, right?'\n\n{ね} makes Japanese sound warm and friendly. Small talk is full of it. The reply is often {そうですね}, meaning 'Yes, it is' (or, with a thoughtful tone, 'Let me see...').",
+      "examples": [
+        {
+          "jp": "いい天気[てんき]ですね。",
+          "en": "Nice weather, isn't it?"
+        },
+        {
+          "jp": "暑[あつ]いですね。",
+          "en": "It's hot, isn't it?"
+        },
+        {
+          "jp": "田中[たなか]さんは先生[せんせい]ですね。",
+          "en": "Mr. Tanaka is a teacher, right?"
+        },
+        {
+          "jp": "明日[あした]は休[やす]みですね。",
+          "en": "Tomorrow's a day off, right?"
+        },
+        {
+          "jp": "そうですね。",
+          "en": "That's true. / Let me see."
+        }
+      ],
+      "notes": "Don't use {ね} when you are telling someone something they don't know. Use {よ} for that (next point).",
+      "quiz": [
+        {
+          "q": "いい天気[てんき]です＿＿。",
+          "en": "Nice weather, isn't it?",
+          "choices": [
+            "を",
+            "に",
+            "か",
+            "ね"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A：日本語[にほんご]は難[むずか]しいですね。B：ええ、そうです＿＿。",
+          "en": "A: Japanese is difficult, isn't it? B: Yes, it sure is.",
+          "choices": [
+            "か",
+            "が",
+            "を",
+            "ね"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-yo",
+      "title": "〜よ",
+      "meaning": "I tell you / you know (giving new information)",
+      "structure": "Sentence + よ",
+      "explanation": "{よ} at the end of a sentence shows that you're giving the listener **new information**, something you think they don't know. It's like adding 'you know', 'I'm telling you' or an exclamation mark.\n\n{明日[あした]はテストですよ。} 'There's a test tomorrow, you know!'\n\nCompare the two:\n\n- {ね}: we both know this / please agree\n- {よ}: I'm telling you something new\n\nYou can combine them as {よね} to mean 'It's ~, right?' when you're fairly sure but want to confirm.",
+      "examples": [
+        {
+          "jp": "これ、おいしいですよ。",
+          "en": "This is delicious, you know!"
+        },
+        {
+          "jp": "明日[あした]はテストですよ。",
+          "en": "There's a test tomorrow, you know."
+        },
+        {
+          "jp": "田中[たなか]さんはあそこですよ。",
+          "en": "Mr. Tanaka is over there."
+        },
+        {
+          "jp": "大丈夫[だいじょうぶ]ですよ。",
+          "en": "It's fine, don't worry."
+        }
+      ],
+      "notes": "Said too often or too strongly, {よ} can sound pushy, especially to a boss or teacher. Use it lightly.",
+      "quiz": [
+        {
+          "q": "A：駅[えき]はどこですか。B：あそこです＿＿。",
+          "en": "A: Where is the station? B: It's over there (I'm telling you).",
+          "choices": [
+            "か",
+            "を",
+            "ね",
+            "よ"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A：今日[きょう]は休[やす]みですか。B：いいえ、今日[きょう]は仕事[しごと]です＿＿。",
+          "en": "A: Is today a day off? B: No, today is a workday, you know.",
+          "choices": [
+            "か",
+            "よ",
+            "へ",
+            "を"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

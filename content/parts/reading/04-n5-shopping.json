@@ -1,0 +1,21 @@
+{
+  "id": "r-n5-04",
+  "level": "N5",
+  "title": "Shopping in Shinjuku",
+  "titleJp": "新宿[しんじゅく]で買[か]い物[もの]",
+  "sentences": [
+    { "jp": "昨日[きのう]、友[とも]だちと新宿[しんじゅく]へ買[か]い物[もの]に行[い]きました。", "en": "Yesterday I went shopping in Shinjuku with a friend." },
+    { "jp": "大[おお]きいデパートで、青[あお]いセーターを見[み]ました。", "en": "At a big department store, I looked at a blue sweater." },
+    { "jp": "とてもきれいでしたが、一万二千円[いちまんにせんえん]でした。", "en": "It was very pretty, but it was twelve thousand yen." },
+    { "jp": "高[たか]かったですから、買[か]いませんでした。", "en": "It was expensive, so I didn't buy it." },
+    { "jp": "それから、駅[えき]の近[ちか]くの店[みせ]で白[しろ]いシャツを買[か]いました。", "en": "After that, I bought a white shirt at a shop near the station." },
+    { "jp": "シャツは三千円[さんぜんえん]でした。安[やす]かったです。", "en": "The shirt was three thousand yen. It was cheap." },
+    { "jp": "友[とも]だちは靴[くつ]を買[か]いました。", "en": "My friend bought shoes." },
+    { "jp": "帰[かえ]りに、喫茶店[きっさてん]で冷[つめ]たいジュースを飲[の]みました。", "en": "On the way home, we had cold juice at a café." }
+  ],
+  "questions": [
+    { "q": "Why didn't the writer buy the blue sweater?", "choices": ["It was too small", "The friend didn't like it", "It wasn't pretty", "It was expensive"], "answer": 3 },
+    { "q": "How much was the white shirt?", "choices": ["¥1,200", "¥3,000", "¥12,000", "¥13,000"], "answer": 1 },
+    { "q": "What did the writer's friend buy?", "choices": ["Shoes", "A sweater", "A white shirt", "Nothing"], "answer": 0 }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "r-n4-04",
+  "level": "N4",
+  "title": "How to Make Oyakodon",
+  "titleJp": "親子丼[おやこどん]の作[つく]り方[かた]",
+  "sentences": [
+    { "jp": "今日[きょう]は、簡単[かんたん]な親子丼[おやこどん]の作[つく]り方[かた]を紹介[しょうかい]します。", "en": "Today I'll show you how to make a simple oyakodon." },
+    { "jp": "鶏肉[とりにく]が「親[おや]」で、卵[たまご]が「子[こ]」なので、この名前[なまえ]になりました。", "en": "The chicken is the \"parent\" and the egg is the \"child,\" so it got this name." },
+    { "jp": "材料[ざいりょう]は、二人分[ふたりぶん]で鶏肉[とりにく]二百[にひゃく]グラム、玉[たま]ねぎ半分[はんぶん]、卵[たまご]三[みっ]つ、それからご飯[はん]です。", "en": "For two servings, the ingredients are 200 grams of chicken, half an onion, three eggs, and rice." },
+    { "jp": "まず、鶏肉[とりにく]を小[ちい]さく切[き]って、玉[たま]ねぎは薄[うす]く切[き]っておきます。", "en": "First, cut the chicken into small pieces and slice the onion thinly." },
+    { "jp": "次[つぎ]に、なべに水[みず]としょうゆ、砂糖[さとう]、みりんを入[い]れて、火[ひ]にかけます。", "en": "Next, put water, soy sauce, sugar, and mirin into a pot and put it on the heat." },
+    { "jp": "沸[わ]いたら、鶏肉[とりにく]と玉[たま]ねぎを入[い]れて、五分[ごふん]ぐらい煮[に]ます。", "en": "When it boils, add the chicken and onion and simmer for about five minutes." },
+    { "jp": "鶏肉[とりにく]に火[ひ]が通[とお]ったら、よく混[ま]ぜた卵[たまご]を上[うえ]からゆっくり入[い]れます。", "en": "Once the chicken is cooked through, slowly pour the well-beaten eggs over the top." },
+    { "jp": "ふたをして、一分[いっぷん]ぐらい待[ま]ちます。", "en": "Put the lid on and wait about one minute." },
+    { "jp": "卵[たまご]が固[かた]くなりすぎないように気[き]をつけてください。", "en": "Be careful that the eggs don't get too firm." },
+    { "jp": "最後[さいご]に、温[あたた]かいご飯[はん]の上[うえ]にのせたら、できあがりです。", "en": "Finally, put it on top of warm rice, and it's done." },
+    { "jp": "三十分[さんじゅっぷん]もかからないので、忙[いそが]しい日[ひ]の晩[ばん]ご飯[はん]にぴったりです。", "en": "It takes less than thirty minutes, so it's perfect for dinner on a busy day." }
+  ],
+  "questions": [
+    { "q": "Why is the dish called oyakodon (\"parent and child bowl\")?", "choices": ["Parents and children often eat it together", "The chicken is the \"parent\" and the egg is the \"child\"", "A mother invented it for her child", "It is served in two bowls, a big one and a small one"], "answer": 1 },
+    { "q": "How many eggs do you need for two people?", "choices": ["Two", "Four", "Six", "Three"], "answer": 3 },
+    { "q": "What does the writer tell you to be careful about?", "choices": ["Not letting the eggs get too firm", "Not burning the rice", "Not cutting the chicken too small", "Not using too much soy sauce"], "answer": 0 }
+  ]
+}

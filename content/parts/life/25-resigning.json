@@ -1,0 +1,57 @@
+{
+  "id": "life-resigning",
+  "title": "Changing jobs & resigning",
+  "level": "N2",
+  "intro": "Changing jobs ({転職[てんしょく]}) is now common in Japan, but leaving well still matters.\n\n**Telling your company.** Speak to your direct boss first, in private and in person, before telling colleagues. Check your work rules for the required notice period; companies commonly ask for one month or more. Following your company's process makes for a smoother exit ({円満[えんまん]退職[たいしょく]}). You may be asked to submit a written resignation. A {退職願[たいしょくねがい]} is a request to resign, while a {退職届[たいしょくとどけ]} is a formal notice; many companies have their own form. The standard reason written is {一身上[いっしんじょう]の都合[つごう]により} (for personal reasons).\n\n**Before you leave.** Prepare a handover ({引[ひ]き継[つ]ぎ}), agree on your last working day, and plan any remaining paid leave. Return your ID card, health insurance card if you have one, and company equipment. Ask for the documents you will need: the withholding slip, your pension details, and, if you may claim unemployment benefits, the separation notice ({離職票[りしょくひょう]}).\n\n**Visa and insurance.** If your status of residence is tied to your work, there are usually notification duties to the Immigration Services Agency when you leave or join an employer, with a short deadline. Long periods without the activity your status covers can also cause problems. Your health insurance and pension change when you leave a company, so arrange the switch promptly. Confirm the details with the Immigration Services Agency and your city office.",
+  "phrases": [
+    { "jp": "部長[ぶちょう]、少[すこ]しお時間[じかん]をいただけますでしょうか。ご相談[そうだん]したいことがございます。", "en": "Could I have a little of your time? There's something I'd like to discuss with you." },
+    { "jp": "大変[たいへん]申[もう]し上[あ]げにくいのですが、退職[たいしょく]させていただきたいと考[かんが]えております。", "en": "This is very difficult to say, but I'm thinking of resigning." },
+    { "jp": "3月末[さんがつまつ]で退職[たいしょく]したいと考[かんが]えております。", "en": "I'd like to leave at the end of March." },
+    { "jp": "一身上[いっしんじょう]の都合[つごう]により、退職[たいしょく]いたします。", "en": "I will resign for personal reasons. (written formula)" },
+    { "jp": "新[あたら]しい分野[ぶんや]に挑戦[ちょうせん]したいと思[おも]いまして。", "en": "I'd like to take on a challenge in a new field." },
+    { "jp": "ありがたいお言葉[ことば]ですが、よく考[かんが]えて決[き]めたことです。", "en": "Thank you for saying so, but I've made this decision after careful thought." },
+    { "jp": "引[ひ]き継[つ]ぎは責任[せきにん]を持[も]って行[おこな]います。", "en": "I'll make sure the handover is done properly." },
+    { "jp": "最終[さいしゅう]出社日[しゅっしゃび]はいつにすればよろしいでしょうか。", "en": "When should my last day in the office be?" },
+    { "jp": "残[のこ]っている有給[ゆうきゅう]を消化[しょうか]したいのですが。", "en": "I'd like to use up my remaining paid leave." },
+    { "jp": "離職票[りしょくひょう]を送[おく]っていただけますか。", "en": "Could you send me my separation notice?" },
+    { "jp": "源泉[げんせん]徴収票[ちょうしゅうひょう]はいつ頃[ごろ]いただけますか。", "en": "When can I receive my withholding slip?" },
+    { "jp": "在職中[ざいしょくちゅう]は大変[たいへん]お世話[せわ]になりました。", "en": "Thank you very much for everything during my time here." },
+    { "jp": "皆様[みなさま]のおかげで、多[おお]くのことを学[まな]ぶことができました。", "en": "Thanks to all of you, I was able to learn a great deal." },
+    { "jp": "皆様[みなさま]の今後[こんご]のご活躍[かつやく]をお祈[いの]りしております。", "en": "I wish you all continued success." }
+  ],
+  "vocab": [
+    { "jp": "退職[たいしょく]", "en": "resignation, leaving a job" },
+    { "jp": "退職願[たいしょくねがい]", "en": "letter requesting resignation" },
+    { "jp": "退職届[たいしょくとどけ]", "en": "formal notice of resignation" },
+    { "jp": "転職[てんしょく]", "en": "changing jobs" },
+    { "jp": "円満[えんまん]退職[たいしょく]", "en": "leaving on good terms" },
+    { "jp": "引[ひ]き継[つ]ぎ", "en": "handover" },
+    { "jp": "最終[さいしゅう]出社日[しゅっしゃび]", "en": "last day in the office" },
+    { "jp": "有給[ゆうきゅう]消化[しょうか]", "en": "using up paid leave" },
+    { "jp": "離職票[りしょくひょう]", "en": "separation notice (for unemployment benefits)" },
+    { "jp": "退職金[たいしょくきん]", "en": "retirement / severance allowance" },
+    { "jp": "送別会[そうべつかい]", "en": "farewell party" },
+    { "jp": "引[ひ]き止[と]め", "en": "being asked to stay" },
+    { "jp": "失業[しつぎょう]保険[ほけん]", "en": "unemployment benefits (common name)" },
+    { "jp": "所属[しょぞく]機関[きかん]", "en": "affiliated organization (employer, in immigration terms)" }
+  ],
+  "dialogue": [
+    { "speaker": "You", "jp": "部長[ぶちょう]、今[いま]、少[すこ]しお時間[じかん]よろしいでしょうか。できれば会議室[かいぎしつ]で。", "en": "Do you have a moment now? In a meeting room, if possible." },
+    { "speaker": "Manager", "jp": "いいよ。どうしたの、改[あらた]まって。", "en": "Sure. What is it? You sound serious." },
+    { "speaker": "You", "jp": "実[じつ]は、3月末[さんがつまつ]で退職[たいしょく]させていただきたいと考[かんが]えております。", "en": "Actually, I'm thinking of leaving at the end of March." },
+    { "speaker": "Manager", "jp": "そうか…。理由[りゆう]を聞[き]いてもいいかな。", "en": "I see... May I ask why?" },
+    { "speaker": "You", "jp": "以前[いぜん]から興味[きょうみ]があったデータ分析[ぶんせき]の仕事[しごと]に、挑戦[ちょうせん]したいと思[おも]いまして。", "en": "I'd like to try working in data analysis, which I've been interested in for some time." },
+    { "speaker": "Manager", "jp": "君[きみ]にはもう少[すこ]しいてほしいんだけどな。考[かんが]え直[なお]す余地[よち]はない？", "en": "I was hoping you'd stay a bit longer. Is there any room to reconsider?" },
+    { "speaker": "You", "jp": "ありがたいお言葉[ことば]ですが、よく考[かんが]えて決[き]めたことです。", "en": "That's kind of you to say, but I've thought it over carefully." },
+    { "speaker": "Manager", "jp": "わかった。じゃあ、引[ひ]き継[つ]ぎの計画[けいかく]を立[た]てよう。", "en": "All right. Then let's make a handover plan." },
+    { "speaker": "You", "jp": "はい。来週[らいしゅう]までに引[ひ]き継[つ]ぎ資料[しりょう]をまとめます。これまで本当[ほんとう]にお世話[せわ]になりました。", "en": "Yes. I'll put together the handover documents by next week. Thank you so much for everything." },
+    { "speaker": "Manager", "jp": "まだ早[はや]いよ。残[のこ]りの期間[きかん]もよろしく頼[たの]むね。", "en": "It's too early for that. I'm counting on you for the rest of your time here." }
+  ],
+  "tips": [
+    "Line up your next job, and check its visa implications, before you resign if you can.",
+    "Tell your boss before anyone else at work. Your boss hearing it from a colleague first can damage the relationship.",
+    "Look up the Immigration Services Agency's notification for changes of employer as soon as your dates are fixed; it can usually be done online.",
+    "Ask HR in writing for the documents you need after leaving and when they will be sent. Some, like the withholding slip, may arrive weeks later.",
+    "A short farewell email ({退職[たいしょく]のご挨拶[あいさつ]}) to colleagues and key clients on your last day is standard; include who will take over your work."
+  ]
+}

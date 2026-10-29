@@ -1,0 +1,57 @@
+{
+  "id": "life-keigo",
+  "title": "Workplace keigo essentials",
+  "level": "N3",
+  "intro": "Keigo ({敬語[けいご]}) is the system of respectful language used at work, with customers and with anyone of higher status. It has three main layers:\n\n- **Polite language** ({丁寧語[ていねいご]}): {です／ます}, plus {ございます} in very formal speech.\n- **Respectful language** ({尊敬語[そんけいご]}): raises the other person by using special verbs for their actions, such as {いらっしゃる} (be / go / come), {おっしゃる} (say), {ご覧[らん]になる} (see), {召[め]し上[あ]がる} (eat / drink), or the pattern {お〜になる}.\n- **Humble language** ({謙譲語[けんじょうご]}): lowers yourself when your action relates to the other person, such as {参[まい]る} (go / come), {申[もう]す} (say), {伺[うかが]う} (visit / ask), {拝見[はいけん]する} (see), {いただく} (receive / eat), or the pattern {お〜する}.\n\nThe key rule is **inside vs outside** ({ウチ／ソト}). Inside your company, you show respect to your boss. But when speaking to an outside person such as a client, your whole company is inside, so you talk about your boss humbly, without {さん} or a title: {部長[ぶちょう]の田中[たなか]は外出[がいしゅつ]しております}.\n\nA few set phrases cover a huge amount of office life: {お疲[つか]れ様[さま]です}, {失礼[しつれい]します}, {かしこまりました} or {承知[しょうち]しました} (certainly / understood), {申[もう]し訳[わけ]ございません}, and cushion phrases like {恐[おそ]れ入[い]りますが} and {お手数[てすう]ですが} placed before requests.\n\nDon't panic about perfection. Many Japanese people make keigo mistakes too. Clear polite {です／ます} with the right set phrases will carry you a long way while you learn.",
+  "phrases": [
+    { "jp": "かしこまりました。", "en": "Certainly. (to a customer or superior)" },
+    { "jp": "承知[しょうち]いたしました。", "en": "Understood. (formal)", "note": "Use this instead of {わかりました} with superiors and clients. {了解[りょうかい]しました} is common between colleagues but many people consider it too casual toward superiors." },
+    { "jp": "申[もう]し訳[わけ]ございません。", "en": "I'm very sorry." },
+    { "jp": "恐[おそ]れ入[い]りますが、お名前[なまえ]をもう一度[いちど]伺[うかが]えますか。", "en": "I'm sorry to trouble you, but could I ask your name once more?" },
+    { "jp": "部長[ぶちょう]は今日[きょう]、いらっしゃいますか。", "en": "Is the department manager in today?" },
+    { "jp": "課長[かちょう]がそうおっしゃっていました。", "en": "The section manager said so." },
+    { "jp": "資料[しりょう]はご覧[らん]になりましたか。", "en": "Have you looked at the materials?" },
+    { "jp": "資料[しりょう]を拝見[はいけん]しました。", "en": "I've looked at the materials." },
+    { "jp": "明日[あした]の午後[ごご]、御社[おんしゃ]に伺[うかが]います。", "en": "I'll visit your company tomorrow afternoon." },
+    { "jp": "会議室[かいぎしつ]までご案内[あんない]いたします。", "en": "I'll show you to the meeting room." },
+    { "jp": "少々[しょうしょう]お待[ま]ちいただけますか。", "en": "Could you wait a moment, please?" },
+    { "jp": "お手数[てすう]をおかけしますが、ご確認[かくにん]をお願[ねが]いいたします。", "en": "Sorry for the trouble, but could you please check it?" },
+    { "jp": "田中[たなか]はただいま外出[がいしゅつ]しております。", "en": "Tanaka is out at the moment. (to an outside person)", "note": "Your own colleague, even your boss, loses {さん} when you talk to outsiders." },
+    { "jp": "その件[けん]は存[ぞん]じております。", "en": "I'm aware of that matter." },
+    { "jp": "よろしければ、お茶[ちゃ]を召[め]し上[あ]がってください。", "en": "Please have some tea, if you like." }
+  ],
+  "vocab": [
+    { "jp": "敬語[けいご]", "en": "honorific / polite language" },
+    { "jp": "尊敬語[そんけいご]", "en": "respectful language (raising others)" },
+    { "jp": "謙譲語[けんじょうご]", "en": "humble language (lowering yourself)" },
+    { "jp": "丁寧語[ていねいご]", "en": "polite language (です／ます)" },
+    { "jp": "いらっしゃる", "en": "to be / go / come (respectful)" },
+    { "jp": "おっしゃる", "en": "to say (respectful)" },
+    { "jp": "ご覧[らん]になる", "en": "to see, look (respectful)" },
+    { "jp": "召[め]し上[あ]がる", "en": "to eat, drink (respectful)" },
+    { "jp": "参[まい]る", "en": "to go / come (humble)" },
+    { "jp": "申[もう]す", "en": "to say (humble)" },
+    { "jp": "伺[うかが]う", "en": "to visit, ask (humble)" },
+    { "jp": "拝見[はいけん]する", "en": "to see, look at (humble)" },
+    { "jp": "存[ぞん]じる", "en": "to know (humble)" },
+    { "jp": "クッション言葉[ことば]", "en": "cushion phrases that soften a request" }
+  ],
+  "dialogue": [
+    { "speaker": "Visitor", "jp": "失礼[しつれい]いたします。ABC商事[しょうじ]の山本[やまもと]と申[もう]します。営業部[えいぎょうぶ]の佐藤[さとう]様[さま]はいらっしゃいますか。", "en": "Excuse me. I'm Yamamoto from ABC Trading. Is Mr. Sato from the sales department in?" },
+    { "speaker": "You", "jp": "いつもお世話[せわ]になっております。申[もう]し訳[わけ]ございません、佐藤[さとう]はただいま会議[かいぎ]中[ちゅう]でございます。", "en": "Thank you for your continued business. I'm very sorry, Sato is in a meeting at the moment." },
+    { "speaker": "Visitor", "jp": "そうですか。3時[さんじ]にお約束[やくそく]をいただいているのですが。", "en": "I see. I have an appointment with him at three." },
+    { "speaker": "You", "jp": "大変[たいへん]失礼[しつれい]いたしました。すぐに確認[かくにん]いたしますので、こちらで少々[しょうしょう]お待[ま]ちいただけますか。", "en": "My apologies. I'll check right away, so could you wait here a moment?" },
+    { "speaker": "Visitor", "jp": "はい、お願[ねが]いします。", "en": "Yes, please." },
+    { "speaker": "You", "jp": "佐藤[さとう]さん、お疲[つか]れ様[さま]です。ABC商事[しょうじ]の山本[やまもと]様[さま]がお見[み]えになっています。", "en": "(On the internal line) Mr. Sato, sorry to bother you. Mr. Yamamoto from ABC Trading has arrived." },
+    { "speaker": "Sato", "jp": "あ、もうそんな時間[じかん]か。すぐ行[い]きます。", "en": "Oh, is it that time already? I'll come right away." },
+    { "speaker": "You", "jp": "山本[やまもと]様[さま]、お待[ま]たせいたしました。佐藤[さとう]はすぐに参[まい]ります。", "en": "Mr. Yamamoto, sorry to keep you waiting. Sato will be with you shortly." },
+    { "speaker": "Visitor", "jp": "ありがとうございます。", "en": "Thank you." }
+  ],
+  "tips": [
+    "Notice the switch in the dialogue: to the visitor, your colleague is {佐藤[さとう]} and comes with humble {参[まい]ります}; on the internal call, he is {佐藤[さとう]さん} again.",
+    "Avoid double keigo such as {おっしゃられる}. One respectful form is enough: {おっしゃる}.",
+    "Don't use respectful verbs about yourself. {私[わたし]がいらっしゃいます} is a classic learner mistake; it should be {私[わたし]が参[まい]ります}.",
+    "Overusing {させていただく} can sound stiff or unnatural. Simple humble forms like {いたします} are often better.",
+    "Learn keigo as fixed phrases first. You will understand the system faster once you can already say the most common sentences."
+  ]
+}

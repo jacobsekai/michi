@@ -1,0 +1,27 @@
+{
+  "id": "r-n2-03",
+  "level": "N2",
+  "title": "Business Email: Request to Change a Delivery Date",
+  "titleJp": "納期[のうき]変更[へんこう]のお願[ねが]い",
+  "sentences": [
+    { "jp": "山田[やまだ]商事[しょうじ]株式会社[かぶしきがいしゃ]　営業部[えいぎょうぶ]　佐藤[さとう]様[さま]", "en": "To Mr./Ms. Sato, Sales Department, Yamada Shoji Co., Ltd." },
+    { "jp": "いつも大変[たいへん]お世話[せわ]になっております。", "en": "Thank you very much, as always, for your continued support." },
+    { "jp": "株式会社[かぶしきがいしゃ]ミナトテックの林[はやし]でございます。", "en": "This is Hayashi from Minato Tech Inc." },
+    { "jp": "先日[せんじつ]ご注文[ちゅうもん]いただきました業務用[ぎょうむよう]プリンター二十台[にじゅうだい]の納期[のうき]につきまして、ご相談[そうだん]があり、ご連絡[れんらく]いたしました。", "en": "I am writing to consult with you regarding the delivery date of the twenty commercial printers you recently ordered." },
+    { "jp": "当初[とうしょ]、十一月[じゅういちがつ]二十日[はつか]の納品[のうひん]をお約束[やくそく]しておりましたが、部品[ぶひん]の供給元[きょうきゅうもと]である海外[かいがい]工場[こうじょう]の生産[せいさん]遅延[ちえん]により、予定[よてい]どおりの納品[のうひん]が難[むずか]しい状況[じょうきょう]となりました。", "en": "We originally promised delivery on November 20, but due to a production delay at the overseas factory that supplies the parts, it has become difficult to deliver as scheduled." },
+    { "jp": "ご迷惑[めいわく]をおかけし、誠[まこと]に申[もう]し訳[わけ]ございません。", "en": "We sincerely apologize for the inconvenience." },
+    { "jp": "つきましては、以下[いか]の二[ふた]つの案[あん]をご提案[ていあん]させていただきたく存[ぞん]じます。", "en": "We would therefore like to propose the following two options." },
+    { "jp": "一[ひと]つ目[め]は、二十台[にじゅうだい]すべてを十二月[じゅうにがつ]四日[よっか]にまとめて納品[のうひん]する案[あん]です。", "en": "The first is to deliver all twenty units together on December 4." },
+    { "jp": "二[ふた]つ目[め]は、在庫[ざいこ]のある八台[はちだい]を予定[よてい]どおり十一月[じゅういちがつ]二十日[はつか]に先行[せんこう]して納品[のうひん]し、残[のこ]りの十二台[じゅうにだい]を十二月[じゅうにがつ]四日[よっか]にお届[とど]けする案[あん]です。", "en": "The second is to deliver the eight units we have in stock ahead of time on November 20 as scheduled, and deliver the remaining twelve on December 4." },
+    { "jp": "なお、二[ふた]つ目[め]の案[あん]の場合[ばあい]でも、追加[ついか]の送料[そうりょう]は弊社[へいしゃ]にて負担[ふたん]いたします。", "en": "Please note that even with the second option, our company will cover the additional shipping costs." },
+    { "jp": "大変[たいへん]恐縮[きょうしゅく]ではございますが、どちらの案[あん]がよろしいか、今週[こんしゅう]金曜日[きんようび]までにご返信[へんしん]いただけますと幸[さいわ]いです。", "en": "We are very sorry to trouble you, but we would be grateful if you could reply by this Friday to let us know which option you prefer." },
+    { "jp": "また、ご不明[ふめい]な点[てん]やほかにご希望[きぼう]がございましたら、お気軽[きがる]にお申[もう]し付[つ]けください。", "en": "Also, if you have any questions or other requests, please do not hesitate to let us know." },
+    { "jp": "今後[こんご]このようなことがないよう、部品[ぶひん]の調達[ちょうたつ]体制[たいせい]を見直[みなお]してまいります。", "en": "We will review our parts procurement system to make sure this does not happen again." },
+    { "jp": "何卒[なにとぞ]よろしくお願[ねが]い申[もう]し上[あ]げます。", "en": "Thank you very much for your understanding." }
+  ],
+  "questions": [
+    { "q": "Why can't the printers be delivered on schedule?", "choices": ["The order was entered incorrectly", "A shipping company went on strike", "Production was delayed at the overseas factory that supplies parts", "Bad weather stopped deliveries"], "answer": 2 },
+    { "q": "Under the second option, how many printers would arrive on November 20?", "choices": ["Twelve", "Twenty", "None", "Eight"], "answer": 3 },
+    { "q": "Who would pay the extra shipping cost under the second option?", "choices": ["Minato Tech", "Yamada Shoji", "The two companies would split it", "The overseas factory"], "answer": 0 }
+  ]
+}

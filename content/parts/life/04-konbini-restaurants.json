@@ -1,0 +1,61 @@
+{
+  "id": "life-konbini-restaurants",
+  "title": "Convenience stores & restaurants",
+  "level": "N5",
+  "intro": "Convenience stores ({コンビニ}) are a lifeline for new residents. Besides food and drinks, most let you pay utility bills and some tax bills with the payment slip, withdraw cash from an ATM that accepts many foreign cards, print and copy documents, send and receive parcels, and buy event tickets. They are open long hours, often 24/7.\n\nAt the register you will hear a few standard questions: whether to heat your lunch box ({温[あたた]めますか}), whether you need chopsticks or a spoon, whether you need a bag, and whether you have a point card. Short answers like {はい、お願[ねが]いします} or {大丈夫[だいじょうぶ]です} cover almost everything.\n\nIn restaurants, staff greet you with {いらっしゃいませ} and ask how many people are in your group ({何名様[なんめいさま]ですか}). Many casual places, especially ramen and set-meal shops, use a ticket machine ({食券[しょっけん]}): you buy a ticket at the entrance and hand it to staff. Water or tea is usually free and refilled. To call staff, raise your hand and say {すみません}, or press the call button on the table if there is one.\n\nThere is no tipping in Japan; leaving money behind may cause staff to chase after you. You normally pay at the register near the exit, not at the table. Indoor smoking is now restricted in most restaurants, though some small bars still allow it.",
+  "phrases": [
+    { "jp": "温[あたた]めますか。", "en": "Shall I heat it up? (staff)" },
+    { "jp": "はい、お願[ねが]いします。", "en": "Yes, please." },
+    { "jp": "いいえ、そのままで大丈夫[だいじょうぶ]です。", "en": "No, it's fine as it is." },
+    { "jp": "お箸[はし]を一膳[いちぜん]お願[ねが]いします。", "en": "One pair of chopsticks, please.", "note": "{膳[ぜん]} is the counter for pairs of chopsticks. You can also just say {お箸[はし]、お願[ねが]いします}." },
+    { "jp": "二人[ふたり]です。", "en": "Two people." },
+    { "jp": "予約[よやく]していないんですが、大丈夫[だいじょうぶ]ですか。", "en": "We don't have a reservation. Is that OK?" },
+    { "jp": "英語[えいご]のメニューはありますか。", "en": "Do you have an English menu?" },
+    { "jp": "おすすめは何[なん]ですか。", "en": "What do you recommend?" },
+    { "jp": "すみません、注文[ちゅうもん]お願[ねが]いします。", "en": "Excuse me, we'd like to order." },
+    { "jp": "これを一[ひと]つと、これを二[ふた]つお願[ねが]いします。", "en": "One of these and two of these, please.", "note": "Pointing at the menu is perfectly acceptable." },
+    { "jp": "卵[たまご]のアレルギーがあります。", "en": "I'm allergic to eggs." },
+    { "jp": "これに豚肉[ぶたにく]は入[はい]っていますか。", "en": "Does this contain pork?" },
+    { "jp": "店内[てんない]でお召[め]し上[あ]がりですか。", "en": "Will you be eating in? (staff)", "note": "Answer {店内[てんない]で} (eat in) or {持[も]ち帰[かえ]りで} (take away)." },
+    { "jp": "持[も]ち帰[かえ]りでお願[ねが]いします。", "en": "To take away, please." },
+    { "jp": "お水[みず]をもらえますか。", "en": "Could I have some water?" },
+    { "jp": "お会計[かいけい]お願[ねが]いします。", "en": "The bill, please." },
+    { "jp": "別々[べつべつ]に払[はら]えますか。", "en": "Can we pay separately?" },
+    { "jp": "ごちそうさまでした。", "en": "Thank you for the meal.", "note": "Saying this to staff as you leave is a nice touch." }
+  ],
+  "vocab": [
+    { "jp": "コンビニ", "en": "convenience store" },
+    { "jp": "お弁当[べんとう]", "en": "boxed lunch" },
+    { "jp": "温[あたた]める", "en": "to heat up, warm" },
+    { "jp": "お箸[はし]", "en": "chopsticks" },
+    { "jp": "店員[てんいん]", "en": "shop / restaurant staff" },
+    { "jp": "注文[ちゅうもん]", "en": "order" },
+    { "jp": "食券[しょっけん]", "en": "meal ticket (from a machine)" },
+    { "jp": "お冷[ひや]", "en": "(free) cold water in restaurants" },
+    { "jp": "定食[ていしょく]", "en": "set meal" },
+    { "jp": "大盛[おおも]り", "en": "large portion" },
+    { "jp": "持[も]ち帰[かえ]り", "en": "takeaway" },
+    { "jp": "予約[よやく]", "en": "reservation" },
+    { "jp": "お会計[かいけい]", "en": "the bill, payment" },
+    { "jp": "割[わ]り勘[かん]", "en": "splitting the bill equally" }
+  ],
+  "dialogue": [
+    { "speaker": "Staff", "jp": "いらっしゃいませ。何名様[なんめいさま]ですか。", "en": "Welcome. How many people?" },
+    { "speaker": "You", "jp": "二人[ふたり]です。", "en": "Two." },
+    { "speaker": "Staff", "jp": "こちらのお席[せき]へどうぞ。ご注文[ちゅうもん]がお決[き]まりになりましたら、お呼[よ]びください。", "en": "This way to your table, please. Call me when you've decided what to order." },
+    { "speaker": "You", "jp": "すみません、注文[ちゅうもん]お願[ねが]いします。", "en": "Excuse me, we'd like to order." },
+    { "speaker": "Staff", "jp": "はい、お伺[うかが]いします。", "en": "Yes, what would you like?" },
+    { "speaker": "You", "jp": "唐揚[からあ]げ定食[ていしょく]を二[ふた]つお願[ねが]いします。一[ひと]つは大盛[おおも]りで。", "en": "Two fried chicken set meals, please. One of them a large portion." },
+    { "speaker": "Staff", "jp": "かしこまりました。お飲[の]み物[もの]はいかがですか。", "en": "Certainly. Would you like anything to drink?" },
+    { "speaker": "You", "jp": "大丈夫[だいじょうぶ]です。", "en": "We're fine, thanks." },
+    { "speaker": "You", "jp": "すみません、お会計[かいけい]お願[ねが]いします。", "en": "(later) Excuse me, the bill please." },
+    { "speaker": "Staff", "jp": "ありがとうございます。2100円[にせんひゃくえん]でございます。", "en": "Thank you. That will be 2,100 yen." }
+  ],
+  "tips": [
+    "No tipping, anywhere. Good service is simply expected and included.",
+    "When the bill is placed on your table, take it to the register at the exit to pay.",
+    "Learn the ticket machine: buttons usually show photos and prices. Insert money first, press the button, take your ticket and change.",
+    "You can pay many household bills at a {コンビニ} using the barcode on the payment slip. Keep the receipt as proof of payment.",
+    "Making an X with your index fingers is a common gesture for the bill, but saying {お会計[かいけい]お願[ねが]いします} is clearer."
+  ]
+}

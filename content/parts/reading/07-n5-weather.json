@@ -1,0 +1,21 @@
+{
+  "id": "r-n5-07",
+  "level": "N5",
+  "title": "Today's Weather",
+  "titleJp": "今日[きょう]の天気[てんき]",
+  "sentences": [
+    { "jp": "おはようございます。今日[きょう]の天気[てんき]です。", "en": "Good morning. Here is today's weather." },
+    { "jp": "今日[きょう]は朝[あさ]から曇[くも]りです。", "en": "Today it's cloudy from the morning." },
+    { "jp": "午後[ごご]から雨[あめ]が降[ふ]りますから、傘[かさ]を持[も]って出[で]かけましょう。", "en": "It will rain from the afternoon, so take an umbrella when you go out." },
+    { "jp": "昼[ひる]は少[すこ]し暖[あたた]かいですが、夜[よる]は寒[さむ]くなります。", "en": "It will be a little warm during the day, but it will get cold at night." },
+    { "jp": "明日[あした]は晴[は]れです。風[かぜ]も弱[よわ]いですから、洗濯[せんたく]にいい日[ひ]です。", "en": "Tomorrow will be sunny. The wind will be light too, so it's a good day for laundry." },
+    { "jp": "あさっては、とても寒[さむ]いでしょう。", "en": "The day after tomorrow will probably be very cold." },
+    { "jp": "山[やま]では雪[ゆき]が降[ふ]るでしょう。", "en": "It will probably snow in the mountains." },
+    { "jp": "暖[あたた]かいコートを着[き]てください。", "en": "Please wear a warm coat." }
+  ],
+  "questions": [
+    { "q": "Why should you take an umbrella today?", "choices": ["It is raining this morning", "It will snow tonight", "It will rain from the afternoon", "It will be very windy"], "answer": 2 },
+    { "q": "What will tomorrow be like?", "choices": ["Cloudy with rain", "Sunny with light wind", "Snowy and cold", "Windy and warm"], "answer": 1 },
+    { "q": "Where will it probably snow the day after tomorrow?", "choices": ["In the city", "By the sea", "Everywhere", "In the mountains"], "answer": 3 }
+  ]
+}

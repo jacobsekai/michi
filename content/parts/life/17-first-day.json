@@ -1,0 +1,59 @@
+{
+  "id": "life-first-day",
+  "title": "First day at work",
+  "level": "N3",
+  "intro": "On your first day you will very likely be asked to introduce yourself to your team, often at a morning meeting ({朝礼[ちょうれい]}) or as you are walked around the office. Prepare a short speech of about 30 seconds to a minute. A common structure is:\n\n- Your name, with the department you are joining: {本日[ほんじつ]から〜でお世話[せわ]になります}.\n- Where you are from and what you did before.\n- One light personal detail, if you like.\n- A humble closing, asking for guidance: {ご指導[しどう]よろしくお願[ねが]いいたします}.\n\nYou will also handle paperwork: the employment contract, social insurance enrollment, a bank account for salary, your commuting route for the commuting allowance, and your My Number, which employers need for tax and social insurance. Read the work rules ({就業[しゅうぎょう]規則[きそく]}) for working hours, leave and overtime.\n\nLearn the daily phrases. Say {おはようございます} when you arrive, {お疲[つか]れ様[さま]です} when you pass colleagues during the day, {お先[さき]に失礼[しつれい]します} when you leave before others, and {お疲[つか]れ様[さま]でした} to people who are leaving. Ask questions freely in the first weeks; it is expected of a newcomer. You will probably be assigned a mentor or senior colleague ({先輩[せんぱい]}) to help you.\n\nTake notes, learn names and roles quickly, and watch how colleagues behave. Every workplace has its own unwritten rules.",
+  "phrases": [
+    { "jp": "本日[ほんじつ]から営業部[えいぎょうぶ]でお世話[せわ]になります、スミスと申[もう]します。", "en": "I'm Smith, and I'm joining the sales department from today." },
+    { "jp": "前職[ぜんしょく]ではITサポートを担当[たんとう]しておりました。", "en": "In my previous job I worked in IT support." },
+    { "jp": "一日[いちにち]も早[はや]く仕事[しごと]を覚[おぼ]えられるよう、頑張[がんば]ります。", "en": "I'll do my best to learn the job as quickly as possible." },
+    { "jp": "至[いた]らない点[てん]も多[おお]いかと思[おも]いますが、ご指導[しどう]よろしくお願[ねが]いいたします。", "en": "I'm sure I have a lot to learn, so I would appreciate your guidance.", "note": "A classic humble closing for a work self-introduction." },
+    { "jp": "何[なに]かお手伝[てつだ]いできることはありますか。", "en": "Is there anything I can help with?" },
+    { "jp": "すみません、これはどうすればよろしいでしょうか。", "en": "Excuse me, what should I do with this?" },
+    { "jp": "メモを取[と]ってもよろしいですか。", "en": "May I take notes?" },
+    { "jp": "念[ねん]のため、確認[かくにん]させてください。", "en": "Just to be sure, let me confirm." },
+    { "jp": "教[おし]えていただき、ありがとうございます。", "en": "Thank you for showing me." },
+    { "jp": "お手洗[てあら]いはどちらですか。", "en": "Where is the restroom?" },
+    { "jp": "〜さんは、どちらの部署[ぶしょ]ですか。", "en": "Which department are you in, ~?" },
+    { "jp": "お昼[ひる]、ご一緒[いっしょ]してもいいですか。", "en": "May I join you for lunch?" },
+    { "jp": "お疲[つか]れ様[さま]です。", "en": "(greeting / thanks to colleagues during the day)" },
+    { "jp": "お先[さき]に失礼[しつれい]します。", "en": "Excuse me for leaving before you." },
+    { "jp": "お疲[つか]れ様[さま]でした。", "en": "Thanks for your hard work. (to someone leaving)" }
+  ],
+  "vocab": [
+    { "jp": "出社[しゅっしゃ]", "en": "arriving at / going in to the office" },
+    { "jp": "朝礼[ちょうれい]", "en": "morning meeting" },
+    { "jp": "部署[ぶしょ]", "en": "department, section" },
+    { "jp": "配属[はいぞく]", "en": "assignment (to a department)" },
+    { "jp": "上司[じょうし]", "en": "boss, superior" },
+    { "jp": "先輩[せんぱい]", "en": "senior colleague" },
+    { "jp": "後輩[こうはい]", "en": "junior colleague" },
+    { "jp": "同僚[どうりょう]", "en": "colleague, coworker" },
+    { "jp": "新人[しんじん]", "en": "newcomer, new employee" },
+    { "jp": "研修[けんしゅう]", "en": "training" },
+    { "jp": "雇用[こよう]契約書[けいやくしょ]", "en": "employment contract" },
+    { "jp": "就業[しゅうぎょう]規則[きそく]", "en": "company work rules" },
+    { "jp": "社員証[しゃいんしょう]", "en": "employee ID card" },
+    { "jp": "通勤[つうきん]手当[てあて]", "en": "commuting allowance" },
+    { "jp": "定時[ていじ]", "en": "regular finishing time" }
+  ],
+  "dialogue": [
+    { "speaker": "Manager", "jp": "皆[みな]さん、おはようございます。今日[きょう]から新[あたら]しいメンバーが入[はい]りました。スミスさん、一言[ひとこと]お願[ねが]いします。", "en": "Good morning, everyone. A new member joins us from today. Mr. Smith, a few words, please." },
+    { "speaker": "You", "jp": "はい。本日[ほんじつ]から開発部[かいはつぶ]でお世話[せわ]になります、ダニエル・スミスと申[もう]します。", "en": "Yes. I'm Daniel Smith, and I'm joining the development department from today." },
+    { "speaker": "You", "jp": "アメリカ出身[しゅっしん]で、前職[ぜんしょく]ではアプリの開発[かいはつ]をしておりました。", "en": "I'm from the US, and in my previous job I developed apps." },
+    { "speaker": "You", "jp": "日本語[にほんご]はまだ勉強[べんきょう]中[ちゅう]で、ご迷惑[めいわく]をおかけすることもあるかと思[おも]いますが、一日[いちにち]も早[はや]くお役[やく]に立[た]てるよう頑張[がんば]ります。", "en": "I'm still studying Japanese, so I may cause you some trouble, but I'll work hard to be useful as soon as possible." },
+    { "speaker": "You", "jp": "どうぞよろしくお願[ねが]いいたします。", "en": "I look forward to working with you all." },
+    { "speaker": "Manager", "jp": "ありがとう。じゃあ、田中[たなか]さん、スミスさんの指導[しどう]係[がかり]をお願[ねが]いできるかな。", "en": "Thanks. Ms. Tanaka, could you be Mr. Smith's mentor?" },
+    { "speaker": "Tanaka", "jp": "はい。スミスさん、田中[たなか]です。わからないことがあったら、何[なん]でも聞[き]いてくださいね。", "en": "Sure. Mr. Smith, I'm Tanaka. If there's anything you don't understand, just ask." },
+    { "speaker": "You", "jp": "ありがとうございます。よろしくお願[ねが]いします。", "en": "Thank you. I look forward to working with you." },
+    { "speaker": "You", "jp": "お先[さき]に失礼[しつれい]します。", "en": "(Evening) Excuse me for leaving first." },
+    { "speaker": "Tanaka", "jp": "お疲[つか]れ様[さま]でした。また明日[あした]。", "en": "Thanks for today. See you tomorrow." }
+  ],
+  "tips": [
+    "Rehearse your self-introduction out loud until you can say it without notes. Keep it short.",
+    "Say {お疲[つか]れ様[さま]です} to superiors, not {ご苦労[くろう]様[さま]です}, which is traditionally used toward people of lower rank.",
+    "Your employer will ask for your My Number. Giving it to your employer is normal and required for tax and social insurance.",
+    "Bring a notebook and write things down. Asking the same question twice is fine; asking it five times is less so.",
+    "Watch what time people actually arrive and how they leave. Workplace culture varies a lot between companies, especially between traditional Japanese firms and foreign-owned ones."
+  ]
+}

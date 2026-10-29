@@ -1,0 +1,28 @@
+{
+  "id": "r-n1-05",
+  "level": "N1",
+  "title": "Analysis: The Light and Shadow of a Tourism Boom",
+  "titleJp": "観光[かんこう]立国[りっこく]の光[ひかり]と影[かげ]",
+  "sentences": [
+    { "jp": "訪日[ほうにち]外国人[がいこくじん]旅行者[りょこうしゃ]の数[かず]が、過去[かこ]最高[さいこう]の水準[すいじゅん]で推移[すいい]している。", "en": "The number of foreign visitors to Japan is running at record levels." },
+    { "jp": "歴史的[れきしてき]な円安[えんやす]を追[お]い風[かぜ]に、観光[かんこう]消費[しょうひ]は地域[ちいき]経済[けいざい]を潤[うるお]し、宿泊業[しゅくはくぎょう]や飲食業[いんしょくぎょう]は活況[かっきょう]を呈[てい]している。", "en": "With a historically weak yen as a tailwind, tourist spending is enriching regional economies, and the lodging and restaurant industries are booming." },
+    { "jp": "だが、その恩恵[おんけい]の陰[かげ]で、看過[かんか]できない歪[ゆが]みも生[しょう]じつつある。", "en": "Yet in the shadow of those benefits, distortions that cannot be overlooked are also emerging." },
+    { "jp": "京都[きょうと]や鎌倉[かまくら]などの人気[にんき]観光地[かんこうち]では、路線[ろせん]バスが観光客[かんこうきゃく]で満員[まんいん]となり、通勤[つうきん]・通学[つうがく]する住民[じゅうみん]が乗車[じょうしゃ]できない事態[じたい]も珍[めずら]しくない。", "en": "In popular destinations such as Kyoto and Kamakura, it is not unusual for local buses to be packed with tourists, leaving residents commuting to work or school unable to board." },
+    { "jp": "私有地[しゆうち]への立[た]ち入[い]りやごみの放置[ほうち]といったマナーをめぐる問題[もんだい]も、地域[ちいき]住民[じゅうみん]の不満[ふまん]を募[つの]らせている。", "en": "Problems with manners, such as trespassing on private property and leaving litter behind, are also fueling local residents' frustration." },
+    { "jp": "いわゆる「オーバーツーリズム」である。", "en": "This is what is known as \"overtourism.\"" },
+    { "jp": "各地[かくち]では、すでに対策[たいさく]が模索[もさく]されている。", "en": "Various places are already searching for countermeasures." },
+    { "jp": "宿泊税[しゅくはくぜい]の導入[どうにゅう]や引[ひ]き上[あ]げ、観光客[かんこうきゃく]向[む]けの特急[とっきゅう]バスの運行[うんこう]、人気[にんき]施設[しせつ]の入場[にゅうじょう]予約制[よやくせい]などがその一例[いちれい]だ。", "en": "Examples include introducing or raising lodging taxes, running express buses for tourists, and requiring advance reservations to enter popular sites." },
+    { "jp": "観光客[かんこうきゃく]と住民[じゅうみん]とで価格[かかく]に差[さ]を設[もう]ける「二重[にじゅう]価格[かかく]」をめぐる議論[ぎろん]も始[はじ]まっている。", "en": "Debate has also begun over \"dual pricing,\" which would set different prices for tourists and residents." },
+    { "jp": "もっとも、こうした施策[しさく]の効果[こうか]は限定的[げんていてき]だとの見方[みかた]も根強[ねづよ]い。", "en": "However, there is also a persistent view that the effects of these measures are limited." },
+    { "jp": "問題[もんだい]の本質[ほんしつ]は観光客[かんこうきゃく]の総数[そうすう]よりも、特定[とくてい]の場所[ばしょ]と時間帯[じかんたい]への極端[きょくたん]な集中[しゅうちゅう]にあるからだ。", "en": "That is because the essence of the problem lies less in the total number of tourists than in their extreme concentration in particular places and at particular times." },
+    { "jp": "訪日客[ほうにちきゃく]の宿泊[しゅくはく]は依然[いぜん]として東京[とうきょう]・大阪[おおさか]・京都[きょうと]などの大都市圏[だいとしけん]に偏[かたよ]っており、地方[ちほう]への分散[ぶんさん]は道半[みちなか]ばにとどまっている。", "en": "Overnight stays by foreign visitors are still heavily skewed toward major metropolitan areas such as Tokyo, Osaka, and Kyoto, and dispersal to the regions remains only halfway achieved." },
+    { "jp": "裏[うら]を返[かえ]せば、まだ知[し]られていない地方[ちほう]の魅力[みりょく]を発信[はっしん]し、交通網[こうつうもう]を整[ととの]えることができれば、混雑[こんざつ]の緩和[かんわ]と地方[ちほう]の活性化[かっせいか]を同時[どうじ]に実現[じつげん]できる余地[よち]があるということでもある。", "en": "Looked at the other way, this also means that if the little-known attractions of the regions can be promoted and transportation networks improved, there is room to ease congestion and revitalize the regions at the same time." },
+    { "jp": "観光[かんこう]は本来[ほんらい]、訪[おとず]れる側[がわ]と迎[むか]える側[がわ]の双方[そうほう]が豊[ゆた]かになってこそ、持続[じぞく]可能[かのう]なものとなる。", "en": "Tourism, by its nature, becomes sustainable only when both those who visit and those who welcome them are enriched." },
+    { "jp": "数[かず]を追[お]う段階[だんかい]から、質[しつ]と分散[ぶんさん]を問[と]う段階[だんかい]へ――観光[かんこう]政策[せいさく]は今[いま]、大[おお]きな転換点[てんかんてん]に立[た]っている。", "en": "From a stage of chasing numbers to a stage that asks about quality and dispersal: tourism policy now stands at a major turning point." }
+  ],
+  "questions": [
+    { "q": "According to the article, what is the essence of the overtourism problem?", "choices": ["The total number of tourists is too high", "Tourists' poor manners", "Extreme concentration of tourists in particular places and times", "The weak yen"], "answer": 2 },
+    { "q": "Which of the following measures is NOT mentioned in the article?", "choices": ["Introducing or raising lodging taxes", "Express buses for tourists", "Reservation systems for popular sites", "Limiting the number of tourist visas"], "answer": 3 },
+    { "q": "What opportunity does the writer see in the current situation?", "choices": ["Promoting lesser-known regions and improving transport could both ease congestion and revitalize those regions", "Raising prices for tourists could replace local taxes", "Closing popular sites would solve the problem", "Building more hotels in Tokyo would reduce crowding in Kyoto"], "answer": 0 }
+  ]
+}

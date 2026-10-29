@@ -1,0 +1,57 @@
+{
+  "id": "life-greetings",
+  "title": "Greetings & politeness basics",
+  "level": "N5",
+  "intro": "Daily life in Japan runs on a small set of fixed phrases. You will hear the same greetings, thanks and apologies dozens of times a day, and using them smoothly matters more than perfect grammar.\n\nThe most important choice is **politeness level**. With strangers, shop staff, neighbors, officials and colleagues, speak in the polite {です／ます} style. Casual speech is for friends, family and people who have clearly invited you to relax. If you are unsure, stay polite: nobody is offended by politeness, but sudden casual speech can sound rude.\n\nGreetings usually come with a small bow ({お辞儀[じぎ]}). For everyday situations, a slight nod of the head is enough; deeper bows are for apologies, formal thanks and ceremonies. You do not need to bow and shake hands at the same time, though many Japanese people will offer a handshake to foreigners.\n\nWhen you enter a shop, staff will call out {いらっしゃいませ} (welcome). You are not expected to answer; a nod or simply carrying on is normal.\n\nOne word does a lot of work: {すみません}. It means excuse me (to get attention), sorry (for a small mistake), and even thank you (when someone has gone to trouble for you). Learn it first.\n\nFinally, names: add {さん} to other people's names, but never to your own.",
+  "phrases": [
+    { "jp": "おはようございます。", "en": "Good morning.", "note": "Polite form. Among friends, just {おはよう}. Some workplaces use it as the first greeting of a shift, whatever the time." },
+    { "jp": "こんにちは。", "en": "Hello. / Good afternoon.", "note": "Used from late morning to early evening. Not normally used with your own colleagues or family." },
+    { "jp": "こんばんは。", "en": "Good evening." },
+    { "jp": "ありがとうございます。", "en": "Thank you." },
+    { "jp": "どうもありがとうございました。", "en": "Thank you very much (for what you did).", "note": "The past form {ございました} thanks someone for something already finished, such as at the end of a shop visit." },
+    { "jp": "すみません。", "en": "Excuse me. / Sorry. / Thanks (for your trouble)." },
+    { "jp": "ごめんなさい。", "en": "I'm sorry.", "note": "A personal apology, softer and less formal. In business, use {申[もう]し訳[わけ]ありません} instead." },
+    { "jp": "お願[ねが]いします。", "en": "Please. (when asking for something)", "note": "Put it after a noun to request it: {これ、お願[ねが]いします} (This one, please)." },
+    { "jp": "大丈夫[だいじょうぶ]です。", "en": "I'm fine. / No thanks, I'm OK.", "note": "Very common as a polite refusal, e.g. when offered a bag. Context decides whether it means yes or no." },
+    { "jp": "日本語[にほんご]が少[すこ]しわかります。", "en": "I understand a little Japanese." },
+    { "jp": "もう一度[いちど]お願[ねが]いします。", "en": "One more time, please." },
+    { "jp": "ゆっくり話[はな]していただけますか。", "en": "Could you speak slowly, please?" },
+    { "jp": "英語[えいご]は大丈夫[だいじょうぶ]ですか。", "en": "Is English OK (for you)?" },
+    { "jp": "失礼[しつれい]します。", "en": "Excuse me (as I enter / leave).", "note": "Said when entering a room, leaving, or passing in front of someone." },
+    { "jp": "いただきます。／ごちそうさまでした。", "en": "(before eating) / Thank you for the meal. (after eating)" },
+    { "jp": "行[い]ってきます。／行[い]ってらっしゃい。", "en": "I'm off (and will be back). / See you later (take care).", "note": "Said at home or the office when someone leaves and will return." },
+    { "jp": "じゃあ、また。", "en": "See you. (casual)", "note": "{さようなら} sounds like a long goodbye and is mostly used by children and teachers. Adults usually say {失礼[しつれい]します} or {じゃあ、また}." }
+  ],
+  "vocab": [
+    { "jp": "挨拶[あいさつ]", "en": "greeting" },
+    { "jp": "お辞儀[じぎ]", "en": "bow" },
+    { "jp": "敬語[けいご]", "en": "polite / honorific language" },
+    { "jp": "丁寧[ていねい]", "en": "polite, courteous" },
+    { "jp": "名前[なまえ]", "en": "name" },
+    { "jp": "日本語[にほんご]", "en": "Japanese (language)" },
+    { "jp": "英語[えいご]", "en": "English (language)" },
+    { "jp": "少[すこ]し", "en": "a little" },
+    { "jp": "ゆっくり", "en": "slowly" },
+    { "jp": "上手[じょうず]", "en": "skilled, good at" },
+    { "jp": "近所[きんじょ]の人[ひと]", "en": "neighbor" }
+  ],
+  "dialogue": [
+    { "speaker": "Neighbor", "jp": "おはようございます。", "en": "Good morning." },
+    { "speaker": "You", "jp": "おはようございます。", "en": "Good morning." },
+    { "speaker": "Neighbor", "jp": "今日[きょう]は寒[さむ]いですね。", "en": "It's cold today, isn't it?" },
+    { "speaker": "You", "jp": "すみません、もう一度[いちど]お願[ねが]いします。", "en": "Sorry, one more time, please." },
+    { "speaker": "Neighbor", "jp": "今日[きょう]は、寒[さむ]い、ですね。", "en": "Today... is cold... isn't it?" },
+    { "speaker": "You", "jp": "ああ、はい。本当[ほんとう]に寒[さむ]いですね。", "en": "Ah, yes. It really is cold." },
+    { "speaker": "Neighbor", "jp": "日本語[にほんご]、お上手[じょうず]ですね。", "en": "Your Japanese is good." },
+    { "speaker": "You", "jp": "いえいえ、まだまだです。", "en": "Oh no, I still have a long way to go." },
+    { "speaker": "Neighbor", "jp": "じゃあ、お気[き]をつけて。", "en": "Well, take care." },
+    { "speaker": "You", "jp": "ありがとうございます。失礼[しつれい]します。", "en": "Thank you. Goodbye." }
+  ],
+  "tips": [
+    "When someone compliments your Japanese ({日本語[にほんご]、上手[じょうず]ですね}), the natural reply is modest: {いえいえ、まだまだです}. Saying a plain thank you is fine too, but agreeing (I know!) sounds odd.",
+    "{お元気[げんき]ですか} is not an everyday how are you. It is used when you haven't seen someone for a while. Day to day, people comment on the weather instead.",
+    "A direct {いいえ} (no) can feel blunt. People soften refusals with {ちょっと…} or {大丈夫[だいじょうぶ]です}.",
+    "Bow while saying the phrase, not after it, and keep your eyes down slightly. Do not overthink it; a sincere small bow is always fine.",
+    "Never add {さん} to your own name or your family members' names when talking to others."
+  ]
+}

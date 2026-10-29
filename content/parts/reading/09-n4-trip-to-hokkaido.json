@@ -1,0 +1,24 @@
+{
+  "id": "r-n4-01",
+  "level": "N4",
+  "title": "A Winter Trip to Hokkaido",
+  "titleJp": "冬[ふゆ]の北海道[ほっかいどう]旅行[りょこう]",
+  "sentences": [
+    { "jp": "去年[きょねん]の冬[ふゆ]、会社[かいしゃ]の休[やす]みを使[つか]って、北海道[ほっかいどう]へ旅行[りょこう]に行[い]きました。", "en": "Last winter, I used my time off from work to take a trip to Hokkaido." },
+    { "jp": "東京[とうきょう]から札幌[さっぽろ]までは、飛行機[ひこうき]で一時間[いちじかん]半[はん]ぐらいでした。", "en": "From Tokyo to Sapporo took about an hour and a half by plane." },
+    { "jp": "空港[くうこう]に着[つ]いたとき、外[そと]は雪[ゆき]で真[ま]っ白[しろ]でした。", "en": "When I arrived at the airport, everything outside was white with snow." },
+    { "jp": "札幌[さっぽろ]では、雪[ゆき]まつりを見[み]たり、有名[ゆうめい]なラーメンを食[た]べたりしました。", "en": "In Sapporo, I did things like seeing the snow festival and eating the famous ramen." },
+    { "jp": "雪[ゆき]で作[つく]られた大[おお]きなお城[しろ]があって、びっくりしました。", "en": "There was a big castle made of snow, which surprised me." },
+    { "jp": "二日目[ふつかめ]は電車[でんしゃ]で小樽[おたる]という町[まち]へ行[い]きました。", "en": "On the second day, I took the train to a town called Otaru." },
+    { "jp": "小樽[おたる]は古[ふる]い建物[たてもの]が多[おお]くて、ガラスのお店[みせ]がたくさんあります。", "en": "Otaru has many old buildings and lots of glassware shops." },
+    { "jp": "道[みち]が凍[こお]っていたので、何度[なんど]も転[ころ]びそうになりました。", "en": "The roads were frozen, so I almost fell over many times." },
+    { "jp": "寒[さむ]かったですが、温泉[おんせん]に入[はい]ると体[からだ]がすぐに温[あたた]かくなりました。", "en": "It was cold, but when I got into a hot spring my body warmed up right away." },
+    { "jp": "旅行[りょこう]の前[まえ]は少[すこ]し心配[しんぱい]でしたが、行[い]ってよかったと思[おも]います。", "en": "I was a little worried before the trip, but I'm glad I went." },
+    { "jp": "今度[こんど]は夏[なつ]の北海道[ほっかいどう]にも行[い]ってみたいです。", "en": "Next time, I'd like to try visiting Hokkaido in summer too." }
+  ],
+  "questions": [
+    { "q": "What surprised the writer in Sapporo?", "choices": ["A big castle made of snow", "How cheap the ramen was", "How few tourists there were", "That the airport was closed"], "answer": 0 },
+    { "q": "Why did the writer almost fall many times?", "choices": ["The writer was wearing new shoes", "The streets were crowded", "The roads were frozen", "The writer was tired after the onsen"], "answer": 2 },
+    { "q": "What does the writer want to do next time?", "choices": ["Visit Otaru again in winter", "Live in Sapporo", "Go to the snow festival again", "Visit Hokkaido in summer"], "answer": 3 }
+  ]
+}

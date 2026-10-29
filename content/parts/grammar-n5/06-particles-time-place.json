@@ -1,0 +1,385 @@
+{
+  "id": "n5-u06",
+  "title": "When, where, how and with whom",
+  "summary": "The particles that frame an action: {に} for time, {へ}/{に} for destinations, {で} for place and means, {と} for 'with', {から}/{まで} for 'from/until', and going somewhere to do something.",
+  "points": [
+    {
+      "id": "n5-ni-time",
+      "title": "に (time)",
+      "meaning": "at / on / in (a specific point in time)",
+      "structure": "Time + に + Verb",
+      "explanation": "Use {に} after a **specific** time to say when an action happens:\n\n- Clock times: {七時[しちじ]に起[お]きます。} 'I get up at seven.'\n- Days of the week: {日曜日[にちようび]に} 'on Sunday'\n- Dates and months: {四月[しがつ]に} 'in April'\n- Years: {2027年[にせんにじゅうななねん]に} 'in 2027'\n\nBut **don't** use {に} with time words that are relative to now: {今日[きょう]} (today), {明日[あした]} (tomorrow), {昨日[きのう]} (yesterday), {今[いま]} (now), {毎日[まいにち]} (every day), {来週[らいしゅう]} (next week), {去年[きょねん]} (last year). These stand alone: {明日[あした]、行[い]きます。}\n\nA quick test: if the word's meaning changes depending on what day it is today, don't add {に}.",
+      "examples": [
+        {
+          "jp": "毎朝[まいあさ]六時[ろくじ]に起[お]きます。",
+          "en": "I get up at six every morning."
+        },
+        {
+          "jp": "授業[じゅぎょう]は九時[くじ]に始[はじ]まります。",
+          "en": "Class starts at nine."
+        },
+        {
+          "jp": "日曜日[にちようび]に買[か]い物[もの]をします。",
+          "en": "I go shopping on Sunday."
+        },
+        {
+          "jp": "四月[しがつ]に日本[にほん]へ行[い]きます。",
+          "en": "I'm going to Japan in April."
+        },
+        {
+          "jp": "明日[あした]、友達[ともだち]に会[あ]います。",
+          "en": "I'll meet a friend tomorrow. (no に after 'tomorrow')"
+        }
+      ],
+      "notes": "With days of the week, {に} is sometimes dropped in casual speech, but using it is always correct. Notice {会[あ]います} (meet) also uses {に} for the person you meet; that's a different use of {に}.",
+      "quiz": [
+        {
+          "q": "毎晩[まいばん]十一時[じゅういちじ]＿＿寝[ね]ます。",
+          "en": "I go to bed at eleven every night.",
+          "choices": [
+            "で",
+            "へ",
+            "に",
+            "を"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "＿＿、映画[えいが]を見[み]ます。",
+          "en": "I'll watch a movie tomorrow.",
+          "choices": [
+            "明日[あした]",
+            "明日[あした]で",
+            "明日[あした]を",
+            "明日[あした]に"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-he-ni",
+      "title": "へ / に (destination)",
+      "meaning": "to (a place)",
+      "structure": "Place + へ / に + 行[い]きます・来[き]ます・帰[かえ]ります",
+      "explanation": "With movement verbs such as {行[い]きます} (go), {来[き]ます} (come) and {帰[かえ]ります} (return home), mark the destination with {へ} or {に}.\n\n{東京[とうきょう]へ行[い]きます。} = {東京[とうきょう]に行[い]きます。} 'I'm going to Tokyo.'\n\nThe two are interchangeable here. {へ} focuses a little more on the direction ('toward'), {に} on the arrival point, but you don't need to worry about the difference at this stage. In everyday speech, {に} is more common.\n\nAs a particle, {へ} is pronounced **e**, not he.\n\nTo say you didn't go anywhere, use {どこへも} or {どこにも} with a negative verb: {どこへも行[い]きませんでした。}",
+      "examples": [
+        {
+          "jp": "明日[あした]、京都[きょうと]へ行[い]きます。",
+          "en": "I'm going to Kyoto tomorrow."
+        },
+        {
+          "jp": "先月[せんげつ]、日本[にほん]に来[き]ました。",
+          "en": "I came to Japan last month."
+        },
+        {
+          "jp": "何時[なんじ]にうちに帰[かえ]りますか。",
+          "en": "What time will you go home?"
+        },
+        {
+          "jp": "夏休[なつやす]みにどこへ行[い]きますか。",
+          "en": "Where are you going for summer vacation?"
+        },
+        {
+          "jp": "日曜日[にちようび]はどこへも行[い]きませんでした。",
+          "en": "I didn't go anywhere on Sunday."
+        }
+      ],
+      "notes": "{帰[かえ]る} means returning to where you belong: home, your home country, or your office. It's not used for going back to just any place.",
+      "quiz": [
+        {
+          "q": "来年[らいねん]、日本[にほん]＿＿行[い]きます。",
+          "en": "I'll go to Japan next year.",
+          "choices": [
+            "へ",
+            "が",
+            "を",
+            "で"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "昨日[きのう]は何時[なんじ]に家[いえ]＿＿帰[かえ]りましたか。",
+          "en": "What time did you get home yesterday?",
+          "choices": [
+            "を",
+            "が",
+            "で",
+            "に"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-de-place",
+      "title": "で (place of action)",
+      "meaning": "at / in (the place where an action happens)",
+      "structure": "Place + で + Action verb",
+      "explanation": "Use {で} to mark the place where someone **does** something: studies, eats, works, buys, plays.\n\n{図書館[としょかん]で勉強[べんきょう]します。} 'I study at the library.'\n\nThis is the big difference from Unit 3:\n\n- {に} = where something **is** (with {あります / います}): {図書館[としょかん]にいます。} 'I'm at the library.'\n- {で} = where something **happens**: {図書館[としょかん]で本[ほん]を読[よ]みます。} 'I read books at the library.'\n\nAsk yourself: is this sentence about existing, or about an activity? Existing takes {に}; activity takes {で}.",
+      "examples": [
+        {
+          "jp": "図書館[としょかん]で勉強[べんきょう]します。",
+          "en": "I study at the library."
+        },
+        {
+          "jp": "駅[えき]で友達[ともだち]を待[ま]ちます。",
+          "en": "I'll wait for my friend at the station."
+        },
+        {
+          "jp": "デパートでくつを買[か]いました。",
+          "en": "I bought shoes at the department store."
+        },
+        {
+          "jp": "どこで昼[ひる]ご飯[はん]を食[た]べますか。",
+          "en": "Where will you eat lunch?"
+        },
+        {
+          "jp": "毎日[まいにち]、会社[かいしゃ]で仕事[しごと]をします。",
+          "en": "I work at the office every day."
+        }
+      ],
+      "notes": "Events also take {で} with {あります}: {公園[こうえん]でお祭[まつ]りがあります} 'There's a festival in the park.' An event is something that happens, not just an object sitting somewhere.",
+      "quiz": [
+        {
+          "q": "公園[こうえん]＿＿テニスをします。",
+          "en": "I play tennis in the park.",
+          "choices": [
+            "で",
+            "を",
+            "へ",
+            "に"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "コンビニ＿＿パンを買[か]いました。",
+          "en": "I bought bread at the convenience store.",
+          "choices": [
+            "に",
+            "へ",
+            "で",
+            "が"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-de-means",
+      "title": "で (means / tool)",
+      "meaning": "by / with / in (a tool, transport, or language)",
+      "structure": "Means + で + Verb",
+      "explanation": "{で} has a second job: it marks **how** you do something, the tool or method.\n\n- Transport: {バスで行[い]きます。} 'I go by bus.'\n- Tools: {はしで食[た]べます。} 'I eat with chopsticks.'\n- Languages: {日本語[にほんご]で話[はな]します。} 'I speak in Japanese.'\n\nTo ask 'how?' about transport, say {何[なん]で来[き]ましたか。} 'How did you come here?'\n\nYou can tell the two uses of {で} apart from the noun: a place (library, park) means 'at'; a tool, vehicle or language means 'by / with'.",
+      "examples": [
+        {
+          "jp": "バスで学校[がっこう]へ行[い]きます。",
+          "en": "I go to school by bus."
+        },
+        {
+          "jp": "はしでご飯[はん]を食[た]べます。",
+          "en": "I eat rice with chopsticks."
+        },
+        {
+          "jp": "日本語[にほんご]で話[はな]しましょう。",
+          "en": "Let's talk in Japanese."
+        },
+        {
+          "jp": "ペンで名前[なまえ]を書[か]きます。",
+          "en": "I write my name with a pen."
+        },
+        {
+          "jp": "電車[でんしゃ]で会社[かいしゃ]に来[き]ました。",
+          "en": "I came to the office by train."
+        }
+      ],
+      "notes": "'On foot' is not {足[あし]で}. Use {歩[ある]いて} (walking): {歩[ある]いて行[い]きます} 'I'll walk there.'",
+      "quiz": [
+        {
+          "q": "毎日[まいにち]、自転車[じてんしゃ]＿＿会社[かいしゃ]へ行[い]きます。",
+          "en": "I go to work by bicycle every day.",
+          "choices": [
+            "を",
+            "が",
+            "で",
+            "に"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "日本語[にほんご]＿＿メールを書[か]きました。",
+          "en": "I wrote an email in Japanese.",
+          "choices": [
+            "に",
+            "を",
+            "へ",
+            "で"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-to-with",
+      "title": "と (together with)",
+      "meaning": "with (a person)",
+      "structure": "Person + と + Verb / Person + と + いっしょに + Verb",
+      "explanation": "You already know {と} as 'and' between nouns. After a person, it can also mean '**with**': the person you do something together with.\n\n{友達[ともだち]と映画[えいが]を見[み]ました。} 'I watched a movie with a friend.'\n\nAdding {いっしょに} (together) makes it even clearer: {田中[たなか]さんといっしょに行[い]きます。}\n\nTo ask who, say {だれと}: {だれと行[い]きますか。} 'Who are you going with?'\n\nTo say you'll do something **alone**, don't use {と}. Use {一人[ひとり]で}: {一人[ひとり]で行[い]きます。} 'I'll go by myself.'",
+      "examples": [
+        {
+          "jp": "友達[ともだち]と映画[えいが]を見[み]ました。",
+          "en": "I watched a movie with a friend."
+        },
+        {
+          "jp": "家族[かぞく]と日本[にほん]へ来[き]ました。",
+          "en": "I came to Japan with my family."
+        },
+        {
+          "jp": "田中[たなか]さんといっしょに昼[ひる]ご飯[はん]を食[た]べました。",
+          "en": "I had lunch together with Mr. Tanaka."
+        },
+        {
+          "jp": "だれと行[い]きますか。",
+          "en": "Who are you going with?"
+        },
+        {
+          "jp": "一人[ひとり]で行[い]きます。",
+          "en": "I'll go alone."
+        }
+      ],
+      "notes": "{一人[ひとり]} (one person) has a special reading. You'll learn the people counter in Unit 7.",
+      "quiz": [
+        {
+          "q": "週末[しゅうまつ]、母[はは]＿＿買[か]い物[もの]をしました。",
+          "en": "I went shopping with my mother on the weekend.",
+          "choices": [
+            "と",
+            "で",
+            "を",
+            "へ"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A：だれと行[い]きますか。B：＿＿行[い]きます。",
+          "en": "A: Who are you going with? B: I'm going alone.",
+          "choices": [
+            "一人[ひとり]で",
+            "一人[ひとり]に",
+            "一人[ひとり]を",
+            "一人[ひとり]と"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-kara-made",
+      "title": "から / まで",
+      "meaning": "from / until, as far as",
+      "structure": "A + から + B + まで",
+      "explanation": "{から} means 'from' (a starting point) and {まで} means 'until' or 'as far as' (an end point). They work for both **time** and **place**.\n\n- Time: {九時[くじ]から五時[ごじ]まで働[はたら]きます。} 'I work from nine to five.'\n- Place: {家[いえ]から駅[えき]まで歩[ある]きます。} 'I walk from home to the station.'\n\nYou can use either one alone, too: {夏休[なつやす]みはいつからですか。} 'When does summer vacation start?'\n\nOpening hours are often said with {です}: {銀行[ぎんこう]は九時[くじ]から三時[さんじ]までです。} 'The bank is open from nine to three.'",
+      "examples": [
+        {
+          "jp": "銀行[ぎんこう]は九時[くじ]から三時[さんじ]までです。",
+          "en": "The bank is open from nine to three."
+        },
+        {
+          "jp": "家[いえ]から駅[えき]まで歩[ある]きます。",
+          "en": "I walk from my house to the station."
+        },
+        {
+          "jp": "毎日[まいにち]、九時[くじ]から五時[ごじ]まで働[はたら]きます。",
+          "en": "I work from nine to five every day."
+        },
+        {
+          "jp": "東京[とうきょう]から大阪[おおさか]まで新幹線[しんかんせん]で行[い]きました。",
+          "en": "I went from Tokyo to Osaka by bullet train."
+        },
+        {
+          "jp": "夏休[なつやす]みはいつからですか。",
+          "en": "When does summer vacation start?"
+        }
+      ],
+      "notes": "{から} also means 'because', which you'll learn in Unit 12. You can tell them apart by what comes before: a time or place means 'from'; a full sentence means 'because'.",
+      "quiz": [
+        {
+          "q": "会社[かいしゃ]は月曜日[げつようび]から金曜日[きんようび]＿＿です。",
+          "en": "The office is open from Monday to Friday.",
+          "choices": [
+            "まで",
+            "へ",
+            "に",
+            "から"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "家[いえ]＿＿駅[えき]まで十分[じゅっぷん]です。",
+          "en": "It's ten minutes from my house to the station.",
+          "choices": [
+            "まで",
+            "を",
+            "から",
+            "で"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-ni-purpose",
+      "title": "〜に行[い]きます",
+      "meaning": "go / come (somewhere) to do ~",
+      "structure": "Verb stem + に + 行[い]く・来[く]る・帰[かえ]る",
+      "explanation": "To say **why** you're going somewhere, take the verb stem (the {ます}-form without {ます}) and add {に} before {行[い]きます}, {来[き]ます} or {帰[かえ]ります}.\n\n{買[か]います} → stem {買[か]い} → {買[か]いに行[い]きます} 'go to buy'\n\nYou can include the destination too:\n\n{デパートへくつを買[か]いに行[い]きます。} 'I'm going to the department store to buy shoes.'\n\nWith {する}-nouns, you can drop {し} and use the noun directly: {勉強[べんきょう]に来[き]ました} 'came to study'.\n\nThis pattern is perfect for invitations: {昼[ひる]ご飯[はん]を食[た]べに行[い]きませんか。} 'Want to go get lunch?'",
+      "examples": [
+        {
+          "jp": "デパートへくつを買[か]いに行[い]きます。",
+          "en": "I'm going to the department store to buy shoes."
+        },
+        {
+          "jp": "友達[ともだち]が遊[あそ]びに来[き]ました。",
+          "en": "A friend came over to hang out."
+        },
+        {
+          "jp": "昼[ひる]ご飯[はん]を食[た]べに行[い]きませんか。",
+          "en": "Do you want to go get lunch?"
+        },
+        {
+          "jp": "図書館[としょかん]へ本[ほん]を借[か]りに行[い]きました。",
+          "en": "I went to the library to borrow a book."
+        },
+        {
+          "jp": "日本[にほん]へ日本語[にほんご]の勉強[べんきょう]に来[き]ました。",
+          "en": "I came to Japan to study Japanese."
+        }
+      ],
+      "notes": "Only use this with movement verbs. For 'I study in order to...' with other verbs, Japanese uses different grammar ({ために}, N4).",
+      "quiz": [
+        {
+          "q": "公園[こうえん]へ写真[しゃしん]を撮[と]り＿＿行[い]きます。",
+          "en": "I'm going to the park to take photos.",
+          "choices": [
+            "へ",
+            "で",
+            "を",
+            "に"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "スーパーへ野菜[やさい]を＿＿に行[い]きます。",
+          "en": "I'm going to the supermarket to buy vegetables.",
+          "choices": [
+            "買[か]う",
+            "買[か]いま",
+            "買[か]い",
+            "買[か]って"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

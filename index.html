@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Michi — Learn Japanese</title>
+  <meta name="description" content="Free, offline Japanese course from zero to fluent: kana, JLPT N5–N1 grammar, vocabulary, kanji, reading, and life & work in Japan.">
+  <meta name="theme-color" content="#c0392b">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Michi">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <nav class="nav" aria-label="Main">
+    <div class="nav-brand jp">道 <span>Michi</span></div>
+    <a href="#/" data-tab="home"><span class="nav-icon">⌂</span><span>Home</span></a>
+    <a href="#/path" data-tab="path"><span class="nav-icon jp">道</span><span>Path</span></a>
+    <a href="#/review" data-tab="review"><span class="nav-icon">↻</span><span>Review</span><b class="due-badge" hidden></b></a>
+    <a href="#/library" data-tab="library"><span class="nav-icon jp">本</span><span>Library</span></a>
+    <a href="#/stats" data-tab="me"><span class="nav-icon">◔</span><span>Progress</span></a>
+  </nav>
+  <main id="view"></main>
+  <div id="splash"><div class="jp">道</div><p>Loading…</p></div>
+  <noscript>Michi needs JavaScript enabled.</noscript>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

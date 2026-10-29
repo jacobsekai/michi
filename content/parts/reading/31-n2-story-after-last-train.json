@@ -1,0 +1,26 @@
+{
+  "id": "r-n2-07",
+  "level": "N2",
+  "title": "Short Story: After the Last Train",
+  "titleJp": "終電[しゅうでん]のあとで",
+  "sentences": [
+    { "jp": "改札[かいさつ]を抜[ぬ]けたとき、電光[でんこう]掲示板[けいじばん]にはもう何[なに]も表示[ひょうじ]されていなかった。", "en": "When she passed through the ticket gate, the electronic departure board was already showing nothing at all." },
+    { "jp": "終電[しゅうでん]は、ほんの二分前[にふんまえ]に出[で]てしまったらしい。", "en": "The last train, it seemed, had left just two minutes earlier." },
+    { "jp": "美咲[みさき]はため息[いき]をつき、スマホでタクシー料金[りょうきん]を調[しら]べたが、表示[ひょうじ]された金額[きんがく]を見[み]てすぐに画面[がめん]を閉[と]じた。", "en": "Misaki sighed and looked up the taxi fare on her phone, but one look at the amount shown and she closed the screen at once." },
+    { "jp": "仕方[しかた]なく駅前[えきまえ]のファミレスに入[はい]ると、店内[てんない]には同[おな]じように行[い]き場[ば]をなくしたらしい客[きゃく]が、ぽつぽつと座[すわ]っていた。", "en": "With no other choice, she went into the family restaurant in front of the station, where a scattering of customers who seemed to have nowhere else to go, just like her, sat here and there." },
+    { "jp": "窓際[まどぎわ]の席[せき]でコーヒーを頼[たの]むと、隣[となり]の席[せき]では一人[ひとり]の老人[ろうじん]が、湯気[ゆげ]の立[た]つうどんを前[まえ]に、ゆっくりと新聞[しんぶん]を読[よ]んでいた。", "en": "She ordered coffee at a window seat; at the next table, an old man sat with a steaming bowl of udon in front of him, slowly reading a newspaper." },
+    { "jp": "こんな時間[じかん]に、この人[ひと]は何[なに]をしているのだろう。", "en": "What could this man be doing here at this hour?" },
+    { "jp": "ぼんやりそう思[おも]っていると、老人[ろうじん]が顔[かお]を上[あ]げて、「終電[しゅうでん]、逃[のが]しましたか」と穏[おだ]やかに声[こえ]をかけてきた。", "en": "As she was idly wondering this, the old man looked up and asked her gently, \"Missed the last train?\"" },
+    { "jp": "美咲[みさき]がうなずくと、老人[ろうじん]は「私[わたし]は毎晩[まいばん]ここに来[く]るんです。家[いえ]にいても、話[はな]す相手[あいて]がいないものでね」と笑[わら]った。", "en": "When Misaki nodded, the old man laughed and said, \"I come here every night. Even if I stay home, there's no one to talk to, you see.\"" },
+    { "jp": "三年前[さんねんまえ]に妻[つま]を亡[な]くしてから、眠[ねむ]れない夜[よる]はこうして朝[あさ]まで過[す]ごすのだという。", "en": "He said that since losing his wife three years ago, he spends sleepless nights like this until morning." },
+    { "jp": "二人[ふたり]はそれから、仕事[しごと]のことや、老人[ろうじん]が若[わか]いころに働[はたら]いていた町工場[まちこうば]のことを、とりとめもなく話[はな]した。", "en": "After that, the two of them chatted aimlessly about work and about the small neighborhood factory where the old man had worked when he was young." },
+    { "jp": "気[き]がつくと、窓[まど]の外[そと]が白[しら]み始[はじ]めていた。", "en": "Before she knew it, the sky outside the window was beginning to grow light." },
+    { "jp": "始発[しはつ]の時間[じかん]が近[ちか]づき、美咲[みさき]が立[た]ち上[あ]がると、老人[ろうじん]は「久[ひさ]しぶりに楽[たの]しい夜[よる]でした」と頭[あたま]を下[さ]げた。", "en": "As the time of the first train drew near and Misaki stood up, the old man bowed and said, \"That was the most enjoyable night I've had in a long time.\"" },
+    { "jp": "駅[えき]へ向[む]かう道[みち]で、美咲[みさき]はふと、終電[しゅうでん]を逃[のが]したことを少[すこ]しも後悔[こうかい]していない自分[じぶん]に気[き]づいた。", "en": "On her way to the station, Misaki suddenly realized that she didn't regret missing the last train in the least." }
+  ],
+  "questions": [
+    { "q": "Why didn't Misaki take a taxi home?", "choices": ["There were no taxis at the station", "The fare was too expensive", "Her phone battery was dead", "She wanted to stay with the old man"], "answer": 1 },
+    { "q": "Why does the old man come to the restaurant every night?", "choices": ["He works a night shift nearby", "He likes the udon there", "Since his wife died, he has no one to talk to at home", "He is waiting for his daughter"], "answer": 2 },
+    { "q": "How did Misaki feel at the end of the story?", "choices": ["She didn't regret missing the last train at all", "She was angry at herself for being late", "She was too tired to think", "She was worried about being late for work"], "answer": 0 }
+  ]
+}

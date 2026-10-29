@@ -1,0 +1,438 @@
+{
+  "id": "n5-u07",
+  "title": "Numbers, counters and time",
+  "summary": "Counting from 1 to 10,000 and beyond, telling the time, dates and days of the week, counting objects and people, asking how many / how much, and saying 'about'.",
+  "points": [
+    {
+      "id": "n5-numbers",
+      "title": "Numbers 一[いち]〜一万[いちまん]",
+      "meaning": "counting from 1 to 10,000 and beyond",
+      "structure": "十[じゅう] (10)・百[ひゃく] (100)・千[せん] (1,000)・万[まん] (10,000)",
+      "explanation": "1 to 10: {いち, に, さん, よん, ご, ろく, なな, はち, きゅう, じゅう}. (4, 7 and 9 also have the readings {し}, {しち} and {く}, which appear in some set words.)\n\nBigger numbers are built like building blocks: {十一[じゅういち]} = 11, {二十[にじゅう]} = 20, {二十五[にじゅうご]} = 25, {百[ひゃく]} = 100, {千[せん]} = 1,000.\n\nA few combinations change their sound. Learn these by ear:\n\n- {三百[さんびゃく]} 300, {六百[ろっぴゃく]} 600, {八百[はっぴゃく]} 800\n- {三千[さんぜん]} 3,000, {八千[はっせん]} 8,000\n\nJapanese counts large numbers in groups of **ten thousand**, {万[まん]}: {一万[いちまん]} = 10,000, {十万[じゅうまん]} = 100,000. Note: 100 is just {百[ひゃく]} and 1,000 is just {千[せん]}, but 10,000 is {一万[いちまん]}.\n\nFor prices, add {円[えん]} (yen).",
+      "examples": [
+        {
+          "jp": "私[わたし]は二十五歳[にじゅうごさい]です。",
+          "en": "I'm 25 years old."
+        },
+        {
+          "jp": "コーヒーは四百五十円[よんひゃくごじゅうえん]です。",
+          "en": "Coffee is 450 yen."
+        },
+        {
+          "jp": "全部[ぜんぶ]で六百円[ろっぴゃくえん]です。",
+          "en": "It's 600 yen in total."
+        },
+        {
+          "jp": "このかばんは三千円[さんぜんえん]です。",
+          "en": "This bag is 3,000 yen."
+        },
+        {
+          "jp": "この時計[とけい]は一万[いちまん]八千円[はっせんえん]でした。",
+          "en": "This watch was 18,000 yen."
+        }
+      ],
+      "notes": "Ages use {歳[さい]}, with some sound changes: {一歳[いっさい]}, {八歳[はっさい]}, {十歳[じゅっさい]}. Age 20 has a special word: {二十歳[はたち]}. To ask someone's age politely: {おいくつですか}.",
+      "quiz": [
+        {
+          "q": "「600」は＿＿と読[よ]みます。",
+          "en": "'600' is read ___.",
+          "choices": [
+            "ろくひゃく",
+            "ろくぴゃく",
+            "ろっひゃく",
+            "ろっぴゃく"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "「8000」は＿＿と読[よ]みます。",
+          "en": "'8000' is read ___.",
+          "choices": [
+            "はちぜん",
+            "はちせん",
+            "はっせん",
+            "はっぜん"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-time",
+      "title": "〜時[じ] / 〜分[ふん]",
+      "meaning": "o'clock / minutes (telling the time)",
+      "structure": "Number + 時[じ] + Number + 分[ふん] / 何時[なんじ]ですか",
+      "explanation": "Hours are number + {時[じ]}. Three hours are irregular, so learn them carefully:\n\n- {四時[よじ]} 4:00 (not {よんじ})\n- {七時[しちじ]} 7:00\n- {九時[くじ]} 9:00 (not {きゅうじ})\n\nMinutes are number + {分[ふん]}, read {ふん} or {ぷん} depending on the number:\n\n- {ぷん}: {一分[いっぷん]}, {三分[さんぷん]}, {四分[よんぷん]}, {六分[ろっぷん]}, {八分[はっぷん]}, {十分[じゅっぷん]}\n- {ふん}: {二分[にふん]}, {五分[ごふん]}, {七分[ななふん]}, {九分[きゅうふん]}\n\n{半[はん]} means 'half past': {三時[さんじ]半[はん]} = 3:30. For a.m. and p.m., put {午前[ごぜん]} or {午後[ごご]} **before** the time: {午後[ごご]二時[にじ]} = 2 p.m.\n\nAsk the time with {今[いま]、何時[なんじ]ですか。}",
+      "examples": [
+        {
+          "jp": "今[いま]、何時[なんじ]ですか。",
+          "en": "What time is it now?"
+        },
+        {
+          "jp": "四時[よじ]です。",
+          "en": "It's four o'clock."
+        },
+        {
+          "jp": "午前[ごぜん]九時[くじ]に会社[かいしゃ]へ行[い]きます。",
+          "en": "I go to the office at 9 a.m."
+        },
+        {
+          "jp": "電車[でんしゃ]は七時[しちじ]十分[じゅっぷん]に出[で]ます。",
+          "en": "The train leaves at 7:10."
+        },
+        {
+          "jp": "午後[ごご]三時[さんじ]半[はん]に会[あ]いましょう。",
+          "en": "Let's meet at 3:30 p.m."
+        }
+      ],
+      "notes": "Lengths of time use {時間[じかん]} (hours) and {分[ふん]} (minutes): {二時間[にじかん]} = two hours, {三十分[さんじゅっぷん]} = thirty minutes. You'll also hear {じっぷん} for ten minutes; both are correct.",
+      "quiz": [
+        {
+          "q": "「4:00」は＿＿と読[よ]みます。",
+          "en": "'4:00' is read ___.",
+          "choices": [
+            "よんじ",
+            "よっじ",
+            "しじ",
+            "よじ"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "「9:10」は＿＿と読[よ]みます。",
+          "en": "'9:10' is read ___.",
+          "choices": [
+            "きゅうじじゅっぷん",
+            "くじじゅっふん",
+            "きゅうじじゅっぴん",
+            "くじじゅっぷん"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-dates",
+      "title": "Days, dates and months",
+      "meaning": "months, days of the month, and days of the week",
+      "structure": "〜月[がつ]〜日[にち]〜曜日[ようび] / 何月[なんがつ]何日[なんにち]ですか",
+      "explanation": "**Months** are simply number + {月[がつ]}: {一月[いちがつ]} January... {十二月[じゅうにがつ]} December. Watch three readings: {四月[しがつ]}, {七月[しちがつ]}, {九月[くがつ]}.\n\n**Days of the month** 1 to 10 use special native readings:\n\n- {一日[ついたち]}, {二日[ふつか]}, {三日[みっか]}, {四日[よっか]}, {五日[いつか]}\n- {六日[むいか]}, {七日[なのか]}, {八日[ようか]}, {九日[ここのか]}, {十日[とおか]}\n\nAfter that it's number + {日[にち]} ({十一日[じゅういちにち]}), except {十四日[じゅうよっか]}, {二十日[はつか]} and {二十四日[にじゅうよっか]}.\n\n**Days of the week** end in {曜日[ようび]}: {月曜日[げつようび]} Mon, {火曜日[かようび]} Tue, {水曜日[すいようび]} Wed, {木曜日[もくようび]} Thu, {金曜日[きんようび]} Fri, {土曜日[どようび]} Sat, {日曜日[にちようび]} Sun.\n\nThe order is always big to small: year, month, day.",
+      "examples": [
+        {
+          "jp": "今日[きょう]は五月[ごがつ]五日[いつか]です。",
+          "en": "Today is May 5th."
+        },
+        {
+          "jp": "誕生日[たんじょうび]は四月[しがつ]二十日[はつか]です。",
+          "en": "My birthday is April 20th."
+        },
+        {
+          "jp": "七月[しちがつ]八日[ようか]に日本[にほん]へ行[い]きます。",
+          "en": "I'm going to Japan on July 8th."
+        },
+        {
+          "jp": "テストは九月[くがつ]一日[ついたち]の金曜日[きんようび]です。",
+          "en": "The test is on Friday, September 1st."
+        },
+        {
+          "jp": "今日[きょう]は何月[なんがつ]何日[なんにち]ですか。",
+          "en": "What's the date today?"
+        }
+      ],
+      "notes": "The weekdays come from the moon, fire, water, wood, gold (metal), earth and sun. {一日[いちにち]} (read differently) means 'one whole day', not 'the 1st'.",
+      "quiz": [
+        {
+          "q": "誕生日[たんじょうび]は三月[さんがつ]＿＿です。",
+          "en": "My birthday is March 3rd.",
+          "choices": [
+            "さんにん",
+            "みっつ",
+            "みっか",
+            "さんにち"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "今日[きょう]は六月[ろくがつ]＿＿です。",
+          "en": "Today is June 20th.",
+          "choices": [
+            "はつか",
+            "はたち",
+            "にじゅうにち",
+            "ふつか"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-tsu",
+      "title": "〜つ (general counter)",
+      "meaning": "one, two, three... (counting things)",
+      "structure": "Noun + を / が + Number-つ + Verb",
+      "explanation": "Japanese doesn't usually put a bare number in front of a noun. Instead, numbers come with a **counter**. The most flexible one is the native-Japanese set ending in {つ}, which works for most objects up to ten:\n\n{一[ひと]つ} 1, {二[ふた]つ} 2, {三[みっ]つ} 3, {四[よっ]つ} 4, {五[いつ]つ} 5, {六[むっ]つ} 6, {七[なな]つ} 7, {八[やっ]つ} 8, {九[ここの]つ} 9, {十[とお]} 10\n\n'How many?' is {いくつ}.\n\nNotice where the number goes: after the noun and its particle, right before the verb.\n\n{りんごを三[みっ]つください。} 'Three apples, please.'\n\nFrom 11 up, just use the ordinary numbers ({十一[じゅういち]}, {十二[じゅうに]}...).",
+      "examples": [
+        {
+          "jp": "りんごを三[みっ]つください。",
+          "en": "Three apples, please."
+        },
+        {
+          "jp": "アイスクリームを一[ひと]つください。",
+          "en": "One ice cream, please."
+        },
+        {
+          "jp": "卵[たまご]を二[ふた]つ買[か]いました。",
+          "en": "I bought two eggs."
+        },
+        {
+          "jp": "部屋[へや]にいすが四[よっ]つあります。",
+          "en": "There are four chairs in the room."
+        },
+        {
+          "jp": "箱[はこ]はいくつありますか。",
+          "en": "How many boxes are there?"
+        }
+      ],
+      "notes": "{〜をください} ('~, please') is how you ask for things in shops and restaurants. Combine it with counters: {これを二[ふた]つください。} 'Two of these, please.'",
+      "quiz": [
+        {
+          "q": "みかんを＿＿ください。",
+          "en": "Two mandarin oranges, please.",
+          "choices": [
+            "にまい",
+            "ふたり",
+            "につ",
+            "ふたつ"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "コップが＿＿ありますか。",
+          "en": "How many glasses are there?",
+          "choices": [
+            "何人[なんにん]",
+            "いつ",
+            "どれ",
+            "いくつ"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-counter-people",
+      "title": "〜人[にん] (counting people)",
+      "meaning": "one person, two people...",
+      "structure": "一人[ひとり]・二人[ふたり]・三人[さんにん]・四人[よにん]… / 何人[なんにん]",
+      "explanation": "People have their own counter, {人[にん]}. The first two are special:\n\n- {一人[ひとり]} one person\n- {二人[ふたり]} two people\n\nFrom three on, it's number + {にん}: {三人[さんにん]}, {四人[よにん]} (not {よんにん}!), {五人[ごにん]}, {六人[ろくにん]}, {七人[ななにん]}, {八人[はちにん]}, {九人[きゅうにん]}, {十人[じゅうにん]}.\n\n'How many people?' is {何人[なんにん]}.\n\nThe number goes in the same place as with {つ}: {学生[がくせい]が三人[さんにん]います。} 'There are three students.'\n\nYou'll use {一人[ひとり]で} (alone) and {二人[ふたり]で} (the two of us) a lot.",
+      "examples": [
+        {
+          "jp": "家族[かぞく]は四人[よにん]です。",
+          "en": "There are four people in my family."
+        },
+        {
+          "jp": "兄弟[きょうだい]が二人[ふたり]います。",
+          "en": "I have two siblings."
+        },
+        {
+          "jp": "教室[きょうしつ]に学生[がくせい]が三人[さんにん]います。",
+          "en": "There are three students in the classroom."
+        },
+        {
+          "jp": "週末[しゅうまつ]は一人[ひとり]で映画[えいが]を見[み]ました。",
+          "en": "On the weekend I watched a movie by myself."
+        },
+        {
+          "jp": "このクラスに日本人[にほんじん]は何人[なんにん]いますか。",
+          "en": "How many Japanese people are in this class?"
+        }
+      ],
+      "notes": "At restaurants, staff will ask {何名様[なんめいさま]ですか} ('How many in your party?'), a very polite version of {何人[なんにん]}. Just answer {二人[ふたり]です}, holding up fingers if you like.",
+      "quiz": [
+        {
+          "q": "家族[かぞく]は＿＿です。",
+          "en": "There are four people in my family.",
+          "choices": [
+            "よにん",
+            "よっつ",
+            "よんにん",
+            "しにん"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "子[こ]どもが＿＿います。",
+          "en": "I have one child.",
+          "choices": [
+            "ひとつ",
+            "ひとり",
+            "いっぽん",
+            "いちにん"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n5-counters-shape",
+      "title": "〜枚[まい]・〜本[ほん]・〜冊[さつ]・〜匹[ひき]・〜台[だい]",
+      "meaning": "counters for flat things, long things, books, small animals and machines",
+      "structure": "Noun + を / が + Number + counter + Verb",
+      "explanation": "Japanese picks counters by **shape or type**. Five of the most useful:\n\n- {枚[まい]}: flat things such as paper, tickets, shirts, plates. {一枚[いちまい]}, {二枚[にまい]}... (no sound changes)\n- {本[ほん]}: long, thin things such as pens, bottles, umbrellas, trains. {一本[いっぽん]}, {二本[にほん]}, {三本[さんぼん]}, {六本[ろっぽん]}, {八本[はっぽん]}, {十本[じゅっぽん]}\n- {冊[さつ]}: books and notebooks. {一冊[いっさつ]}, {八冊[はっさつ]}, {十冊[じゅっさつ]}\n- {匹[ひき]}: small animals such as cats, dogs, fish. {一匹[いっぴき]}, {三匹[さんびき]}, {六匹[ろっぴき]}\n- {台[だい]}: machines and vehicles such as cars, bikes, computers. {一台[いちだい]}...\n\nDon't panic about the sound changes. If you're unsure, {〜つ} is understood for most objects.",
+      "examples": [
+        {
+          "jp": "切手[きって]を五枚[ごまい]ください。",
+          "en": "Five stamps, please."
+        },
+        {
+          "jp": "ビールを二本[にほん]買[か]いました。",
+          "en": "I bought two bottles of beer."
+        },
+        {
+          "jp": "傘[かさ]が三本[さんぼん]あります。",
+          "en": "There are three umbrellas."
+        },
+        {
+          "jp": "図書館[としょかん]で本[ほん]を二冊[にさつ]借[か]りました。",
+          "en": "I borrowed two books from the library."
+        },
+        {
+          "jp": "うちに猫[ねこ]が一匹[いっぴき]います。",
+          "en": "We have one cat at home."
+        }
+      ],
+      "notes": "To ask 'how many', put {何[なん]} before the counter: {何枚[なんまい]}, {何本[なんぼん]}, {何冊[なんさつ]}, {何匹[なんびき]}, {何台[なんだい]}.",
+      "quiz": [
+        {
+          "q": "えんぴつが＿＿あります。",
+          "en": "There are three pencils.",
+          "choices": [
+            "さんほん",
+            "さんぽん",
+            "さんまい",
+            "さんぼん"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "紙[かみ]を＿＿ください。",
+          "en": "Two sheets of paper, please.",
+          "choices": [
+            "にほん",
+            "にまい",
+            "にさつ",
+            "にひき"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n5-ikura",
+      "title": "いくら / いくつ / 何[なん] + counter",
+      "meaning": "how much (price) / how many",
+      "structure": "Noun + は + いくらですか / Noun + が + 何[なん] + counter + ありますか",
+      "explanation": "Three ways to ask about amounts:\n\n- {いくら} = how much (money). {このシャツはいくらですか。} 'How much is this shirt?'\n- {いくつ} = how many (with the {つ} counter, for general objects).\n- {何[なん]} + counter = how many (of a specific type): {何人[なんにん]} (people), {何枚[なんまい]} (flat things), {何本[なんぼん]} (long things), {何匹[なんびき]} (small animals).\n\nThe question word goes in the same spot as the number would in the answer:\n\n{切符[きっぷ]を何枚[なんまい]買[か]いますか。} 'How many tickets will you buy?'\n{二枚[にまい]買[か]います。} 'I'll buy two.'",
+      "examples": [
+        {
+          "jp": "このシャツはいくらですか。",
+          "en": "How much is this shirt?"
+        },
+        {
+          "jp": "みかんをいくつ買[か]いましたか。",
+          "en": "How many mandarin oranges did you buy?"
+        },
+        {
+          "jp": "クラスに学生[がくせい]が何人[なんにん]いますか。",
+          "en": "How many students are in the class?"
+        },
+        {
+          "jp": "切符[きっぷ]を何枚[なんまい]買[か]いますか。",
+          "en": "How many tickets will you buy?"
+        },
+        {
+          "jp": "ビールは何本[なんぼん]ありますか。",
+          "en": "How many bottles of beer are there?"
+        }
+      ],
+      "notes": "In shops, a common reply is {全部[ぜんぶ]で〜円[えん]です} 'That comes to ~ yen in total.'",
+      "quiz": [
+        {
+          "q": "すみません、このかさは＿＿ですか。",
+          "en": "Excuse me, how much is this umbrella?",
+          "choices": [
+            "何枚[なんまい]",
+            "何人[なんにん]",
+            "いくら",
+            "いくつ"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "猫[ねこ]が＿＿いますか。",
+          "en": "How many cats are there?",
+          "choices": [
+            "何枚[なんまい]",
+            "何台[なんだい]",
+            "何匹[なんびき]",
+            "何本[なんぼん]"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-goro-gurai",
+      "title": "〜ごろ / 〜ぐらい",
+      "meaning": "around (a point in time) / about (an amount)",
+      "structure": "Time + ごろ / Amount + ぐらい (くらい)",
+      "explanation": "Two ways to say 'about', and they're not interchangeable:\n\n- {ごろ} goes after a **point in time** (a clock time, a date): {七時[しちじ]ごろ} 'around seven o'clock'.\n- {ぐらい} goes after an **amount or length** (minutes, hours, money, people): {十分[じゅっぷん]ぐらい} 'about ten minutes', {千円[せんえん]ぐらい} 'about 1,000 yen'.\n\nAsk yourself: is it **when** (use {ごろ}) or **how much / how long** (use {ぐらい})?\n\n{ぐらい} is also pronounced {くらい}; both are fine. Duration is often used with {かかります} (takes): {駅[えき]まで十分[じゅっぷん]ぐらいかかります。} 'It takes about ten minutes to the station.'",
+      "examples": [
+        {
+          "jp": "毎晩[まいばん]十一時[じゅういちじ]ごろ寝[ね]ます。",
+          "en": "I go to bed around eleven every night."
+        },
+        {
+          "jp": "七時[しちじ]ごろ帰[かえ]ります。",
+          "en": "I'll be home around seven."
+        },
+        {
+          "jp": "駅[えき]まで十分[じゅっぷん]ぐらいかかります。",
+          "en": "It takes about ten minutes to get to the station."
+        },
+        {
+          "jp": "毎日[まいにち]二時間[にじかん]ぐらい勉強[べんきょう]します。",
+          "en": "I study for about two hours every day."
+        },
+        {
+          "jp": "このパソコンは十万円[じゅうまんえん]ぐらいでした。",
+          "en": "This computer was about 100,000 yen."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "毎朝[まいあさ]七時[しちじ]＿＿起[お]きます。",
+          "en": "I get up around seven every morning.",
+          "choices": [
+            "ごろ",
+            "を",
+            "が",
+            "まで"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "家[いえ]から会社[かいしゃ]まで三十分[さんじゅっぷん]＿＿かかります。",
+          "en": "It takes about thirty minutes from home to work.",
+          "choices": [
+            "ごろ",
+            "ぐらい",
+            "を",
+            "に"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

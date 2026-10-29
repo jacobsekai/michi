@@ -1,0 +1,27 @@
+{
+  "id": "r-n3-04",
+  "level": "N3",
+  "title": "Left on the Train",
+  "titleJp": "電車[でんしゃ]の忘[わす]れ物[もの]",
+  "sentences": [
+    { "jp": "先月[せんげつ]の、ある金曜日[きんようび]の夜[よる]のことだ。", "en": "This happened one Friday night last month." },
+    { "jp": "飲[の]み会[かい]の帰[かえ]りに電車[でんしゃ]で寝[ね]てしまい、慌[あわ]てて降[お]りたら、スマホがないことに気[き]づいた。", "en": "On my way home from a drinking party I fell asleep on the train, and when I rushed off, I realized my phone was gone." },
+    { "jp": "座席[ざせき]に置[お]いたまま、降[お]りてしまったらしい。", "en": "I'd apparently gotten off and left it on the seat." },
+    { "jp": "電車[でんしゃ]はもう出[で]てしまっていて、頭[あたま]が真[ま]っ白[しろ]になった。", "en": "The train had already left, and my mind went blank." },
+    { "jp": "とりあえず駅員[えきいん]さんに説明[せつめい]すると、乗[の]っていた電車[でんしゃ]の時間[じかん]と、何両目[なんりょうめ]に乗[の]っていたかを聞[き]かれた。", "en": "For now, I explained the situation to a station attendant, and he asked me what time the train was and which car I'd been in." },
+    { "jp": "駅員[えきいん]さんはすぐに終点[しゅうてん]の駅[えき]に連絡[れんらく]してくれた。", "en": "He immediately contacted the station at the end of the line for me." },
+    { "jp": "二十分[にじゅっぷん]ほど待[ま]っていると、「黒[くろ]いケースのスマホが見[み]つかりました」と言[い]われた。", "en": "After I'd waited about twenty minutes, he told me, \"A phone in a black case has been found.\"" },
+    { "jp": "誰[だれ]かが拾[ひろ]って、届[とど]けてくれたのだ。", "en": "Someone had picked it up and turned it in." },
+    { "jp": "次[つぎ]の日[ひ]、終点[しゅうてん]の駅[えき]まで取[と]りに行[い]った。", "en": "The next day, I went to the last station on the line to pick it up." },
+    { "jp": "スマホは壊[こわ]れてもいなかったし、ケースに入[い]れていた一万円[いちまんえん]もそのままだった。", "en": "The phone wasn't broken, and the 10,000 yen I'd kept in the case was still there." },
+    { "jp": "国[くに]の友[とも]だちにこの話[はなし]をしたら、「信[しん]じられない」と驚[おどろ]いていた。", "en": "When I told this story to friends back home, they were amazed and said, \"That's unbelievable.\"" },
+    { "jp": "もちろん、日本[にほん]でも必[かなら]ず見[み]つかるわけではない。", "en": "Of course, even in Japan, lost things aren't always found." },
+    { "jp": "それでも、あの夜[よる]、名前[なまえ]も知[し]らない誰[だれ]かに助[たす]けられたことは、ずっと忘[わす]れないと思[おも]う。", "en": "Even so, I don't think I'll ever forget being helped that night by someone whose name I don't even know." },
+    { "jp": "それ以来[いらい]、電車[でんしゃ]を降[お]りる前[まえ]には、必[かなら]ず座席[ざせき]を振[ふ]り返[かえ]って確認[かくにん]するようにしている。", "en": "Since then, before getting off a train, I always make sure to look back and check my seat." }
+  ],
+  "questions": [
+    { "q": "What did the station attendant ask the writer?", "choices": ["The phone's password", "What time the train was and which car the writer was in", "The writer's home address", "How much money was in the case"], "answer": 1 },
+    { "q": "What happened to the 10,000 yen in the phone case?", "choices": ["It had been taken", "It had been given to the police", "Half of it was missing", "It was still there"], "answer": 3 },
+    { "q": "Which statement matches the writer's view?", "choices": ["Lost items aren't always found even in Japan, but the writer is grateful", "In Japan, lost items always come back", "The writer's friends thought the story was normal", "The writer now leaves valuables at home"], "answer": 0 }
+  ]
+}

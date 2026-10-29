@@ -1,0 +1,151 @@
+{
+  "id": "n4-u01",
+  "title": "Saying what you can do",
+  "summary": "Build the potential form of every verb, learn how particles shift with it, and compare it with {ことができる} and the 'natural sense' verbs {見[み]える} and {聞[き]こえる}.",
+  "points": [
+    {
+      "id": "n4-potential-ichidan",
+      "title": "Potential form: る-verbs, する and 来[く]る",
+      "meaning": "can / be able to (do)",
+      "structure": "る-verb: drop る + られる (食[た]べる → 食[た]べられる) / する → できる / 来[く]る → 来[こ]られる",
+      "explanation": "The potential form turns a verb into 'can do it'. For {る}-verbs (ichidan verbs), drop the final {る} and add {られる}: {食[た]べる} → {食[た]べられる}, {見[み]る} → {見[み]られる}, {起[お]きる} → {起[お]きられる}.\n\nThe two irregular verbs have their own forms: {する} becomes {できる}, and {来[く]る} becomes {来[こ]られる} (note the reading changes to {こ}). Any {する}-verb follows the same pattern: {勉強[べんきょう]する} → {勉強[べんきょう]できる}.\n\nThe new verb is itself a regular {る}-verb, so you conjugate it the usual way: {食[た]べられます}, {食[た]べられない}, {食[た]べられた}, {食[た]べられなかった}. Use it for ability ('I can't get up early') and for possibility in a situation ('Can you come tomorrow?').",
+      "examples": [
+        { "jp": "納豆[なっとう]は食[た]べられますか。", "en": "Can you eat natto?" },
+        { "jp": "私[わたし]は朝[あさ]早[はや]く起[お]きられません。", "en": "I can't get up early in the morning." },
+        { "jp": "日曜日[にちようび]なら、テニスができます。", "en": "If it's Sunday, I can play tennis." },
+        { "jp": "明日[あした]のパーティーに来[こ]られる？", "en": "Can you come to the party tomorrow?" },
+        { "jp": "このアプリで日本[にほん]のテレビが見[み]られます。", "en": "You can watch Japanese TV with this app." }
+      ],
+      "notes": "In casual speech many people drop the {ら}: {食[た]べれる}, {見[み]れる}, {来[こ]れる}. This is called {ら抜[ぬ]き言葉[ことば]} ('ra-dropped words'). You will hear it all the time, but use the full {られる} form in writing, on tests and in polite situations.\n\nThe {られる} ending is also used for the passive (Unit 9), so {食[た]べられる} can mean 'can eat' or 'be eaten'. Context almost always makes it clear.",
+      "quiz": [
+        {
+          "q": "辛[から]い料理[りょうり]は＿＿か。",
+          "en": "Can you eat spicy food?",
+          "choices": ["食[た]べられます", "食[た]べります", "食[た]べれります", "食[た]べさせます"],
+          "answer": 0
+        },
+        {
+          "q": "週末[しゅうまつ]なら、買[か]い物[もの]が＿＿。",
+          "en": "If it's the weekend, I can do the shopping.",
+          "choices": ["できます", "しられます", "されます", "しれます"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-potential-godan",
+      "title": "Potential form: う-verbs",
+      "meaning": "can / be able to (do)",
+      "structure": "う-verb: final u-sound → e-sound + る (書[か]く → 書[か]ける, 話[はな]す → 話[はな]せる)",
+      "explanation": "For {う}-verbs (godan verbs), move the last sound from the u-row to the e-row of the kana chart and add {る}:\n\n- {書[か]く} → {書[か]ける}, {泳[およ]ぐ} → {泳[およ]げる}\n- {話[はな]す} → {話[はな]せる}, {待[ま]つ} → {待[ま]てる}\n- {遊[あそ]ぶ} → {遊[あそ]べる}, {読[よ]む} → {読[よ]める}\n- {帰[かえ]る} → {帰[かえ]れる}, {買[か]う} → {買[か]える}\n\nThe result is a {る}-verb: {書[か]けます}, {書[か]けない}, {書[か]けた}.\n\nWatch out for {う}-verbs that happen to end in {る}, such as {帰[かえ]る}, {入[はい]る}, {走[はし]る} and {知[し]る}. They follow the {う}-verb rule, so it's {帰[かえ]れる}, never {帰[かえ]られる}. If you're unsure which group a verb is in, check its {ます}-form: {帰[かえ]ります} has {り}, so it's a {う}-verb.",
+      "examples": [
+        { "jp": "私[わたし]は泳[およ]げません。", "en": "I can't swim." },
+        { "jp": "母[はは]は英語[えいご]が少[すこ]し話[はな]せます。", "en": "My mother can speak a little English." },
+        { "jp": "この駅[えき]からバスで空港[くうこう]まで行[い]けますか。", "en": "Can you get to the airport by bus from this station?" },
+        { "jp": "仕事[しごと]が多[おお]くて、今日[きょう]は早[はや]く帰[かえ]れない。", "en": "I have a lot of work, so I can't go home early today." },
+        { "jp": "漢字[かんじ]が読[よ]めなくて、メニューが分[わ]かりませんでした。", "en": "I couldn't read the kanji, so I didn't understand the menu." }
+      ],
+      "notes": "{分[わ]かる} 'to understand' already describes ability, so it has no potential form: just say {日本語[にほんご]が分[わ]かります}. ({分[わ]かれる} is a different verb meaning 'to split up'.) Likewise {ある} has no potential form.",
+      "quiz": [
+        {
+          "q": "このペンは古[ふる]くて、もう＿＿。",
+          "en": "This pen is old, and I can't write with it anymore.",
+          "choices": ["書[か]けない", "書[か]かれない", "書[か]きない", "書[か]けらない"],
+          "answer": 0
+        },
+        {
+          "q": "電車[でんしゃ]がなかったので、家[いえ]に＿＿。",
+          "en": "There were no trains, so I couldn't go home.",
+          "choices": ["帰[かえ]れなかった", "帰[かえ]られなかった", "帰[かえ]りられなかった", "帰[かえ]させなかった"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-potential-ga",
+      "title": "Potential verbs and the particle が",
+      "meaning": "marking the thing you can do",
+      "structure": "Person は + Thing が + potential verb",
+      "explanation": "With an ordinary verb, the object takes {を}: {日本語[にほんご]を話[はな]す}. With a potential verb, the object is normally marked with {が}: {日本語[にほんご]が話[はな]せる}. You can think of it as 'Japanese is speakable (for me)'. The person who has the ability is usually the topic with {は}: {私[わたし]はギターが弾[ひ]ける}.\n\nOnly {を} changes. Other particles stay exactly as they were: {自転車[じてんしゃ]に乗[の]る} → {自転車[じてんしゃ]に乗[の]れる}, {一人[ひとり]で行[い]く} → {一人[ひとり]で行[い]ける}.\n\nIn everyday speech you will also hear {を} with potential verbs, especially in longer sentences, but {が} is the standard choice and the safe one on tests.",
+      "examples": [
+        { "jp": "兄[あに]は中国語[ちゅうごくご]が話[はな]せます。", "en": "My older brother can speak Chinese." },
+        { "jp": "この店[みせ]ではカードが使[つか]えますか。", "en": "Can I use a card at this shop?" },
+        { "jp": "私[わたし]はまだ自転車[じてんしゃ]に乗[の]れません。", "en": "I still can't ride a bicycle." },
+        { "jp": "ひらがなは読[よ]めますが、漢字[かんじ]はまだあまり読[よ]めません。", "en": "I can read hiragana, but I still can't read much kanji." }
+      ],
+      "notes": "When you contrast two things, {は} replaces {が}, as in the last example. The same {が} appears with {分[わ]かる} and {できる}: {英語[えいご]が分[わ]かる}, {料理[りょうり]ができる}.",
+      "quiz": [
+        {
+          "q": "私[わたし]はピアノ＿＿弾[ひ]けます。",
+          "en": "I can play the piano.",
+          "choices": ["が", "に", "で", "へ"],
+          "answer": 0
+        },
+        {
+          "q": "一人[ひとり]で電車[でんしゃ]＿＿乗[の]れますか。",
+          "en": "Can you ride the train by yourself?",
+          "choices": ["に", "が", "を", "で"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-koto-ga-dekiru",
+      "title": "〜ことができる",
+      "meaning": "can / be able to (a little more formal)",
+      "structure": "V-dictionary + ことができる / Noun + ができる",
+      "explanation": "Another way to say 'can' is to put the dictionary form of a verb before {ことができる}. {こと} turns the verb into a noun ('the act of reading'), and {ができる} says that act is possible. So {漢字[かんじ]を読[よ]むことができる} means the same as {漢字[かんじ]が読[よ]める}. Notice that the object keeps {を} here, because the verb itself hasn't changed.\n\nThis pattern is longer and sounds a little more formal or explanatory, so you'll see it a lot in rules, signs, announcements and guidebooks: 'You can borrow books for two weeks', 'Smoking is not possible here'. It's also a handy fallback when you can't remember a potential form.\n\nWith a noun that is an activity, simply use {Noun + ができる}: {テニスができる}, {料理[りょうり]ができる}.",
+      "examples": [
+        { "jp": "図書館[としょかん]では本[ほん]を二週間[にしゅうかん]借[か]りることができます。", "en": "You can borrow books from the library for two weeks." },
+        { "jp": "この部屋[へや]でたばこを吸[す]うことはできません。", "en": "You can't smoke in this room." },
+        { "jp": "私[わたし]の妹[いもうと]はスキーができます。", "en": "My younger sister can ski." },
+        { "jp": "日本語[にほんご]で自己紹介[じこしょうかい]をすることができますか。", "en": "Can you introduce yourself in Japanese?" },
+        { "jp": "去年[きょねん]は忙[いそが]しくて、旅行[りょこう]することができなかった。", "en": "Last year I was busy and couldn't travel." }
+      ],
+      "notes": "Don't stack two potentials: {読[よ]めることができる} is wrong. Use either {読[よ]める} or {読[よ]むことができる}.",
+      "quiz": [
+        {
+          "q": "インターネットでチケットを＿＿ことができます。",
+          "en": "You can buy tickets online.",
+          "choices": ["買[か]う", "買[か]って", "買[か]った", "買[か]える"],
+          "answer": 0
+        },
+        {
+          "q": "このカードで電車[でんしゃ]に乗[の]る＿＿できます。",
+          "en": "You can ride trains with this card.",
+          "choices": ["ことが", "ことに", "ことを", "ために"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-mieru-kikoeru",
+      "title": "見[み]える / 聞[き]こえる",
+      "meaning": "can be seen / can be heard (naturally)",
+      "structure": "Thing が + 見[み]える / Thing が + 聞[き]こえる",
+      "explanation": "{見[み]える} and {聞[き]こえる} describe things that reach your eyes or ears on their own, without any effort: {窓[まど]から山[やま]が見[み]える} 'You can see mountains from the window'. The thing you see or hear takes {が}.\n\nCompare the regular potential forms {見[み]られる} and {聞[き]ける}. These mean you have the chance or the means to watch or listen because of the situation: {このサイトで映画[えいが]が見[み]られる} 'You can watch movies on this site', {このアプリでラジオが聞[き]ける} 'You can listen to the radio with this app'.\n\nA simple rule of thumb: physical senses → {見[み]える} / {聞[き]こえる}; opportunity or arrangement → {見[み]られる} / {聞[き]ける}.",
+      "examples": [
+        { "jp": "私[わたし]の部屋[へや]から海[うみ]が見[み]えます。", "en": "You can see the sea from my room." },
+        { "jp": "すみません、声[こえ]が小[ちい]さくて聞[き]こえません。", "en": "Sorry, your voice is too quiet and I can't hear you." },
+        { "jp": "眼鏡[めがね]をかけていないので、よく見[み]えません。", "en": "I'm not wearing my glasses, so I can't see well." },
+        { "jp": "隣[となり]の部屋[へや]からピアノの音[おと]が聞[き]こえます。", "en": "I can hear a piano from the next room." },
+        { "jp": "このアプリで日本[にほん]のラジオが聞[き]けます。", "en": "You can listen to Japanese radio with this app." }
+      ],
+      "notes": "On the phone, {ちょっと聞[き]こえないんですが} means 'I can't quite hear you'. {見[み]える} also means 'to look/appear': {若[わか]く見[み]える} 'looks young'.",
+      "quiz": [
+        {
+          "q": "晴[は]れた日[ひ]には、ここから富士山[ふじさん]が＿＿。",
+          "en": "On clear days, you can see Mt. Fuji from here.",
+          "choices": ["見[み]えます", "見[み]せます", "見[み]ています", "見[み]ましょう"],
+          "answer": 0
+        },
+        {
+          "q": "この映画[えいが]は、来月[らいげつ]からインターネットで＿＿。",
+          "en": "From next month, you'll be able to watch this movie online.",
+          "choices": ["見[み]られます", "見[み]えます", "見[み]せます", "見[み]えられます"],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

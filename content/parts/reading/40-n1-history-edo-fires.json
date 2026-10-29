@@ -1,0 +1,29 @@
+{
+  "id": "r-n1-08",
+  "level": "N1",
+  "title": "History: Fires and Firefighters of Edo",
+  "titleJp": "江戸[えど]の華[はな]と火消[ひけ]し",
+  "sentences": [
+    { "jp": "「火事[かじ]と喧嘩[けんか]は江戸[えど]の華[はな]」という言葉[ことば]が残[のこ]っているように、江戸[えど]は世界[せかい]でも類[るい]を見[み]ないほど火災[かさい]の多[おお]い都市[とし]であった。", "en": "As the surviving saying \"Fires and fights are the flowers of Edo\" suggests, Edo was a city with more fires than almost anywhere else in the world." },
+    { "jp": "木造[もくぞう]の長屋[ながや]が密集[みっしゅう]し、冬[ふゆ]から春[はる]にかけて乾[かわ]いた北西[ほくせい]の季節風[きせつふう]が吹[ふ]きつける江戸[えど]では、ひとたび火[ひ]が出[で]れば瞬[またた]く間[ま]に燃[も]え広[ひろ]がった。", "en": "In Edo, where wooden row houses were packed tightly together and dry northwesterly seasonal winds blew hard from winter into spring, once a fire broke out it spread in the blink of an eye." },
+    { "jp": "なかでも明暦[めいれき]三年[さんねん]（1657年[せんろっぴゃくごじゅうななねん]）の大火[たいか]は市街[しがい]の大半[たいはん]を焼[や]き尽[つ]くし、死者[ししゃ]は十万人[じゅうまんにん]に及[およ]んだとも伝[つた]えられる。", "en": "Above all, the Great Fire of Meireki 3 (1657) burned most of the city to the ground, and the death toll is said by some accounts to have reached 100,000." },
+    { "jp": "江戸城[えどじょう]の天守[てんしゅ]もこのとき焼失[しょうしつ]し、以後[いご]、再建[さいけん]されることはなかった。", "en": "The main keep of Edo Castle was also destroyed in this fire and was never rebuilt." },
+    { "jp": "幕府[ばくふ]はこの大火[たいか]を教訓[きょうくん]に、都市[とし]の改造[かいぞう]に乗[の]り出[だ]す。", "en": "Taking the great fire as a lesson, the shogunate set about remodeling the city." },
+    { "jp": "延焼[えんしょう]を食[く]い止[と]めるための空[あ]き地[ち]である「火除地[ひよけち]」や、道幅[みちはば]を広[ひろ]げた「広小路[ひろこうじ]」が各所[かくしょ]に設[もう]けられ、上野[うえの]の広小路[ひろこうじ]などはその名残[なごり]を今[いま]に伝[つた]えている。", "en": "Open spaces called hiyokechi, meant to stop fires from spreading, and widened streets called hirokōji were created in many places; Ueno's Hirokōji, among others, still carries traces of them today." },
+    { "jp": "消防[しょうぼう]の担[にな]い手[て]も整[ととの]えられていった。", "en": "The people responsible for firefighting were also organized." },
+    { "jp": "当初[とうしょ]は武士[ぶし]による火消[ひけ]しが中心[ちゅうしん]であったが、享保[きょうほう]年間[ねんかん]、町奉行[まちぶぎょう]の大岡[おおおか]忠相[ただすけ]のもとで、町人[ちょうにん]による「町火消[まちびけし]」が組織[そしき]される。", "en": "At first, firefighting was mainly done by samurai, but in the Kyōhō era, under the city magistrate Ōoka Tadasuke, the machi-bikeshi, firefighting brigades made up of townspeople, were organized." },
+    { "jp": "町火消[まちびけし]は「いろは」の文字[もじ]を組[くみ]の名[な]に用[もち]いた四十数組[よんじゅうすうくみ]に編成[へんせい]され、それぞれが担当[たんとう]の町[まち]を受[う]け持[も]った。", "en": "The machi-bikeshi were organized into some forty-odd brigades named after the letters of the iroha syllabary, each responsible for its assigned neighborhoods." },
+    { "jp": "もっとも、当時[とうじ]の消火[しょうか]は、現代[げんだい]のように水[みず]で火[ひ]を消[け]すものではなかった。", "en": "Firefighting in those days, however, did not mean putting fires out with water as it does today." },
+    { "jp": "十分[じゅうぶん]な水[みず]を確保[かくほ]する手段[しゅだん]がなかったため、火元[ひもと]の風下[かざしも]にある家屋[かおく]を壊[こわ]して燃[も]え移[うつ]るものをなくす「破壊[はかい]消防[しょうぼう]」が主[おも]な方法[ほうほう]だったのである。", "en": "Because there was no way to secure enough water, the main method was \"destructive firefighting\": tearing down houses downwind of the fire to remove anything it could spread to." },
+    { "jp": "纏[まとい]を掲[かか]げて屋根[やね]に上[のぼ]り、火[ひ]の粉[こ]をものともせず組[くみ]の持[も]ち場[ば]を示[しめ]す火消[ひけ]したちの姿[すがた]は江戸[えど]の人々[ひとびと]の喝采[かっさい]を浴[あ]び、浮世絵[うきよえ]にも数多[かずおお]く描[えが]かれた。", "en": "The sight of firefighters climbing onto roofs holding their brigade standards aloft, marking their brigade's post with no regard for the flying sparks, won the cheers of the people of Edo and was depicted many times in ukiyo-e prints." },
+    { "jp": "頻発[ひんぱつ]する火事[かじ]は、人々[ひとびと]の暮[く]らしに独特[どくとく]の価値観[かちかん]をもたらした。", "en": "The frequent fires gave rise to a distinctive set of values in people's lives." },
+    { "jp": "いつ焼[や]け出[だ]されるかわからない以上[いじょう]、財産[ざいさん]を蓄[たくわ]えるより今[いま]を楽[たの]しむ――「宵越[よいご]しの銭[ぜに]は持[も]たない」という江戸[えど]っ子[こ]の気風[きっぷ]は、こうした環境[かんきょう]と無縁[むえん]ではないとする見方[みかた]もある。", "en": "Since you never knew when you might be burned out of your home, it was better to enjoy the present than to build up wealth; some see the Edokko spirit of \"never keeping money overnight\" as having something to do with these conditions." },
+    { "jp": "現在[げんざい]、東京[とうきょう]消防庁[しょうぼうちょう]の出初式[でぞめしき]で披露[ひろう]される梯子[はしご]乗[の]りは、町火消[まちびけし]の伝統[でんとう]を受[う]け継[つ]ぐものだ。", "en": "The ladder-top acrobatics performed today at the Tokyo Fire Department's New Year review carry on the tradition of the machi-bikeshi." },
+    { "jp": "華[はな]やかな演技[えんぎ]の背後[はいご]には、炎[ほのお]と闘[たたか]い続[つづ]けた都市[とし]の記憶[きおく]が、今[いま]も静[しず]かに息[いき]づいている。", "en": "Behind the dazzling performance, the memory of a city that fought fire again and again still quietly lives on." }
+  ],
+  "questions": [
+    { "q": "What was the main firefighting method in Edo?", "choices": ["Pumping water from rivers", "Tearing down houses downwind of the fire", "Covering buildings with wet sand", "Waiting for the seasonal rains"], "answer": 1 },
+    { "q": "What happened to the keep of Edo Castle in the Great Fire of Meireki?", "choices": ["It survived undamaged", "It was rebuilt larger than before", "It was moved to Ueno", "It burned down and was never rebuilt"], "answer": 3 },
+    { "q": "How do some explain the Edokko attitude of \"never keeping money overnight\"?", "choices": ["Because frequent fires made saving less meaningful than enjoying the present", "Because the shogunate banned saving money", "Because there were no banks in Edo", "Because firefighters were paid daily"], "answer": 0 }
+  ]
+}

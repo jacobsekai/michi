@@ -1,0 +1,150 @@
+{
+  "id": "n4-u02",
+  "title": "Plans, intentions and invitations",
+  "summary": "Make the volitional form ('let's'), say what you're thinking of doing, what you intend to do and what is scheduled, and review polite invitations with {ませんか} and {ましょう}.",
+  "points": [
+    {
+      "id": "n4-volitional",
+      "title": "Volitional form (〜う / 〜よう)",
+      "meaning": "let's ~ (casual) / I'll ~",
+      "structure": "る-verb: drop る + よう (食[た]べよう) / う-verb: o-sound + う (行[い]こう) / する → しよう, 来[く]る → 来[こ]よう",
+      "explanation": "The volitional form is the plain, casual version of {〜ましょう}. Use it with friends and family to suggest doing something together: {一緒[いっしょ]に帰[かえ]ろう} 'Let's go home together'. Said to yourself, it shows a decision made on the spot: {よし、がんばろう} 'Right, I'll give it my best'.\n\nHow to make it:\n\n- {る}-verbs: drop {る}, add {よう}: {食[た]べる} → {食[た]べよう}, {寝[ね]る} → {寝[ね]よう}\n- {う}-verbs: move the last sound to the o-row and add {う}: {書[か]く} → {書[か]こう}, {話[はな]す} → {話[はな]そう}, {待[ま]つ} → {待[ま]とう}, {飲[の]む} → {飲[の]もう}, {帰[かえ]る} → {帰[かえ]ろう}, {買[か]う} → {買[か]おう}\n- Irregular: {する} → {しよう}, {来[く]る} → {来[こ]よう}\n\nAdd {か} to make a casual offer or suggestion, like {〜ましょうか}: {手伝[てつだ]おうか} 'Shall I help?'",
+      "examples": [
+        { "jp": "疲[つか]れたね。ちょっと休[やす]もう。", "en": "I'm tired. Let's take a little break." },
+        { "jp": "明日[あした]は早[はや]いから、もう寝[ね]よう。", "en": "I have an early start tomorrow, so I'll go to bed now." },
+        { "jp": "暑[あつ]いね。何[なに]か冷[つめ]たいものを飲[の]もうか。", "en": "It's hot, isn't it. Shall we drink something cold?" },
+        { "jp": "週末[しゅうまつ]、一緒[いっしょ]に映画[えいが]を見[み]に行[い]こうよ。", "en": "Let's go see a movie together this weekend!" },
+        { "jp": "荷物[にもつ]、一[ひと]つ持[も]とうか。", "en": "Shall I carry one of your bags?" }
+      ],
+      "notes": "Only use the volitional with actions you can choose to do. Verbs like {分[わ]かる} or {ある}, and potential forms, don't have a meaningful volitional.",
+      "quiz": [
+        {
+          "q": "雨[あめ]が降[ふ]ってきたから、早[はや]く＿＿。",
+          "en": "It's started raining, so let's hurry home.",
+          "choices": ["帰[かえ]ろう", "帰[かえ]よう", "帰[かえ]りよう", "帰[かえ]れよう"],
+          "answer": 0
+        },
+        {
+          "q": "今日[きょう]は私[わたし]が晩[ばん]ご飯[はん]を＿＿か。",
+          "en": "Shall I make dinner today?",
+          "choices": ["作[つく]ろう", "作[つく]よう", "作[つく]りよう", "作[つく]れ"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-you-to-omou",
+      "title": "〜ようと思[おも]う",
+      "meaning": "I think I'll ~ / I'm thinking of ~ing",
+      "structure": "V-volitional + と思[おも]う / と思[おも]っている",
+      "explanation": "Volitional + {と思[おも]う} literally means 'I think, \"let's do ~\"' — in other words, 'I think I'll ~'. It's the most common way to talk about your plans in a soft, not-yet-fixed way.\n\n- {と思[おも]います}: a decision you're making right now. {今日[きょう]は早[はや]く寝[ね]ようと思[おも]います} 'I think I'll go to bed early tonight.'\n- {と思[おも]っています}: an intention you've had for a while. {来年[らいねん]、日本[にほん]で働[はたら]こうと思[おも]っています} 'I'm planning to work in Japan next year.'\n\nThe plain {と思[おも]う} form only describes your own intentions. To talk about someone else's plans, use {と思[おも]っている}: {兄[あに]は車[くるま]を買[か]おうと思[おも]っています} 'My brother is thinking of buying a car.'",
+      "examples": [
+        { "jp": "今年[ことし]の夏[なつ]、日本[にほん]へ行[い]こうと思[おも]っています。", "en": "I'm thinking of going to Japan this summer." },
+        { "jp": "今日[きょう]は疲[つか]れたので、早[はや]く寝[ね]ようと思[おも]います。", "en": "I'm tired today, so I think I'll go to bed early." },
+        { "jp": "兄[あに]は新[あたら]しい車[くるま]を買[か]おうと思[おも]っています。", "en": "My older brother is thinking of buying a new car." },
+        { "jp": "大学[だいがく]を卒業[そつぎょう]した後[あと]、日本[にほん]で働[はたら]こうと思[おも]っています。", "en": "After I graduate from university, I'm planning to work in Japan." }
+      ],
+      "notes": "There's no negative volitional in everyday use, so for 'I'm thinking of not ~ing' say {〜のはやめようと思[おも]う} ('I think I'll stop ~') or use {〜ないつもりだ} (next point).",
+      "quiz": [
+        {
+          "q": "週末[しゅうまつ]は部屋[へや]の掃除[そうじ]を＿＿と思[おも]っています。",
+          "en": "I'm planning to clean my room this weekend.",
+          "choices": ["しよう", "しょう", "して", "しろう"],
+          "answer": 0
+        },
+        {
+          "q": "来年[らいねん]、日本語[にほんご]の試験[しけん]を＿＿と思[おも]います。",
+          "en": "I think I'll take the Japanese exam next year.",
+          "choices": ["受[う]けよう", "受[う]けろう", "受[う]こう", "受[う]けよ"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-tsumori",
+      "title": "〜つもりだ",
+      "meaning": "intend to / plan to",
+      "structure": "V-dictionary + つもりだ / V-ない + つもりだ",
+      "explanation": "{つもり} means 'intention'. {V + つもりだ} says you have firmly decided to do something — it's stronger and more settled than {〜ようと思[おも]う}. {夏休[なつやす]みは国[くに]へ帰[かえ]るつもりです} 'I intend to go back to my country for the summer holidays.'\n\nFor 'intend not to', put the verb in the {ない}-form: {もうたばこは吸[す]わないつもりだ} 'I don't intend to smoke anymore.' The form {〜つもりはない} is stronger still: 'I have no intention whatsoever of ~'.\n\nYou can ask friends {〜つもり？}, but asking a superior directly about their intentions can sound a bit intrusive. With people above you, it's more polite to ask about their {予定[よてい]} (next point).",
+      "examples": [
+        { "jp": "夏休[なつやす]みは国[くに]へ帰[かえ]るつもりです。", "en": "I intend to go back to my country for the summer holidays." },
+        { "jp": "もうたばこは吸[す]わないつもりだ。", "en": "I don't intend to smoke anymore." },
+        { "jp": "今日[きょう]はどこにも出[で]かけないつもりです。", "en": "I'm not planning to go out anywhere today." },
+        { "jp": "日本[にほん]に何年[なんねん]ぐらい住[す]むつもりですか。", "en": "About how many years do you intend to live in Japan?" },
+        { "jp": "彼[かれ]と結婚[けっこん]するつもりはありません。", "en": "I have no intention of marrying him." }
+      ],
+      "notes": "Past + {つもり} has a different meaning, 'I thought I had ~': {鍵[かぎ]をかけたつもりだった} 'I thought I had locked it (but I hadn't)'.",
+      "quiz": [
+        {
+          "q": "来月[らいげつ]、新[あたら]しいパソコンを＿＿つもりです。",
+          "en": "I intend to buy a new computer next month.",
+          "choices": ["買[か]う", "買[か]おう", "買[か]って", "買[か]います"],
+          "answer": 0
+        },
+        {
+          "q": "体[からだ]に悪[わる]いから、もうお酒[さけ]は＿＿つもりです。",
+          "en": "It's bad for my health, so I intend not to drink alcohol anymore.",
+          "choices": ["飲[の]まない", "飲[の]もう", "飲[の]めない", "飲[の]まなかった"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-yotei",
+      "title": "〜予定[よてい]だ",
+      "meaning": "be scheduled to / be planned",
+      "structure": "V-dictionary + 予定[よてい]だ / Noun + の + 予定[よてい]だ",
+      "explanation": "{予定[よてい]} means 'schedule' or 'plan'. {V + 予定[よてい]だ} says something is arranged — it's on the calendar. Unlike {つもり}, which is about your personal will, {予定[よてい]} is about arrangements, often involving other people, timetables or organisations: meetings, flights, trips, events.\n\n{会議[かいぎ]は三時[さんじ]に始[はじ]まる予定[よてい]です} 'The meeting is scheduled to start at three.' A plane can have a {予定[よてい]}, but it can't have a {つもり}!\n\nWith a noun, add {の}: {出張[しゅっちょう]の予定[よてい]です} 'I'm scheduled for a business trip.' {予定[よてい]} is also a normal noun: {週末[しゅうまつ]は予定[よてい]がありますか} 'Do you have plans this weekend?'",
+      "examples": [
+        { "jp": "会議[かいぎ]は三時[さんじ]に始[はじ]まる予定[よてい]です。", "en": "The meeting is scheduled to start at three." },
+        { "jp": "来週[らいしゅう]、大阪[おおさか]へ出張[しゅっちょう]の予定[よてい]です。", "en": "I'm scheduled to go on a business trip to Osaka next week." },
+        { "jp": "週末[しゅうまつ]は何[なに]か予定[よてい]がありますか。", "en": "Do you have any plans for the weekend?" },
+        { "jp": "新[あたら]しい駅[えき]は来年[らいねん]できる予定[よてい]です。", "en": "The new station is scheduled to open next year." },
+        { "jp": "飛行機[ひこうき]は七時[しちじ]に着[つ]く予定[よてい]でしたが、一時間[いちじかん]遅[おく]れました。", "en": "The plane was scheduled to arrive at seven, but it was an hour late." }
+      ],
+      "notes": "Quick comparison: {〜ようと思[おも]う} = thinking about it; {〜つもり} = I've made up my mind; {〜予定[よてい]} = it's arranged / on the schedule.",
+      "quiz": [
+        {
+          "q": "飛行機[ひこうき]は十時[じゅうじ]に出[で]る＿＿です。",
+          "en": "The plane is scheduled to depart at ten.",
+          "choices": ["予定[よてい]", "つもり", "ようと思[おも]い", "でしょう"],
+          "answer": 0
+        },
+        {
+          "q": "来月[らいげつ]、東京[とうきょう]で友[とも]だちの結婚式[けっこんしき]＿＿予定[よてい]です。",
+          "en": "My friend's wedding is scheduled for next month in Tokyo.",
+          "choices": ["の", "が", "を", "な"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-masenka-mashouka",
+      "title": "〜ませんか / 〜ましょう / 〜ましょうか (review)",
+      "meaning": "won't you ~? / let's ~ / shall I (we) ~?",
+      "structure": "V-ます stem + ませんか / ましょう / ましょうか",
+      "explanation": "Three polite endings you already know, now side by side:\n\n- {〜ませんか} 'Won't you ~? / Would you like to ~?' The softest invitation; it leaves the other person room to say no. Best for a first invitation.\n- {〜ましょう} 'Let's ~.' Use it once you both agree, or when you're enthusiastic. As a first invitation it can sound a bit pushy.\n- {〜ましょうか} 'Shall I ~? / Shall we ~?' Used for offers ({持[も]ちましょうか} 'Shall I carry it?') and for deciding details together ({何時[なんじ]に会[あ]いましょうか} 'What time shall we meet?').\n\nThe casual versions are {〜ない？} ({飲[の]まない？}), the volitional ({飲[の]もう}), and volitional + {か} ({飲[の]もうか}).\n\nTo decline politely, Japanese people rarely say a flat 'no'. Try {すみません、その日[ひ]はちょっと…}.",
+      "examples": [
+        { "jp": "今度[こんど]の土曜日[どようび]、一緒[いっしょ]に食事[しょくじ]をしませんか。", "en": "Would you like to have a meal together this Saturday?" },
+        { "jp": "いいですね。じゃあ、駅[えき]の前[まえ]で会[あ]いましょう。", "en": "Sounds good. Then let's meet in front of the station." },
+        { "jp": "寒[さむ]いですね。窓[まど]を閉[し]めましょうか。", "en": "It's cold, isn't it. Shall I close the window?" },
+        { "jp": "何時[なんじ]に出[で]かけましょうか。", "en": "What time shall we head out?" },
+        { "jp": "ねえ、コーヒー飲[の]まない？", "en": "Hey, want to get a coffee?" }
+      ],
+      "quiz": [
+        {
+          "q": "重[おも]いですね。一[ひと]つ＿＿。",
+          "en": "That's heavy, isn't it. Shall I carry one?",
+          "choices": ["持[も]ちましょうか", "持[も]ちませんか", "持[も]ちましょう", "持[も]ってください"],
+          "answer": 0
+        },
+        {
+          "q": "あのう、今晩[こんばん]、一緒[いっしょ]に飲[の]みに行[い]き＿＿。",
+          "en": "Um, would you like to go for a drink together tonight?",
+          "choices": ["ませんか", "ませんでした", "ましたか", "ませ"],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

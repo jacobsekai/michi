@@ -1,0 +1,438 @@
+{
+  "id": "n5-u08",
+  "title": "The て-form",
+  "summary": "Building the {て}-form, then using it to make requests, describe ongoing actions and states, ask and give permission, forbid things, and link actions in order.",
+  "points": [
+    {
+      "id": "n5-te-form",
+      "title": "Making the て-form",
+      "meaning": "the 'connecting' form of a verb",
+      "structure": "る-verb: 食[た]べる → 食[た]べて / う-verb: see rules / する → して, 来[く]る → 来[き]て",
+      "explanation": "The {て}-form doesn't have a tense on its own, but it's the building block for a huge amount of grammar. Start from the **dictionary form**.\n\n- **Ru-verbs:** drop {る}, add {て}. {食[た]べる} → {食[た]べて}, {見[み]る} → {見[み]て}\n- **U-verbs:** the change depends on the last syllable:\n- {う・つ・る} → {って}: {買[か]う} → {買[か]って}, {待[ま]つ} → {待[ま]って}, {帰[かえ]る} → {帰[かえ]って}\n- {む・ぶ・ぬ} → {んで}: {飲[の]む} → {飲[の]んで}, {遊[あそ]ぶ} → {遊[あそ]んで}, {死[し]ぬ} → {死[し]んで}\n- {く} → {いて}: {書[か]く} → {書[か]いて}; {ぐ} → {いで}: {泳[およ]ぐ} → {泳[およ]いで}\n- {す} → {して}: {話[はな]す} → {話[はな]して}\n- **One exception:** {行[い]く} → {行[い]って} (not {行[い]いて})\n- **Irregular:** {する} → {して}, {来[く]る} → {来[き]て}\n\nMany learners memorize the u-verb rules by singing them to a familiar tune. Whatever works for you, practice until it's automatic.",
+      "examples": [
+        {
+          "jp": "食[た]べる → 食[た]べて",
+          "en": "eat (ru-verb: drop ru, add te)"
+        },
+        {
+          "jp": "買[か]う → 買[か]って",
+          "en": "buy (u → tte)"
+        },
+        {
+          "jp": "飲[の]む → 飲[の]んで",
+          "en": "drink (mu → nde)"
+        },
+        {
+          "jp": "書[か]く → 書[か]いて",
+          "en": "write (ku → ite)"
+        },
+        {
+          "jp": "行[い]く → 行[い]って",
+          "en": "go (the one exception)"
+        }
+      ],
+      "notes": "The plain past ({た}-form, Unit 9) is made exactly the same way, just with {た/だ} instead of {て/で}. Learn the {て}-form well and you get the past for free.",
+      "quiz": [
+        {
+          "q": "ちょっと待[ま]＿＿ください。",
+          "en": "Please wait a moment.",
+          "choices": [
+            "んで",
+            "して",
+            "って",
+            "いて"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "この本[ほん]を読[よ]＿＿ください。",
+          "en": "Please read this book.",
+          "choices": [
+            "って",
+            "いて",
+            "みて",
+            "んで"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-te-kudasai",
+      "title": "〜てください",
+      "meaning": "please do ~",
+      "structure": "Verb て-form + ください",
+      "explanation": "Add {ください} after the {て}-form to make a polite request: 'Please do ~.'\n\n{待[ま]って} + {ください} → {待[ま]ってください。} 'Please wait.'\n\nThis is one of the most practical patterns for a newcomer. Two you should memorize today:\n\n- {もう一度[いちど]言[い]ってください。} 'Please say it once more.'\n- {ゆっくり話[はな]してください。} 'Please speak slowly.'\n\nYou'll also hear it constantly on signs, from staff and at work: {ここに名前[なまえ]を書[か]いてください。} 'Please write your name here.'\n\nFor **things** rather than actions, use noun + {をください}: {水[みず]をください。} 'Water, please.'",
+      "examples": [
+        {
+          "jp": "ちょっと待[ま]ってください。",
+          "en": "Please wait a moment."
+        },
+        {
+          "jp": "もう一度[いちど]言[い]ってください。",
+          "en": "Please say that once more."
+        },
+        {
+          "jp": "ゆっくり話[はな]してください。",
+          "en": "Please speak slowly."
+        },
+        {
+          "jp": "ここに名前[なまえ]を書[か]いてください。",
+          "en": "Please write your name here."
+        },
+        {
+          "jp": "明日[あした]、八時[はちじ]に来[き]てください。",
+          "en": "Please come at eight tomorrow."
+        }
+      ],
+      "notes": "{〜てください} is polite but still a direct request. With a boss or a stranger, a softer {〜てくださいませんか} ('Would you please...?') is even more polite.",
+      "quiz": [
+        {
+          "q": "すみません、ゆっくり＿＿ください。",
+          "en": "Excuse me, please speak slowly.",
+          "choices": [
+            "話[はな]って",
+            "話[はな]し",
+            "話[はな]して",
+            "話[はな]いて"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "明日[あした]、九時[くじ]に＿＿ください。",
+          "en": "Please come at nine tomorrow.",
+          "choices": [
+            "くて",
+            "きて",
+            "こて",
+            "くって"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n5-te-iru-progressive",
+      "title": "〜ています (in progress)",
+      "meaning": "be ~ing (an action happening now)",
+      "structure": "Verb て-form + います",
+      "explanation": "Put {います} after the {て}-form to say an action is **ongoing**, like '-ing' in English.\n\n- {食[た]べます} = I eat / will eat\n- {食[た]べています} = I am eating\n\n{今[いま]、何[なに]をしていますか。} 'What are you doing now?'\n{テレビを見[み]ています。} 'I'm watching TV.'\n\nIt can also describe a regular, ongoing activity in your life, like 'I'm studying Japanese these days' or 'I jog every morning': {毎朝[まいあさ]ジョギングをしています。}\n\nThe past is {〜ていました} ('was ~ing') and the negative is {〜ていません}. In casual speech, the {い} is often dropped: {見[み]てます}.",
+      "examples": [
+        {
+          "jp": "今[いま]、雨[あめ]が降[ふ]っています。",
+          "en": "It's raining now."
+        },
+        {
+          "jp": "田中[たなか]さんは電話[でんわ]をしています。",
+          "en": "Mr. Tanaka is on the phone."
+        },
+        {
+          "jp": "子[こ]どもたちは公園[こうえん]で遊[あそ]んでいます。",
+          "en": "The children are playing in the park."
+        },
+        {
+          "jp": "今[いま]、何[なに]をしていますか。",
+          "en": "What are you doing right now?"
+        },
+        {
+          "jp": "毎朝[まいあさ]ジョギングをしています。",
+          "en": "I go jogging every morning."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "今[いま]、雨[あめ]が降[ふ]って＿＿。",
+          "en": "It's raining now.",
+          "choices": [
+            "います",
+            "です",
+            "ます",
+            "あります"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "弟[おとうと]は部屋[へや]でゲームを＿＿います。",
+          "en": "My little brother is playing games in his room.",
+          "choices": [
+            "しで",
+            "すて",
+            "しいて",
+            "して"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-te-iru-state",
+      "title": "〜ています (states)",
+      "meaning": "a state that continues after a change: live, be married, know, work at",
+      "structure": "Verb て-form + います",
+      "explanation": "With some verbs, {〜ています} doesn't mean '-ing'. It describes a **state** that continues as the result of something that happened.\n\n- {結婚[けっこん]する} (get married) → {結婚[けっこん]しています} = **is married**\n- {住[す]む} (start living) → {住[す]んでいます} = **lives**\n- {知[し]る} (come to know) → {知[し]っています} = **knows**\n- {働[はたら]く} → {銀行[ぎんこう]で働[はたら]いています} = **works at a bank** (as a job)\n\nThese are essential for introducing yourself: {東京[とうきょう]に住[す]んでいます。} 'I live in Tokyo.'\n\n**Careful:** the negative of {知[し]っています} is simply {知[し]りません} ('I don't know'), not {知[し]っていません}.",
+      "examples": [
+        {
+          "jp": "私[わたし]は東京[とうきょう]に住[す]んでいます。",
+          "en": "I live in Tokyo."
+        },
+        {
+          "jp": "姉[あね]は結婚[けっこん]しています。",
+          "en": "My older sister is married."
+        },
+        {
+          "jp": "兄[あに]は銀行[ぎんこう]で働[はたら]いています。",
+          "en": "My older brother works at a bank."
+        },
+        {
+          "jp": "田中[たなか]さんの電話[でんわ]番号[ばんごう]を知[し]っていますか。",
+          "en": "Do you know Mr. Tanaka's phone number?"
+        },
+        {
+          "jp": "すみません、知[し]りません。",
+          "en": "Sorry, I don't know."
+        }
+      ],
+      "notes": "{住[す]む} takes {に} for the place ({東京[とうきょう]に住[す]んでいます}), while {働[はたら]く} takes {で} ({銀行[ぎんこう]で働[はたら]いています}).",
+      "quiz": [
+        {
+          "q": "私[わたし]は大阪[おおさか]に住[す]＿＿います。",
+          "en": "I live in Osaka.",
+          "choices": [
+            "いて",
+            "んで",
+            "して",
+            "って"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A：山田[やまだ]さんを知[し]っていますか。B：いいえ、＿＿。",
+          "en": "A: Do you know Mr. Yamada? B: No, I don't.",
+          "choices": [
+            "知[し]らないでした",
+            "知[し]っていません",
+            "知[し]りません",
+            "知[し]りていません"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-te-mo-ii",
+      "title": "〜てもいいです(か)",
+      "meaning": "may I ~? / it's okay to ~ (permission)",
+      "structure": "Verb て-form + もいいです(か)",
+      "explanation": "{〜てもいいです} literally means 'even if you do ~, it's good', or in other words, 'it's okay to ~.'\n\nAdd {か} to ask for permission. This is one of the politest, most useful things you can say in a new place:\n\n{ここで写真[しゃしん]を撮[と]ってもいいですか。} 'May I take a photo here?'\n\nHow people answer:\n\n- Yes: {はい、どうぞ。} 'Yes, go ahead.' or {いいですよ。} 'Sure.'\n- No (softly): {すみません、ちょっと…} 'Sorry, that's a bit...'\n\nWithout {か}, it gives permission: {このペンを使[つか]ってもいいですよ。} 'You can use this pen.'",
+      "examples": [
+        {
+          "jp": "ここで写真[しゃしん]を撮[と]ってもいいですか。",
+          "en": "May I take a photo here?"
+        },
+        {
+          "jp": "窓[まど]を開[あ]けてもいいですか。",
+          "en": "May I open the window?"
+        },
+        {
+          "jp": "トイレに行[い]ってもいいですか。",
+          "en": "May I go to the restroom?"
+        },
+        {
+          "jp": "このペンを使[つか]ってもいいですよ。",
+          "en": "You can use this pen."
+        },
+        {
+          "jp": "明日[あした]は休[やす]んでもいいです。",
+          "en": "You may take tomorrow off."
+        }
+      ],
+      "notes": "You'll also hear {〜てもいい？} in casual speech and {〜てもよろしいですか} in very polite speech, for example from shop staff.",
+      "quiz": [
+        {
+          "q": "ここに座[すわ]＿＿もいいですか。",
+          "en": "May I sit here?",
+          "choices": [
+            "いて",
+            "て",
+            "って",
+            "んで"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "このパソコンを使[つか]って＿＿いいですか。",
+          "en": "May I use this computer?",
+          "choices": [
+            "も",
+            "は",
+            "が",
+            "を"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-te-wa-ikemasen",
+      "title": "〜てはいけません",
+      "meaning": "must not ~ / you're not allowed to ~",
+      "structure": "Verb て-form + はいけません",
+      "explanation": "{〜てはいけません} means 'you must not ~'. It's the opposite of {〜てもいいです}. The {は} here is pronounced **wa**.\n\n{ここでたばこを吸[す]ってはいけません。} 'You must not smoke here.'\n\nIt's a strong, clear rule, so you'll see it in rules, on signs, and from teachers or parents. Saying it directly to an adult you don't know can sound bossy. Between equals, people prefer softer phrases like {〜ないでください} ('please don't', Unit 9).\n\nA common exchange:\n\nA: {ここで食[た]べてもいいですか。} 'May I eat here?'\nB: {すみません、ここで食[た]べてはいけません。} 'Sorry, you can't eat here.'",
+      "examples": [
+        {
+          "jp": "ここでたばこを吸[す]ってはいけません。",
+          "en": "You must not smoke here."
+        },
+        {
+          "jp": "教室[きょうしつ]で食[た]べてはいけません。",
+          "en": "You must not eat in the classroom."
+        },
+        {
+          "jp": "美術館[びじゅつかん]で写真[しゃしん]を撮[と]ってはいけません。",
+          "en": "You can't take photos in the art museum."
+        },
+        {
+          "jp": "この川[かわ]で泳[およ]いではいけません。",
+          "en": "You must not swim in this river."
+        },
+        {
+          "jp": "テストで辞書[じしょ]を使[つか]ってはいけません。",
+          "en": "You can't use a dictionary on the test."
+        }
+      ],
+      "notes": "In casual speech this becomes {〜ちゃだめ} or {〜じゃだめ}: {食[た]べちゃだめ！} 'Don't eat that!'",
+      "quiz": [
+        {
+          "q": "ここで泳[およ]＿＿はいけません。",
+          "en": "You must not swim here.",
+          "choices": [
+            "いで",
+            "って",
+            "いて",
+            "んで"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "図書館[としょかん]で電話[でんわ]をして＿＿いけません。",
+          "en": "You must not talk on the phone in the library.",
+          "choices": [
+            "を",
+            "が",
+            "に",
+            "は"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-te-sequence",
+      "title": "〜て、〜 (and then)",
+      "meaning": "do A, and then B (linking actions in order)",
+      "structure": "Verb₁ て-form、Verb₂",
+      "explanation": "To string actions together in the order they happen, put every verb **except the last** in the {て}-form.\n\n{朝[あさ]起[お]きて、シャワーを浴[あ]びて、コーヒーを飲[の]みます。} 'I get up in the morning, take a shower, and drink coffee.'\n\nThe **last verb decides the tense** and politeness of the whole sentence. So with {飲[の]みました} at the end, all the actions are in the past.\n\nThis is how Japanese says 'and' between actions. Remember that {と} can only join nouns.",
+      "examples": [
+        {
+          "jp": "朝[あさ]起[お]きて、シャワーを浴[あ]びます。",
+          "en": "I get up in the morning and take a shower."
+        },
+        {
+          "jp": "駅[えき]まで歩[ある]いて、電車[でんしゃ]に乗[の]りました。",
+          "en": "I walked to the station and got on the train."
+        },
+        {
+          "jp": "昨日[きのう]は友達[ともだち]に会[あ]って、映画[えいが]を見[み]ました。",
+          "en": "Yesterday I met a friend and watched a movie."
+        },
+        {
+          "jp": "家[いえ]に帰[かえ]って、晩[ばん]ご飯[はん]を作[つく]ります。",
+          "en": "I'll go home and make dinner."
+        },
+        {
+          "jp": "手[て]を洗[あら]って、ご飯[はん]を食[た]べましょう。",
+          "en": "Let's wash our hands and eat."
+        }
+      ],
+      "notes": "{乗[の]る} (ride, get on) takes {に} for the vehicle: {電車[でんしゃ]に乗[の]ります}.",
+      "quiz": [
+        {
+          "q": "朝[あさ]ご飯[はん]を＿＿、会社[かいしゃ]へ行[い]きます。",
+          "en": "I eat breakfast and then go to work.",
+          "choices": [
+            "食[た]べて",
+            "食[た]べます",
+            "食[た]べって",
+            "食[た]べで"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "昨日[きのう]はデパートへ＿＿、くつを買[か]いました。",
+          "en": "Yesterday I went to the department store and bought shoes.",
+          "choices": [
+            "行[い]いて",
+            "行[い]って",
+            "行[い]んで",
+            "行[い]きて"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n5-te-kara",
+      "title": "〜てから",
+      "meaning": "after doing ~ / once ~ / since ~",
+      "structure": "Verb₁ て-form + から、Verb₂",
+      "explanation": "Add {から} to the {て}-form to stress that one action happens **first**, and then the next one: 'after doing A, (do) B'.\n\n{宿題[しゅくだい]をしてから、テレビを見[み]ます。} 'I'll watch TV after I do my homework.'\n\nCompared with a plain {て}-chain, {てから} puts clear focus on the order: first this, **then** that. It's useful for instructions and plans.\n\nIt can also mean 'since' for a situation that started at some point: {日本[にほん]に来[き]てから、毎日[まいにち]日本語[にほんご]を勉強[べんきょう]しています。} 'Since coming to Japan, I've been studying Japanese every day.'",
+      "examples": [
+        {
+          "jp": "宿題[しゅくだい]をしてから、テレビを見[み]ます。",
+          "en": "I'll watch TV after I do my homework."
+        },
+        {
+          "jp": "手[て]を洗[あら]ってから、食[た]べてください。",
+          "en": "Please wash your hands before you eat."
+        },
+        {
+          "jp": "シャワーを浴[あ]びてから、寝[ね]ます。",
+          "en": "I take a shower and then go to bed."
+        },
+        {
+          "jp": "電話[でんわ]をしてから、行[い]きます。",
+          "en": "I'll go after I make a phone call."
+        },
+        {
+          "jp": "日本[にほん]に来[き]てから、毎日[まいにち]日本語[にほんご]を勉強[べんきょう]しています。",
+          "en": "Since coming to Japan, I've been studying Japanese every day."
+        }
+      ],
+      "notes": "Don't confuse {〜てから} (after) with {〜から} after a full sentence (because, Unit 12). The {て} is the clue.",
+      "quiz": [
+        {
+          "q": "歯[は]をみがいて＿＿、寝[ね]ます。",
+          "en": "I go to bed after brushing my teeth.",
+          "choices": [
+            "から",
+            "まえに",
+            "ので",
+            "より"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "仕事[しごと]が＿＿から、飲[の]みに行[い]きましょう。",
+          "en": "Let's go for a drink after work is over.",
+          "choices": [
+            "終[お]わいて",
+            "終[お]わきて",
+            "終[お]わんで",
+            "終[お]わって"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "life-post-deliveries",
+  "title": "Post office & deliveries",
+  "level": "N4",
+  "intro": "The post office ({郵便局[ゆうびんきょく]}) handles letters, parcels, registered mail and the services of Japan Post Bank. Japanese addresses are written from largest to smallest: postal code (seven digits, after the {〒} mark), prefecture, city or ward, district, block numbers, building name and room number, then the person's name with {様[さま]}.\n\nPrivate courier companies ({宅配便[たくはいびん]}) deliver most online shopping, quickly and to a chosen time slot. If you are not home, the driver leaves a missed-delivery notice ({不在[ふざい]連絡票[れんらくひょう]}) in your mailbox. It has a QR code, a website and a phone number for arranging redelivery ({再配達[さいはいたつ]}); you choose a date and time window. Many services also let you pick up at a convenience store or delivery locker, or ask for the parcel to be left at your door ({置[お]き配[はい]}).\n\nWhen you move within Japan, you can submit a change-of-address notice ({転居届[てんきょとどけ]}) to the post office, and your mail is forwarded to the new address for a limited period. Note that some official mail is not forwarded, so update your address everywhere as well.\n\nPut your name on your mailbox and door. Mail and parcels without a clearly matching name may be returned to the sender.\n\nBe careful with text messages claiming to be from a delivery company with a link to click. Fake delivery messages are a common scam; use the official app or website instead.",
+  "phrases": [
+    { "jp": "これを速達[そくたつ]でお願[ねが]いします。", "en": "Express delivery for this, please." },
+    { "jp": "アメリカまで航空便[こうくうびん]でいくらですか。", "en": "How much is it to send this to the US by airmail?" },
+    { "jp": "書留[かきとめ]でお願[ねが]いします。", "en": "By registered mail, please." },
+    { "jp": "中身[なかみ]は本[ほん]です。", "en": "The contents are books." },
+    { "jp": "いつ頃[ごろ]届[とど]きますか。", "en": "About when will it arrive?" },
+    { "jp": "110円[ひゃくじゅうえん]切手[きって]を5枚[ごまい]ください。", "en": "Five 110-yen stamps, please.", "note": "Postage rates change from time to time; this is just a model sentence. You can always ask {はがきはいくらですか}." },
+    { "jp": "不在[ふざい]連絡票[れんらくひょう]が入[はい]っていました。", "en": "There was a missed-delivery notice in my mailbox." },
+    { "jp": "再配達[さいはいたつ]をお願[ねが]いしたいんですが。", "en": "I'd like to request redelivery." },
+    { "jp": "明日[あした]の19時[じゅうくじ]から21時[にじゅういちじ]の間[あいだ]にお願[ねが]いします。", "en": "Between 7 and 9 p.m. tomorrow, please." },
+    { "jp": "置[お]き配[はい]でお願[ねが]いします。", "en": "Please leave it at the door." },
+    { "jp": "宅配[たくはい]ボックスに入[い]れてください。", "en": "Please put it in the delivery locker." },
+    { "jp": "コンビニで受[う]け取[と]れますか。", "en": "Can I pick it up at a convenience store?" },
+    { "jp": "この荷物[にもつ]を着払[ちゃくばら]いで送[おく]りたいです。", "en": "I'd like to send this parcel with the recipient paying." },
+    { "jp": "引[ひ]っ越[こ]したので、転居届[てんきょとどけ]を出[だ]したいです。", "en": "I've moved, so I'd like to submit a change-of-address notice." }
+  ],
+  "vocab": [
+    { "jp": "郵便局[ゆうびんきょく]", "en": "post office" },
+    { "jp": "郵便[ゆうびん]番号[ばんごう]", "en": "postal code" },
+    { "jp": "切手[きって]", "en": "stamp" },
+    { "jp": "はがき", "en": "postcard" },
+    { "jp": "封筒[ふうとう]", "en": "envelope" },
+    { "jp": "速達[そくたつ]", "en": "express mail" },
+    { "jp": "書留[かきとめ]", "en": "registered mail" },
+    { "jp": "荷物[にもつ]", "en": "parcel, luggage" },
+    { "jp": "宅配便[たくはいびん]", "en": "courier delivery" },
+    { "jp": "再配達[さいはいたつ]", "en": "redelivery" },
+    { "jp": "不在[ふざい]連絡票[れんらくひょう]", "en": "missed-delivery notice" },
+    { "jp": "置[お]き配[はい]", "en": "leave-at-door delivery" },
+    { "jp": "着払[ちゃくばら]い", "en": "cash on delivery (recipient pays postage)" },
+    { "jp": "送料[そうりょう]", "en": "shipping fee" },
+    { "jp": "宛先[あてさき]", "en": "destination address" }
+  ],
+  "dialogue": [
+    { "speaker": "Driver", "jp": "こんにちは。お届[とど]け物[もの]です。", "en": "Hello. I have a delivery for you." },
+    { "speaker": "You", "jp": "はい、今[いま]開[あ]けます。", "en": "OK, I'll open the door now." },
+    { "speaker": "Driver", "jp": "スミス様[さま]でお間違[まちが]いないでしょうか。", "en": "You're Mr. Smith, is that right?" },
+    { "speaker": "You", "jp": "はい、そうです。", "en": "Yes, that's right." },
+    { "speaker": "Driver", "jp": "こちらにサインかハンコをお願[ねが]いします。", "en": "Please sign or stamp here." },
+    { "speaker": "You", "jp": "サインでいいですか。", "en": "Is a signature OK?" },
+    { "speaker": "Driver", "jp": "はい、大丈夫[だいじょうぶ]です。昨日[きのう]も伺[うかが]ったんですが、ご不在[ふざい]だったので。", "en": "Yes, that's fine. I came by yesterday too, but you were out." },
+    { "speaker": "You", "jp": "すみません。次[つぎ]から置[お]き配[はい]にできますか。", "en": "Sorry about that. Can I have it left at the door from now on?" },
+    { "speaker": "Driver", "jp": "アプリかホームページから設定[せってい]できますよ。", "en": "You can set that up through the app or website." },
+    { "speaker": "You", "jp": "わかりました。ありがとうございます。", "en": "OK. Thank you." },
+    { "speaker": "Driver", "jp": "ありがとうございました。失礼[しつれい]します。", "en": "Thank you. Goodbye." }
+  ],
+  "tips": [
+    "Learn to write your own address in Japanese from memory; you will fill it in on countless forms.",
+    "Courier redelivery requests can usually be made the same day for an evening slot, but deadlines vary. Request early in the day.",
+    "Important documents such as bank cards and some official papers are sent by registered mail and need a signature. Watch for notices.",
+    "If you receive a delivery text with a strange link, do not click it. Check the tracking number on the courier's official site.",
+    "Convenience stores accept parcels for several courier companies, which is handy for returns."
+  ]
+}

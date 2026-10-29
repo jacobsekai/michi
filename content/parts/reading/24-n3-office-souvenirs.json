@@ -1,0 +1,26 @@
+{
+  "id": "r-n3-08",
+  "level": "N3",
+  "title": "Souvenirs at the Office",
+  "titleJp": "職場[しょくば]のお土産[みやげ]",
+  "sentences": [
+    { "jp": "日本[にほん]で働[はたら]き始[はじ]めると、休[やす]みの後[あと]に同僚[どうりょう]がお菓子[かし]を配[くば]っているのを見[み]ることがあるでしょう。", "en": "Once you start working in Japan, you'll probably see coworkers handing out sweets after a holiday." },
+    { "jp": "これは「お土産[みやげ]」と呼[よ]ばれる習慣[しゅうかん]です。", "en": "This is a custom called omiyage." },
+    { "jp": "旅行[りょこう]や帰省[きせい]で会社[かいしゃ]を休[やす]んだ人[ひと]は、その土地[とち]のお菓子[かし]などを買[か]ってきて、職場[しょくば]の人[ひと]に配[くば]ります。", "en": "People who took time off for a trip or a visit to their hometown buy sweets or other things from that area and hand them out to the people at work." },
+    { "jp": "お土産[みやげ]を配[くば]るのは、「休[やす]んでいる間[あいだ]、仕事[しごと]を代[か]わってくれてありがとう」という気持[きも]ちを伝[つた]えるためです。", "en": "The reason for handing out omiyage is to express the feeling of \"Thank you for covering my work while I was away.\"" },
+    { "jp": "そのため、高[たか]い物[もの]である必要[ひつよう]はありません。", "en": "For that reason, it doesn't need to be anything expensive." },
+    { "jp": "大切[たいせつ]なのは、みんなに配[くば]りやすいことです。", "en": "What matters is that it's easy to share with everyone." },
+    { "jp": "例[たと]えば、一[ひと]つずつ袋[ふくろ]に入[はい]っているクッキーやおせんべいなどがよく選[えら]ばれます。", "en": "For example, individually wrapped cookies or rice crackers are popular choices." },
+    { "jp": "人数[にんずう]より少[すこ]し多[おお]めに買[か]っておくと、足[た]りなくなる心配[しんぱい]がありません。", "en": "If you buy a few more than the number of people, you won't have to worry about running out." },
+    { "jp": "空港[くうこう]や駅[えき]には、その地方[ちほう]でしか買[か]えないお菓子[かし]がたくさん売[う]られています。", "en": "Airports and stations sell lots of sweets that you can only buy in that region." },
+    { "jp": "渡[わた]すときは、「少[すこ]しですが、皆[みな]さんでどうぞ」などと一言[ひとこと]言[い]うといいでしょう。", "en": "When you hand them out, it's good to add a few words, such as \"It's just a little something, but please help yourselves.\"" },
+    { "jp": "最近[さいきん]は、お土産[みやげ]をやめる職場[しょくば]も少[すこ]しずつ増[ふ]えているようです。", "en": "These days, it seems the number of workplaces that have stopped doing omiyage is gradually increasing." },
+    { "jp": "迷[まよ]ったときは、まず周[まわ]りの人[ひと]がどうしているか、よく見[み]てみるのが一番[いちばん]です。", "en": "When you're not sure, the best thing is to first watch carefully what the people around you do." },
+    { "jp": "海外[かいがい]から来[き]た人[ひと]なら、自分[じぶん]の国[くに]のお菓子[かし]を持[も]っていくと、話[はなし]のきっかけにもなって喜[よろこ]ばれるはずです。", "en": "If you're from overseas, bringing sweets from your own country will likely be appreciated, and it can also be a good conversation starter." }
+  ],
+  "questions": [
+    { "q": "What is the main feeling behind giving omiyage at work?", "choices": ["Showing coworkers where you traveled", "Thanks to coworkers for covering your work while you were away", "Following an order from the boss", "Apologizing for a mistake"], "answer": 1 },
+    { "q": "What kind of omiyage does the passage recommend?", "choices": ["Something expensive for the boss", "One large cake for the whole office", "Exactly one item per person", "Individually wrapped snacks that are easy to share"], "answer": 3 },
+    { "q": "What advice does the passage give if you're unsure what to do?", "choices": ["Watch what the people around you do", "Ask the human resources department", "Don't bring anything", "Bring something from the airport"], "answer": 0 }
+  ]
+}

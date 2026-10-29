@@ -1,0 +1,27 @@
+{
+  "id": "r-n3-07",
+  "level": "N3",
+  "title": "The Crane Who Returned a Kindness",
+  "titleJp": "鶴[つる]の恩返[おんがえ]し",
+  "sentences": [
+    { "jp": "昔[むかし]、雪[ゆき]の深[ふか]いある村[むら]に、貧[まず]しいおじいさんとおばあさんが住[す]んでいた。", "en": "Long ago, in a village deep in snow, there lived a poor old man and old woman." },
+    { "jp": "ある冬[ふゆ]の日[ひ]、町[まち]へ買[か]い物[もの]に行[い]った帰[かえ]り道[みち]で、おじいさんはわなにかかった一羽[いちわ]の鶴[つる]を見[み]つけた。", "en": "One winter day, on his way home from shopping in town, the old man found a crane caught in a trap." },
+    { "jp": "かわいそうに思[おも]ったおじいさんは、わなを外[はず]して、鶴[つる]を逃[に]がしてやった。", "en": "Feeling sorry for it, the old man removed the trap and let the crane go." },
+    { "jp": "その夜[よる]、二人[ふたり]の家[いえ]に、美[うつく]しい若[わか]い娘[むすめ]が訪[たず]ねてきた。", "en": "That night, a beautiful young woman came to the couple's house." },
+    { "jp": "「雪[ゆき]で道[みち]がわからなくなりました。今夜[こんや]、泊[と]めていただけませんか。」", "en": "\"I lost my way in the snow. Could you let me stay the night?\"" },
+    { "jp": "二人[ふたり]は喜[よろこ]んで娘[むすめ]を迎[むか]え、娘[むすめ]はそのまま二人[ふたり]と一緒[いっしょ]に暮[く]らすようになった。", "en": "The couple gladly welcomed her in, and she ended up staying on and living with them." },
+    { "jp": "ある日[ひ]、娘[むすめ]は「布[ぬの]を織[お]りたいので、部屋[へや]を貸[か]してください。でも、決[けっ]して中[なか]をのぞかないでください」と言[い]った。", "en": "One day the young woman said, \"I'd like to weave some cloth, so please lend me a room. But you must never look inside.\"" },
+    { "jp": "三日後[みっかご]、娘[むすめ]が部屋[へや]から出[で]てくると、その手[て]には見[み]たこともないほど美[うつく]しい布[ぬの]があった。", "en": "Three days later, when she came out of the room, she was holding cloth more beautiful than anything they had ever seen." },
+    { "jp": "おじいさんがその布[ぬの]を町[まち]で売[う]ると、とても高[たか]い値段[ねだん]で売[う]れた。", "en": "When the old man sold the cloth in town, it fetched a very high price." },
+    { "jp": "娘[むすめ]は何度[なんど]も布[ぬの]を織[お]ったが、そのたびに少[すこ]しずつやせていった。", "en": "She wove cloth again and again, but each time she grew a little thinner." },
+    { "jp": "心配[しんぱい]になったおばあさんは、約束[やくそく]を破[やぶ]って、とうとう部屋[へや]の中[なか]をのぞいてしまった。", "en": "The old woman grew worried, and finally she broke the promise and peeked into the room." },
+    { "jp": "そこにいたのは娘[むすめ]ではなく、自分[じぶん]の羽[はね]を抜[ぬ]いて布[ぬの]を織[お]る一羽[いちわ]の鶴[つる]だった。", "en": "What was there was not the young woman, but a crane, plucking out its own feathers to weave the cloth." },
+    { "jp": "「私[わたし]はあの時[とき]助[たす]けていただいた鶴[つる]です。姿[すがた]を見[み]られてしまったので、もうここにはいられません。」", "en": "\"I am the crane you saved that day. Now that you have seen my true form, I can no longer stay here.\"" },
+    { "jp": "鶴[つる]はそう言[い]うと空[そら]へ飛[と]んでいき、二度[にど]と戻[もど]ってこなかった。", "en": "With those words, the crane flew off into the sky and never came back." }
+  ],
+  "questions": [
+    { "q": "What did the young woman ask the couple when she started weaving?", "choices": ["To sell the cloth for a high price", "To buy thread in town", "Never to look inside the room", "To let her go home after three days"], "answer": 2 },
+    { "q": "Why did the young woman grow thinner?", "choices": ["She was using her own feathers to weave", "She was sick from the cold", "The family had no food", "She worked in town at night"], "answer": 0 },
+    { "q": "Why did the crane leave?", "choices": ["The old couple became rich", "Spring came and it had to fly north", "The old man sold all the cloth", "Its true form had been seen"], "answer": 3 }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "life-doctor",
+  "title": "The doctor & pharmacy",
+  "level": "N4",
+  "intro": "For everyday illness, go to a local clinic ({クリニック} or {医院[いいん]}) rather than a big hospital. Clinics are organized by specialty: {内科[ないか]} (internal medicine, for colds, fever and stomach trouble), {耳鼻科[じびか]} (ear, nose and throat), {皮膚科[ひふか]} (skin), {整形外科[せいけいげか]} (bones, joints and injuries), {歯科[しか]} (dentist). Large hospitals often expect a referral letter ({紹介状[しょうかいじょう]}) and may charge an extra fee without one.\n\nBring proof of health insurance. Japan has been moving health insurance onto the My Number card, so many clinics now have a card reader at reception; if you have a different insurance document, bring that. With public insurance, most working-age adults pay a share of the cost (commonly 30%) at the counter. Some small clinics still accept only cash.\n\nOn your first visit ({初診[しょしん]}) you will fill in a questionnaire ({問診票[もんしんひょう]}) about your symptoms, allergies and current medication. Ask for an English version if there is one, or prepare your answers in advance with a translation app.\n\nThe doctor gives you a prescription ({処方箋[しょほうせん]}), which you take to a pharmacy ({薬局[やっきょく]}), often right next to the clinic. The pharmacist explains how to take the medicine and may offer a medication notebook ({お薬[くすり]手帳[てちょう]}) that records your prescriptions. Over-the-counter medicine is sold at drugstores. Note that some medicines common abroad are restricted in Japan; check official guidance before bringing medicine with you.",
+  "phrases": [
+    { "jp": "初[はじ]めてなんですが、診[み]ていただけますか。", "en": "It's my first time here. Could I see a doctor?" },
+    { "jp": "マイナンバーカードを保険証[ほけんしょう]として使[つか]えますか。", "en": "Can I use my My Number card as my insurance card?" },
+    { "jp": "熱[ねつ]があります。", "en": "I have a fever." },
+    { "jp": "頭[あたま]が痛[いた]いです。", "en": "I have a headache." },
+    { "jp": "喉[のど]が痛[いた]くて、咳[せき]が出[で]ます。", "en": "My throat hurts and I have a cough." },
+    { "jp": "昨日[きのう]から下痢[げり]が続[つづ]いています。", "en": "I've had diarrhea since yesterday." },
+    { "jp": "吐[は]き気[け]がします。", "en": "I feel nauseous." },
+    { "jp": "三日前[みっかまえ]からです。", "en": "Since three days ago." },
+    { "jp": "ペニシリンにアレルギーがあります。", "en": "I'm allergic to penicillin." },
+    { "jp": "今[いま]、飲[の]んでいる薬[くすり]はありません。", "en": "I'm not taking any medication right now." },
+    { "jp": "英語[えいご]が話[はな]せる先生[せんせい]はいますか。", "en": "Is there a doctor who speaks English?" },
+    { "jp": "診断書[しんだんしょ]を書[か]いていただけますか。", "en": "Could you write me a medical certificate?", "note": "Some employers ask for one if you are off sick for several days. There is usually a fee." },
+    { "jp": "この薬[くすり]は一日[いちにち]何回[なんかい]飲[の]みますか。", "en": "How many times a day do I take this medicine?" },
+    { "jp": "食後[しょくご]に飲[の]んでください。", "en": "Take it after meals. (pharmacist)" },
+    { "jp": "飲[の]むと眠[ねむ]くなりますか。", "en": "Will it make me sleepy?" },
+    { "jp": "風邪薬[かぜぐすり]はどこにありますか。", "en": "Where is the cold medicine? (drugstore)" }
+  ],
+  "vocab": [
+    { "jp": "病院[びょういん]", "en": "hospital, clinic" },
+    { "jp": "内科[ないか]", "en": "internal medicine" },
+    { "jp": "歯医者[はいしゃ]", "en": "dentist" },
+    { "jp": "受付[うけつけ]", "en": "reception" },
+    { "jp": "保険証[ほけんしょう]", "en": "health insurance card" },
+    { "jp": "初診[しょしん]", "en": "first consultation" },
+    { "jp": "問診票[もんしんひょう]", "en": "medical questionnaire" },
+    { "jp": "症状[しょうじょう]", "en": "symptom" },
+    { "jp": "診察[しんさつ]", "en": "medical examination" },
+    { "jp": "処方箋[しょほうせん]", "en": "prescription" },
+    { "jp": "薬局[やっきょく]", "en": "pharmacy" },
+    { "jp": "お薬[くすり]手帳[てちょう]", "en": "medication record notebook" },
+    { "jp": "診断書[しんだんしょ]", "en": "medical certificate" },
+    { "jp": "紹介状[しょうかいじょう]", "en": "referral letter" },
+    { "jp": "咳[せき]", "en": "cough" }
+  ],
+  "dialogue": [
+    { "speaker": "Receptionist", "jp": "こんにちは。今日[きょう]はどうされましたか。", "en": "Hello. What brings you in today?" },
+    { "speaker": "You", "jp": "熱[ねつ]と咳[せき]があって、診[み]ていただきたいんですが。", "en": "I have a fever and a cough, and I'd like to see the doctor." },
+    { "speaker": "Receptionist", "jp": "こちらは初[はじ]めてですか。", "en": "Is this your first visit here?" },
+    { "speaker": "You", "jp": "はい、初[はじ]めてです。", "en": "Yes, it is." },
+    { "speaker": "Receptionist", "jp": "では、保険証[ほけんしょう]かマイナンバーカードをお願[ねが]いします。こちらの問診票[もんしんひょう]にご記入[きにゅう]ください。", "en": "Then your insurance card or My Number card, please. And please fill in this questionnaire." },
+    { "speaker": "Doctor", "jp": "いつから熱[ねつ]がありますか。", "en": "Since when have you had the fever?" },
+    { "speaker": "You", "jp": "一昨日[おととい]の夜[よる]からです。", "en": "Since the night before last." },
+    { "speaker": "Doctor", "jp": "喉[のど]が少[すこ]し赤[あか]いですね。風邪[かぜ]だと思[おも]います。お薬[くすり]を出[だ]しておきますね。", "en": "Your throat is a little red. I think it's a cold. I'll prescribe some medicine." },
+    { "speaker": "You", "jp": "仕事[しごと]は休[やす]んだほうがいいですか。", "en": "Should I take time off work?" },
+    { "speaker": "Doctor", "jp": "熱[ねつ]が下[さ]がるまでは、休[やす]んでください。", "en": "Please rest until the fever goes down." }
+  ],
+  "tips": [
+    "Check clinic opening hours online before going. Many close for a long lunch break, on Sundays, and on one weekday afternoon.",
+    "Use your medication notebook ({お薬[くすり]手帳[てちょう]}) or its app version every time; it helps pharmacists avoid dangerous combinations.",
+    "Before moving to Japan, check the official rules on bringing medicine. Some stimulant-based medicines that are legal elsewhere are prohibited, and larger quantities may need advance paperwork.",
+    "Write down your symptoms, when they started and any allergies in Japanese before you go. Showing a note is perfectly acceptable.",
+    "Keep receipts for medical costs. If your household's medical spending is high in a year, you may be able to claim a tax deduction."
+  ]
+}

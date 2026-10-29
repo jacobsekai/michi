@@ -1,0 +1,23 @@
+{
+  "id": "r-n4-02",
+  "level": "N4",
+  "title": "My Convenience Store Job",
+  "titleJp": "コンビニのアルバイト",
+  "sentences": [
+    { "jp": "私[わたし]は三[さん]か月[げつ]前[まえ]から、家[いえ]の近[ちか]くのコンビニでアルバイトをしています。", "en": "For the past three months, I've been working part-time at a convenience store near my home." },
+    { "jp": "週[しゅう]に三回[さんかい]、夕方[ゆうがた]五時[ごじ]から十時[じゅうじ]まで働[はたら]いています。", "en": "I work three times a week, from five in the evening until ten." },
+    { "jp": "仕事[しごと]は、レジや、商品[しょうひん]を棚[たな]に並[なら]べることです。", "en": "My work is things like running the register and putting products on the shelves." },
+    { "jp": "最初[さいしょ]は敬語[けいご]が難[むずか]しくて、よく間違[まちが]えてしまいました。", "en": "At first, keigo was difficult and I often made mistakes." },
+    { "jp": "「温[あたた]めますか」や「袋[ふくろ]はご利用[りよう]ですか」など、決[き]まった言葉[ことば]がたくさんあります。", "en": "There are lots of set phrases, like \"Shall I heat this up?\" and \"Would you like a bag?\"" },
+    { "jp": "店長[てんちょう]はとても親切[しんせつ]で、わからないことがあれば何[なん]でも教[おし]えてくれます。", "en": "The store manager is very kind and teaches me anything I don't understand." },
+    { "jp": "コンビニでは、食[た]べ物[もの]を買[か]うことができるし、荷物[にもつ]を送[おく]ったり、電気[でんき]代[だい]を払[はら]ったりすることもできます。", "en": "At a convenience store you can buy food, and you can also do things like send packages and pay your electricity bill." },
+    { "jp": "それで、覚[おぼ]えなければならないことがとても多[おお]いです。", "en": "So there are a lot of things I have to remember." },
+    { "jp": "大変[たいへん]ですが、いろいろなお客[きゃく]さんと話[はな]せるので、日本語[にほんご]が上手[じょうず]になりました。", "en": "It's hard work, but because I can talk with all kinds of customers, my Japanese has improved." },
+    { "jp": "来月[らいげつ]からは、朝[あさ]の時間[じかん]も働[はたら]くつもりです。", "en": "From next month, I plan to work morning shifts as well." }
+  ],
+  "questions": [
+    { "q": "How often does the writer work?", "choices": ["Every day", "Twice a week", "Three times a week", "Only on weekends"], "answer": 2 },
+    { "q": "What was difficult for the writer at first?", "choices": ["Keigo (polite language)", "Getting up early", "Remembering prices", "Lifting heavy boxes"], "answer": 0 },
+    { "q": "What is the writer planning to do from next month?", "choices": ["Quit the job", "Work at a different store", "Become the store manager", "Also work in the mornings"], "answer": 3 }
+  ]
+}

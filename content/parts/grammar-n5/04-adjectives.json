@@ -1,0 +1,379 @@
+{
+  "id": "n5-u04",
+  "title": "Describing things: adjectives",
+  "summary": "The two families of Japanese adjectives ({い} and {な}), how they change for negative and past, how to link them, and softening with {とても} and {あまり}.",
+  "points": [
+    {
+      "id": "n5-i-adj",
+      "title": "い-adjectives",
+      "meaning": "describing words that end in い",
+      "structure": "Noun + は + い-adj + です / い-adj + Noun",
+      "explanation": "Japanese has two kinds of adjectives. The first kind always ends in {い}: {大[おお]きい} (big), {小[ちい]さい} (small), {高[たか]い} (expensive, tall), {安[やす]い} (cheap), {新[あたら]しい} (new), {おいしい} (tasty), {寒[さむ]い} (cold).\n\nThey're easy to use in two positions:\n\n- At the end of a sentence, followed by {です}: {このラーメンはおいしいです。} 'This ramen is tasty.'\n- Directly in front of a noun, with nothing in between: {大[おお]きい犬[いぬ]} 'a big dog'.\n\nHere {です} adds politeness only. The adjective itself already carries the meaning 'is tasty'. That's why {い}-adjectives change their own endings for negative and past (coming next), rather than changing {です}.",
+      "examples": [
+        {
+          "jp": "この本[ほん]はおもしろいです。",
+          "en": "This book is interesting."
+        },
+        {
+          "jp": "今日[きょう]は寒[さむ]いです。",
+          "en": "It's cold today."
+        },
+        {
+          "jp": "大[おお]きい犬[いぬ]がいます。",
+          "en": "There's a big dog."
+        },
+        {
+          "jp": "これは新[あたら]しいパソコンです。",
+          "en": "This is a new computer."
+        },
+        {
+          "jp": "東京[とうきょう]は人[ひと]が多[おお]いです。",
+          "en": "Tokyo has a lot of people."
+        }
+      ],
+      "notes": "Never put {な} or {の} between an {い}-adjective and a noun: {おいしいなケーキ} is wrong.",
+      "quiz": [
+        {
+          "q": "＿＿かばんですね。",
+          "en": "That's a cute bag, isn't it?",
+          "choices": [
+            "かわいいな",
+            "かわいいの",
+            "かわいく",
+            "かわいい"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "このラーメンは＿＿です。",
+          "en": "This ramen is delicious.",
+          "choices": [
+            "おいしいな",
+            "おいしいだ",
+            "おいしく",
+            "おいしい"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-i-adj-negative",
+      "title": "〜くない(です)",
+      "meaning": "is not (い-adjective)",
+      "structure": "い-adj minus い + くないです / くありません",
+      "explanation": "To make an {い}-adjective negative, drop the final {い} and add {くない}. Then add {です} to be polite.\n\n- {高[たか]い} → {高[たか]くない} → {高[たか]くないです} (not expensive)\n- {寒[さむ]い} → {寒[さむ]くないです} (not cold)\n- {おいしい} → {おいしくないです} (not tasty)\n\nThere's a slightly more formal version, {〜くありません}, which means exactly the same: {高[たか]くありません}.\n\n**One important exception:** {いい} (good) comes from an older word {よい}, and all its changed forms use {よ}: {よくないです} (not good). Never say {いくない}.",
+      "examples": [
+        {
+          "jp": "この部屋[へや]は広[ひろ]くないです。",
+          "en": "This room isn't spacious."
+        },
+        {
+          "jp": "今日[きょう]は暑[あつ]くないです。",
+          "en": "It's not hot today."
+        },
+        {
+          "jp": "このカレーは辛[から]くありません。",
+          "en": "This curry isn't spicy."
+        },
+        {
+          "jp": "天気[てんき]がよくないです。",
+          "en": "The weather isn't good."
+        }
+      ],
+      "notes": "A common mistake is to use the noun pattern: {高[たか]いじゃありません} is wrong. Only nouns and {な}-adjectives use {じゃありません}.",
+      "quiz": [
+        {
+          "q": "今日[きょう]は寒[さむ]＿＿です。",
+          "en": "It isn't cold today.",
+          "choices": [
+            "くなかった",
+            "いない",
+            "じゃない",
+            "くない"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "この映画[えいが]は＿＿ないです。",
+          "en": "This movie isn't good.",
+          "choices": [
+            "いく",
+            "いい",
+            "よく",
+            "よい"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-i-adj-past",
+      "title": "〜かった / 〜くなかった",
+      "meaning": "was (い-adjective) / was not (い-adjective)",
+      "structure": "い-adj minus い + かったです / くなかったです",
+      "explanation": "For the past, drop the final {い} and add {かった}. For the past negative, take the negative {くない} and change its final {い} to {かった}, giving {くなかった}. Add {です} to be polite.\n\n- {暑[あつ]い} (hot) → {暑[あつ]かったです} (was hot) → {暑[あつ]くなかったです} (wasn't hot)\n- {楽[たの]しい} (fun) → {楽[たの]しかったです} (was fun)\n- {いい} (good) → {よかったです} (was good) → {よくなかったです} (wasn't good)\n\nNotice the past is carried by the adjective, not by {です}. A very common mistake is {おいしいでした}. Always change the adjective: {おいしかったです}.",
+      "examples": [
+        {
+          "jp": "昨日[きのう]は暑[あつ]かったです。",
+          "en": "It was hot yesterday."
+        },
+        {
+          "jp": "旅行[りょこう]は楽[たの]しかったです。",
+          "en": "The trip was fun."
+        },
+        {
+          "jp": "テストは難[むずか]しくなかったです。",
+          "en": "The test wasn't difficult."
+        },
+        {
+          "jp": "天気[てんき]がよかったです。",
+          "en": "The weather was good."
+        },
+        {
+          "jp": "そのレストランは高[たか]くなかったですか。",
+          "en": "Wasn't that restaurant expensive?"
+        }
+      ],
+      "notes": "{よかった} on its own is a very common expression of relief: 'Thank goodness!' or 'I'm glad!'",
+      "quiz": [
+        {
+          "q": "昨日[きのう]のパーティーは楽[たの]し＿＿です。",
+          "en": "Yesterday's party was fun.",
+          "choices": [
+            "かった",
+            "くない",
+            "いだった",
+            "いでした"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "先週[せんしゅう]は天気[てんき]が＿＿です。",
+          "en": "The weather was good last week.",
+          "choices": [
+            "よかった",
+            "よくない",
+            "いいでした",
+            "いかった"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-na-adj",
+      "title": "な-adjectives",
+      "meaning": "describing words that take な before a noun",
+      "structure": "Noun + は + な-adj + です / な-adj + な + Noun",
+      "explanation": "The second family of adjectives behaves a lot like nouns. Examples: {静[しず]か} (quiet), {きれい} (pretty, clean), {有名[ゆうめい]} (famous), {元気[げんき]} (healthy, energetic), {便利[べんり]} (convenient), {親切[しんせつ]} (kind), {好[す]き} (liked).\n\n- At the end of a sentence, just add {です}: {この町[まち]は静[しず]かです。}\n- In front of a noun, add {な}: {静[しず]かな町[まち]} 'a quiet town'. That {な} is where the name comes from.\n\nWatch out for {きれい} and {嫌[きら]い}. They end in the sound {い}, but they are **{な}-adjectives**, so it's {きれいな人[ひと]}, not {きれい人[ひと]}. Dictionaries and vocabulary lists usually mark which type a word is.",
+      "examples": [
+        {
+          "jp": "この町[まち]は静[しず]かです。",
+          "en": "This town is quiet."
+        },
+        {
+          "jp": "京都[きょうと]は有名[ゆうめい]な町[まち]です。",
+          "en": "Kyoto is a famous city."
+        },
+        {
+          "jp": "田中[たなか]さんはきれいな人[ひと]です。",
+          "en": "Ms. Tanaka is a beautiful person."
+        },
+        {
+          "jp": "電車[でんしゃ]は便利[べんり]です。",
+          "en": "Trains are convenient."
+        },
+        {
+          "jp": "お元気[げんき]ですか。",
+          "en": "How are you? (Are you well?)"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "ここは＿＿公園[こうえん]ですね。",
+          "en": "This is a quiet park, isn't it?",
+          "choices": [
+            "静[しず]かの",
+            "静[しず]かい",
+            "静[しず]か",
+            "静[しず]かな"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "京都[きょうと]は＿＿町[まち]です。",
+          "en": "Kyoto is a beautiful city.",
+          "choices": [
+            "きれいの",
+            "きれいな",
+            "きれいい",
+            "きれい"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n5-na-adj-forms",
+      "title": "な-adjectives: negative and past",
+      "meaning": "is not / was / was not (な-adjective)",
+      "structure": "な-adj + じゃありません / でした / じゃありませんでした",
+      "explanation": "Good news: {な}-adjectives change exactly like nouns, using the endings from Unit 1. The adjective itself stays the same; only the ending changes.\n\n- {静[しず]かです} = is quiet\n- {静[しず]かじゃありません} = is not quiet\n- {静[しず]かでした} = was quiet\n- {静[しず]かじゃありませんでした} = was not quiet\n\nThe softer spoken versions also work: {静[しず]かじゃないです}, {静[しず]かじゃなかったです}.\n\nSo the big rule of thumb is: **{い}-adjectives change themselves; nouns and {な}-adjectives change {です}.**",
+      "examples": [
+        {
+          "jp": "この部屋[へや]は静[しず]かじゃありません。",
+          "en": "This room isn't quiet."
+        },
+        {
+          "jp": "昨日[きのう]は暇[ひま]でした。",
+          "en": "I was free yesterday."
+        },
+        {
+          "jp": "テストは簡単[かんたん]でした。",
+          "en": "The test was easy."
+        },
+        {
+          "jp": "その店[みせ]は有名[ゆうめい]じゃなかったです。",
+          "en": "That shop wasn't famous."
+        },
+        {
+          "jp": "先週[せんしゅう]は元気[げんき]じゃありませんでした。",
+          "en": "I wasn't well last week."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "昨日[きのう]は＿＿でした。",
+          "en": "I was free yesterday.",
+          "choices": [
+            "暇[ひま]な",
+            "暇[ひま]かった",
+            "暇[ひま]",
+            "暇[ひま]だ"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "この町[まち]は便利[べんり]＿＿。",
+          "en": "This town isn't convenient.",
+          "choices": [
+            "じゃありません",
+            "かったです",
+            "くないです",
+            "なです"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-adj-te",
+      "title": "〜くて / 〜で (linking adjectives)",
+      "meaning": "... and ... (joining descriptions)",
+      "structure": "い-adj minus い + くて / な-adj + で",
+      "explanation": "Remember that {と} can't join adjectives. To say 'cheap **and** tasty', change the first adjective into a linking form:\n\n- {い}-adjectives: drop {い}, add {くて}. {安[やす]い} → {安[やす]くて}\n- {な}-adjectives (and nouns): add {で}. {静[しず]か} → {静[しず]かで}\n\n{このパンは安[やす]くておいしいです。} 'This bread is cheap and tasty.'\n{あの公園[こうえん]は静[しず]かできれいです。} 'That park is quiet and pretty.'\n\nThe tense is decided by the **last** adjective only, so {安[やす]くておいしかったです} means 'was cheap and tasty.' As usual, {いい} becomes {よくて}.",
+      "examples": [
+        {
+          "jp": "この部屋[へや]は広[ひろ]くて明[あか]るいです。",
+          "en": "This room is spacious and bright."
+        },
+        {
+          "jp": "このパンは安[やす]くておいしいです。",
+          "en": "This bread is cheap and tasty."
+        },
+        {
+          "jp": "田中[たなか]さんは親切[しんせつ]でおもしろい人[ひと]です。",
+          "en": "Mr. Tanaka is a kind and funny person."
+        },
+        {
+          "jp": "東京[とうきょう]はにぎやかで楽[たの]しい町[まち]です。",
+          "en": "Tokyo is a lively, fun city."
+        },
+        {
+          "jp": "あの店[みせ]は安[やす]くて、サービスもいいです。",
+          "en": "That shop is cheap, and the service is good too."
+        }
+      ],
+      "notes": "Join adjectives that point in the same direction (both good or both bad). For contrasting ideas like 'cheap but tasty', use {が} (but), which comes in Unit 12.",
+      "quiz": [
+        {
+          "q": "このかばんは軽[かる]＿＿便利[べんり]です。",
+          "en": "This bag is light and convenient.",
+          "choices": [
+            "いて",
+            "いで",
+            "くで",
+            "くて"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "あの公園[こうえん]は静[しず]か＿＿きれいです。",
+          "en": "That park is quiet and pretty.",
+          "choices": [
+            "な",
+            "と",
+            "で",
+            "くて"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-totemo-amari",
+      "title": "とても / あまり〜ない",
+      "meaning": "very / not very",
+      "structure": "とても + adjective / あまり + negative adjective",
+      "explanation": "These adverbs go right before the adjective to show degree.\n\n- {とても} = very. Used with positive sentences: {とてもおいしいです。}\n- {あまり} = not very. It **must** be used with a negative: {あまりおいしくないです。} 'It's not very tasty.'\n- {ぜんぜん} = not at all. Also with a negative: {ぜんぜん寒[さむ]くないです。}\n\n{あまり} is a polite favorite in Japan: saying something is 'not very good' sounds softer than flatly saying it's bad.\n\nYou'll also hear {ちょっと} (a little), as in {ちょっと高[たか]いです} 'It's a bit expensive.' That phrase is often a gentle way of saying 'too expensive'.",
+      "examples": [
+        {
+          "jp": "この映画[えいが]はとてもおもしろいです。",
+          "en": "This movie is very interesting."
+        },
+        {
+          "jp": "今日[きょう]はあまり寒[さむ]くないです。",
+          "en": "It's not very cold today."
+        },
+        {
+          "jp": "このお茶[ちゃ]はあまりおいしくないです。",
+          "en": "This tea isn't very good."
+        },
+        {
+          "jp": "私[わたし]の部屋[へや]はあまりきれいじゃありません。",
+          "en": "My room isn't very clean."
+        },
+        {
+          "jp": "漢字[かんじ]はぜんぜん簡単[かんたん]じゃありません。",
+          "en": "Kanji isn't easy at all."
+        }
+      ],
+      "notes": "In casual speech, {とても} is often replaced by {すごく} or {すごい}, and {あまり} sometimes becomes {あんまり}.",
+      "quiz": [
+        {
+          "q": "この店[みせ]は＿＿高[たか]くないです。",
+          "en": "This shop isn't very expensive.",
+          "choices": [
+            "よく",
+            "あまり",
+            "たくさん",
+            "とても"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "富士山[ふじさん]は＿＿きれいです。",
+          "en": "Mt. Fuji is very beautiful.",
+          "choices": [
+            "あまり",
+            "とても",
+            "たくさん",
+            "ぜんぜん"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

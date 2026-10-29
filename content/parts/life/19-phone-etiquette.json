@@ -1,0 +1,58 @@
+{
+  "id": "life-phone",
+  "title": "Business phone etiquette",
+  "level": "N2",
+  "intro": "Many offices still expect staff, especially newer employees, to answer the phone. Business phone Japanese is highly formulaic, so once you learn the script, it becomes much less scary.\n\n**Answering.** Pick up quickly. If it rang several times, start with {お待[ま]たせいたしました}. Then give the company name: {お電話[でんわ]ありがとうございます。株式会社[かぶしきがいしゃ]ミチでございます}. Do not say {もしもし} when answering a business call.\n\n**Taking the caller's details.** Confirm the caller's name and company and greet them with {いつもお世話[せわ]になっております}. Repeat important details back ({復唱[ふくしょう]}), especially names, numbers and times.\n\n**When the person is unavailable.** Explain briefly, using humble forms and no {さん} for your colleague: {あいにく田中[たなか]は席[せき]を外[はず]しております} (away from desk), {外出[がいしゅつ]しております} (out of the office), or {本日[ほんじつ]は休[やす]みをいただいております} (off today). Then offer options: a callback ({折[お]り返[かえ]し}) or taking a message ({伝言[でんごん]}).\n\n**Leaving a note.** Write a message memo for your colleague: who called, from which company, the time, the message and the callback number, plus your name.\n\n**Making a call.** Introduce yourself first, then ask for the person: {株式会社[かぶしきがいしゃ]ミチのスミスと申[もう]しますが、営業部[えいぎょうぶ]の鈴木[すずき]様[さま]はいらっしゃいますか}.\n\nAt the end, say {失礼[しつれい]いたします}, and wait for the other side to hang up first if they are a client or senior, then put the receiver down gently.",
+  "phrases": [
+    { "jp": "お電話[でんわ]ありがとうございます。株式会社[かぶしきがいしゃ]ミチでございます。", "en": "Thank you for calling. This is Michi Co., Ltd." },
+    { "jp": "お待[ま]たせいたしました。", "en": "Sorry to keep you waiting." },
+    { "jp": "恐[おそ]れ入[い]りますが、お名前[なまえ]を伺[うかが]ってもよろしいでしょうか。", "en": "Excuse me, may I have your name?" },
+    { "jp": "ABC商事[しょうじ]の山本[やまもと]様[さま]でいらっしゃいますね。いつもお世話[せわ]になっております。", "en": "Mr. Yamamoto of ABC Trading, is that right? Thank you for your continued business." },
+    { "jp": "少々[しょうしょう]お待[ま]ちください。", "en": "One moment, please." },
+    { "jp": "あいにく田中[たなか]は席[せき]を外[はず]しております。", "en": "I'm afraid Tanaka is away from his desk." },
+    { "jp": "田中[たなか]は本日[ほんじつ]、休[やす]みをいただいております。", "en": "Tanaka is off today." },
+    { "jp": "戻[もど]りましたら、折[お]り返[かえ]しお電話[でんわ]するよう申[もう]し伝[つた]えます。", "en": "When he returns, I'll tell him to call you back." },
+    { "jp": "よろしければ、ご伝言[でんごん]を承[うけたまわ]りますが。", "en": "If you like, I can take a message." },
+    { "jp": "念[ねん]のため、お電話[でんわ]番号[ばんごう]をお願[ねが]いできますか。", "en": "Just in case, could I have your phone number?" },
+    { "jp": "復唱[ふくしょう]いたします。", "en": "Let me read that back to you." },
+    { "jp": "私[わたくし]、営業部[えいぎょうぶ]のスミスが承[うけたまわ]りました。", "en": "This is Smith from Sales; I've taken your message." },
+    { "jp": "申[もう]し訳[わけ]ございません、お電話[でんわ]が少々[しょうしょう]遠[とお]いようなのですが。", "en": "I'm sorry, I can't hear you very well." },
+    { "jp": "お忙[いそが]しいところ恐[おそ]れ入[い]ります。株式会社[かぶしきがいしゃ]ミチのスミスと申[もう]します。", "en": "Sorry to trouble you when you're busy. My name is Smith from Michi Co., Ltd." },
+    { "jp": "営業部[えいぎょうぶ]の鈴木[すずき]様[さま]はいらっしゃいますか。", "en": "Is Mr. Suzuki of the sales department available?" },
+    { "jp": "それでは、失礼[しつれい]いたします。", "en": "Well then, goodbye." }
+  ],
+  "vocab": [
+    { "jp": "電話[でんわ]対応[たいおう]", "en": "handling phone calls" },
+    { "jp": "折[お]り返[かえ]し", "en": "calling back" },
+    { "jp": "伝言[でんごん]", "en": "message" },
+    { "jp": "内線[ないせん]", "en": "internal extension" },
+    { "jp": "外線[がいせん]", "en": "outside line" },
+    { "jp": "取[と]り次[つ]ぐ", "en": "to put through, pass on" },
+    { "jp": "席[せき]を外[はず]す", "en": "to be away from one's desk" },
+    { "jp": "外出[がいしゅつ]", "en": "going out (of the office)" },
+    { "jp": "直帰[ちょっき]", "en": "going straight home (from an outside appointment)" },
+    { "jp": "承[うけたまわ]る", "en": "to receive, take (a message) (humble)" },
+    { "jp": "申[もう]し伝[つた]える", "en": "to pass on (a message) (humble)" },
+    { "jp": "復唱[ふくしょう]", "en": "repeating back" },
+    { "jp": "担当者[たんとうしゃ]", "en": "person in charge" },
+    { "jp": "不在[ふざい]", "en": "absence, not in" }
+  ],
+  "dialogue": [
+    { "speaker": "You", "jp": "お電話[でんわ]ありがとうございます。株式会社[かぶしきがいしゃ]ミチ、営業部[えいぎょうぶ]でございます。", "en": "Thank you for calling. Michi Co., sales department." },
+    { "speaker": "Caller", "jp": "お世話[せわ]になっております。ABC商事[しょうじ]の山本[やまもと]と申[もう]します。田中[たなか]課長[かちょう]はいらっしゃいますか。", "en": "Hello, this is Yamamoto from ABC Trading. Is Section Manager Tanaka there?" },
+    { "speaker": "You", "jp": "ABC商事[しょうじ]の山本[やまもと]様[さま]ですね。いつもお世話[せわ]になっております。申[もう]し訳[わけ]ございません、あいにく田中[たなか]は外出[がいしゅつ]しておりまして、15時[じゅうごじ]に戻[もど]る予定[よてい]です。", "en": "Mr. Yamamoto of ABC Trading. Thank you for your continued business. I'm very sorry, Tanaka is out of the office and is expected back at 3 p.m." },
+    { "speaker": "Caller", "jp": "そうですか。では、お戻[もど]りになりましたら、お電話[でんわ]をいただけますか。", "en": "I see. Then could he call me when he gets back?" },
+    { "speaker": "You", "jp": "かしこまりました。念[ねん]のため、お電話[でんわ]番号[ばんごう]を伺[うかが]ってもよろしいでしょうか。", "en": "Certainly. Just in case, may I have your phone number?" },
+    { "speaker": "Caller", "jp": "03-1234-5678です。", "en": "It's 03-1234-5678." },
+    { "speaker": "You", "jp": "復唱[ふくしょう]いたします。03-1234-5678、ABC商事[しょうじ]の山本[やまもと]様[さま]ですね。田中[たなか]が戻[もど]りましたら、折[お]り返[かえ]しお電話[でんわ]するよう申[もう]し伝[つた]えます。", "en": "Let me repeat that: 03-1234-5678, Mr. Yamamoto of ABC Trading. When Tanaka returns, I'll ask him to call you back." },
+    { "speaker": "Caller", "jp": "よろしくお願[ねが]いします。", "en": "Thank you." },
+    { "speaker": "You", "jp": "私[わたくし]、スミスが承[うけたまわ]りました。失礼[しつれい]いたします。", "en": "This is Smith; I've taken the message. Goodbye." }
+  ],
+  "tips": [
+    "Notice that the caller says {田中[たなか]課長[かちょう]}, but you say just {田中[たなか]}. Outsiders use your colleague's title; you don't.",
+    "Keep a notepad and pen by the phone. Write the caller's name the moment you hear it.",
+    "Read numbers back in small groups. It is normal and expected, and it prevents mistakes.",
+    "If you didn't catch something, ask: {恐[おそ]れ入[い]りますが、もう一度[いちど]お願[ねが]いできますか}. Guessing a name wrong is worse than asking.",
+    "Many younger Japanese workers also find business calls stressful. With a script and practice, you'll be fine."
+  ]
+}

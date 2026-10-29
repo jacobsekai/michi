@@ -1,0 +1,21 @@
+{
+  "id": "r-n5-01",
+  "level": "N5",
+  "title": "Nice to Meet You",
+  "titleJp": "はじめまして",
+  "sentences": [
+    { "jp": "はじめまして。私[わたし]はマイクです。", "en": "Nice to meet you. I'm Mike." },
+    { "jp": "アメリカから来[き]ました。", "en": "I came from America." },
+    { "jp": "今[いま]、東京[とうきょう]の日本語[にほんご]学校[がっこう]で勉強[べんきょう]しています。", "en": "I'm currently studying at a Japanese language school in Tokyo." },
+    { "jp": "年[とし]は二十四歳[にじゅうよんさい]です。", "en": "I'm twenty-four years old." },
+    { "jp": "毎朝[まいあさ]、電車[でんしゃ]で学校[がっこう]へ行[い]きます。", "en": "Every morning I go to school by train." },
+    { "jp": "日本[にほん]の食[た]べ物[もの]が大好[だいす]きです。一番[いちばん]好[す]きな食[た]べ物[もの]はラーメンです。", "en": "I love Japanese food. My favorite food is ramen." },
+    { "jp": "いつか日本[にほん]の会社[かいしゃ]で働[はたら]きたいです。", "en": "Someday I want to work at a Japanese company." },
+    { "jp": "どうぞよろしくお願[ねが]いします。", "en": "I look forward to getting to know you." }
+  ],
+  "questions": [
+    { "q": "Where is Mike studying now?", "choices": ["At a university in America", "At a Japanese language school in Tokyo", "At a company in Osaka", "At home with a textbook"], "answer": 1 },
+    { "q": "How does Mike get to school?", "choices": ["By bus", "On foot", "By bicycle", "By train"], "answer": 3 },
+    { "q": "What does Mike want to do someday?", "choices": ["Work at a Japanese company", "Open a ramen shop", "Teach English in Tokyo", "Go back to America"], "answer": 0 }
+  ]
+}

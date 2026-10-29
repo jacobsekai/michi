@@ -1,0 +1,132 @@
+{
+  "id": "n3-u01",
+  "title": "Conclusions, denials & certainty",
+  "summary": "The {わけ} family for drawing conclusions and denying things, the strong denial {はずがない}, and two ways to say 'must be': {に違[ちが]いない} and {に決[き]まっている}.",
+  "points": [
+    {
+      "id": "n3-wake-da",
+      "title": "〜わけだ",
+      "meaning": "no wonder ~ ; that's why ~ ; which means ~ (a conclusion that follows naturally)",
+      "structure": "Verb / い-adj (plain) + わけだ ; な-adj + な + わけだ ; Noun + な / という + わけだ",
+      "explanation": "{わけ} originally means 'reason' or 'logic'. {〜わけだ} says that something follows logically from facts you already have. It has two main uses.\n\n- **No wonder / so that's why.** You learn a fact, and suddenly something you noticed makes sense. Often paired with {だから} or {それで}: {窓[まど]が開[あ]いていた。寒[さむ]いわけだ。} 'The window was open. No wonder it's cold.'\n- **Which means / in other words.** You restate information in a different way, often with {つまり}. If you work 8 hours a day for 5 days, then {40時間[よんじゅうじかん]働[はたら]くわけだ}: 'that means you work 40 hours.'\n\nIn polite speech it becomes {わけです}, and {〜わけですね} is a very common way to show the listener you have understood their explanation.",
+      "examples": [
+        { "jp": "窓[まど]が開[あ]いていた。寒[さむ]いわけだ。", "en": "The window was open. No wonder it's cold." },
+        { "jp": "田中[たなか]さんは十年[じゅうねん]アメリカに住[す]んでいたそうです。英語[えいご]が上手[じょうず]なわけですね。", "en": "I hear Mr. Tanaka lived in America for ten years. No wonder his English is so good." },
+        { "jp": "「来月[らいげつ]から大阪[おおさか]の支社[ししゃ]で働[はたら]くことになりました。」「じゃあ、引[ひ]っ越[こ]しするわけですね。」", "en": "'I'm going to work at the Osaka branch from next month.' 'So that means you'll be moving.'" },
+        { "jp": "一日[いちにち]八時間[はちじかん]、週[しゅう]に五日[いつか]働[はたら]くから、一週間[いっしゅうかん]に四十時間[よんじゅうじかん]働[はたら]くわけだ。", "en": "I work eight hours a day, five days a week, so that means I work forty hours a week." }
+      ],
+      "notes": "**{わけだ} vs {はずだ}:** {はずだ} is an expectation **before** you check ('it should be cold — it's January'). {わけだ} is understanding **after** you learn the reason ('the window was open — so that's why it's cold').",
+      "quiz": [
+        { "q": "彼[かれ]は毎晩[まいばん]三時[さんじ]まで起[お]きているそうだ。いつも眠[ねむ]そうな＿＿。", "en": "Apparently he stays up until three every night. No wonder he always looks sleepy.", "choices": ["わけだ", "わけがない", "わけではない", "わけにはいかない"], "answer": 0 },
+        { "q": "「このアプリは一[いっ]か月[げつ]五百円[ごひゃくえん]です。」「じゃあ、一年[いちねん]で六千円[ろくせんえん]払[はら]う＿＿ね。」", "en": "'This app is 500 yen a month.' 'So that means I pay 6,000 yen a year.'", "choices": ["わけです", "わけがありません", "わけではありません", "わけにはいきません"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n3-wake-dewanai",
+      "title": "〜わけではない",
+      "meaning": "it's not that ~ ; it doesn't (necessarily) mean ~ (partial denial)",
+      "structure": "Verb / い-adj (plain) + わけではない ; な-adj + な + わけではない ; Noun + という + わけではない",
+      "explanation": "{〜わけではない} denies a conclusion that the listener might naturally draw. It doesn't say 'no' to everything — it says 'that's not exactly the situation'.\n\nIf you leave your meat on your plate, someone may assume you dislike meat. You can answer {肉[にく]が嫌[きら]いなわけではありません}: 'It's not that I dislike meat (I'm just full).'\n\nIt is very often combined with words like {全部[ぜんぶ]} (all), {いつも} (always), {みんな} (everyone), {別[べつ]に} (not particularly) and {必[かなら]ずしも} (not necessarily) to make **partial** denials: not everyone, not always, not necessarily.\n\nIn casual speech it becomes {わけじゃない}. Because it softens a statement, it is useful in Japanese conversation, where flat denials can sound harsh.",
+      "examples": [
+        { "jp": "肉[にく]が嫌[きら]いなわけではありません。今日[きょう]はあまりお腹[なか]が空[す]いていないだけです。", "en": "It's not that I dislike meat. I'm just not very hungry today." },
+        { "jp": "日本人[にほんじん]がみんな寿司[すし]が好[す]きなわけではない。", "en": "It's not as if all Japanese people like sushi." },
+        { "jp": "残業[ざんぎょう]がしたいわけじゃないけど、今週[こんしゅう]は仕方[しかた]がない。", "en": "It's not that I want to do overtime, but this week it can't be helped." },
+        { "jp": "高[たか]い店[みせ]だからといって、必[かなら]ずしもおいしいわけではない。", "en": "Just because a restaurant is expensive doesn't necessarily mean it's good." }
+      ],
+      "notes": "Don't confuse it with {わけがない} (next point). {わけではない} = 'it's not (exactly) that…' — a soft, partial denial. {わけがない} = 'there's no way…' — a strong, total denial.",
+      "quiz": [
+        { "q": "毎日[まいにち]料理[りょうり]をしますが、料理[りょうり]が得意[とくい]な＿＿。外食[がいしょく]より安[やす]いからです。", "en": "I cook every day, but it's not that I'm good at cooking. It's because it's cheaper than eating out.", "choices": ["わけではありません", "わけです", "に違[ちが]いありません", "はずです"], "answer": 0 },
+        { "q": "「日本語[にほんご]、ペラペラですね。」「いえいえ、全部[ぜんぶ]わかる＿＿よ。」", "en": "'Your Japanese is fluent!' 'Oh no, it's not like I understand everything.'", "choices": ["わけじゃないです", "わけです", "に決[き]まってます", "わけにはいきません"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n3-wake-ga-nai",
+      "title": "〜わけがない",
+      "meaning": "there's no way ~ ; it's impossible that ~",
+      "structure": "Verb / い-adj (plain) + わけがない ; な-adj + な + わけがない ; Noun + な + わけがない",
+      "explanation": "{〜わけがない} is a strong, emotional denial: 'there's no way that could be true / could happen'. Literally it means 'there is no reason (logic) for it', so the speaker is saying their own reasoning rules it out completely.\n\n{あんなに練習[れんしゅう]したんだから、負[ま]けるわけがない。} 'We practiced so hard — there's no way we'll lose.'\n\nIn casual speech the {が} is often dropped: {わけない}. The polite form is {わけがありません}.\n\nA double negative, {〜ないわけがない}, means 'of course it is / there's no way it isn't': {怒[おこ]らないわけがない} 'Of course they'll be angry.'",
+      "examples": [
+        { "jp": "あんなに練習[れんしゅう]したんだから、負[ま]けるわけがない。", "en": "We practiced that hard, so there's no way we'll lose." },
+        { "jp": "一度[いちど]も会[あ]ったことがない人[ひと]の名前[なまえ]を、知[し]っているわけがないでしょう。", "en": "There's no way I'd know the name of someone I've never met." },
+        { "jp": "この量[りょう]の仕事[しごと]が一日[いちにち]で終[お]わるわけがありません。", "en": "There's no way this amount of work will be finished in one day." },
+        { "jp": "「彼女[かのじょ]、怒[おこ]ってた？」「怒[おこ]らないわけないよ。約束[やくそく]を忘[わす]れたんだから。」", "en": "'Was she angry?' 'Of course she was. You forgot your promise.'" }
+      ],
+      "notes": "Compare the {わけ} trio:\n- {わけだ} — so that's why / which means\n- {わけではない} — it's not (exactly) that…\n- {わけがない} — there's no way…",
+      "quiz": [
+        { "q": "彼[かれ]はベジタリアンだから、ステーキを注文[ちゅうもん]する＿＿。", "en": "He's a vegetarian, so there's no way he'd order steak.", "choices": ["わけがない", "わけだ", "ことにする", "に違[ちが]いない"], "answer": 0 },
+        { "q": "こんな簡単[かんたん]な問題[もんだい]、彼[かれ]にわからない＿＿よ。", "en": "There's no way he wouldn't understand a problem this easy.", "choices": ["わけがない", "わけだ", "ことにする", "ようにする"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n3-hazu-ga-nai",
+      "title": "〜はずがない",
+      "meaning": "it can't be that ~ ; ~ can't possibly be the case (contradicts known facts)",
+      "structure": "Verb / い-adj (plain) + はずがない ; な-adj + な + はずがない ; Noun + の + はずがない",
+      "explanation": "You learned {はずだ} ('it should be / I expect') in N4. {〜はずがない} is its negative: 'it can't be', because it contradicts facts or information you have.\n\n{田中[たなか]さんは今日[きょう]休[やす]みだから、会社[かいしゃ]にいるはずがない。} 'Tanaka is off today, so he can't be at the office.'\n\nThe set phrase {そんなはずはない} ('That can't be!') is extremely common when something surprising happens.\n\n**{はずがない} vs {わけがない}:** in many sentences both work and the meaning is almost the same. The difference is in feeling: {はずがない} sounds more objective — it is based on a schedule, a rule, or a fact. {わけがない} sounds more subjective and emotional — it is based on the speaker's own reasoning or strong feeling.",
+      "examples": [
+        { "jp": "田中[たなか]さんは今日[きょう]休[やす]みだから、会社[かいしゃ]にいるはずがない。", "en": "Mr. Tanaka is off today, so he can't be at the office." },
+        { "jp": "この店[みせ]は先月[せんげつ]閉[し]まったから、今[いま]開[あ]いているはずがありません。", "en": "This shop closed last month, so it can't be open now." },
+        { "jp": "そんなはずはない。確[たし]かにここに置[お]いたんだ。", "en": "That can't be. I definitely put it here." },
+        { "jp": "新[あたら]しいパソコンなのに、こんなに遅[おそ]いはずがない。何[なに]か問題[もんだい]があるのかな。", "en": "It's a brand-new computer, so it can't be this slow. I wonder if something's wrong." }
+      ],
+      "notes": "Only {はず} can be used for plans that went wrong: {来[く]るはずだった} 'he was supposed to come (but didn't)'. {わけ} has no such use.",
+      "quiz": [
+        { "q": "会議[かいぎ]は来週[らいしゅう]に変[か]わったから、今日[きょう]部長[ぶちょう]が来[く]る＿＿。", "en": "The meeting was moved to next week, so the manager can't be coming today.", "choices": ["はずがない", "はずだ", "わけだ", "に違[ちが]いない"], "answer": 0 },
+        { "q": "「山田[やまだ]さん、結婚[けっこん]したらしいよ。」「えっ、＿＿よ。先週[せんしゅう]、彼女[かのじょ]はいないって言[い]ってたから。」", "en": "'Apparently Yamada got married.' 'What? That can't be. Last week he said he didn't have a girlfriend.'", "choices": ["そんなはずはない", "そういうわけだ", "そのはずだ", "そうに違[ちが]いない"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n3-wake-ni-wa-ikanai",
+      "title": "〜わけにはいかない",
+      "meaning": "can't (very well) ~ (because it wouldn't be right) ; (ない〜) have to ~",
+      "structure": "Verb (dictionary) + わけにはいかない ; Verb (ない-form) + わけにはいかない",
+      "explanation": "{〜わけにはいかない} means you **could** physically do something, but you can't because of duty, social expectations, common sense or the situation. It's 'I can't very well…'.\n\n{明日[あした]は大事[だいじ]な会議[かいぎ]があるので、休[やす]むわけにはいかない。} 'There's an important meeting tomorrow, so I can't take the day off.' You are able to stay home — but it wouldn't be acceptable.\n\nWith a negative verb, {〜ないわけにはいかない} means 'I can't not do it' — in other words, 'I have to', again because of obligation or the situation: {謝[あやま]らないわけにはいかない} 'I have to apologize.'\n\nPolite: {わけにはいきません}.",
+      "examples": [
+        { "jp": "明日[あした]は大事[だいじ]な会議[かいぎ]があるので、休[やす]むわけにはいかない。", "en": "There's an important meeting tomorrow, so I can't take the day off." },
+        { "jp": "車[くるま]で来[き]たから、お酒[さけ]を飲[の]むわけにはいきません。", "en": "I came by car, so I can't drink." },
+        { "jp": "先輩[せんぱい]に頼[たの]まれたら、断[ことわ]るわけにはいかないよ。", "en": "If a senior colleague asks you, you can't very well say no." },
+        { "jp": "自分[じぶん]のミスだから、謝[あやま]らないわけにはいかない。", "en": "It was my mistake, so I have to apologize." }
+      ],
+      "notes": "**vs {できない}:** {できない} is about ability or possibility (you don't have the skill, time, or means). {わけにはいかない} is about what is socially or morally acceptable.",
+      "quiz": [
+        { "q": "お客様[きゃくさま]を待[ま]たせているので、ここで休[やす]む＿＿。", "en": "Customers are waiting, so I can't take a break here.", "choices": ["わけにはいかない", "ことにする", "わけだ", "ようにする"], "answer": 0 },
+        { "q": "親友[しんゆう]の結婚式[けっこんしき]だから、行[い]かない＿＿。", "en": "It's my best friend's wedding, so I have to go.", "choices": ["わけにはいかない", "わけではない", "わけだ", "はずだ"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n3-ni-chigainai",
+      "title": "〜に違[ちが]いない",
+      "meaning": "must be ~ ; there's no doubt that ~ (confident deduction)",
+      "structure": "Verb / い-adj (plain) + に違[ちが]いない ; な-adj / Noun + に違[ちが]いない (no だ)",
+      "explanation": "{〜に違[ちが]いない} literally means 'there's no difference from ~', i.e. 'it must be ~'. The speaker has some evidence and is very sure of their conclusion.\n\n{電気[でんき]がついている。誰[だれ]かいるに違[ちが]いない。} 'The light is on. Someone must be home.'\n\nNotice that {だ} disappears after nouns and {な}-adjectives: {学生[がくせい]に違[ちが]いない}, {静[しず]かに違[ちが]いない}.\n\nIt sounds a bit formal and written. In everyday conversation people more often say {きっと〜だと思[おも]う} or {〜はずだ}, but you will meet {に違[ちが]いない} constantly in novels, news and essays. Polite: {に違[ちが]いありません}.",
+      "examples": [
+        { "jp": "電気[でんき]がついている。誰[だれ]かいるに違[ちが]いない。", "en": "The light is on. Someone must be there." },
+        { "jp": "あの人[ひと]はいつも高[たか]い車[くるま]に乗[の]っている。お金持[かねも]ちに違[ちが]いない。", "en": "That person always drives an expensive car. He must be rich." },
+        { "jp": "このレストランはいつも行列[ぎょうれつ]ができているから、おいしいに違[ちが]いありません。", "en": "There's always a line at this restaurant, so it must be good." },
+        { "jp": "山田[やまだ]さんがこんなに静[しず]かなのは珍[めずら]しい。何[なに]か心配[しんぱい]なことがあるに違[ちが]いない。", "en": "It's unusual for Yamada to be this quiet. Something must be worrying her." }
+      ],
+      "quiz": [
+        { "q": "部屋[へや]の電気[でんき]が消[き]えている。山下[やました]さんはもう帰[かえ]った＿＿。", "en": "The light in the room is off. Mr. Yamashita must have already gone home.", "choices": ["に違[ちが]いない", "わけにはいかない", "ことにした", "ようにした"], "answer": 0 },
+        { "q": "「あの店[みせ]、いつも人[ひと]がたくさん並[なら]んでるね。」「きっとおいしい＿＿。」", "en": "'There are always lots of people lined up at that shop.' 'It must be really good.'", "choices": ["に違[ちが]いない", "わけではない", "はずがない", "わけにはいかない"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n3-ni-kimatteiru",
+      "title": "〜に決[き]まっている",
+      "meaning": "is bound to ~ ; of course ~ ; obviously ~",
+      "structure": "Verb / い-adj (plain) + に決[き]まっている ; な-adj / Noun + に決[き]まっている (no だ)",
+      "explanation": "{〜に決[き]まっている} literally means 'it's decided that ~'. The speaker is so sure that they treat it as already settled: 'it's bound to be', 'obviously'.\n\n{そんなに食[た]べたら、お腹[なか]が痛[いた]くなるに決[き]まってるよ。} 'If you eat that much, of course you'll get a stomachache.'\n\nIt is conversational and quite subjective — the speaker often doesn't need any evidence; it's just 'obvious' to them. It can sound pushy, so be careful with superiors. In speech, {〜に決[き]まってる} (dropping {い}) is the normal form.",
+      "examples": [
+        { "jp": "そんなに食[た]べたら、お腹[なか]が痛[いた]くなるに決[き]まってるよ。", "en": "If you eat that much, you're bound to get a stomachache." },
+        { "jp": "初[はじ]めてのスピーチなんだから、緊張[きんちょう]するに決[き]まっています。", "en": "It's your first speech, so of course you'll be nervous." },
+        { "jp": "「どっちのケーキがいい？」「チョコに決[き]まってるでしょ！」", "en": "'Which cake do you want?' 'The chocolate one, obviously!'" },
+        { "jp": "毎日[まいにち]夜[よる]遅[おそ]くまで働[はたら]いていたら、体[からだ]を壊[こわ]すに決[き]まっている。", "en": "If you work late into the night every day, you're bound to ruin your health." }
+      ],
+      "notes": "**{に違[ちが]いない} vs {に決[き]まっている}:**\n- {に違[ちが]いない}: a deduction from evidence; calmer, more formal, common in writing.\n- {に決[き]まっている}: 'obviously!'; emotional, conversational, can be said with no evidence at all.\n\nDon't confuse it with {〜ことに決[き]まった}, which means 'it was decided that ~'.",
+      "quiz": [
+        { "q": "雨[あめ]の日[ひ]に傘[かさ]を持[も]たないで出[で]かけたら、濡[ぬ]れる＿＿よ。", "en": "If you go out without an umbrella on a rainy day, of course you'll get wet.", "choices": ["に決[き]まってる", "わけがない", "わけにはいかない", "はずがない"], "answer": 0 },
+        { "q": "「新[あたら]しい課長[かちょう]、優[やさ]しい人[ひと]かな。」「あんなにいつも笑顔[えがお]なんだから、優[やさ]しい＿＿よ。」", "en": "'I wonder if the new section chief is a kind person.' 'He's always smiling like that, so obviously he's kind.'", "choices": ["に決[き]まってる", "わけじゃない", "はずがない", "わけにはいかない"], "answer": 0 }
+      ]
+    }
+  ]
+}

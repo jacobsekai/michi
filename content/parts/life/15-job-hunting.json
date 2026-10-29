@@ -1,0 +1,58 @@
+{
+  "id": "life-job-hunting",
+  "title": "Job hunting in Japan",
+  "level": "N3",
+  "intro": "To work in Japan you need a status of residence that allows the work you will do. At a high level, common routes are:\n\n- **Engineer / Specialist in Humanities / International Services** ({技術[ぎじゅつ]・人文[じんぶん]知識[ちしき]・国際[こくさい]業務[ぎょうむ]}): the usual status for office, IT, engineering, translation and similar professional jobs. It generally expects a relevant degree or work experience.\n- **Highly Skilled Professional** ({高度[こうど]専門職[せんもんしょく]}): a points-based status with extra benefits.\n- **Specified Skilled Worker** ({特定[とくてい]技能[ぎのう]}): for certain industries with labor shortages, usually requiring skills and Japanese tests.\n- Others include intra-company transfer, instructor and working holiday. Spouses of Japanese nationals and permanent residents can generally work freely, and students can work limited hours with permission.\n\nYour employer usually provides documents for your visa application. Rules and requirements change, so always check the Immigration Services Agency.\n\nJapanese applications usually need two documents. The {履歴書[りれきしょ]} is a resume on a standard form: personal details, photo, education and work history in date order, qualifications, and a short section on motivation. The {職務[しょくむ]経歴書[けいれきしょ]} is a freer document describing your past roles, responsibilities and achievements in detail.\n\nWhere to look: bilingual job boards, professional networking sites, recruitment agencies ({転職[てんしょく]エージェント}), which are usually free for job seekers, and Hello Work ({ハローワーク}), the public employment service. Many Japanese-speaking roles ask for JLPT N2 or N1, so list your level clearly.",
+  "phrases": [
+    { "jp": "日本[にほん]で仕事[しごと]を探[さが]しています。", "en": "I'm looking for a job in Japan." },
+    { "jp": "ITエンジニアとして5年[ごねん]の経験[けいけん]があります。", "en": "I have five years of experience as an IT engineer." },
+    { "jp": "日本語[にほんご]能力[のうりょく]試験[しけん]のN2を持[も]っています。", "en": "I have JLPT N2." },
+    { "jp": "正社員[せいしゃいん]の求人[きゅうじん]を探[さが]しています。", "en": "I'm looking for full-time permanent positions." },
+    { "jp": "ビザのサポートはありますか。", "en": "Do you provide visa support?" },
+    { "jp": "就職[しゅうしょく]が決[き]まったら、在留[ざいりゅう]資格[しかく]の変更[へんこう]が必要[ひつよう]です。", "en": "Once I get a job, I'll need to change my status of residence." },
+    { "jp": "こちらの求人[きゅうじん]に応募[おうぼ]したいのですが。", "en": "I'd like to apply for this position." },
+    { "jp": "募集[ぼしゅう]要項[ようこう]を拝見[はいけん]しました。", "en": "I've read the job posting.", "note": "{拝見[はいけん]する} is the humble verb for see/read. Useful in cover letters." },
+    { "jp": "履歴書[りれきしょ]と職務[しょくむ]経歴書[けいれきしょ]をお送[おく]りします。", "en": "I'll send my resume and career history." },
+    { "jp": "勤務地[きんむち]はどちらになりますか。", "en": "Where would the work location be?" },
+    { "jp": "リモートワークは可能[かのう]でしょうか。", "en": "Is remote work possible?" },
+    { "jp": "給与[きゅうよ]の条件[じょうけん]を教[おし]えていただけますか。", "en": "Could you tell me about the salary conditions?" },
+    { "jp": "契約[けいやく]社員[しゃいん]と正社員[せいしゃいん]の違[ちが]いは何[なん]ですか。", "en": "What's the difference between a contract employee and a permanent employee?" },
+    { "jp": "面接[めんせつ]の日程[にってい]はいつがよろしいでしょうか。", "en": "When would be a good date for the interview?" }
+  ],
+  "vocab": [
+    { "jp": "就職[しゅうしょく]", "en": "getting a job, employment" },
+    { "jp": "転職[てんしょく]", "en": "changing jobs" },
+    { "jp": "求人[きゅうじん]", "en": "job opening" },
+    { "jp": "応募[おうぼ]", "en": "application (for a job)" },
+    { "jp": "履歴書[りれきしょ]", "en": "resume (standard form)" },
+    { "jp": "職務[しょくむ]経歴書[けいれきしょ]", "en": "detailed career history" },
+    { "jp": "正社員[せいしゃいん]", "en": "regular full-time employee" },
+    { "jp": "契約[けいやく]社員[しゃいん]", "en": "contract employee" },
+    { "jp": "派遣[はけん]", "en": "temp staffing / dispatched work" },
+    { "jp": "新卒[しんそつ]", "en": "new graduate (hiring)" },
+    { "jp": "中途[ちゅうと]採用[さいよう]", "en": "mid-career hiring" },
+    { "jp": "年収[ねんしゅう]", "en": "annual income" },
+    { "jp": "勤務地[きんむち]", "en": "work location" },
+    { "jp": "職種[しょくしゅ]", "en": "type of job, occupation" },
+    { "jp": "資格外[しかくがい]活動[かつどう]許可[きょか]", "en": "permission to work outside one's status (e.g. for students)" }
+  ],
+  "dialogue": [
+    { "speaker": "Recruiter", "jp": "本日[ほんじつ]はお時間[じかん]をいただき、ありがとうございます。まず、ご希望[きぼう]の職種[しょくしゅ]を教[おし]えていただけますか。", "en": "Thank you for your time today. First, could you tell me what kind of position you're looking for?" },
+    { "speaker": "You", "jp": "Webエンジニアの仕事[しごと]を探[さが]しています。前[まえ]の会社[かいしゃ]で5年間[ごねんかん]、開発[かいはつ]をしていました。", "en": "I'm looking for a web engineer role. I did development at my previous company for five years." },
+    { "speaker": "Recruiter", "jp": "日本語[にほんご]はどのくらいお話[はな]しになれますか。", "en": "How well do you speak Japanese?" },
+    { "speaker": "You", "jp": "日常[にちじょう]会話[かいわ]はできます。今[いま]はN2の勉強[べんきょう]をしています。", "en": "I can handle everyday conversation. I'm studying for N2 now." },
+    { "speaker": "Recruiter", "jp": "現在[げんざい]の在留[ざいりゅう]資格[しかく]は何[なん]でしょうか。", "en": "What is your current status of residence?" },
+    { "speaker": "You", "jp": "今[いま]は大学院[だいがくいん]の留学生[りゅうがくせい]なので、就職[しゅうしょく]が決[き]まったら変更[へんこう]が必要[ひつよう]です。", "en": "I'm a graduate student now, so I'll need to change it once I get a job." },
+    { "speaker": "Recruiter", "jp": "承知[しょうち]しました。ビザのサポートがある企業[きぎょう]をいくつかご紹介[しょうかい]しますね。", "en": "Understood. I'll introduce you to some companies that offer visa support." },
+    { "speaker": "You", "jp": "ありがとうございます。リモートワークができる会社[かいしゃ]だとうれしいです。", "en": "Thank you. I'd be happy if they allow remote work." },
+    { "speaker": "Recruiter", "jp": "では、日本語[にほんご]の履歴書[りれきしょ]と職務[しょくむ]経歴書[けいれきしょ]をご準備[じゅんび]いただけますか。", "en": "Then could you prepare a Japanese resume and career history?" },
+    { "speaker": "You", "jp": "はい、今週[こんしゅう]中[ちゅう]にお送[おく]りします。", "en": "Yes, I'll send them this week." }
+  ],
+  "tips": [
+    "Use a proper ID-style photo for your {履歴書[りれきしょ]}: plain background, business clothes, recent. Photo booths at stations are made for this.",
+    "Keep your {職務[しょくむ]経歴書[けいれきしょ]} to about one to three pages, with concrete numbers for achievements where you can.",
+    "Japanese companies traditionally hire new graduates in one big yearly cycle; as a mid-career applicant you will mostly apply through {中途[ちゅうと]採用[さいよう]} postings, which open year-round.",
+    "Be clear about your visa situation early. Recruiters can match you much better when they know exactly what status you hold and when it expires.",
+    "Check whether a job is permanent ({正社員[せいしゃいん]}), contract or dispatched. Pay, job security and benefits can differ a lot."
+  ]
+}

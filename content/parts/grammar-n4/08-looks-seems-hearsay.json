@@ -1,0 +1,175 @@
+{
+  "id": "n4-u08",
+  "title": "Looks like, seems, I heard",
+  "summary": "Say how things look ({そう}), report what you heard ({そうだ}), draw conclusions from evidence ({ようだ}, {みたい}), pass on indirect information ({らしい}), and learn to choose between them.",
+  "points": [
+    {
+      "id": "n4-sou-looks",
+      "title": "〜そう (looks like ~)",
+      "meaning": "looks ~ / seems about to ~",
+      "structure": "V-ます stem + そう / い-adj (drop い) + そう / な-adj + そう (いい → よさそう, ない → なさそう)",
+      "explanation": "This {そう} gives your impression from what you can **see right now**, before you know for sure. 'It looks ~.'\n\n- {い}-adjectives: drop {い}: {おいしい} → {おいしそう} 'looks tasty', {高[たか]い} → {高[たか]そう}\n- {な}-adjectives: stem + {そう}: {元気[げんき]そう} 'looks well', {丈夫[じょうぶ]そう}\n- Verbs: {ます}-stem + {そう} means 'looks like it's about to ~': {雨[あめ]が降[ふ]りそうだ} 'It looks like it's going to rain', {落[お]ちそう} 'looks like it'll fall'\n- Irregular: {いい} → {よさそう}, {ない} → {なさそう}; negatives: {おいしくなさそう}\n\n{そう} works like a {な}-adjective: {おいしそうなケーキ} 'a delicious-looking cake', {楽[たの]しそうに遊[あそ]ぶ} 'play happily (looking like they're having fun)'.\n\nIt's not used for things obvious at a glance, like colours: say {赤[あか]い}, not {赤[あか]そう}.",
+      "examples": [
+        { "jp": "このケーキ、おいしそう！", "en": "This cake looks delicious!" },
+        { "jp": "空[そら]が暗[くら]くなってきた。雨[あめ]が降[ふ]りそうだ。", "en": "The sky's getting dark. It looks like it's going to rain." },
+        { "jp": "田中[たなか]さんは今日[きょう]、元気[げんき]がなさそうですね。", "en": "Tanaka-san seems a bit down today." },
+        { "jp": "子[こ]どもたちが楽[たの]しそうに遊[あそ]んでいます。", "en": "The children are playing happily." },
+        { "jp": "このかばんは丈夫[じょうぶ]そうだから、これにします。", "en": "This bag looks sturdy, so I'll take it." }
+      ],
+      "notes": "Trap: {かわいそう} does **not** mean 'looks cute' — it means 'pitiful, poor thing'. For 'looks cute', just say {かわいい} or {かわいく見[み]える}.",
+      "quiz": [
+        {
+          "q": "わあ、このラーメン、＿＿ですね。",
+          "en": "Wow, this ramen looks delicious.",
+          "choices": ["おいしそう", "おいしいそう", "おいしさそう", "おいしくそう"],
+          "answer": 0
+        },
+        {
+          "q": "あ、棚[たな]の上[うえ]の箱[はこ]が＿＿だよ。",
+          "en": "Oh, the box on the shelf looks like it's about to fall!",
+          "choices": ["落[お]ちそう", "落[お]ちるそう", "落[お]ちりそう", "落[お]ちさそう"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-sou-hearsay",
+      "title": "〜そうだ (I hear that ~)",
+      "meaning": "I heard that / they say that",
+      "structure": "Plain form + そうだ (Noun, な-adj + だ そうだ)",
+      "explanation": "This second {そうだ} reports information you got from somewhere else: a person, the news, a forecast. 'I hear that ~ / Apparently ~.' {明日[あした]は雪[ゆき]が降[ふ]るそうです} 'I hear it's going to snow tomorrow.'\n\nThe big difference from 'looks like' {そう} is the connection: hearsay {そうだ} attaches to the **full plain form**, including {だ} and past tense:\n\n- {降[ふ]るそうだ}, {降[ふ]ったそうだ}, {降[ふ]らないそうだ}\n- {おいしいそうだ}, {静[しず]かだそうだ}, {学生[がくせい]だそうだ}\n\nSo {おいしそう} = 'looks tasty' but {おいしいそうだ} = 'I hear it's tasty'.\n\nName the source with {〜によると} or {〜の話[はなし]では}. Hearsay {そうだ} itself doesn't go into the past or negative; change what's inside instead.",
+      "examples": [
+        { "jp": "天気予報[てんきよほう]によると、明日[あした]は雪[ゆき]が降[ふ]るそうです。", "en": "According to the weather forecast, it's going to snow tomorrow." },
+        { "jp": "田中[たなか]さんは来月[らいげつ]結婚[けっこん]するそうですよ。", "en": "I hear Tanaka-san is getting married next month." },
+        { "jp": "あの店[みせ]のラーメンはとてもおいしいそうです。", "en": "They say the ramen at that shop is really good." },
+        { "jp": "山田[やまだ]さんのお父[とう]さんは医者[いしゃ]だそうだ。", "en": "I hear Yamada-san's father is a doctor." },
+        { "jp": "友[とも]だちの話[はなし]では、昨日[きのう]の試験[しけん]は難[むずか]しかったそうです。", "en": "According to my friend, yesterday's exam was difficult." }
+      ],
+      "quiz": [
+        {
+          "q": "ニュースによると、昨日[きのう]大阪[おおさか]で大[おお]きい地震[じしん]が＿＿そうです。",
+          "en": "According to the news, there was a big earthquake in Osaka yesterday.",
+          "choices": ["あった", "あり", "ある", "あって"],
+          "answer": 0
+        },
+        {
+          "q": "鈴木[すずき]さんのお兄[にい]さんは弁護士[べんごし]＿＿そうです。",
+          "en": "I hear Suzuki-san's older brother is a lawyer.",
+          "choices": ["だ", "な", "の", "に"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-you-da",
+      "title": "〜ようだ",
+      "meaning": "it seems / appears that (my judgment); like ~",
+      "structure": "Plain form + ようだ (Noun + の ようだ / な-adj + な ようだ)",
+      "explanation": "{ようだ} is a conclusion you draw from evidence you've noticed yourself — sounds, smells, the situation. It's more thought-through than 'looks like' {そう}. {電気[でんき]が消[き]えているから、もう帰[かえ]ったようだ} 'The lights are off, so it seems he's already gone home.'\n\nConnections: {帰[かえ]ったようだ}, {寒[さむ]いようだ}, {静[しず]かなようだ}, {留守[るす]のようだ}. It sounds slightly formal; polite form {ようです}.\n\n{ようだ} is also used for comparisons — 'like ~':\n\n- {夢[ゆめ]のようだ} 'It's like a dream.'\n- {〜のような + noun}: {花[はな]のような人[ひと]} 'a person like a flower'\n- {〜のように + verb}: {日本人[にほんじん]のように話[はな]す} 'speak like a Japanese person'",
+      "examples": [
+        { "jp": "電気[でんき]が消[き]えているから、田中[たなか]さんはもう帰[かえ]ったようです。", "en": "The lights are off, so it seems Tanaka-san has already gone home." },
+        { "jp": "熱[ねつ]があるようなので、今日[きょう]は早[はや]く帰[かえ]ります。", "en": "I seem to have a fever, so I'll go home early today." },
+        { "jp": "この店[みせ]は人気[にんき]があるようですね。いつも人[ひと]が並[なら]んでいます。", "en": "This shop seems popular. There's always a line." },
+        { "jp": "日本[にほん]での毎日[まいにち]は、夢[ゆめ]のようです。", "en": "Every day in Japan is like a dream." },
+        { "jp": "彼[かれ]は日本人[にほんじん]のように日本語[にほんご]を話[はな]します。", "en": "He speaks Japanese like a native." }
+      ],
+      "quiz": [
+        {
+          "q": "隣[となり]の部屋[へや]は静[しず]か＿＿ようです。誰[だれ]もいないのでしょう。",
+          "en": "The room next door seems quiet. There's probably no one there.",
+          "choices": ["な", "の", "だ", "で"],
+          "answer": 0
+        },
+        {
+          "q": "あの二人[ふたり]は本当[ほんとう]の姉妹[しまい]の＿＿仲[なか]がいい。",
+          "en": "Those two get along like real sisters.",
+          "choices": ["ように", "ような", "ようだ", "ようです"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-mitai",
+      "title": "〜みたいだ",
+      "meaning": "seems like / looks like (casual)",
+      "structure": "V / い-adj plain + みたいだ / Noun, な-adj + みたいだ (no の, no な)",
+      "explanation": "{みたいだ} is the casual, spoken version of {ようだ}. It covers both uses: 'it seems' and 'like ~'.\n\nThe connection is simpler: nouns and {な}-adjectives attach **directly**, with no {の} or {な}:\n\n- {休[やす]みみたい} (compare {休[やす]みのよう})\n- {静[しず]かみたい} (compare {静[しず]かなよう})\n- Verbs and {い}-adjectives use plain forms: {来[こ]ないみたい}, {寒[さむ]いみたい}\n\nLike {ようだ}, it has modifier forms: {みたいな + noun} ({猫[ねこ]みたいな人[ひと]} 'a cat-like person') and {みたいに + verb} ({子[こ]どもみたいに笑[わら]う} 'laugh like a child').\n\nIn polite speech {みたいです} is fine, but in writing and formal situations prefer {ようです}.",
+      "examples": [
+        { "jp": "外[そと]は寒[さむ]いみたいだね。みんなコートを着[き]ている。", "en": "It seems cold outside. Everyone's wearing coats." },
+        { "jp": "山田[やまだ]さん、今日[きょう]は休[やす]みみたいです。", "en": "It looks like Yamada-san is off today." },
+        { "jp": "道[みち]を間違[まちが]えたみたい。", "en": "I think I took a wrong turn." },
+        { "jp": "彼女[かのじょ]は猫[ねこ]みたいに静[しず]かに歩[ある]く。", "en": "She walks quietly, like a cat." },
+        { "jp": "このお菓子[かし]、花[はな]みたいな形[かたち]をしていますね。", "en": "These sweets are shaped like flowers, aren't they?" }
+      ],
+      "quiz": [
+        {
+          "q": "かぜを引[ひ]いた＿＿。のどが痛[いた]い。",
+          "en": "I seem to have caught a cold. My throat hurts.",
+          "choices": ["みたい", "みたいに", "のみたい", "なみたい"],
+          "answer": 0
+        },
+        {
+          "q": "あの子[こ]は大人[おとな]＿＿話[はな]し方[かた]をする。",
+          "en": "That kid talks like an adult.",
+          "choices": ["みたいな", "みたいに", "のみたい", "なみたい"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-rashii",
+      "title": "〜らしい",
+      "meaning": "apparently / I hear; typical of ~",
+      "structure": "Plain form + らしい (Noun, な-adj: no だ) / Noun + らしい (typical)",
+      "explanation": "{らしい} has two uses.\n\n**1. 'Apparently'** — a conclusion based on information you got indirectly: something you heard, read, or were told. It feels more distant and less committed than {ようだ}. {来週[らいしゅう]、新[あたら]しい先生[せんせい]が来[く]るらしい} 'Apparently a new teacher is coming next week.' Connections: {高[たか]いらしい}, {引[ひ]っ越[こ]したらしい}, {休[やす]みらしい}, {有名[ゆうめい]らしい}.\n\n**2. Noun + {らしい} = 'typical of / a real ~'.** It describes something that has the ideal qualities of the noun: {春[はる]らしい天気[てんき]} 'real spring weather', {男[おとこ]らしい} 'manly', {あなたらしい} 'so like you'. It conjugates like an {い}-adjective: {田中[たなか]さんらしくない} 'not like Tanaka.'\n\nWhen {らしい} follows a noun, context decides: {あの人[ひと]は学生[がくせい]らしい} usually means 'apparently he's a student'.",
+      "examples": [
+        { "jp": "来週[らいしゅう]、新[あたら]しい先生[せんせい]が来[く]るらしいよ。", "en": "Apparently a new teacher is coming next week." },
+        { "jp": "あのレストランは高[たか]いらしいです。", "en": "That restaurant is supposedly expensive." },
+        { "jp": "隣[となり]の家[いえ]の人[ひと]は引[ひ]っ越[こ]したらしい。", "en": "It seems the people next door have moved out." },
+        { "jp": "今日[きょう]は春[はる]らしい暖[あたた]かい日[ひ]ですね。", "en": "Today is a warm, real spring day, isn't it?" },
+        { "jp": "遅[おく]れて来[く]るのは田中[たなか]さんらしくないね。", "en": "It's not like Tanaka-san to be late." }
+      ],
+      "quiz": [
+        {
+          "q": "うわさによると、あの二人[ふたり]は付[つ]き合[あ]っている＿＿。",
+          "en": "According to the rumours, those two are apparently going out.",
+          "choices": ["らしい", "そうな", "ような", "らしく"],
+          "answer": 0
+        },
+        {
+          "q": "今日[きょう]は雪[ゆき]が降[ふ]って、本当[ほんとう]に冬[ふゆ]＿＿天気[てんき]ですね。",
+          "en": "It's snowing today — really wintry weather.",
+          "choices": ["らしい", "そうな", "ような", "みたい"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-seems-compare",
+      "title": "そう vs よう / みたい vs らしい vs そうだ",
+      "meaning": "choosing how to say 'seems'",
+      "structure": "Looks (stem + そう) / My inference (ようだ・みたいだ) / Indirect info (らしい) / Pure report (plain + そうだ)",
+      "explanation": "Ask yourself: **where does my information come from?**\n\n- **Your eyes, right now** → stem + {そう}. {雨[あめ]が降[ふ]りそうだ} (dark clouds overhead — it hasn't happened yet).\n- **Your own reasoning from evidence** → {ようだ} / {みたいだ}. {雨[あめ]が降[ふ]ったようだ} (the ground is wet).\n- **Something you heard, and you half-believe** → {らしい}. {雨[あめ]が降[ふ]ったらしい} (a friend mentioned it; you're passing it on).\n- **A straight report of what someone said** → plain + {そうだ}. {雨[あめ]が降[ふ]ったそうだ} (the news said so).\n\nAlso remember the connections: 'looks' {そう} uses the stem ({おいしそう}, {降[ふ]りそう}); hearsay {そうだ} uses the full plain form ({おいしいそうだ}, {降[ふ]るそうだ}).",
+      "examples": [
+        { "jp": "空[そら]が暗[くら]いですね。雨[あめ]が降[ふ]りそうです。", "en": "The sky is dark. It looks like it's going to rain." },
+        { "jp": "道[みち]がぬれている。夜[よる]、雨[あめ]が降[ふ]ったようだ。", "en": "The road is wet. It seems it rained during the night." },
+        { "jp": "天気予報[てんきよほう]によると、明日[あした]は雨[あめ]が降[ふ]るそうです。", "en": "According to the forecast, it's going to rain tomorrow." },
+        { "jp": "友[とも]だちの話[はなし]では、北海道[ほっかいどう]は昨日[きのう]大雪[おおゆき]だったらしい。", "en": "From what my friend said, Hokkaido apparently had heavy snow yesterday." }
+      ],
+      "quiz": [
+        {
+          "q": "朝[あさ]起[お]きたら、道[みち]が白[しろ]かった。夜[よる]の間[あいだ]に雪[ゆき]が降[ふ]った＿＿。",
+          "en": "When I woke up, the road was white. It seems it snowed during the night.",
+          "choices": ["ようだ", "そうだった", "らしくて", "そうな"],
+          "answer": 0
+        },
+        {
+          "q": "このりんご、赤[あか]くて＿＿ね。",
+          "en": "This apple is nice and red; it looks delicious.",
+          "choices": ["おいしそうだ", "おいしいそうだ", "おいしいらしい", "おいしいそうな"],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

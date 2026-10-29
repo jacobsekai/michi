@@ -1,0 +1,58 @@
+{
+  "id": "life-meetings",
+  "title": "Meetings & reporting (hōrensō)",
+  "level": "N3",
+  "intro": "One of the first workplace concepts you will hear about is {報連相[ほうれんそう]} (hōrensō), a pun on the word for spinach. It stands for three habits that Japanese managers value highly:\n\n- {報告[ほうこく]} (report): tell your boss about progress and results, without waiting to be asked. Report bad news, such as delays and mistakes, early.\n- {連絡[れんらく]} (inform): share facts, such as schedule changes and absences, with everyone affected.\n- {相談[そうだん]} (consult): ask for advice before making a decision or when you are stuck, rather than deciding alone.\n\nWhen reporting, start with the conclusion ({結論[けつろん]から申[もう]しますと}), then the reason, then what you propose.\n\nMeetings range from formal {会議[かいぎ]} to smaller working sessions ({打[う]ち合[あ]わせ}). In many Japanese organizations, important decisions are prepared before the meeting through informal consultation with key people ({根回[ねまわ]し}), so the meeting itself often confirms what was already discussed. If you want to propose something, talk to the right people beforehand.\n\nJunior members are often asked to take minutes ({議事録[ぎじろく]}). When you disagree, soften it: acknowledge the other view first ({おっしゃることはよくわかります}), then give yours ({ただ、〜}). A phrase you will hear from clients is {持[も]ち帰[かえ]って検討[けんとう]いたします} (we'll take this back and consider it), which means no decision today. Written approval flows ({稟議[りんぎ]}) are also common for spending and new projects.",
+  "phrases": [
+    { "jp": "今[いま]、少[すこ]しお時間[じかん]よろしいでしょうか。", "en": "Do you have a moment now?" },
+    { "jp": "A社[しゃ]の件[けん]で、ご報告[ほうこく]があります。", "en": "I have a report about Company A." },
+    { "jp": "結論[けつろん]から申[もう]しますと、", "en": "To start with the conclusion, ..." },
+    { "jp": "予定[よてい]より2日[ふつか]ほど遅[おく]れています。", "en": "We're about two days behind schedule." },
+    { "jp": "ご相談[そうだん]したいことがあるのですが。", "en": "There's something I'd like to consult you about." },
+    { "jp": "どのように進[すす]めればよろしいでしょうか。", "en": "How should I proceed?" },
+    { "jp": "明日[あした]の会議[かいぎ]は、14時[じゅうよじ]からに変更[へんこう]になりました。", "en": "Tomorrow's meeting has been changed to start at 2 p.m." },
+    { "jp": "念[ねん]のため、皆[みな]さんにも共有[きょうゆう]しておきます。", "en": "Just in case, I'll share this with everyone too." },
+    { "jp": "一[ひと]つ、よろしいでしょうか。", "en": "May I say one thing?" },
+    { "jp": "おっしゃることはよくわかります。ただ、", "en": "I understand what you're saying. However, ..." },
+    { "jp": "私[わたし]の理解[りかい]が正[ただ]しいか、確認[かくにん]させてください。", "en": "Let me check whether I've understood correctly." },
+    { "jp": "その件[けん]は持[も]ち帰[かえ]って検討[けんとう]いたします。", "en": "We'll take that back and consider it." },
+    { "jp": "では、本日[ほんじつ]の決定[けってい]事項[じこう]を確認[かくにん]します。", "en": "Now let's confirm today's decisions." },
+    { "jp": "議事録[ぎじろく]は私[わたし]が作成[さくせい]して、後[のち]ほどお送[おく]りします。", "en": "I'll write the minutes and send them later." },
+    { "jp": "私[わたし]のミスです。申[もう]し訳[わけ]ありません。すぐに対応[たいおう]します。", "en": "It was my mistake. I'm sorry. I'll deal with it right away." }
+  ],
+  "vocab": [
+    { "jp": "報連相[ほうれんそう]", "en": "report, inform, consult (workplace principle)" },
+    { "jp": "報告[ほうこく]", "en": "report" },
+    { "jp": "連絡[れんらく]", "en": "contact, informing" },
+    { "jp": "相談[そうだん]", "en": "consultation" },
+    { "jp": "会議[かいぎ]", "en": "meeting, conference" },
+    { "jp": "打[う]ち合[あ]わせ", "en": "(working) meeting" },
+    { "jp": "議題[ぎだい]", "en": "agenda item, topic" },
+    { "jp": "議事録[ぎじろく]", "en": "minutes" },
+    { "jp": "資料[しりょう]", "en": "materials, documents" },
+    { "jp": "進捗[しんちょく]", "en": "progress" },
+    { "jp": "締[し]め切[き]り", "en": "deadline" },
+    { "jp": "根回[ねまわ]し", "en": "informal groundwork before a decision" },
+    { "jp": "稟議[りんぎ]", "en": "formal written approval process" },
+    { "jp": "共有[きょうゆう]", "en": "sharing (information)" },
+    { "jp": "検討[けんとう]", "en": "consideration, review" }
+  ],
+  "dialogue": [
+    { "speaker": "You", "jp": "課長[かちょう]、今[いま]、少[すこ]しお時間[じかん]よろしいでしょうか。", "en": "Section manager, do you have a moment now?" },
+    { "speaker": "Manager", "jp": "うん、どうぞ。", "en": "Sure, go ahead." },
+    { "speaker": "You", "jp": "新[しん]システムの件[けん]でご報告[ほうこく]です。結論[けつろん]から申[もう]しますと、テストが予定[よてい]より3日[みっか]ほど遅[おく]れています。", "en": "It's a report on the new system. To start with the conclusion, testing is about three days behind schedule." },
+    { "speaker": "Manager", "jp": "そうか。原因[げんいん]は？", "en": "I see. What's the cause?" },
+    { "speaker": "You", "jp": "先方[せんぽう]からのデータの提供[ていきょう]が遅[おく]れたためです。", "en": "The client was late providing the data." },
+    { "speaker": "Manager", "jp": "リリース日[び]には間[ま]に合[あ]いそう？", "en": "Will we make the release date?" },
+    { "speaker": "You", "jp": "週末[しゅうまつ]までにデータが届[とど]けば、間[ま]に合[あ]います。そこでご相談[そうだん]なのですが、先方[せんぽう]に課長[かちょう]からも一言[ひとこと]お願[ねが]いできないでしょうか。", "en": "If the data arrives by the weekend, we will. So I'd like to ask: could you also have a word with the client?" },
+    { "speaker": "Manager", "jp": "わかった。今日中[きょうじゅう]に連絡[れんらく]しておく。早[はや]めに言[い]ってくれて助[たす]かったよ。", "en": "OK. I'll contact them today. Thanks for telling me early." },
+    { "speaker": "You", "jp": "ありがとうございます。進捗[しんちょく]はまた明日[あした]ご報告[ほうこく]いたします。", "en": "Thank you. I'll report on progress again tomorrow." }
+  ],
+  "tips": [
+    "Bad news first and early. A delay reported on day one is a small problem; the same delay reported on the deadline is a big one.",
+    "Before an important meeting, talk privately with key people about your idea. Surprising people in the meeting itself rarely works well.",
+    "Volunteer to take minutes when you are new. It is a great way to learn names, jargon and how decisions are made.",
+    "Clients and partners are often called {先方[せんぽう]} (the other party) internally.",
+    "If you are confused in a meeting, write down your questions and ask your senior colleague afterward."
+  ]
+}

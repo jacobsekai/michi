@@ -1,0 +1,55 @@
+{
+  "id": "life-social",
+  "title": "Making friends & social etiquette",
+  "level": "N4",
+  "intro": "Friendships in Japan often build slowly, through repeated contact in a shared setting: a hobby club ({サークル}), a sports team, a language exchange, volunteering, or regular colleagues. Showing up consistently matters more than one great conversation.\n\nInvitations can be vague. {今度[こんど]、飲[の]みに行[い]きましょう} (let's go for a drink sometime) may be sincere or just friendly politeness. If you want to meet, follow up with a concrete day. Refusals are also indirect: {その日[ひ]はちょっと…} (that day is a bit...) is a clear no, and you shouldn't press for a reason.\n\nDrinking parties ({飲[の]み会[かい]}) are a big part of social and work life. Wait for the toast ({乾杯[かんぱい]}) before drinking. It is polite to notice when someone's glass is empty and offer to pour. Many restaurants offer an all-you-can-drink course ({飲[の]み放題[ほうだい]}), and the bill is often split evenly ({割[わ]り勘[かん]}). You never have to drink alcohol; ordering oolong tea or a soft drink is completely normal.\n\nGifts are woven into daily life. After a trip, people bring souvenirs ({お土産[みやげ]}), usually individually wrapped snacks to share at work. When you visit someone's home, bring a small gift ({手土産[てみやげ]}), take your shoes off at the entrance, and say {お邪魔[じゃま]します}. If you receive a gift for a special occasion, a return gift ({お返[かえ]し}) is often expected.\n\nWith new acquaintances, start in polite speech and switch to casual speech when the other person does.",
+  "phrases": [
+    { "jp": "今度[こんど]、一緒[いっしょ]にご飯[はん]でもどうですか。", "en": "Would you like to get a meal together sometime?" },
+    { "jp": "来週[らいしゅう]の金曜日[きんようび]、空[あ]いていますか。", "en": "Are you free next Friday?" },
+    { "jp": "ぜひ行[い]きたいです。", "en": "I'd love to go." },
+    { "jp": "すみません、その日[ひ]はちょっと…。", "en": "Sorry, that day is a bit difficult..." },
+    { "jp": "また誘[さそ]ってください。", "en": "Please invite me again." },
+    { "jp": "乾杯[かんぱい]！", "en": "Cheers!" },
+    { "jp": "お酒[さけ]はあまり飲[の]めないので、ウーロン茶[ちゃ]にします。", "en": "I can't drink much alcohol, so I'll have oolong tea." },
+    { "jp": "どうぞ、お注[つ]ぎします。", "en": "Here, let me pour for you." },
+    { "jp": "LINE、交換[こうかん]しませんか。", "en": "Shall we exchange LINE contacts?", "note": "LINE is the dominant messaging app in Japan." },
+    { "jp": "お邪魔[じゃま]します。", "en": "Excuse me for intruding. (entering someone's home)" },
+    { "jp": "お邪魔[じゃま]しました。", "en": "Thank you for having me. (leaving someone's home)" },
+    { "jp": "これ、旅行[りょこう]のお土産[みやげ]です。皆[みな]さんでどうぞ。", "en": "These are souvenirs from my trip. Please help yourselves, everyone." },
+    { "jp": "素敵[すてき]なプレゼント、ありがとうございます。", "en": "Thank you for the lovely present." },
+    { "jp": "今日[きょう]は誘[さそ]ってくれてありがとう。楽[たの]しかった！", "en": "Thanks for inviting me today. It was fun! (casual)" },
+    { "jp": "割[わ]り勘[かん]にしましょう。", "en": "Let's split the bill." }
+  ],
+  "vocab": [
+    { "jp": "友達[ともだち]", "en": "friend" },
+    { "jp": "飲[の]み会[かい]", "en": "drinking party" },
+    { "jp": "乾杯[かんぱい]", "en": "toast, cheers" },
+    { "jp": "二次会[にじかい]", "en": "after-party, second venue" },
+    { "jp": "飲[の]み放題[ほうだい]", "en": "all-you-can-drink" },
+    { "jp": "割[わ]り勘[かん]", "en": "splitting the bill" },
+    { "jp": "誘[さそ]う", "en": "to invite" },
+    { "jp": "断[ことわ]る", "en": "to decline" },
+    { "jp": "お土産[みやげ]", "en": "souvenir (gift from a trip)" },
+    { "jp": "手土産[てみやげ]", "en": "small gift brought when visiting" },
+    { "jp": "お返[かえ]し", "en": "return gift" },
+    { "jp": "遠慮[えんりょ]", "en": "holding back, restraint (out of politeness)" },
+    { "jp": "タメ口[ぐち]", "en": "casual speech (as between equals)" }
+  ],
+  "dialogue": [
+    { "speaker": "Kenta", "jp": "マークさん、今週[こんしゅう]の土曜日[どようび]、何[なに]か予定[よてい]ある？", "en": "Mark, do you have any plans this Saturday?" },
+    { "speaker": "You", "jp": "土曜日[どようび]？特[とく]にないよ。", "en": "Saturday? Nothing in particular." },
+    { "speaker": "Kenta", "jp": "大学[だいがく]の友達[ともだち]とバーベキューするんだけど、一緒[いっしょ]にどう？", "en": "I'm having a barbecue with some friends from university. Want to come?" },
+    { "speaker": "You", "jp": "いいの？ぜひ行[い]きたい！何[なに]か持[も]っていこうか。", "en": "Really? I'd love to! Shall I bring something?" },
+    { "speaker": "Kenta", "jp": "じゃあ、飲[の]み物[もの]をちょっとお願[ねが]いしてもいい？", "en": "Then could you bring a few drinks?" },
+    { "speaker": "You", "jp": "もちろん。何時[なんじ]にどこ？", "en": "Of course. What time and where?" },
+    { "speaker": "Kenta", "jp": "11時[じゅういちじ]に駅[えき]の改札[かいさつ]で。費用[ひよう]は割[わ]り勘[かん]ね。", "en": "At the station ticket gates at 11. We'll split the costs." },
+    { "speaker": "You", "jp": "了解[りょうかい]！楽[たの]しみにしてる。", "en": "Got it! Looking forward to it." }
+  ],
+  "tips": [
+    "Follow up on vague invitations with a specific suggestion. If the other person keeps being busy, they may be politely declining.",
+    "At work drinking parties, juniors often pour for seniors. If someone pours for you, lift your glass slightly with both hands.",
+    "Bring small, individually wrapped souvenirs for your workplace after a holiday. It's a small effort that people notice.",
+    "In homes, also take off the house slippers before stepping on tatami, and use the separate toilet slippers if provided.",
+    "Switching to casual speech too early can feel pushy, and staying formal too long can feel distant. Mirror the other person."
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "id": "n5-u03",
+  "title": "There is, there are",
+  "summary": "Saying what exists and where with {あります} and {います}, the subject marker {が}, position words, and listing nouns with {と} and {や}.",
+  "points": [
+    {
+      "id": "n5-aru-iru",
+      "title": "あります / います",
+      "meaning": "there is / to exist / to have",
+      "structure": "Noun + が + あります (things) / います (people, animals)",
+      "explanation": "Japanese has **two** verbs for 'there is', and the choice depends on what exists:\n\n- {あります} for non-living things and plants: books, buildings, time, money, trees.\n- {います} for people and animals: anything that moves by its own will.\n\nThe thing that exists is marked with {が}. The negatives are {ありません} and {いません}.\n\nThese same verbs are also how you say you **have** something: {時間[じかん]があります} literally means 'There is time,' which is to say 'I have time.' {兄弟[きょうだい]がいます} means 'I have brothers or sisters.'\n\nThese are your first verbs. You'll learn how verbs work in general in Unit 5; for now, just learn these four forms as set phrases.",
+      "examples": [
+        {
+          "jp": "銀行[ぎんこう]があります。",
+          "en": "There is a bank."
+        },
+        {
+          "jp": "あ、猫[ねこ]がいます。",
+          "en": "Oh, there's a cat."
+        },
+        {
+          "jp": "時間[じかん]がありません。",
+          "en": "I don't have time."
+        },
+        {
+          "jp": "兄弟[きょうだい]がいますか。",
+          "en": "Do you have any brothers or sisters?"
+        },
+        {
+          "jp": "車[くるま]がありますか。",
+          "en": "Do you have a car?"
+        }
+      ],
+      "notes": "Taxis and buses are machines, so they use {あります}, even with a driver inside. A fish in a shop display (dead) uses {あります}; a fish in a tank uses {います}.",
+      "quiz": [
+        {
+          "q": "あ、犬[いぬ]が＿＿。",
+          "en": "Oh, there's a dog.",
+          "choices": [
+            "います",
+            "ありません",
+            "いません",
+            "あります"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "すみません、時間[じかん]が＿＿。",
+          "en": "Sorry, I don't have time.",
+          "choices": [
+            "ありません",
+            "じゃありません",
+            "あります",
+            "いません"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-ni-aru",
+      "title": "Place + に + あります / います",
+      "meaning": "there is ~ in / at (a place)",
+      "structure": "Place + に + Noun + が + あります / います",
+      "explanation": "To say **where** something exists, mark the place with {に}. The usual order is: place first, then the thing, then the verb.\n\n{部屋[へや]にテレビがあります。} 'There's a TV in the room.'\n\nRead it piece by piece: room + {に} (in) / TV + {が} / exists.\n\nThis pattern is perfect for asking whether something exists nearby: {この近[ちか]くにコンビニがありますか。} 'Is there a convenience store near here?' You'll use that one a lot.\n\nKeep in mind that {に} here is for **existing** somewhere. When someone is **doing an action** in a place, Japanese uses a different particle, {で}, which you'll meet in Unit 6.",
+      "examples": [
+        {
+          "jp": "部屋[へや]にテレビがあります。",
+          "en": "There's a TV in the room."
+        },
+        {
+          "jp": "公園[こうえん]に子[こ]どもがいます。",
+          "en": "There are children in the park."
+        },
+        {
+          "jp": "この近[ちか]くにコンビニがありますか。",
+          "en": "Is there a convenience store near here?"
+        },
+        {
+          "jp": "冷蔵庫[れいぞうこ]に牛乳[ぎゅうにゅう]がありません。",
+          "en": "There's no milk in the fridge."
+        }
+      ],
+      "notes": "In questions and negatives, {は} often replaces {が} to add a nuance of contrast: {牛乳[ぎゅうにゅう]はありません} 'Milk, we don't have.'",
+      "quiz": [
+        {
+          "q": "部屋[へや]＿＿ベッドがあります。",
+          "en": "There's a bed in the room.",
+          "choices": [
+            "へ",
+            "で",
+            "を",
+            "に"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "教室[きょうしつ]に先生[せんせい]が＿＿。",
+          "en": "There is a teacher in the classroom.",
+          "choices": [
+            "です",
+            "でした",
+            "います",
+            "あります"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-wa-ni-aru",
+      "title": "Noun + は + Place + に + あります / います",
+      "meaning": "(the thing) is in / at (a place)",
+      "structure": "Noun + は + Place + に + あります / います",
+      "explanation": "The previous pattern answers 'What is there?'. This one answers '**Where** is it?'. When both of you already know the thing you're talking about, make it the topic with {は} and put it first:\n\n{トイレは二階[にかい]にあります。} 'The restroom is on the second floor.'\n{田中[たなか]さんは会議室[かいぎしつ]にいます。} 'Mr. Tanaka is in the meeting room.'\n\nCompare:\n\n- {二階[にかい]にトイレがあります。} There's a restroom on the second floor. (new info: a restroom)\n- {トイレは二階[にかい]にあります。} The restroom is on the second floor. (new info: the location)\n\nTo ask, use {どこに}: {駅[えき]はどこにありますか。}",
+      "examples": [
+        {
+          "jp": "トイレは二階[にかい]にあります。",
+          "en": "The restroom is on the second floor."
+        },
+        {
+          "jp": "田中[たなか]さんは会議室[かいぎしつ]にいます。",
+          "en": "Mr. Tanaka is in the meeting room."
+        },
+        {
+          "jp": "母[はは]は今[いま]家[いえ]にいます。",
+          "en": "My mother is at home now."
+        },
+        {
+          "jp": "駅[えき]はどこにありますか。",
+          "en": "Where is the station?"
+        },
+        {
+          "jp": "父[ちち]は今[いま]日本[にほん]にいません。",
+          "en": "My father isn't in Japan right now."
+        }
+      ],
+      "notes": "In conversation, {〜は〜にあります} is often shortened to {〜は〜です}: {トイレは二階[にかい]です。}",
+      "quiz": [
+        {
+          "q": "田中[たなか]さんは今[いま]どこ＿＿いますか。",
+          "en": "Where is Mr. Tanaka now?",
+          "choices": [
+            "が",
+            "を",
+            "で",
+            "に"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "私[わたし]の車[くるま]＿＿駐車場[ちゅうしゃじょう]にあります。",
+          "en": "My car is in the parking lot.",
+          "choices": [
+            "は",
+            "を",
+            "へ",
+            "で"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-ga",
+      "title": "が (subject marker)",
+      "meaning": "marks the subject, often new or focused information",
+      "structure": "Noun + が + Verb / Adjective",
+      "explanation": "{が} marks the **subject**, the thing that exists, does or is something. The difference between {は} and {が} takes time to feel, but here is a simple starting point:\n\n- {は} sets up a topic that is already known: 'As for X...' The important part comes **after** it.\n- {が} shines a spotlight on the word **before** it. That word is the new or important part.\n\nThree places where you must use {が}:\n\n- With {あります} and {います} for what exists: {猫[ねこ]がいます}.\n- After question words: {だれが}, {何[なに]が}, {どれが}. Never {だれは}.\n- When answering those questions: {私[わたし]が田中[たなか]です。} 'I'm Tanaka.' (I'm the one you're looking for.)",
+      "examples": [
+        {
+          "jp": "あそこに猫[ねこ]がいます。",
+          "en": "There's a cat over there."
+        },
+        {
+          "jp": "だれが田中[たなか]さんですか。",
+          "en": "Which one of you is Mr. Tanaka?"
+        },
+        {
+          "jp": "私[わたし]が田中[たなか]です。",
+          "en": "I'm Tanaka. (I'm the one.)"
+        },
+        {
+          "jp": "かばんの中[なか]に何[なに]がありますか。",
+          "en": "What's in the bag?"
+        },
+        {
+          "jp": "どれが山田[やまだ]さんのかさですか。",
+          "en": "Which one is Ms. Yamada's umbrella?"
+        }
+      ],
+      "notes": "Don't worry about mastering {は} vs {が} now. Even advanced learners keep refining it. Following the three rules above will make you correct most of the time.",
+      "quiz": [
+        {
+          "q": "だれ＿＿山田[やまだ]さんですか。",
+          "en": "Which one of you is Mr. Yamada?",
+          "choices": [
+            "へ",
+            "が",
+            "を",
+            "は"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A：どれが田中[たなか]さんのですか。B：これ＿＿田中[たなか]さんのです。",
+          "en": "A: Which one is Mr. Tanaka's? B: This one is his.",
+          "choices": [
+            "へ",
+            "が",
+            "で",
+            "を"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n5-position",
+      "title": "上[うえ] / 下[した] / 中[なか] / 前[まえ] / 後[うし]ろ / となり",
+      "meaning": "on / under / in / in front of / behind / next to",
+      "structure": "Noun + の + Position word + に",
+      "explanation": "English uses little words like 'on' and 'under'. Japanese uses **position nouns** joined with {の}:\n\n{机[つくえ]の上[うえ]} = the desk's top → on the desk\n\nThe most common position words:\n\n- {上[うえ]} on, above\n- {下[した]} under, below\n- {中[なか]} inside\n- {前[まえ]} in front of\n- {後[うし]ろ} behind\n- {となり} next to\n- {近[ちか]く} near\n\nAdd {に} to say where something exists: {机[つくえ]の上[うえ]に本[ほん]があります。} 'There's a book on the desk.' Notice the order is the reverse of English: the reference point (desk) comes first, then the position.",
+      "examples": [
+        {
+          "jp": "机[つくえ]の上[うえ]に本[ほん]があります。",
+          "en": "There's a book on the desk."
+        },
+        {
+          "jp": "いすの下[した]に猫[ねこ]がいます。",
+          "en": "There's a cat under the chair."
+        },
+        {
+          "jp": "かばんの中[なか]に何[なに]がありますか。",
+          "en": "What's in the bag?"
+        },
+        {
+          "jp": "駅[えき]の前[まえ]に銀行[ぎんこう]があります。",
+          "en": "There's a bank in front of the station."
+        },
+        {
+          "jp": "郵便局[ゆうびんきょく]は病院[びょういん]のとなりにあります。",
+          "en": "The post office is next to the hospital."
+        }
+      ],
+      "notes": "{となり} is used for things of the same kind side by side (two buildings, two people). For 'beside' in general, {横[よこ]} is also common.",
+      "quiz": [
+        {
+          "q": "机[つくえ]の＿＿にペンがあります。",
+          "en": "There's a pen on the desk.",
+          "choices": [
+            "後[うし]ろ",
+            "下[した]",
+            "中[なか]",
+            "上[うえ]"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "駅[えき]＿＿前[まえ]にコンビニがあります。",
+          "en": "There's a convenience store in front of the station.",
+          "choices": [
+            "が",
+            "の",
+            "を",
+            "に"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n5-to-and",
+      "title": "と (and)",
+      "meaning": "and (joining nouns in a complete list)",
+      "structure": "Noun + と + Noun",
+      "explanation": "{と} joins nouns, like 'and' in English: {ペンとノート} 'a pen and a notebook'.\n\nUsing {と} means your list is **complete**: these are all the things. If there are only a pen and a notebook on the desk, use {と}.\n\nTwo important limits:\n\n- {と} joins **nouns only**. You can't use it to join verbs, adjectives or whole sentences. ('I ate and slept' needs a verb form you'll learn in Unit 8.)\n- When the listed nouns are the subject, the particle goes after the **last** noun only: {父[ちち]と母[はは]は東京[とうきょう]にいます。}",
+      "examples": [
+        {
+          "jp": "机[つくえ]の上[うえ]にペンとノートがあります。",
+          "en": "There's a pen and a notebook on the desk."
+        },
+        {
+          "jp": "部屋[へや]に田中[たなか]さんと山田[やまだ]さんがいます。",
+          "en": "Mr. Tanaka and Ms. Yamada are in the room."
+        },
+        {
+          "jp": "コーヒーと紅茶[こうちゃ]があります。",
+          "en": "There's coffee and tea."
+        },
+        {
+          "jp": "父[ちち]と母[はは]は東京[とうきょう]にいます。",
+          "en": "My father and mother are in Tokyo."
+        }
+      ],
+      "notes": "{と} has another meaning, 'with (someone)', which you'll learn in Unit 6.",
+      "quiz": [
+        {
+          "q": "かばんの中[なか]に本[ほん]＿＿財布[さいふ]があります。",
+          "en": "There's a book and a wallet in the bag.",
+          "choices": [
+            "は",
+            "と",
+            "へ",
+            "を"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "私[わたし]＿＿田中[たなか]さんは学生[がくせい]です。",
+          "en": "Mr. Tanaka and I are students.",
+          "choices": [
+            "を",
+            "へ",
+            "で",
+            "と"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-ya",
+      "title": "や (and so on)",
+      "meaning": "A and B (among other things)",
+      "structure": "Noun + や + Noun (+ など)",
+      "explanation": "{や} also means 'and', but it signals that your list is **just examples**: there are other things too. It's like saying 'A, B, and so on' or 'things like A and B'.\n\n- {本[ほん]とペン} = a book and a pen (that's all)\n- {本[ほん]やペン} = books, pens and other things\n\nYou'll often see {など} (etc.) at the end of the list to make the 'and so on' feeling even clearer: {肉[にく]や野菜[やさい]など}.\n\nLike {と}, {や} only joins nouns.",
+      "examples": [
+        {
+          "jp": "机[つくえ]の上[うえ]に本[ほん]やペンがあります。",
+          "en": "There are books, pens and other things on the desk."
+        },
+        {
+          "jp": "公園[こうえん]に犬[いぬ]や猫[ねこ]がいます。",
+          "en": "There are dogs, cats and such in the park."
+        },
+        {
+          "jp": "冷蔵庫[れいぞうこ]に肉[にく]や野菜[やさい]などがあります。",
+          "en": "There's meat, vegetables and so on in the fridge."
+        },
+        {
+          "jp": "駅[えき]の近[ちか]くに銀行[ぎんこう]や郵便局[ゆうびんきょく]があります。",
+          "en": "There are banks, post offices and so on near the station."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "かばんの中[なか]に本[ほん]＿＿ノートなどがあります。",
+          "en": "There are books, notebooks and so on in the bag.",
+          "choices": [
+            "を",
+            "や",
+            "へ",
+            "は"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "この町[まち]にはレストラン＿＿喫茶店[きっさてん]があります。",
+          "en": "There are restaurants, cafes and so on in this town.",
+          "choices": [
+            "を",
+            "や",
+            "で",
+            "へ"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

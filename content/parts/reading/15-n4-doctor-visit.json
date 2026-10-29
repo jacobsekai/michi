@@ -1,0 +1,24 @@
+{
+  "id": "r-n4-07",
+  "level": "N4",
+  "title": "A Visit to the Doctor",
+  "titleJp": "病院[びょういん]へ行[い]った日[ひ]",
+  "sentences": [
+    { "jp": "先週[せんしゅう]の火曜日[かようび]、朝[あさ]起[お]きたら、頭[あたま]が痛[いた]くて、のどもとても痛[いた]かったです。", "en": "Last Tuesday, when I got up in the morning, I had a headache and my throat was very sore too." },
+    { "jp": "熱[ねつ]を測[はか]ったら、三十八度[さんじゅうはちど]ありました。", "en": "When I took my temperature, it was 38 degrees." },
+    { "jp": "会社[かいしゃ]に電話[でんわ]して、休[やす]ませてもらいました。", "en": "I called my company and got permission to take the day off." },
+    { "jp": "近[ちか]くの内科[ないか]に行[い]くと、まず受付[うけつけ]で保険証[ほけんしょう]を見[み]せて、どこが痛[いた]いかなどを紙[かみ]に書[か]きました。", "en": "When I went to a nearby internal medicine clinic, I first showed my health insurance card at reception and wrote down things like where it hurt on a form." },
+    { "jp": "三十分[さんじゅっぷん]ぐらい待[ま]ってから、名前[なまえ]を呼[よ]ばれました。", "en": "After waiting about thirty minutes, my name was called." },
+    { "jp": "お医者[いしゃ]さんは、のどを見[み]て、「かぜですね。インフルエンザではありません」と言[い]いました。", "en": "The doctor looked at my throat and said, \"It's a cold. It isn't the flu.\"" },
+    { "jp": "そして、「三日分[みっかぶん]の薬[くすり]を出[だ]しておきますから、ご飯[はん]を食[た]べた後[あと]に飲[の]んでください」と言[い]われました。", "en": "Then I was told, \"I'll prescribe three days' worth of medicine, so please take it after meals.\"" },
+    { "jp": "「お風呂[ふろ]には入[はい]らないほうがいいですか」と聞[き]くと、「熱[ねつ]が下[さ]がるまでは、やめたほうがいいでしょう」と言[い]われました。", "en": "When I asked, \"Is it better not to take a bath?\" I was told, \"You'd better not until your fever goes down.\"" },
+    { "jp": "薬局[やっきょく]で薬[くすり]をもらって、家[いえ]に帰[かえ]ってすぐに寝[ね]ました。", "en": "I got my medicine at the pharmacy, went home, and went straight to bed." },
+    { "jp": "二日後[ふつかご]には熱[ねつ]が下[さ]がって、元気[げんき]になりました。", "en": "Two days later my fever went down and I felt better." },
+    { "jp": "日本[にほん]で病院[びょういん]に行[い]くときは、保険証[ほけんしょう]を忘[わす]れないようにしましょう。", "en": "When you go to a clinic in Japan, make sure not to forget your health insurance card." }
+  ],
+  "questions": [
+    { "q": "What did the doctor say was wrong?", "choices": ["The writer had the flu", "The writer needed to go to a bigger hospital", "The writer had a cold, not the flu", "Nothing was wrong"], "answer": 2 },
+    { "q": "When should the writer take the medicine?", "choices": ["After meals", "Before meals", "Only before bed", "Only when it hurts"], "answer": 0 },
+    { "q": "What did the doctor say about taking a bath?", "choices": ["A hot bath would help", "It was fine at any time", "Only a short shower was okay", "It was better to avoid it until the fever went down"], "answer": 3 }
+  ]
+}

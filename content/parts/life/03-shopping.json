@@ -1,0 +1,59 @@
+{
+  "id": "life-shopping",
+  "title": "Numbers, money & shopping",
+  "level": "N5",
+  "intro": "Japan's currency is the yen ({円[えん]}). Coins come in 1, 5, 10, 50, 100 and 500 yen; common notes are 1,000, 5,000 and 10,000 yen (a 2,000-yen note exists but is rare). New banknote designs were introduced in 2024, and older notes remain valid.\n\nJapanese counts large numbers in units of ten thousand ({万[まん]}), not thousands. So 10,000 is {一万[いちまん]}, 50,000 is {五万[ごまん]}, and 120,000 is {十二万[じゅうにまん]}. Rents and salaries are almost always quoted this way, so practice it until it is automatic.\n\nPrices shown to consumers must include consumption tax, so the big number on the tag is usually what you pay ({税込[ぜいこみ]}). You may also see the pre-tax price ({税抜[ぜいぬき]}) in smaller print. Food bought to take away is taxed at a lower rate than eating in.\n\nCash is still widely used, but card, IC-card and QR-code payments are now common in cities. Smaller shops and restaurants may still be cash only, so keep some cash on you.\n\nAt the register, put your money in the small tray rather than handing it directly to the cashier, and receive your change the same way or by hand. Plastic shopping bags cost a few yen, so you will be asked if you need one. Note that tax-free shopping is for short-term visitors; once you live in Japan you are generally not eligible.",
+  "phrases": [
+    { "jp": "これはいくらですか。", "en": "How much is this?" },
+    { "jp": "これをください。", "en": "I'll take this, please." },
+    { "jp": "全部[ぜんぶ]でいくらですか。", "en": "How much is it altogether?" },
+    { "jp": "見[み]ているだけです。", "en": "I'm just looking." },
+    { "jp": "〜はどこにありますか。", "en": "Where is ~?", "note": "For example {電池[でんち]はどこにありますか} (Where are the batteries?)." },
+    { "jp": "もう少[すこ]し大[おお]きいサイズはありますか。", "en": "Do you have a slightly bigger size?" },
+    { "jp": "試着[しちゃく]してもいいですか。", "en": "May I try this on?" },
+    { "jp": "カードは使[つか]えますか。", "en": "Can I use a card?" },
+    { "jp": "現金[げんきん]でお願[ねが]いします。", "en": "I'll pay in cash." },
+    { "jp": "一括[いっかつ]払[ばら]いでお願[ねが]いします。", "en": "In a single payment, please.", "note": "When you pay by credit card, staff may ask how many installments you want. {一括[いっかつ]} (one payment) is the normal answer." },
+    { "jp": "袋[ふくろ]はいりません。", "en": "I don't need a bag." },
+    { "jp": "レシートをください。", "en": "Can I have the receipt?" },
+    { "jp": "領収書[りょうしゅうしょ]をお願[ねが]いします。", "en": "A formal receipt, please.", "note": "A {領収書[りょうしゅうしょ]} is the official receipt used for work expense claims. Staff will ask who to make it out to ({宛名[あてな]})." },
+    { "jp": "一万円[いちまんえん]からお願[ねが]いします。", "en": "Here's ten thousand yen. (please take it out of this)" },
+    { "jp": "返品[へんぴん]できますか。", "en": "Can I return this?" },
+    { "jp": "ポイントカードはお持[も]ちですか。", "en": "Do you have a point card? (staff)", "note": "You will hear this constantly. {持[も]っていません} or simply {大丈夫[だいじょうぶ]です} is fine." }
+  ],
+  "vocab": [
+    { "jp": "円[えん]", "en": "yen" },
+    { "jp": "百[ひゃく]・千[せん]・万[まん]", "en": "hundred, thousand, ten thousand" },
+    { "jp": "値段[ねだん]", "en": "price" },
+    { "jp": "税込[ぜいこみ]", "en": "tax included" },
+    { "jp": "税抜[ぜいぬき]", "en": "tax not included" },
+    { "jp": "消費税[しょうひぜい]", "en": "consumption tax" },
+    { "jp": "現金[げんきん]", "en": "cash" },
+    { "jp": "お釣[つ]り", "en": "change (money returned)" },
+    { "jp": "割引[わりびき]", "en": "discount" },
+    { "jp": "安[やす]い／高[たか]い", "en": "cheap / expensive" },
+    { "jp": "レジ", "en": "cash register, checkout" },
+    { "jp": "袋[ふくろ]", "en": "bag" },
+    { "jp": "財布[さいふ]", "en": "wallet" }
+  ],
+  "dialogue": [
+    { "speaker": "Clerk", "jp": "いらっしゃいませ。", "en": "Welcome." },
+    { "speaker": "You", "jp": "すみません、このシャツのMサイズはありますか。", "en": "Excuse me, do you have this shirt in medium?" },
+    { "speaker": "Clerk", "jp": "少々[しょうしょう]お待[ま]ちください。……お待[ま]たせいたしました。こちらでございます。", "en": "One moment please... Sorry to keep you waiting. Here it is." },
+    { "speaker": "You", "jp": "ありがとうございます。これをください。", "en": "Thank you. I'll take this." },
+    { "speaker": "Clerk", "jp": "ありがとうございます。お会計[かいけい]、3300円[さんぜんさんびゃくえん]でございます。", "en": "Thank you. That comes to 3,300 yen." },
+    { "speaker": "You", "jp": "カードは使[つか]えますか。", "en": "Can I use a card?" },
+    { "speaker": "Clerk", "jp": "はい、ご利用[りよう]いただけます。お支払[しはら]いは一括[いっかつ]でよろしいですか。", "en": "Yes, you can. Is a single payment all right?" },
+    { "speaker": "You", "jp": "はい、お願[ねが]いします。", "en": "Yes, please." },
+    { "speaker": "Clerk", "jp": "袋[ふくろ]はご利用[りよう]になりますか。", "en": "Would you like a bag?" },
+    { "speaker": "You", "jp": "いえ、大丈夫[だいじょうぶ]です。", "en": "No, I'm fine, thanks." },
+    { "speaker": "Clerk", "jp": "ありがとうございました。", "en": "Thank you very much." }
+  ],
+  "tips": [
+    "Learn to hear prices in units of {万[まん]}: 75,000 yen is {七万五千円[ななまんごせんえん]}. Practice by reading rent listings aloud.",
+    "Use the money tray at the register. Placing cash in it is the normal, polite way to pay.",
+    "Carry a reusable bag. Plastic bags are charged in almost all shops.",
+    "Keep receipts for work purchases, and ask for a {領収書[りょうしゅうしょ]} when your company will reimburse you.",
+    "Shop staff speak very polite Japanese ({ございます}, {いただけます}). You only need to answer in normal {です／ます}."
+  ]
+}

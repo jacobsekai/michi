@@ -1,0 +1,380 @@
+{
+  "id": "n5-u05",
+  "title": "Doing things: polite verbs",
+  "summary": "How Japanese verbs work, the three verb groups, the polite {ます}-form in present, past and negative, the object marker {を}, and inviting with {ませんか} and {ましょう}.",
+  "points": [
+    {
+      "id": "n5-masu",
+      "title": "〜ます",
+      "meaning": "do / will do (polite verb ending)",
+      "structure": "Verb stem + ます",
+      "explanation": "Japanese verbs have a few key features that are different from English:\n\n- The verb goes at the **end** of the sentence.\n- Verbs don't change for I / you / he / they. {行[い]きます} works for everyone.\n- There's no separate future tense. {行[い]きます} means 'I go' (habit) **or** 'I will go' (future). Time words like {毎日[まいにち]} (every day) or {明日[あした]} (tomorrow) make it clear.\n- The subject is often dropped when it's obvious.\n\nThe {ます} ending is the **polite** form. It's the safest form to use with anyone you aren't close to, so it's the one we learn first. You've already met two {ます}-verbs: {あります} and {います}.",
+      "examples": [
+        {
+          "jp": "明日[あした]、行[い]きます。",
+          "en": "I'll go tomorrow."
+        },
+        {
+          "jp": "毎日[まいにち]勉強[べんきょう]します。",
+          "en": "I study every day."
+        },
+        {
+          "jp": "田中[たなか]さんも来[き]ます。",
+          "en": "Mr. Tanaka is coming too."
+        },
+        {
+          "jp": "父[ちち]は毎朝[まいあさ]走[はし]ります。",
+          "en": "My father runs every morning."
+        },
+        {
+          "jp": "もう寝[ね]ます。おやすみなさい。",
+          "en": "I'm going to bed now. Good night."
+        }
+      ],
+      "notes": "The part before {ます} is called the **stem** ({行[い]き}, {し}, {来[き]}). Many later grammar patterns attach to this stem, so it's worth getting comfortable with it.",
+      "quiz": [
+        {
+          "q": "毎日[まいにち]日本語[にほんご]を勉強[べんきょう]し＿＿。",
+          "en": "I study Japanese every day.",
+          "choices": [
+            "ました",
+            "ます",
+            "です",
+            "ません"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "明日[あした]、田中[たなか]さんが来[き]＿＿。",
+          "en": "Mr. Tanaka will come tomorrow.",
+          "choices": [
+            "ましょう",
+            "です",
+            "ます",
+            "ません"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n5-verb-groups",
+      "title": "The three verb groups",
+      "meaning": "how to turn a dictionary-form verb into its ます-form",
+      "structure": "る-verb: 食[た]べる → 食[た]べます / う-verb: 飲[の]む → 飲[の]みます / する → します, 来[く]る → 来[き]ます",
+      "explanation": "Dictionaries list verbs in their **dictionary form**, which always ends in an u-sound ({う, く, す, つ, ぬ, む, る}...). To build any other form, you need to know which of three groups the verb belongs to:\n\n- **Ru-verbs (Group 2):** end in {る}, with an i- or e-sound just before it. Drop {る}, add {ます}. {食[た]べる} → {食[た]べます}, {見[み]る} → {見[み]ます}, {起[お]きる} → {起[お]きます}.\n- **U-verbs (Group 1):** all the rest. Change the final u-sound to its i-sound, then add {ます}. {飲[の]む} → {飲[の]みます}, {書[か]く} → {書[か]きます}, {話[はな]す} → {話[はな]します}, {待[ま]つ} → {待[ま]ちます}, {買[か]う} → {買[か]います}.\n- **Irregular (Group 3):** just two. {する} → {します}, {来[く]る} → {来[き]ます}.\n\n**Trap:** some verbs look like ru-verbs but are u-verbs: {帰[かえ]る} → {帰[かえ]ります}, {入[はい]る} → {入[はい]ります}, {走[はし]る} → {走[はし]ります}, {知[し]る} → {知[し]ります}. Learn these as you meet them.",
+      "examples": [
+        {
+          "jp": "朝[あさ]ご飯[はん]を食[た]べます。",
+          "en": "I eat breakfast. (taberu: ru-verb)"
+        },
+        {
+          "jp": "テレビを見[み]ます。",
+          "en": "I watch TV. (miru: ru-verb)"
+        },
+        {
+          "jp": "水[みず]を飲[の]みます。",
+          "en": "I drink water. (nomu: u-verb)"
+        },
+        {
+          "jp": "七時[しちじ]に家[いえ]に帰[かえ]ります。",
+          "en": "I go home at seven. (kaeru: a u-verb, not a ru-verb!)"
+        },
+        {
+          "jp": "毎週[まいしゅう]テニスをします。",
+          "en": "I play tennis every week. (suru: irregular)"
+        }
+      ],
+      "notes": "Many nouns become verbs by adding {する}: {勉強[べんきょう]する} (to study), {仕事[しごと]をする} (to work), {電話[でんわ]する} (to phone).\n\nA few more common u-verbs: {行[い]く} → {行[い]きます}, {読[よ]む} → {読[よ]みます}, {遊[あそ]ぶ} → {遊[あそ]びます}, {泳[およ]ぐ} → {泳[およ]ぎます}, {死[し]ぬ} → {死[し]にます}.",
+      "quiz": [
+        {
+          "q": "毎朝[まいあさ]パンを食[た]べ＿＿。",
+          "en": "I eat bread every morning.",
+          "choices": [
+            "ります",
+            "みます",
+            "ます",
+            "います"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "毎日[まいにち]九時[くじ]に家[いえ]へ帰[かえ]＿＿。",
+          "en": "I go home at nine every day.",
+          "choices": [
+            "ります",
+            "きます",
+            "ます",
+            "います"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-wo",
+      "title": "を (object marker)",
+      "meaning": "marks the thing an action is done to",
+      "structure": "Noun + を + Verb",
+      "explanation": "{を} marks the **direct object**: the thing that receives the action. In 'I drink water', water is the object, so: {水[みず]を飲[の]みます。}\n\n{を} is pronounced **o**, just like {お}. It's almost only ever used as this particle.\n\nThe basic Japanese word order is **subject, object, verb**:\n\n{私[わたし]は本[ほん]を読[よ]みます。} I / book / read.\n\nBecause particles show each word's role, you can move parts around a bit, but the verb stays at the end.\n\nTo ask 'what?' about the object, use {何[なに]を}: {何[なに]を買[か]いますか。} 'What will you buy?'",
+      "examples": [
+        {
+          "jp": "水[みず]を飲[の]みます。",
+          "en": "I drink water."
+        },
+        {
+          "jp": "毎晩[まいばん]本[ほん]を読[よ]みます。",
+          "en": "I read books every night."
+        },
+        {
+          "jp": "日本語[にほんご]を勉強[べんきょう]します。",
+          "en": "I study Japanese."
+        },
+        {
+          "jp": "朝[あさ]、シャワーを浴[あ]びます。",
+          "en": "I take a shower in the morning."
+        },
+        {
+          "jp": "何[なに]を買[か]いますか。",
+          "en": "What will you buy?"
+        }
+      ],
+      "notes": "Some verbs that take an object in English use {が} in Japanese instead, such as {わかります} (understand) and {あります} (have). You'll learn these in Unit 10.",
+      "quiz": [
+        {
+          "q": "毎晩[まいばん]テレビ＿＿見[み]ます。",
+          "en": "I watch TV every night.",
+          "choices": [
+            "に",
+            "を",
+            "へ",
+            "が"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "何[なに]＿＿飲[の]みますか。",
+          "en": "What will you drink?",
+          "choices": [
+            "を",
+            "へ",
+            "は",
+            "の"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n5-masen",
+      "title": "〜ません",
+      "meaning": "don't / won't (polite negative)",
+      "structure": "Verb stem + ません",
+      "explanation": "To make a polite verb negative, swap {ます} for {ません}. That's it. It works the same for all three verb groups.\n\n- {飲[の]みます} → {飲[の]みません} (don't / won't drink)\n- {食[た]べます} → {食[た]べません} (don't / won't eat)\n- {します} → {しません} (don't / won't do)\n- {来[き]ます} → {来[き]ません} (don't / won't come)\n\nLike {ます}, it covers both habits ('I don't drink') and the future ('I won't drink tonight').\n\nIn negative sentences, the object marker {を} is often replaced by {は} to add a contrast: {肉[にく]は食[た]べません} 'Meat, I don't eat (but other things are fine).'",
+      "examples": [
+        {
+          "jp": "私[わたし]はお酒[さけ]を飲[の]みません。",
+          "en": "I don't drink alcohol."
+        },
+        {
+          "jp": "日曜日[にちようび]は働[はたら]きません。",
+          "en": "I don't work on Sundays."
+        },
+        {
+          "jp": "肉[にく]は食[た]べません。",
+          "en": "I don't eat meat."
+        },
+        {
+          "jp": "明日[あした]は学校[がっこう]へ行[い]きません。",
+          "en": "I won't go to school tomorrow."
+        },
+        {
+          "jp": "田中[たなか]さんはパーティーに来[き]ません。",
+          "en": "Mr. Tanaka isn't coming to the party."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "私[わたし]はたばこを吸[す]い＿＿。",
+          "en": "I don't smoke.",
+          "choices": [
+            "ません",
+            "ないです",
+            "じゃありません",
+            "ます"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "日曜日[にちようび]は仕事[しごと]を＿＿。",
+          "en": "I don't work on Sundays.",
+          "choices": [
+            "すません",
+            "しないません",
+            "します",
+            "しません"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n5-mashita",
+      "title": "〜ました / 〜ませんでした",
+      "meaning": "did / didn't (polite past)",
+      "structure": "Verb stem + ました / ませんでした",
+      "explanation": "The polite past is just as regular:\n\n- {ます} → {ました} (did)\n- {ません} → {ませんでした} (didn't)\n\n{見[み]ます} (watch) → {見[み]ました} (watched) → {見[み]ませんでした} (didn't watch)\n\nWith these four endings ({ます, ません, ました, ませんでした}) you can already talk about your daily life, your plans and what happened yesterday.\n\nA very useful question is {週末[しゅうまつ]は何[なに]をしましたか。} 'What did you do on the weekend?' Coworkers ask it all the time on Monday morning.",
+      "examples": [
+        {
+          "jp": "昨日[きのう]、映画[えいが]を見[み]ました。",
+          "en": "I watched a movie yesterday."
+        },
+        {
+          "jp": "週末[しゅうまつ]は何[なに]をしましたか。",
+          "en": "What did you do on the weekend?"
+        },
+        {
+          "jp": "去年[きょねん]、日本[にほん]へ行[い]きました。",
+          "en": "I went to Japan last year."
+        },
+        {
+          "jp": "今朝[けさ]、朝[あさ]ご飯[はん]を食[た]べませんでした。",
+          "en": "I didn't eat breakfast this morning."
+        },
+        {
+          "jp": "昨日[きのう]は勉強[べんきょう]しませんでした。",
+          "en": "I didn't study yesterday."
+        }
+      ],
+      "notes": "To say 'I haven't done it yet', Japanese uses a different form ({まだ〜ていません}), not {ませんでした}. You'll learn it in Unit 11.",
+      "quiz": [
+        {
+          "q": "昨日[きのう]、友達[ともだち]に会[あ]い＿＿。",
+          "en": "I met a friend yesterday.",
+          "choices": [
+            "ました",
+            "ます",
+            "でした",
+            "ませんでした"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "今朝[けさ]は何[なに]も食[た]べ＿＿。",
+          "en": "I didn't eat anything this morning.",
+          "choices": [
+            "ます",
+            "ませんでした",
+            "でした",
+            "ました"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n5-masenka",
+      "title": "〜ませんか",
+      "meaning": "won't you ~? / would you like to ~? (invitation)",
+      "structure": "Verb stem + ませんか",
+      "explanation": "To invite someone politely, ask a negative question: {〜ませんか} literally 'Won't you ~?'. It sounds gentle because it leaves the other person free to say no.\n\n{いっしょに映画[えいが]を見[み]ませんか。} 'Would you like to watch a movie together?'\n\n{いっしょに} (together) often goes with it.\n\nHow to reply:\n\n- Accept: {いいですね。} 'Sounds good!'\n- Decline politely: {すみません、ちょっと…} 'Sorry, it's a bit...' Japanese people often trail off rather than giving a direct no. The listener understands.",
+      "examples": [
+        {
+          "jp": "いっしょに映画[えいが]を見[み]ませんか。",
+          "en": "Would you like to watch a movie together?"
+        },
+        {
+          "jp": "お茶[ちゃ]を飲[の]みませんか。",
+          "en": "Would you like some tea?"
+        },
+        {
+          "jp": "週末[しゅうまつ]、テニスをしませんか。",
+          "en": "Do you want to play tennis this weekend?"
+        },
+        {
+          "jp": "今度[こんど]の土曜日[どようび]、うちへ来[き]ませんか。",
+          "en": "Would you like to come to my place this Saturday?"
+        }
+      ],
+      "notes": "{〜ませんか} is more considerate than {〜ましょう} (next point), because it asks about the other person's wishes. It's the better choice when inviting someone you don't know well.",
+      "quiz": [
+        {
+          "q": "いっしょにコーヒーを＿＿。",
+          "en": "Would you like to have coffee together?",
+          "choices": [
+            "飲[の]みませんか",
+            "飲[の]みましたか",
+            "飲[の]みないか",
+            "飲[の]みませんでしたか"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "週末[しゅうまつ]、いっしょに買[か]い物[もの]に行[い]き＿＿。",
+          "en": "Would you like to go shopping together this weekend?",
+          "choices": [
+            "ないか",
+            "ませんか",
+            "ましたか",
+            "ませんでした"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n5-mashou",
+      "title": "〜ましょう / 〜ましょうか",
+      "meaning": "let's ~ / shall we ~? / shall I ~?",
+      "structure": "Verb stem + ましょう / ましょうか",
+      "explanation": "{〜ましょう} means 'Let's ~'. Use it to suggest doing something together, or to respond happily to an invitation.\n\n{いっしょに帰[かえ]りましょう。} 'Let's go home together.'\n\nAdd {か} and it becomes a softer suggestion or an offer:\n\n- **Shall we?** {何[なに]を食[た]べましょうか。} 'What shall we eat?'\n- **Shall I?** (offering help) {窓[まど]を開[あ]けましょうか。} 'Shall I open the window?'\n\nA natural conversation: A: {映画[えいが]を見[み]ませんか。} B: {いいですね。見[み]ましょう。} 'Sounds good. Let's!'",
+      "examples": [
+        {
+          "jp": "いっしょに帰[かえ]りましょう。",
+          "en": "Let's go home together."
+        },
+        {
+          "jp": "少[すこ]し休[やす]みましょう。",
+          "en": "Let's take a short break."
+        },
+        {
+          "jp": "駅[えき]で会[あ]いましょう。",
+          "en": "Let's meet at the station."
+        },
+        {
+          "jp": "何[なに]を食[た]べましょうか。",
+          "en": "What shall we eat?"
+        },
+        {
+          "jp": "窓[まど]を開[あ]けましょうか。",
+          "en": "Shall I open the window?"
+        }
+      ],
+      "notes": "To offer help at work, {手伝[てつだ]いましょうか} ('Shall I help?') is a very useful phrase.",
+      "quiz": [
+        {
+          "q": "もう六時[ろくじ]ですね。帰[かえ]り＿＿。",
+          "en": "It's already six. Let's go home.",
+          "choices": [
+            "でしょう",
+            "ました",
+            "ませんでした",
+            "ましょう"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "重[おも]いですね。持[も]ち＿＿か。",
+          "en": "That looks heavy. Shall I carry it?",
+          "choices": [
+            "ましょう",
+            "ます",
+            "ました",
+            "ません"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

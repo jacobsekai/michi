@@ -1,0 +1,55 @@
+{
+  "id": "life-time-off",
+  "title": "Asking for time off & sick days",
+  "level": "N3",
+  "intro": "Japanese law gives employees paid annual leave ({年次[ねんじ]有給[ゆうきゅう]休暇[きゅうか]}, usually just {有給[ゆうきゅう]}). In broad terms, after about six months of continuous employment with good attendance, full-time workers receive an initial allowance of days, which increases with years of service, and employers must make sure that workers with a sufficient allowance actually take a minimum number of days each year. Unused days can be carried over for a limited time. The exact numbers depend on your situation and company, so check your contract, your company's work rules ({就業[しゅうぎょう]規則[きそく]}) and official labor guidance.\n\nIn practice, ask for leave well in advance, follow your company's request system, and coordinate with your team so your work is covered. You generally don't need to give a detailed reason; {私用[しよう]のため} (for personal reasons) is the standard phrase.\n\nThere is no general legal requirement for separate paid sick leave, so many people use {有給[ゆうきゅう]} days when they are ill; some companies offer their own sick leave. If you are off work for a long illness, employee health insurance may pay a partial income allowance ({傷病[しょうびょう]手当金[てあてきん]}) after a waiting period.\n\nWhen you are sick, contact your boss before your start time, by phone or by the method your team uses. Keep it short: what is wrong, that you will rest, and how urgent work is being handled. Major holiday periods are Golden Week in spring, Obon in August and the New Year holidays, when trains and flights are very busy.",
+  "phrases": [
+    { "jp": "来月[らいげつ]の10日[とおか]に、有給[ゆうきゅう]をいただきたいのですが。", "en": "I'd like to take paid leave on the 10th of next month." },
+    { "jp": "私用[しよう]のため、休[やす]みをいただけますでしょうか。", "en": "Could I take a day off for personal reasons?" },
+    { "jp": "申[もう]し訳[わけ]ありませんが、熱[ねつ]があるので、本日[ほんじつ]はお休[やす]みさせてください。", "en": "I'm sorry, but I have a fever, so please let me take today off." },
+    { "jp": "病院[びょういん]に寄[よ]ってから出社[しゅっしゃ]します。", "en": "I'll come in after stopping by the hospital." },
+    { "jp": "午前[ごぜん]半休[はんきゅう]をいただけますか。", "en": "Could I take the morning off (a half day)?" },
+    { "jp": "体調[たいちょう]が悪[わる]いので、早退[そうたい]させていただけますか。", "en": "I'm not feeling well. May I leave early?" },
+    { "jp": "電車[でんしゃ]が遅延[ちえん]していて、15分[じゅうごふん]ほど遅[おく]れます。", "en": "My train is delayed, so I'll be about 15 minutes late." },
+    { "jp": "急[いそ]ぎの件[けん]は、田中[たなか]さんにお願[ねが]いしてあります。", "en": "I've asked Ms. Tanaka to handle anything urgent." },
+    { "jp": "緊急[きんきゅう]の場合[ばあい]は、携帯[けいたい]にご連絡[れんらく]ください。", "en": "In an emergency, please contact me on my mobile." },
+    { "jp": "家族[かぞく]の事情[じじょう]で、一週間[いっしゅうかん]ほど帰国[きこく]したいのですが。", "en": "Because of a family matter, I'd like to go back to my country for about a week." },
+    { "jp": "有給[ゆうきゅう]はあと何日[なんにち]残[のこ]っていますか。", "en": "How many days of paid leave do I have left?" },
+    { "jp": "お休[やす]みをいただき、ありがとうございました。", "en": "Thank you for letting me take time off." },
+    { "jp": "ご迷惑[めいわく]をおかけしました。", "en": "Sorry for the trouble I caused (while I was away)." }
+  ],
+  "vocab": [
+    { "jp": "有給[ゆうきゅう]休暇[きゅうか]", "en": "paid leave" },
+    { "jp": "休暇[きゅうか]", "en": "holiday, leave" },
+    { "jp": "半休[はんきゅう]", "en": "half-day off" },
+    { "jp": "欠勤[けっきん]", "en": "absence from work" },
+    { "jp": "早退[そうたい]", "en": "leaving early" },
+    { "jp": "遅刻[ちこく]", "en": "being late" },
+    { "jp": "体調[たいちょう]不良[ふりょう]", "en": "feeling unwell" },
+    { "jp": "私用[しよう]", "en": "personal business" },
+    { "jp": "申請[しんせい]", "en": "request, application" },
+    { "jp": "代休[だいきゅう]", "en": "compensatory day off" },
+    { "jp": "引[ひ]き継[つ]ぎ", "en": "handover (of work)" },
+    { "jp": "傷病[しょうびょう]手当金[てあてきん]", "en": "sickness and injury allowance (health insurance)" },
+    { "jp": "遅延[ちえん]証明書[しょうめいしょ]", "en": "train delay certificate" },
+    { "jp": "年末年始[ねんまつねんし]", "en": "New Year holiday period" }
+  ],
+  "dialogue": [
+    { "speaker": "You", "jp": "おはようございます。スミスです。朝[あさ]早[はや]くに申[もう]し訳[わけ]ありません。", "en": "Good morning, it's Smith. Sorry to call so early." },
+    { "speaker": "Manager", "jp": "おはよう。どうしたの？", "en": "Morning. What's up?" },
+    { "speaker": "You", "jp": "昨夜[さくや]から熱[ねつ]が38度[さんじゅうはちど]ありまして、本日[ほんじつ]はお休[やす]みをいただきたいのですが。", "en": "I've had a fever of 38 degrees since last night, so I'd like to take today off." },
+    { "speaker": "Manager", "jp": "それは大変[たいへん]だね。今日[きょう]はゆっくり休[やす]んで。", "en": "That's rough. Take it easy today." },
+    { "speaker": "You", "jp": "ありがとうございます。10時[じゅうじ]のA社[しゃ]との打[う]ち合[あ]わせは、田中[たなか]さんに代[か]わりに出[で]ていただけるよう、お願[ねが]いしてあります。", "en": "Thank you. I've asked Ms. Tanaka to attend the 10 o'clock meeting with Company A in my place." },
+    { "speaker": "Manager", "jp": "わかった。病院[びょういん]には行[い]く？", "en": "OK. Are you going to see a doctor?" },
+    { "speaker": "You", "jp": "はい、午前中[ごぜんちゅう]に行[い]ってきます。", "en": "Yes, I'll go this morning." },
+    { "speaker": "Manager", "jp": "有給[ゆうきゅう]で処理[しょり]しておくから、明日[あした]の朝[あさ]、また体調[たいちょう]を連絡[れんらく]してくれる？", "en": "I'll process it as paid leave. Can you let me know how you're feeling tomorrow morning?" },
+    { "speaker": "You", "jp": "承知[しょうち]しました。ご迷惑[めいわく]をおかけして申[もう]し訳[わけ]ありません。", "en": "Understood. I'm sorry for the inconvenience." }
+  ],
+  "tips": [
+    "Request long holidays, such as a trip home, as early as possible and avoid your team's busiest periods if you can.",
+    "Before taking leave, tell the relevant people and arrange a handover so nobody has to chase you.",
+    "Bringing back a small box of individually wrapped sweets after a long holiday is a common thank-you to your team.",
+    "If your train is delayed, get a delay certificate ({遅延[ちえん]証明書[しょうめいしょ]}) from the station or the rail company's website; some workplaces ask for it.",
+    "If you are seriously ill for a long time, ask HR about {傷病[しょうびょう]手当金[てあてきん]} and other support rather than just using up your leave."
+  ]
+}
