@@ -1,0 +1,128 @@
+{
+  "id": "n2-u08",
+  "title": "Setting, range, and limits",
+  "summary": "Formal ways to mark where and across what something happens ({において}, {にわたって}, {を通[つう]じて}), conditions and limits ({限[かぎ]り}, {限[かぎ]りでは}, {に限[かぎ]って}), and leading examples ({をはじめ}).",
+  "points": [
+    {
+      "id": "n2-nioite",
+      "title": "〜において / 〜における",
+      "meaning": "in; at; in the field of (formal)",
+      "structure": "Noun + において（は / も）　／　Noun + における + Noun",
+      "explanation": "{において} is the formal written equivalent of the location/time particle {で}. It marks the **place, time, situation or field** where something happens: {本社[ほんしゃ]において}, {現代[げんだい]社会[しゃかい]において}, {医療[いりょう]の分野[ぶんや]において}.\n\nYou will find it in official announcements, news, academic writing and speeches. In daily conversation, {で} is normal.\n\nTo modify a noun, use {における}: {日本[にほん]における外国人[がいこくじん]労働者[ろうどうしゃ]} (\"foreign workers in Japan\"). Note that {において} cannot directly modify a noun.",
+      "examples": [
+        { "jp": "会議[かいぎ]は本社[ほんしゃ]の大会議室[だいかいぎしつ]において行[おこな]われる。", "en": "The meeting will be held in the main conference room at head office." },
+        { "jp": "現代[げんだい]社会[しゃかい]において、インターネットは欠[か]かせないものだ。", "en": "In modern society, the internet is indispensable." },
+        { "jp": "医療[いりょう]の分野[ぶんや]において、AIの活用[かつよう]が進[すす]んでいる。", "en": "In the field of medicine, the use of AI is advancing." },
+        { "jp": "日本[にほん]における外国人[がいこくじん]労働者[ろうどうしゃ]の数[かず]は、年々[ねんねん]増[ふ]えている。", "en": "The number of foreign workers in Japan is increasing year by year." }
+      ],
+      "notes": "{にとって} (\"for, from the standpoint of\") and {について} (\"about\") are different; {において} is purely about setting.",
+      "quiz": [
+        { "q": "卒業式[そつぎょうしき]は、大学[だいがく]の講堂[こうどう]＿＿行[おこな]われます。", "en": "The graduation ceremony will be held in the university auditorium.", "choices": ["にとって", "において", "に対[たい]して", "について"], "answer": 1 },
+        { "q": "経済[けいざい]の分野[ぶんや]＿＿協力[きょうりょく]について、両国[りょうこく]の首脳[しゅのう]が話[はな]し合[あ]った。", "en": "The leaders of the two countries discussed cooperation in the economic field.", "choices": ["において", "にとって", "を通[つう]じて", "における"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-niwatatte",
+      "title": "〜にわたって（にわたり / にわたる）",
+      "meaning": "over; throughout; spanning (a long time or wide area)",
+      "structure": "Noun (period / range / number of times) + にわたって・にわたり　／　にわたる + Noun",
+      "explanation": "{にわたって} emphasises that something covers a **long period or a wide range**: {三日間[みっかかん]にわたって} (over three days), {広[ひろ]い範囲[はんい]にわたって} (over a wide area), {十年[じゅうねん]にわたり} (for ten years), {五回[ごかい]にわたって} (in five sessions).\n\nIt is formal and typical in news, reports and business. {にわたる} + noun modifies a noun; the set phrase {多岐[たき]にわたる} means \"wide-ranging\".\n\nCompare {AからBにかけて}, which needs a start and an end point: {関東[かんとう]から東北[とうほく]にかけて}. {にわたって} takes a single noun that already expresses the whole span.",
+      "examples": [
+        { "jp": "会議[かいぎ]は三日間[みっかかん]にわたって行[おこな]われた。", "en": "The conference was held over three days." },
+        { "jp": "大雨[おおあめ]の影響[えいきょう]で、広[ひろ]い範囲[はんい]にわたって停電[ていでん]が発生[はっせい]した。", "en": "Due to heavy rain, power outages occurred over a wide area." },
+        { "jp": "彼[かれ]は十年[じゅうねん]にわたり、この地域[ちいき]の調査[ちょうさ]を続[つづ]けてきた。", "en": "He has continued his research in this region for ten years." },
+        { "jp": "彼女[かのじょ]の仕事[しごと]の内容[ないよう]は多岐[たき]にわたる。", "en": "Her work covers a wide range of tasks." }
+      ],
+      "quiz": [
+        { "q": "工事[こうじ]は二年[にねん]＿＿続[つづ]く予定[よてい]だ。", "en": "The construction is scheduled to continue for two years.", "choices": ["にわたって", "にあたって", "に先立[さきだ]って", "をめぐって"], "answer": 0 },
+        { "q": "関東地方[かんとうちほう]の広[ひろ]い範囲[はんい]＿＿、雪[ゆき]が降[ふ]り続[つづ]いた。", "en": "Snow continued to fall across a wide area of the Kanto region.", "choices": ["にかけて", "について", "にわたって", "に際[さい]して"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-wotsuujite",
+      "title": "〜を通[つう]じて / 〜を通[とお]して",
+      "meaning": "through (a means or person); throughout (a period)",
+      "structure": "Noun + を通[つう]じて / を通[とお]して",
+      "explanation": "Both forms have two meanings.\n\n**1. Means or channel**: \"through, via\" a person, medium or experience: {友人[ゆうじん]を通[つう]じて知[し]り合[あ]った} (met through a friend), {ボランティアを通[とお]して学[まな]んだ} (learned through volunteering).\n\n**2. Throughout a period**: {一年[いちねん]を通[つう]じて} (all year round), {生涯[しょうがい]を通[つう]じて} (throughout one's life).\n\nThe two are largely interchangeable. {通[つう]じて} sounds a bit more formal and neutral (news: information spread via the internet), while {通[とお]して} slightly emphasises a means someone actively uses ({通訳[つうやく]を通[とお]して話[はな]す}, {経験[けいけん]を通[とお]して}).",
+      "examples": [
+        { "jp": "友人[ゆうじん]を通[つう]じて、今[いま]の会社[かいしゃ]を紹介[しょうかい]してもらった。", "en": "I was introduced to my current company through a friend." },
+        { "jp": "この島[しま]は一年[いちねん]を通[つう]じて暖[あたた]かい。", "en": "This island is warm all year round." },
+        { "jp": "ボランティア活動[かつどう]を通[とお]して、多[おお]くのことを学[まな]んだ。", "en": "I learned a great deal through volunteer work." },
+        { "jp": "事故[じこ]の情報[じょうほう]は、テレビやインターネットを通[つう]じて広[ひろ]がった。", "en": "News of the accident spread through TV and the internet." }
+      ],
+      "quiz": [
+        { "q": "沖縄[おきなわ]は一年[いちねん]＿＿、気候[きこう]が温暖[おんだん]だ。", "en": "Okinawa has a mild climate all year round.", "choices": ["をめぐって", "に先立[さきだ]って", "を通[つう]じて", "に限[かぎ]って"], "answer": 2 },
+        { "q": "テレビの画面[がめん]を＿＿、世界中[せかいじゅう]の人々[ひとびと]がその瞬間[しゅんかん]を見守[みまも]った。", "en": "People all over the world watched that moment through their TV screens.", "choices": ["問[と]わず", "通[とお]して", "除[のぞ]いて", "めぐって"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "n2-kagiri",
+      "title": "〜限[かぎ]り",
+      "meaning": "as long as; unless (ない限り); to the limit of",
+      "structure": "V-dictionary / V-ている / V-ない / Noun + である + 限[かぎ]り　／　できる限[かぎ]り",
+      "explanation": "{限[かぎ]り} means \"limit\" and has two main uses.\n\n**1. Condition, \"as long as\"**: the second half holds true while the condition lasts: {生[い]きている限[かぎ]り} (as long as I live). With a negative, {〜ない限[かぎ]り} means **\"unless\"**: {雨[あめ]が降[ふ]らない限[かぎ]り、試合[しあい]は行[おこな]う} (unless it rains, the match goes ahead).\n\n**2. Maximum extent**: {できる限[かぎ]り} (as much as possible), {力[ちから]の限[かぎ]り} (with all one's strength).\n\nBoth uses are common in speech and writing; {ない限[かぎ]り} is frequent in rules and notices.",
+      "examples": [
+        { "jp": "生[い]きている限[かぎ]り、このご恩[おん]は忘[わす]れません。", "en": "As long as I live, I will never forget your kindness." },
+        { "jp": "雨[あめ]が降[ふ]らない限[かぎ]り、試合[しあい]は予定通[よていどお]り行[おこな]われる。", "en": "Unless it rains, the match will go ahead as planned." },
+        { "jp": "日本[にほん]に住[す]んでいる限[かぎ]り、地震[じしん]への備[そな]えは欠[か]かせない。", "en": "As long as you live in Japan, earthquake preparedness is essential." },
+        { "jp": "お客様[きゃくさま]のご要望[ようぼう]には、できる限[かぎ]りお応[こた]えします。", "en": "We will meet our customers' requests as far as we possibly can." }
+      ],
+      "quiz": [
+        { "q": "よほどの理由[りゆう]がない＿＿、遅刻[ちこく]は認[みと]められません。", "en": "Unless there's a very good reason, lateness will not be accepted.", "choices": ["限[かぎ]って", "限[かぎ]り", "以来[いらい]", "末[すえ]"], "answer": 1 },
+        { "q": "私[わたし]が社長[しゃちょう]である＿＿、この方針[ほうしん]は変[か]えない。", "en": "As long as I am president, this policy will not change.", "choices": ["次第[しだい]", "一方[いっぽう]", "限[かぎ]り", "あげく"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-kagiridewa",
+      "title": "〜限[かぎ]りでは",
+      "meaning": "as far as (I know / have seen / heard)",
+      "structure": "V (知[し]る・見[み]る・聞[き]く・調[しら]べる etc.) + 限[かぎ]りでは",
+      "explanation": "{限[かぎ]りでは} limits a statement to the speaker's **range of knowledge or experience**: \"as far as I know\", \"from what I've seen\", \"based on what we looked into\". It signals that the information may be incomplete, which makes it a careful, responsible way to report facts at work.\n\nIt combines with verbs of perception and research in various forms: {知[し]っている限[かぎ]りでは}, {見[み]た限[かぎ]りでは}, {聞[き]いた限[かぎ]りでは}, {調[しら]べた限[かぎ]りでは}. {私[わたし]の知[し]る限[かぎ]り} is a common fixed version.\n\nThe second half is a judgment or report, often ending in {〜ようだ}, {〜そうだ} or a negative.",
+      "examples": [
+        { "jp": "私[わたし]が知[し]っている限[かぎ]りでは、彼[かれ]はまだ独身[どくしん]です。", "en": "As far as I know, he's still single." },
+        { "jp": "天気予報[てんきよほう]を見[み]た限[かぎ]りでは、週末[しゅうまつ]は晴[は]れそうだ。", "en": "From what I saw in the forecast, it looks like it'll be sunny at the weekend." },
+        { "jp": "調[しら]べた限[かぎ]りでは、そのような記録[きろく]は見[み]つかりませんでした。", "en": "As far as we could find, there is no such record." },
+        { "jp": "私[わたし]が聞[き]いている限[かぎ]りでは、会議[かいぎ]は来週[らいしゅう]に延期[えんき]になったそうです。", "en": "From what I've heard, the meeting has been postponed to next week." }
+      ],
+      "quiz": [
+        { "q": "私[わたし]の知[し]る＿＿、この近[ちか]くにコンビニはありません。", "en": "As far as I know, there's no convenience store near here.", "choices": ["限[かぎ]りでは", "限[かぎ]って", "以上[いじょう]は", "上[うえ]で"], "answer": 0 },
+        { "q": "書類[しょるい]を確認[かくにん]した＿＿、特[とく]に問題[もんだい]はないようです。", "en": "As far as I could tell from checking the documents, there don't seem to be any problems.", "choices": ["あげく", "末[すえ]に", "一方[いっぽう]で", "限[かぎ]りでは"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-nikagitte",
+      "title": "〜に限[かぎ]って / 〜に限[かぎ]り",
+      "meaning": "only (for); of all times / people; X of all people wouldn't",
+      "structure": "Noun + に限[かぎ]って・に限[かぎ]り",
+      "explanation": "{に限[かぎ]って} has three uses.\n\n**1. \"Of all times\" (Murphy's law)**: something annoying happens precisely when it's least convenient: {急[いそ]いでいる時[とき]に限[かぎ]って電車[でんしゃ]が遅[おく]れる}.\n\n**2. \"X of all people wouldn't...\"**: strong trust in someone: {うちの子[こ]に限[かぎ]って、そんなことはしない}.\n\n**3. \"Only, limited to\"** (usually {に限[かぎ]り} in notices and shops): {本日[ほんじつ]に限[かぎ]り} (today only), {先着[せんちゃく]百名様[ひゃくめいさま]に限[かぎ]り} (first 100 customers only).\n\nUses 1 and 2 are conversational; use 3 is formal and very common on signs and in ads.",
+      "examples": [
+        { "jp": "急[いそ]いでいる時[とき]に限[かぎ]って、電車[でんしゃ]が遅[おく]れる。", "en": "The train is always late precisely when I'm in a hurry." },
+        { "jp": "傘[かさ]を持[も]っていない日[ひ]に限[かぎ]って、雨[あめ]が降[ふ]る。", "en": "It always rains on the one day I don't have an umbrella." },
+        { "jp": "うちの子[こ]に限[かぎ]って、そんなことをするはずがない。", "en": "My child, of all people, would never do such a thing." },
+        { "jp": "本日[ほんじつ]に限[かぎ]り、全品[ぜんぴん]二割引[にわりびき]です。", "en": "Today only, everything is 20% off." }
+      ],
+      "notes": "{に限[かぎ]らず} means \"not only\": {子[こ]どもに限[かぎ]らず大人[おとな]も楽[たの]しめる} (\"not just children, adults can enjoy it too\").",
+      "quiz": [
+        { "q": "大事[だいじ]な会議[かいぎ]がある日[ひ]＿＿、寝坊[ねぼう]してしまう。", "en": "It's always on the day of an important meeting that I oversleep.", "choices": ["にわたって", "において", "に限[かぎ]って", "を通[つう]じて"], "answer": 2 },
+        { "q": "先着[せんちゃく]百名様[ひゃくめいさま]＿＿、記念品[きねんひん]を差[さ]し上[あ]げます。", "en": "A commemorative gift will be given to the first 100 customers only.", "choices": ["にわたり", "に限[かぎ]り", "に伴[ともな]い", "に先立[さきだ]ち"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "n2-wohajime",
+      "title": "〜をはじめ（として）",
+      "meaning": "starting with; including (as a main example)",
+      "structure": "Noun + をはじめ・をはじめとして　／　をはじめとする + Noun",
+      "explanation": "{をはじめ} picks out the most important or representative member of a group and then widens the statement to the rest: \"Tokyo and other major cities\", \"the president and all the staff\".\n\nIt is formal and used in news, speeches, guidebooks and business writing. The second half usually contains a broader word like {全国[ぜんこく]}, {多[おお]くの}, {様々[さまざま]な} or {全員[ぜんいん]}.\n\n{をはじめとする} + noun modifies a noun: {寿司[すし]をはじめとする日本料理[にほんりょうり]} (\"Japanese food, sushi first and foremost\").",
+      "examples": [
+        { "jp": "日本[にほん]には、寿司[すし]をはじめ、おいしい料理[りょうり]がたくさんある。", "en": "Japan has lots of delicious food, starting with sushi." },
+        { "jp": "社長[しゃちょう]をはじめとして、社員[しゃいん]全員[ぜんいん]が式[しき]に出席[しゅっせき]した。", "en": "Everyone from the president down attended the ceremony." },
+        { "jp": "東京[とうきょう]をはじめ、全国[ぜんこく]の主要[しゅよう]都市[とし]で大会[たいかい]が行[おこな]われる。", "en": "The event will take place in Tokyo and other major cities across the country." },
+        { "jp": "この店[みせ]では、ラーメンをはじめとする様々[さまざま]な麺類[めんるい]が楽[たの]しめる。", "en": "At this restaurant you can enjoy all kinds of noodles, ramen above all." }
+      ],
+      "quiz": [
+        { "q": "京都[きょうと]には、金閣寺[きんかくじ]＿＿、有名[ゆうめい]なお寺[てら]がたくさんある。", "en": "Kyoto has many famous temples, Kinkaku-ji first among them.", "choices": ["を除[のぞ]いて", "を問[と]わず", "をめぐって", "をはじめ"], "answer": 3 },
+        { "q": "校長先生[こうちょうせんせい]＿＿、多[おお]くの先生方[せんせいがた]が卒業式[そつぎょうしき]に出席[しゅっせき]された。", "en": "Many teachers, starting with the principal, attended the graduation ceremony.", "choices": ["をはじめ", "に限[かぎ]って", "にわたって", "において"], "answer": 0 }
+      ]
+    }
+  ]
+}

@@ -10,15 +10,50 @@
       "structure": "Noun / い-adj stem / Verb-ます stem + っぽい (conjugates like an い-adjective)",
       "explanation": "{〜っぽい} is a casual, very common suffix with three related uses.\n\n- **Has the feel of ~ (though it isn't):** {子供[こども]っぽい} 'childish' (said of an adult), {白[しろ]っぽい} 'whitish'.\n- **Tends to ~ easily** (with verb stems): {忘[わす]れっぽい} 'forgetful', {怒[おこ]りっぽい} 'quick to anger'.\n- **Seems like ~** (casual guess): {風邪[かぜ]っぽい} 'I think I'm coming down with a cold', {あの人[ひと]、日本人[にほんじん]っぽいね} 'He seems Japanese.'\n\nIt conjugates like an {い}-adjective: {っぽくない}, {っぽかった}, {っぽくなる}. It often carries a slightly negative feeling, and it's too casual for formal writing.",
       "examples": [
-        { "jp": "彼[かれ]はもう三十歳[さんじゅっさい]なのに、考[かんが]え方[かた]が子供[こども]っぽい。", "en": "He's already thirty, but the way he thinks is childish." },
-        { "jp": "最近[さいきん]忘[わす]れっぽくなって、よく鍵[かぎ]をなくす。", "en": "I've become forgetful lately and often lose my keys." },
-        { "jp": "白[しろ]っぽいシャツを探[さが]しています。", "en": "I'm looking for a whitish shirt." },
-        { "jp": "朝[あさ]から少[すこ]し熱[ねつ]っぽいので、今日[きょう]は早[はや]めに帰[かえ]ります。", "en": "I've felt a bit feverish since this morning, so I'm going home early today." },
-        { "jp": "父[ちち]は怒[おこ]りっぽい性格[せいかく]だ。", "en": "My father has a short temper." }
+        {
+          "jp": "彼[かれ]はもう三十歳[さんじゅっさい]なのに、考[かんが]え方[かた]が子供[こども]っぽい。",
+          "en": "He's already thirty, but the way he thinks is childish."
+        },
+        {
+          "jp": "最近[さいきん]忘[わす]れっぽくなって、よく鍵[かぎ]をなくす。",
+          "en": "I've become forgetful lately and often lose my keys."
+        },
+        {
+          "jp": "白[しろ]っぽいシャツを探[さが]しています。",
+          "en": "I'm looking for a whitish shirt."
+        },
+        {
+          "jp": "朝[あさ]から少[すこ]し熱[ねつ]っぽいので、今日[きょう]は早[はや]めに帰[かえ]ります。",
+          "en": "I've felt a bit feverish since this morning, so I'm going home early today."
+        },
+        {
+          "jp": "父[ちち]は怒[おこ]りっぽい性格[せいかく]だ。",
+          "en": "My father has a short temper."
+        }
       ],
       "quiz": [
-        { "q": "祖母[そぼ]は最近[さいきん]、忘[わす]れ＿＿なって、同[おな]じ話[はなし]を何度[なんど]もする。", "en": "My grandmother has become forgetful lately and tells the same story over and over.", "choices": ["っぽく", "らしく", "みたいに", "ように"], "answer": 0 },
-        { "q": "あの人[ひと]、日本人[にほんじん]＿＿けど、実[じつ]は韓国[かんこく]の人[ひと]なんだって。", "en": "That person seems Japanese, but apparently he's actually Korean.", "choices": ["っぽい", "がちだ", "気味[ぎみ]だ", "ばかりだ"], "answer": 0 }
+        {
+          "q": "祖母[そぼ]は最近[さいきん]、忘[わす]れ＿＿なって、同[おな]じ話[はなし]を何度[なんど]もする。",
+          "en": "My grandmother has become forgetful lately and tells the same story over and over.",
+          "choices": [
+            "っぽく",
+            "みたいに",
+            "らしく",
+            "ように"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "あの人[ひと]、日本人[にほんじん]＿＿けど、実[じつ]は韓国[かんこく]の人[ひと]なんだって。",
+          "en": "That person seems Japanese, but apparently he's actually Korean.",
+          "choices": [
+            "気味[ぎみ]だ",
+            "がちだ",
+            "っぽい",
+            "ばかりだ"
+          ],
+          "answer": 2
+        }
       ]
     },
     {
@@ -28,15 +63,50 @@
       "structure": "Verb-ます stem + がち ; Noun + がち (がちだ / がちな + Noun / がちの + Noun)",
       "explanation": "{〜がち} says that something happens **often** or easily — usually something you'd rather avoid.\n\n{冬[ふゆ]は運動不足[うんどうぶそく]になりがちです。} 'In winter, people tend not to get enough exercise.'\n\nIt attaches to verb stems ({なりがち}, {忘[わす]れがち}, {遅[おく]れがち}) and to a limited set of nouns, especially {病気[びょうき]がち} (sickly), {曇[くも]りがち} (often cloudy), and {留守[るす]がち} (often away from home).\n\nThink of {がち} as being about **frequency**: the thing keeps happening, or there's a strong tendency for it to happen.",
       "examples": [
-        { "jp": "冬[ふゆ]は運動不足[うんどうぶそく]になりがちです。", "en": "In winter, it's easy not to get enough exercise." },
-        { "jp": "忙[いそが]しいと、食事[しょくじ]の時間[じかん]が不規則[ふきそく]になりがちだ。", "en": "When you're busy, mealtimes tend to become irregular." },
-        { "jp": "一人暮[ひとりぐ]らしを始[はじ]めると、外食[がいしょく]が多[おお]くなりがちだ。", "en": "When you start living alone, you tend to eat out a lot." },
-        { "jp": "彼[かれ]は子供[こども]の頃[ころ]、病気[びょうき]がちで、よく学校[がっこう]を休[やす]んでいた。", "en": "He was sickly as a child and often missed school." },
-        { "jp": "今週[こんしゅう]は曇[くも]りがちの天気[てんき]が続[つづ]くでしょう。", "en": "This week, the weather will tend to stay cloudy." }
+        {
+          "jp": "冬[ふゆ]は運動不足[うんどうぶそく]になりがちです。",
+          "en": "In winter, it's easy not to get enough exercise."
+        },
+        {
+          "jp": "忙[いそが]しいと、食事[しょくじ]の時間[じかん]が不規則[ふきそく]になりがちだ。",
+          "en": "When you're busy, mealtimes tend to become irregular."
+        },
+        {
+          "jp": "一人暮[ひとりぐ]らしを始[はじ]めると、外食[がいしょく]が多[おお]くなりがちだ。",
+          "en": "When you start living alone, you tend to eat out a lot."
+        },
+        {
+          "jp": "彼[かれ]は子供[こども]の頃[ころ]、病気[びょうき]がちで、よく学校[がっこう]を休[やす]んでいた。",
+          "en": "He was sickly as a child and often missed school."
+        },
+        {
+          "jp": "今週[こんしゅう]は曇[くも]りがちの天気[てんき]が続[つづ]くでしょう。",
+          "en": "This week, the weather will tend to stay cloudy."
+        }
       ],
       "quiz": [
-        { "q": "仕事[しごと]が忙[いそが]しいと、睡眠[すいみん]が足[た]りなくなり＿＿だ。", "en": "When work is busy, I tend not to get enough sleep.", "choices": ["がち", "っぽい", "ばかり", "ふり"], "answer": 0 },
-        { "q": "母[はは]は子供[こども]の頃[ころ]、病気[びょうき]＿＿で、よく学校[がっこう]を休[やす]んでいたそうだ。", "en": "I hear my mother was sickly as a child and often missed school.", "choices": ["がち", "向[む]き", "っぽい", "らしい"], "answer": 0 }
+        {
+          "q": "仕事[しごと]が忙[いそが]しいと、睡眠[すいみん]が足[た]りなくなり＿＿だ。",
+          "en": "When work is busy, I tend not to get enough sleep.",
+          "choices": [
+            "っぽい",
+            "ふり",
+            "がち",
+            "ばかり"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "母[はは]は子供[こども]の頃[ころ]、病気[びょうき]＿＿で、よく学校[がっこう]を休[やす]んでいたそうだ。",
+          "en": "I hear my mother was sickly as a child and often missed school.",
+          "choices": [
+            "向[む]き",
+            "っぽい",
+            "らしい",
+            "がち"
+          ],
+          "answer": 3
+        }
       ]
     },
     {
@@ -46,14 +116,46 @@
       "structure": "Noun / Verb-ます stem + 気味[ぎみ] (気味[ぎみ]だ / 気味[ぎみ]の + Noun)",
       "explanation": "{〜気味[ぎみ]} means you are **currently** in a slight version of some state — usually an unwelcome one. {気味[ぎみ]} is related to {気[き]} (feeling), so think of it as 'a feeling of ~'.\n\n{風邪[かぜ]気味[ぎみ]} = I have a slight cold.\n{疲[つか]れ気味[ぎみ]} = I'm a bit tired.\n{太[ふと]り気味[ぎみ]} = I've put on a little weight.\n{遅[おく]れ気味[ぎみ]} = (the schedule is) running a bit behind.\n\n**Comparing three look-alikes:**\n- {風邪[かぜ]気味[ぎみ]だ} — I have a touch of a cold (right now).\n- {風邪[かぜ]をひきがちだ} — I often catch colds (tendency).\n- {風邪[かぜ]っぽい} — it feels like a cold (casual guess).",
       "examples": [
-        { "jp": "今日[きょう]は少[すこ]し風邪[かぜ]気味[ぎみ]なので、早[はや]めに寝[ね]ます。", "en": "I have a bit of a cold today, so I'll go to bed early." },
-        { "jp": "最近[さいきん]太[ふと]り気味[ぎみ]だから、甘[あま]いものを控[ひか]えている。", "en": "I've been putting on a bit of weight lately, so I'm cutting back on sweets." },
-        { "jp": "疲[つか]れ気味[ぎみ]の時[とき]は、無理[むり]をしないほうがいい。", "en": "When you're feeling a bit tired, it's better not to push yourself." },
-        { "jp": "プロジェクトのスケジュールが、少[すこ]し遅[おく]れ気味[ぎみ]です。", "en": "The project schedule is running a little behind." }
+        {
+          "jp": "今日[きょう]は少[すこ]し風邪[かぜ]気味[ぎみ]なので、早[はや]めに寝[ね]ます。",
+          "en": "I have a bit of a cold today, so I'll go to bed early."
+        },
+        {
+          "jp": "最近[さいきん]太[ふと]り気味[ぎみ]だから、甘[あま]いものを控[ひか]えている。",
+          "en": "I've been putting on a bit of weight lately, so I'm cutting back on sweets."
+        },
+        {
+          "jp": "疲[つか]れ気味[ぎみ]の時[とき]は、無理[むり]をしないほうがいい。",
+          "en": "When you're feeling a bit tired, it's better not to push yourself."
+        },
+        {
+          "jp": "プロジェクトのスケジュールが、少[すこ]し遅[おく]れ気味[ぎみ]です。",
+          "en": "The project schedule is running a little behind."
+        }
       ],
       "quiz": [
-        { "q": "昨日[きのう]からちょっと風邪[かぜ]＿＿で、頭[あたま]が痛[いた]い。", "en": "I've had a bit of a cold since yesterday, and my head hurts.", "choices": ["気味[ぎみ]", "がち", "向[む]き", "ばかり"], "answer": 0 },
-        { "q": "最近[さいきん]、運動[うんどう]していないから、少[すこ]し太[ふと]り＿＿だ。", "en": "I haven't been exercising recently, so I've put on a little weight.", "choices": ["気味[ぎみ]", "っぽい", "らしい", "向[む]け"], "answer": 0 }
+        {
+          "q": "昨日[きのう]からちょっと風邪[かぜ]＿＿で、頭[あたま]が痛[いた]い。",
+          "en": "I've had a bit of a cold since yesterday, and my head hurts.",
+          "choices": [
+            "向[む]き",
+            "気味[ぎみ]",
+            "がち",
+            "ばかり"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "最近[さいきん]、運動[うんどう]していないから、少[すこ]し太[ふと]り＿＿だ。",
+          "en": "I haven't been exercising recently, so I've put on a little weight.",
+          "choices": [
+            "っぽい",
+            "らしい",
+            "向[む]け",
+            "気味[ぎみ]"
+          ],
+          "answer": 3
+        }
       ]
     },
     {
@@ -63,14 +165,46 @@
       "structure": "Noun + らしい (らしく + Verb / らしくない)",
       "explanation": "In N4 you learned {らしい} meaning 'apparently / I hear'. Attached directly to a noun, it has a second meaning: 'having the qualities you'd expect of ~'.\n\n{今日[きょう]は春[はる]らしい天気[てんき]ですね。} 'Today's weather is just what spring should be like.'\n{遅刻[ちこく]するなんて、彼[かれ]らしくない。} 'Being late isn't like him.'\n\n**{らしい} vs {っぽい}:** {らしい} is used when something **is** X and shows X's ideal qualities. {っぽい} is used when something **looks like** X but isn't (or isn't fully). So {子供[こども]らしい} praises a child for being a natural, innocent child, while {子供[こども]っぽい} criticizes an adult for acting childish.",
       "examples": [
-        { "jp": "今日[きょう]は春[はる]らしい暖[あたた]かい日[ひ]ですね。", "en": "Today is a warm, real spring day, isn't it?" },
-        { "jp": "遅刻[ちこく]するなんて、真面目[まじめ]な彼[かれ]らしくないね。", "en": "Being late isn't like him at all — he's so conscientious." },
-        { "jp": "学生[がくせい]なんだから、学生[がくせい]らしくもっと勉強[べんきょう]しなさい。", "en": "You're a student, so study more, like a student should." },
-        { "jp": "京都[きょうと]らしい静[しず]かな町並[まちな]みが好[す]きです。", "en": "I love the quiet streets that are so typical of Kyoto." }
+        {
+          "jp": "今日[きょう]は春[はる]らしい暖[あたた]かい日[ひ]ですね。",
+          "en": "Today is a warm, real spring day, isn't it?"
+        },
+        {
+          "jp": "遅刻[ちこく]するなんて、真面目[まじめ]な彼[かれ]らしくないね。",
+          "en": "Being late isn't like him at all — he's so conscientious."
+        },
+        {
+          "jp": "学生[がくせい]なんだから、学生[がくせい]らしくもっと勉強[べんきょう]しなさい。",
+          "en": "You're a student, so study more, like a student should."
+        },
+        {
+          "jp": "京都[きょうと]らしい静[しず]かな町並[まちな]みが好[す]きです。",
+          "en": "I love the quiet streets that are so typical of Kyoto."
+        }
       ],
       "quiz": [
-        { "q": "彼女[かのじょ]がそんなひどいことを言[い]うなんて、彼女[かのじょ]＿＿ないね。いつも優[やさ]しいのに。", "en": "Saying something that cruel isn't like her. She's always so kind.", "choices": ["らしく", "気味[ぎみ]じゃ", "がちじゃ", "みたいに"], "answer": 0 },
-        { "q": "今日[きょう]は雪[ゆき]も降[ふ]って、冬[ふゆ]＿＿天気[てんき]だね。", "en": "It's even snowing today — real winter weather.", "choices": ["らしい", "がちな", "気味[ぎみ]な", "かのような"], "answer": 0 }
+        {
+          "q": "彼女[かのじょ]がそんなひどいことを言[い]うなんて、彼女[かのじょ]＿＿ないね。いつも優[やさ]しいのに。",
+          "en": "Saying something that cruel isn't like her. She's always so kind.",
+          "choices": [
+            "気味[ぎみ]じゃ",
+            "がちじゃ",
+            "らしく",
+            "みたいに"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "今日[きょう]は雪[ゆき]も降[ふ]って、冬[ふゆ]＿＿天気[てんき]だね。",
+          "en": "It's even snowing today — real winter weather.",
+          "choices": [
+            "がちな",
+            "かのような",
+            "らしい",
+            "気味[ぎみ]な"
+          ],
+          "answer": 2
+        }
       ]
     },
     {
@@ -80,14 +214,46 @@
       "structure": "Verb / い-adj (plain) + かのように ; Noun / な-adj + である + かのように ; 〜かのような + Noun",
       "explanation": "{〜かのように} describes how something looks or behaves by comparing it to something that is **not actually true**. It's often paired with {まるで} ('just like').\n\n{三月[さんがつ]なのに、まるで冬[ふゆ]に戻[もど]ったかのように寒[さむ]い。} 'It's March, but it's as cold as if winter had come back.'\n\nCompared with {ように} / {みたいに}, {かのように} puts extra stress on 'this is not really the case'. It's a little literary but common in writing, news and stories. After nouns and {な}-adjectives, use {である}: {社長[しゃちょう]であるかのように}.\n\nBefore a noun, use {かのような}: {何[なに]も知[し]らないかのような顔[かお]} 'a face as if he knew nothing'.",
       "examples": [
-        { "jp": "三月[さんがつ]なのに、まるで冬[ふゆ]に戻[もど]ったかのように寒[さむ]い。", "en": "It's March, but it's as cold as if winter had come back." },
-        { "jp": "彼[かれ]は何[なに]も知[し]らないかのような顔[かお]をしている。", "en": "He's making a face as if he knew nothing about it." },
-        { "jp": "彼女[かのじょ]は、自分[じぶん]が社長[しゃちょう]であるかのように話[はな]す。", "en": "She talks as if she were the company president." },
-        { "jp": "初[はじ]めて会[あ]ったのに、昔[むかし]からの友達[ともだち]であるかのように話[はなし]が合[あ]った。", "en": "It was our first time meeting, but we got along as if we'd been friends for years." }
+        {
+          "jp": "三月[さんがつ]なのに、まるで冬[ふゆ]に戻[もど]ったかのように寒[さむ]い。",
+          "en": "It's March, but it's as cold as if winter had come back."
+        },
+        {
+          "jp": "彼[かれ]は何[なに]も知[し]らないかのような顔[かお]をしている。",
+          "en": "He's making a face as if he knew nothing about it."
+        },
+        {
+          "jp": "彼女[かのじょ]は、自分[じぶん]が社長[しゃちょう]であるかのように話[はな]す。",
+          "en": "She talks as if she were the company president."
+        },
+        {
+          "jp": "初[はじ]めて会[あ]ったのに、昔[むかし]からの友達[ともだち]であるかのように話[はなし]が合[あ]った。",
+          "en": "It was our first time meeting, but we got along as if we'd been friends for years."
+        }
       ],
       "quiz": [
-        { "q": "彼[かれ]は全部[ぜんぶ]自分[じぶん]でやった＿＿話[はな]しているが、本当[ほんとう]はみんなで作[つく]ったものだ。", "en": "He's talking as if he did it all himself, but in fact we all made it together.", "choices": ["かのように", "ために", "わけに", "ことに"], "answer": 0 },
-        { "q": "部屋[へや]は、まるで誰[だれ]も住[す]んでいない＿＿静[しず]かだった。", "en": "The room was so quiet, it was as if no one lived there.", "choices": ["かのように", "っぽく", "がちに", "ついでに"], "answer": 0 }
+        {
+          "q": "彼[かれ]は全部[ぜんぶ]自分[じぶん]でやった＿＿話[はな]しているが、本当[ほんとう]はみんなで作[つく]ったものだ。",
+          "en": "He's talking as if he did it all himself, but in fact we all made it together.",
+          "choices": [
+            "ことに",
+            "わけに",
+            "かのように",
+            "ために"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "部屋[へや]は、まるで誰[だれ]も住[す]んでいない＿＿静[しず]かだった。",
+          "en": "The room was so quiet, it was as if no one lived there.",
+          "choices": [
+            "ついでに",
+            "がちに",
+            "っぽく",
+            "かのように"
+          ],
+          "answer": 3
+        }
       ]
     },
     {
@@ -97,14 +263,46 @@
       "structure": "Verb / い-adj (plain) + ふりをする ; な-adj + な + ふりをする ; Noun + の + ふりをする",
       "explanation": "{〜ふりをする} means to **deliberately** act as if something were true when it isn't: to pretend.\n\n{弟[おとうと]は勉強[べんきょう]しているふりをして、ゲームをしていた。} 'My little brother was pretending to study, but he was playing games.'\n\nCommon combinations: {寝[ね]ているふり} (pretend to be asleep), {知[し]らないふり} (pretend not to know), {わかったふり} (pretend to understand), {見[み]ないふり} (pretend not to see / turn a blind eye).\n\n**{ふりをする} vs {かのように}:** {ふりをする} is an intentional act by the subject. {かのように} simply describes how something appears, whether intentional or not, and can be used for things like weather.",
       "examples": [
-        { "jp": "弟[おとうと]は勉強[べんきょう]しているふりをして、ゲームをしていた。", "en": "My little brother pretended to be studying, but he was playing games." },
-        { "jp": "知[し]らないふりをしないで、ちゃんと答[こた]えてください。", "en": "Don't pretend you don't know. Answer me properly." },
-        { "jp": "わからないのに、わかったふりをするのはよくない。", "en": "It's not good to pretend you understand when you don't." },
-        { "jp": "会議中[かいぎちゅう]、彼[かれ]はメモを取[と]るふりをして、絵[え]を描[か]いていた。", "en": "During the meeting, he was pretending to take notes, but he was actually drawing." }
+        {
+          "jp": "弟[おとうと]は勉強[べんきょう]しているふりをして、ゲームをしていた。",
+          "en": "My little brother pretended to be studying, but he was playing games."
+        },
+        {
+          "jp": "知[し]らないふりをしないで、ちゃんと答[こた]えてください。",
+          "en": "Don't pretend you don't know. Answer me properly."
+        },
+        {
+          "jp": "わからないのに、わかったふりをするのはよくない。",
+          "en": "It's not good to pretend you understand when you don't."
+        },
+        {
+          "jp": "会議中[かいぎちゅう]、彼[かれ]はメモを取[と]るふりをして、絵[え]を描[か]いていた。",
+          "en": "During the meeting, he was pretending to take notes, but he was actually drawing."
+        }
       ],
       "quiz": [
-        { "q": "掃除[そうじ]をしたくないので、兄[あに]は寝[ね]ている＿＿をした。", "en": "My older brother didn't want to clean, so he pretended to be asleep.", "choices": ["ふり", "わけ", "はず", "こと"], "answer": 0 },
-        { "q": "本当[ほんとう]は知[し]っていたけど、驚[おどろ]いた＿＿をしてあげた。", "en": "I actually knew already, but I pretended to be surprised for her sake.", "choices": ["ふり", "ため", "もの", "ところ"], "answer": 0 }
+        {
+          "q": "掃除[そうじ]をしたくないので、兄[あに]は寝[ね]ている＿＿をした。",
+          "en": "My older brother didn't want to clean, so he pretended to be asleep.",
+          "choices": [
+            "こと",
+            "わけ",
+            "ふり",
+            "はず"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "本当[ほんとう]は知[し]っていたけど、驚[おどろ]いた＿＿をしてあげた。",
+          "en": "I actually knew already, but I pretended to be surprised for her sake.",
+          "choices": [
+            "もの",
+            "ところ",
+            "ため",
+            "ふり"
+          ],
+          "answer": 3
+        }
       ]
     }
   ]

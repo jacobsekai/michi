@@ -1,0 +1,407 @@
+{
+  "id": "n1-u05",
+  "title": "Not even, let alone, no need to",
+  "summary": "Emphatic and concessive patterns: 'even' ({すら}), 'not even one' ({たりとも}), 'let alone' ({はおろか}), 'whether/even if' ({であれ}, {といえども}), 'if not X, at least Y' ({ないまでも}) and 'there's no need' ({までもない}).",
+  "points": [
+    {
+      "id": "n1-sura",
+      "title": "〜すら",
+      "meaning": "even (emphasising an extreme example)",
+      "structure": "Noun (+ particle) + すら / Noun + ですら",
+      "explanation": "{すら} means 'even' and works almost exactly like {さえ}: it picks out an extreme example to imply that everything else is true too. 'There's not even time to eat lunch' implies there's no time for anything at all.\n\nIt is most often used in negative or surprising statements. After a noun that is the subject, {ですら} is common: {専門家[せんもんか]ですら} 'even experts'.\n\n**Register:** {すら} is more written and a little more dramatic than {さえ}. You'll see it constantly in essays, news and novels; in conversation {さえ} or {も} is more usual, though {すら} is not unusual in serious speech.",
+      "examples": [
+        {
+          "jp": "忙[いそが]しくて、昼[ひる]ご飯[はん]を食[た]べる時間[じかん]すらない。",
+          "en": "I'm so busy I don't even have time to eat lunch."
+        },
+        {
+          "jp": "そんな簡単[かんたん]なことは、子[こ]どもですら知[し]っている。",
+          "en": "Even a child knows something that simple."
+        },
+        {
+          "jp": "彼[かれ]は自分[じぶん]の名前[なまえ]すら漢字[かんじ]で書[か]けなかった。",
+          "en": "He couldn't even write his own name in kanji."
+        },
+        {
+          "jp": "専門家[せんもんか]ですら予測[よそく]できなかった事態[じたい]が起[お]きた。",
+          "en": "Something happened that not even the experts could have predicted."
+        }
+      ],
+      "notes": "Unlike {さえ}, {すら} is not used in the conditional pattern {〜さえ〜ば} 'if only': {時間[じかん]さえあれば} (not {✕時間[じかん]すらあれば}).",
+      "quiz": [
+        {
+          "q": "疲[つか]れ果[は]てて、立[た]ち上[あ]がる力[ちから]＿＿残[のこ]っていなかった。",
+          "en": "I was so exhausted I didn't even have the strength left to stand up.",
+          "choices": [
+            "こそ",
+            "ばかり",
+            "すら",
+            "ほど"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "この問題[もんだい]は、大学[だいがく]の先生[せんせい]で＿＿解[と]けなかった。",
+          "en": "Not even the university professors could solve this problem.",
+          "choices": [
+            "すら",
+            "こそ",
+            "しか",
+            "だけ"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-taritomo",
+      "title": "〜たりとも",
+      "meaning": "not even one (yen / day / second ...)",
+      "structure": "一[いち]／一[ひと] + counter (一円[いちえん]・一日[いちにち]・一瞬[いっしゅん]) + たりとも + negative",
+      "explanation": "{〜たりとも} attaches to the smallest possible quantity — {一円[いちえん]}, {一日[いちにち]}, {一瞬[いっしゅん]}, {一人[ひとり]}, {一歩[いっぽ]} — and is followed by a negative: 'not even a single X'. It expresses a strong, uncompromising attitude: no exceptions, no waste, no letting your guard down.\n\nThe second half is often a prohibition or obligation: {〜てはいけない}, {〜わけにはいかない}, {〜な}, {〜ない}.\n\n**Register:** formal and emphatic — speeches, sports, news, military or dramatic contexts. In everyday speech you'd say {一円[いちえん]も}, but {一瞬[いっしゅん]たりとも} is heard in pep talks and commentary.",
+      "examples": [
+        {
+          "jp": "一円[いちえん]たりとも無駄[むだ]にはできない。",
+          "en": "We can't afford to waste even a single yen."
+        },
+        {
+          "jp": "一瞬[いっしゅん]たりとも気[き]を抜[ぬ]いてはいけない。",
+          "en": "You mustn't let your guard down for even a moment."
+        },
+        {
+          "jp": "試験[しけん]まであと一週間[いっしゅうかん]だ。一日[いちにち]たりとも休[やす]むわけにはいかない。",
+          "en": "There's only a week left until the exam. I can't take even one day off."
+        },
+        {
+          "jp": "敵[てき]を一歩[いっぽ]たりとも中[なか]に入[い]れるな。",
+          "en": "Don't let the enemy take a single step inside."
+        }
+      ],
+      "notes": "It only works with 'one' plus a counter (or a small fixed amount). {✕百円[ひゃくえん]たりとも} sounds strange.",
+      "quiz": [
+        {
+          "q": "税金[ぜいきん]は国民[こくみん]のお金[かね]だ。一円[いちえん]＿＿無駄[むだ]に使[つか]ってはならない。",
+          "en": "Tax is the people's money. Not a single yen must be wasted.",
+          "choices": [
+            "ならでは",
+            "たりとも",
+            "ずくめ",
+            "をおいて"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "手術中[しゅじゅつちゅう]は一瞬[いっしゅん]たりとも気[き]を＿＿。",
+          "en": "During surgery you can't relax your concentration for even a moment.",
+          "choices": [
+            "抜[ぬ]ける",
+            "抜[ぬ]こう",
+            "抜[ぬ]けない",
+            "抜[ぬ]けば"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-wa-oroka",
+      "title": "〜はおろか",
+      "meaning": "let alone; not to mention",
+      "structure": "Noun + はおろか、 ... も／さえ／すら + (usually negative)",
+      "explanation": "{X はおろか Y も} means 'not only X, but even Y' — where X is the obvious, bigger thing and Y is the smaller, more basic one. For example, 'He can't even read hiragana, let alone kanji.' Note the Japanese order: the big thing comes first ({漢字[かんじ]はおろか}), the basic thing second ({ひらがなも読[よ]めない}).\n\n{おろか} means 'foolish': it is foolish even to mention X. The tone is usually negative, surprised or critical.\n\n**Register:** written and formal, but you will hear it in serious conversation. The neutral equivalents are {〜どころか} and {〜はもちろん}.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は漢字[かんじ]はおろか、ひらがなも読[よ]めない。",
+          "en": "He can't even read hiragana, let alone kanji."
+        },
+        {
+          "jp": "忙[いそが]しすぎて、旅行[りょこう]はおろか、週末[しゅうまつ]に休[やす]むこともできない。",
+          "en": "I'm so busy I can't even take weekends off, never mind go on a trip."
+        },
+        {
+          "jp": "大[おお]けがをして、走[はし]ることはおろか、歩[ある]くことさえできない。",
+          "en": "With this serious injury, I can't even walk, let alone run."
+        },
+        {
+          "jp": "その村[むら]には、病院[びょういん]はおろか、コンビニ一軒[いっけん]すらない。",
+          "en": "That village doesn't even have a convenience store, let alone a hospital."
+        }
+      ],
+      "notes": "Can't be used with commands, requests or intentions in the second half. For positive 'not only... but also', use {〜はもとより} or {〜はもちろん}.",
+      "quiz": [
+        {
+          "q": "私[わたし]は海外[かいがい]旅行[りょこう]＿＿、国内[こくない]旅行[りょこう]もほとんどしたことがない。",
+          "en": "I've hardly ever travelled even within the country, let alone abroad.",
+          "choices": [
+            "にひきかえ",
+            "にもまして",
+            "をよそに",
+            "はおろか"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "足[あし]を骨折[こっせつ]して、走[はし]ることはおろか、立[た]つこと＿＿できない。",
+          "en": "I broke my leg, so I can't even stand, let alone run.",
+          "choices": [
+            "さえ",
+            "こそ",
+            "だけ",
+            "ほど"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-de-are",
+      "title": "〜であれ／〜であれ〜であれ",
+      "meaning": "whatever / whoever X is; whether X or Y",
+      "structure": "Noun / question word + であれ / Noun₁ + であれ + Noun₂ + であれ",
+      "explanation": "{であれ} is the command form of the classical copula {である}, used to mean 'be it X'. It has three common patterns:\n\n- **Question word + {であれ}:** {何[なん]であれ} 'whatever it is', {誰[だれ]であれ} 'whoever it is'.\n- **{たとえ} + Noun + {であれ}:** 'even if it is X'.\n- **X {であれ} Y {であれ}:** 'whether X or Y' — the conclusion applies equally to both.\n\nThe second half states a general rule or a firm judgement.\n\n**Register:** formal and written, though {何[なん]であれ} and {理由[りゆう]はどうであれ} turn up in serious conversation. The colloquial version is {〜でも〜でも}.",
+      "examples": [
+        {
+          "jp": "理由[りゆう]が何[なん]であれ、暴力[ぼうりょく]は許[ゆる]されない。",
+          "en": "Whatever the reason, violence is unacceptable."
+        },
+        {
+          "jp": "子[こ]どもであれ大人[おとな]であれ、ルールは守[まも]らなければならない。",
+          "en": "Whether you're a child or an adult, you have to follow the rules."
+        },
+        {
+          "jp": "たとえ社長[しゃちょう]であれ、間違[まちが]いは間違[まちが]いだ。",
+          "en": "Even if it's the president, a mistake is a mistake."
+        },
+        {
+          "jp": "晴[は]れであれ雨[あめ]であれ、試合[しあい]は予定[よてい]どおり行[おこな]われる。",
+          "en": "Rain or shine, the match will be held as scheduled."
+        }
+      ],
+      "notes": "A related form is {〜であろうと(〜であろうと)}, with the same meaning. Don't confuse {であれ} with {であれば} 'if it is'.",
+      "quiz": [
+        {
+          "q": "相手[あいて]が誰[だれ]＿＿、言[い]うべきことははっきり言[い]う。",
+          "en": "Whoever I'm dealing with, I say clearly what needs to be said.",
+          "choices": [
+            "であって",
+            "でこそ",
+            "であれ",
+            "ですら"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "小説[しょうせつ]であれ詩[し]＿＿、良[よ]い作品[さくひん]には心[こころ]を動[うご]かす力[ちから]がある。",
+          "en": "Whether it's a novel or a poem, a good work has the power to move people.",
+          "choices": [
+            "であれ",
+            "であり",
+            "でさえ",
+            "でこそ"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-to-iedomo",
+      "title": "〜といえども",
+      "meaning": "even though; even (if one is) X",
+      "structure": "Noun / plain form + といえども",
+      "explanation": "{〜といえども} means 'even though it is X / even an X', with the strong implication that X is someone or something you'd expect to be an exception — but isn't. 'Even a professional chef makes mistakes', 'Even the prime minister will be judged if he breaks the law'.\n\nIt often follows a noun of status or an extreme case, and sometimes comes with {いかに} or {たとえ}. The second half is a general truth or a firm judgement.\n\n**Register:** formal and written — editorials, speeches, legal and business contexts. In conversation you'd use {〜でも} or {〜とはいっても}.",
+      "examples": [
+        {
+          "jp": "プロの料理人[りょうりにん]といえども、失敗[しっぱい]することはある。",
+          "en": "Even professional chefs sometimes make mistakes."
+        },
+        {
+          "jp": "子[こ]どもといえども、一人[ひとり]の人間[にんげん]として尊重[そんちょう]すべきだ。",
+          "en": "Even a child should be respected as an individual."
+        },
+        {
+          "jp": "一国[いっこく]の首相[しゅしょう]といえども、法[ほう]を犯[おか]せば裁[さば]かれる。",
+          "en": "Even a nation's prime minister will be tried if he breaks the law."
+        },
+        {
+          "jp": "景気[けいき]が回復[かいふく]しつつあるといえども、楽観[らっかん]はできない。",
+          "en": "Although the economy is recovering, we cannot be optimistic."
+        }
+      ],
+      "notes": "{といえども} is stronger and more formal than {とはいえ} (Unit 10). {〜といえども} also appears in {一瞬[いっしゅん]といえども} 'not even for a moment', similar to {たりとも}.",
+      "quiz": [
+        {
+          "q": "冬[ふゆ]＿＿、沖縄[おきなわ]は日中[にっちゅう]なら半袖[はんそで]で過[す]ごせる日[ひ]もある。",
+          "en": "Even in winter, there are days in Okinawa when you can wear short sleeves during the day.",
+          "choices": [
+            "とあって",
+            "とあれば",
+            "ともなると",
+            "といえども"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "いかに優秀[ゆうしゅう]な医者[いしゃ]＿＿、すべての患者[かんじゃ]を救[すく]えるわけではない。",
+          "en": "No matter how excellent a doctor is, they cannot save every patient.",
+          "choices": [
+            "といえども",
+            "とあって",
+            "ときたら",
+            "となると"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-nai-made-mo",
+      "title": "〜ないまでも",
+      "meaning": "even if not (as much as) X, at least Y",
+      "structure": "Verb ない-form + までも",
+      "explanation": "{X ないまでも Y} means 'it may not reach X, but at least Y'. X is a high level, Y is a more modest level that the speaker hopes for, requests or acknowledges. The second half often has {せめて}, {少[すこ]しは}, {〜たい}, {〜べきだ} or {〜てほしい}.\n\nThe most frequent forms are {〜とは言[い]わないまでも} 'I won't go so far as to say X, but...' and {〜ないまでも、せめて〜}.\n\n**Register:** neutral to formal, used in both writing and conversation. Practical and fairly common.",
+      "examples": [
+        {
+          "jp": "毎日[まいにち]とは言[い]わないまでも、週[しゅう]に一度[いちど]は運動[うんどう]したほうがいい。",
+          "en": "Maybe not every day, but you should exercise at least once a week."
+        },
+        {
+          "jp": "優勝[ゆうしょう]はできないまでも、せめて決勝[けっしょう]には進[すす]みたい。",
+          "en": "Even if we can't win, I'd like us to at least reach the final."
+        },
+        {
+          "jp": "完璧[かんぺき]でないまでも、ある程度[ていど]は話[はな]せるようになった。",
+          "en": "Though not perfectly, I've become able to speak to some extent."
+        },
+        {
+          "jp": "彼[かれ]の行為[こうい]は、犯罪[はんざい]とは言[い]えないまでも、かなり問題[もんだい]がある。",
+          "en": "What he did may not be a crime, but it's very problematic."
+        }
+      ],
+      "notes": "Compare {〜までもない} (next point), which means 'there's no need to'. One extra {も} and a negative in a different place changes the meaning completely.",
+      "quiz": [
+        {
+          "q": "満点[まんてん]は取[と]れない＿＿、せめて八十点[はちじゅってん]は取[と]りたい。",
+          "en": "Even if I can't get full marks, I want to get at least eighty.",
+          "choices": [
+            "からには",
+            "までも",
+            "ばかりに",
+            "ことには"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "プロ並[な]みとは言[い]わ＿＿、もう少[すこ]し上手[じょうず]に歌[うた]えるようになりたい。",
+          "en": "I don't mean professional level, but I'd like to be able to sing a bit better.",
+          "choices": [
+            "ないことには",
+            "ずにはおかず",
+            "なくして",
+            "ないまでも"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-made-mo-nai",
+      "title": "〜までもない",
+      "meaning": "there's no need to (go as far as); it goes without saying",
+      "structure": "Verb (dictionary form) + までもない / までもなく",
+      "explanation": "{〜までもない} means 'it isn't necessary to go as far as doing X' because the matter is simple or obvious. You don't need to call a repairman, you don't need to check again, you don't need to explain.\n\nThe most common expression by far is {言[い]うまでもない} / {言[い]うまでもなく} 'needless to say' — extremely frequent in essays, speeches and business writing.\n\n**Register:** neutral to formal. {言[い]うまでもなく} is something you'll use yourself in presentations and reports; other verbs are fine in conversation too.",
+      "examples": [
+        {
+          "jp": "言[い]うまでもなく、健康[けんこう]は何[なに]よりも大切[たいせつ]だ。",
+          "en": "Needless to say, health is more important than anything."
+        },
+        {
+          "jp": "こんな簡単[かんたん]な修理[しゅうり]なら、業者[ぎょうしゃ]を呼[よ]ぶまでもない。",
+          "en": "For a repair this simple, there's no need to call in a professional."
+        },
+        {
+          "jp": "結果[けっか]は、改[あらた]めて確認[かくにん]するまでもなく明[あき]らかだった。",
+          "en": "The result was obvious without even having to check again."
+        },
+        {
+          "jp": "わざわざ説明[せつめい]するまでもないことだが、締[し]め切[き]りは厳守[げんしゅ]してください。",
+          "en": "It hardly needs explaining, but please strictly observe the deadline."
+        }
+      ],
+      "notes": "Similar to {〜ことはない} 'there's no need to', but {までもない} adds 'it's too obvious/simple to bother'.",
+      "quiz": [
+        {
+          "q": "近[ちか]いから、タクシーに乗[の]る＿＿。歩[ある]いて行[い]こう。",
+          "en": "It's close, so there's no need to take a taxi. Let's walk.",
+          "choices": [
+            "までだ",
+            "ほかない",
+            "までもない",
+            "しかない"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "彼[かれ]が優秀[ゆうしゅう]なのは、言[い]う＿＿。",
+          "en": "It goes without saying that he is excellent.",
+          "choices": [
+            "までもある",
+            "までにする",
+            "までにない",
+            "までもない"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-made-da",
+      "title": "〜までだ／〜までのことだ",
+      "meaning": "(1) I'll just (do X), that's all; (2) I merely did X",
+      "structure": "Verb (dictionary form) + までだ / Verb (た-form) + までだ",
+      "explanation": "{まで} here means 'only as far as'. Two uses:\n\n**1. Dictionary form:** 'If plan A fails, I'll simply do B — no big deal.' It shows calm determination: {電車[でんしゃ]がないなら、歩[ある]いて帰[かえ]るまでだ} 'If there are no trains, I'll just walk home.'\n\n**2. ta-form:** 'I merely did X (and nothing more)' — used to downplay one's actions or to say there was no hidden intention: {当然[とうぜん]のことをしたまでです} 'I only did what anyone would.'\n\n{〜までのことだ} is a slightly more emphatic version.\n\n**Register:** fairly formal but used in speech, especially use 2 when someone thanks you. Use 1 sounds resolute, a bit like a hero in a drama.",
+      "examples": [
+        {
+          "jp": "電車[でんしゃ]がないなら、歩[ある]いて帰[かえ]るまでだ。",
+          "en": "If there are no trains, I'll just walk home."
+        },
+        {
+          "jp": "気[き]にしないでください。当然[とうぜん]のことをしたまでです。",
+          "en": "Please don't mention it. I only did what anyone would have done."
+        },
+        {
+          "jp": "反対[はんたい]されても、自分[じぶん]の信[しん]じる道[みち]を進[すす]むまでのことだ。",
+          "en": "Even if people oppose me, I'll simply follow the path I believe in."
+        },
+        {
+          "jp": "私[わたし]は事実[じじつ]を述[の]べたまでで、誰[だれ]かを批判[ひはん]するつもりはない。",
+          "en": "I was merely stating the facts; I have no intention of criticising anyone."
+        }
+      ],
+      "notes": "Don't confuse with {〜までもない} 'no need to'. {までだ} = 'I'll just do it'; {までもない} = 'no need to do it'.",
+      "quiz": [
+        {
+          "q": "今年[ことし]の試験[しけん]に落[お]ちたら、また来年[らいねん]受[う]ける＿＿。",
+          "en": "If I fail this year's exam, I'll simply take it again next year.",
+          "choices": [
+            "までもない",
+            "わけがない",
+            "までだ",
+            "ことなしに"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "お礼[れい]なんていりません。私[わたし]は自分[じぶん]の仕事[しごと]をした＿＿です。",
+          "en": "There's no need to thank me. I was just doing my job.",
+          "choices": [
+            "ほど",
+            "こそ",
+            "すら",
+            "まで"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

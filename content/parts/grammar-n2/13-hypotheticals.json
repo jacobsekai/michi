@@ -1,0 +1,126 @@
+{
+  "id": "n2-u13",
+  "title": "Suppositions, circumstances, and notices",
+  "summary": "Supposing ({としたら}, {とすれば}), unlikely wishes and dire warnings ({ものなら}), imposing on someone ({ところを}), emotional comments ({ことに}), notices ({につき}), dependence ({次第[しだい]で}), and \"as if\" ({かのように}).",
+  "points": [
+    {
+      "id": "n2-toshitara",
+      "title": "〜としたら / 〜とすれば / 〜とすると",
+      "meaning": "if we suppose that; if (it's true that)",
+      "structure": "Plain form + としたら / とすれば / とすると　／　Noun / な-adj + だ + としたら",
+      "explanation": "These patterns set up an **assumption** and reason from it: \"supposing X, then Y\". They're used for:\n- pure hypotheticals: {生[う]まれ変[か]われるとしたら} (\"if I could be reborn\")\n- information you've just heard and are taking as true: {その話[はなし]が本当[ほんとう]だとすれば、大変[たいへん]だ}\n- calculations: {八時間[はちじかん]働[はたら]くとすると、週[しゅう]に四十時間[よんじゅうじかん]だ}\n\n{仮[かり]に} or {もし} often comes first. {としたら} is the most conversational; {とすれば} and {とすると} sound more logical and are common in discussions and writing.",
+      "examples": [
+        { "jp": "もし宝[たから]くじが当[あ]たったとしたら、何[なに]を買[か]いますか。", "en": "If you won the lottery, what would you buy?" },
+        { "jp": "生[う]まれ変[か]われるとしたら、鳥[とり]になりたい。", "en": "If I could be reborn, I'd like to be a bird." },
+        { "jp": "その話[はなし]が本当[ほんとう]だとすれば、大変[たいへん]なことだ。", "en": "If that story is true, it's a serious matter." },
+        { "jp": "今[いま]から出発[しゅっぱつ]するとすれば、着[つ]くのは夜[よる]の十時[じゅうじ]ごろになる。", "en": "If we leave now, we'll arrive at around ten at night." }
+      ],
+      "quiz": [
+        { "q": "仮[かり]に試験[しけん]に落[お]ちた＿＿、来年[らいねん]また受[う]ければいい。", "en": "Even supposing you failed the exam, you can just take it again next year.", "choices": ["からには", "ものの", "としたら", "だけに"], "answer": 2 },
+        { "q": "彼[かれ]の言[い]うことが事実[じじつ]だ＿＿、会社[かいしゃ]は大[おお]きな問題[もんだい]を抱[かか]えていることになる。", "en": "If what he says is true, the company has a serious problem.", "choices": ["とすれば", "といっても", "とはいえ", "というより"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-mononara",
+      "title": "〜ものなら",
+      "meaning": "if (I) could; if you dare to (something terrible will happen)",
+      "structure": "V-potential + ものなら　／　V-volitional（〜よう / 〜おう）+ ものなら",
+      "explanation": "{ものなら} has two distinct uses depending on the verb form.\n\n**1. Potential form: an unlikely wish**. \"If I could (though I probably can't), I'd...\": {できるものなら、学生時代[がくせいじだい]に戻[もど]りたい}. The second half is often {〜たい} or {〜てみろ} (\"go ahead and try, if you can\").\n\n**2. Volitional form: a warning**. \"If you so much as do X, something terrible will happen\": {部長[ぶちょう]にそんなことを言[い]おうものなら、大変[たいへん]なことになる}. This is often used to describe strict people or rules.\n\nBoth are conversational and somewhat emotional.",
+      "examples": [
+        { "jp": "できるものなら、学生時代[がくせいじだい]に戻[もど]りたい。", "en": "If only I could, I'd go back to my student days." },
+        { "jp": "行[い]けるものなら、今[いま]すぐにでも国[くに]に帰[かえ]りたい。", "en": "If I could, I'd go back to my home country right this minute." },
+        { "jp": "部長[ぶちょう]の前[まえ]でそんなことを言[い]おうものなら、大変[たいへん]なことになるよ。", "en": "If you dare say something like that in front of the department head, you'll be in serious trouble." },
+        { "jp": "あの店[みせ]では、一分[いっぷん]でも遅刻[ちこく]しようものなら、厳[きび]しく叱[しか]られる。", "en": "At that shop, if you're even one minute late, you get a severe telling-off." }
+      ],
+      "quiz": [
+        { "q": "やり直[なお]せる＿＿、もう一度[いちど]人生[じんせい]をやり直[なお]したい。", "en": "If I could start over, I'd like to live my life again.", "choices": ["ものの", "ものなら", "ものだから", "ものか"], "answer": 1 },
+        { "q": "うちの母[はは]は、私[わたし]が門限[もんげん]を一分[いっぷん]でも過[す]ぎ＿＿ものなら、すごく怒[おこ]る。", "en": "If I'm even one minute past curfew, my mother gets really angry.", "choices": ["たい", "る", "よう", "ない"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-tokorowo",
+      "title": "〜ところを",
+      "meaning": "at a time when (you are busy...); (caught) in the act of",
+      "structure": "Plain form / Noun + の + ところを",
+      "explanation": "{ところを} has two main uses.\n\n**1. Polite apology or thanks** for imposing on someone at an inconvenient time. These are fixed business phrases:\n- {お忙[いそが]しいところを、ありがとうございます} (\"thank you for your time when you're so busy\")\n- {お休[やす]みのところを申[もう]し訳[わけ]ありません} (\"sorry to disturb you on your day off\")\n- {お疲[つか]れのところ} (\"when you're tired\")\n\n**2. Being seen or caught in the middle of an action**: {〜ているところを見[み]られた / 見[み]つかった / 助[たす]けられた}.\n\nIn use 1, {を} is often dropped in speech: {お忙[いそが]しいところすみません}.",
+      "examples": [
+        { "jp": "お忙[いそが]しいところを、お越[こ]しいただきありがとうございます。", "en": "Thank you for coming when you're so busy." },
+        { "jp": "お休[やす]みのところを申[もう]し訳[わけ]ありませんが、少[すこ]しよろしいでしょうか。", "en": "I'm sorry to bother you on your day off, but do you have a moment?" },
+        { "jp": "授業中[じゅぎょうちゅう]に居眠[いねむ]りしているところを、先生[せんせい]に見[み]られた。", "en": "The teacher caught me dozing off in class." },
+        { "jp": "危[あぶ]ないところを、通[とお]りかかった人[ひと]に助[たす]けられた。", "en": "I was in danger, but someone passing by saved me." }
+      ],
+      "quiz": [
+        { "q": "お疲[つか]れの＿＿、申[もう]し訳[わけ]ございません。", "en": "I'm very sorry to trouble you when you're tired.", "choices": ["ところで", "ところを", "ことに", "ものの"], "answer": 1 },
+        { "q": "友達[ともだち]と授業[じゅぎょう]をサボっている＿＿、先生[せんせい]に見[み]つかってしまった。", "en": "A teacher caught me skipping class with my friends.", "choices": ["ところへ", "ことから", "ものの", "ところを"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-kotoni",
+      "title": "〜ことに",
+      "meaning": "(it is) ... that; to my (surprise / regret / joy)",
+      "structure": "Emotion い-adj + ことに　／　Emotion な-adj + な + ことに　／　Emotion verb (た) + ことに",
+      "explanation": "{ことに} attaches to a word of feeling and puts the speaker's emotional reaction **up front**, before the fact itself: {残念[ざんねん]なことに} (\"unfortunately\"), {驚[おどろ]いたことに} (\"to my surprise\"), {うれしいことに} (\"happily\"), {困[こま]ったことに} (\"the trouble is\"), {ありがたいことに} (\"thankfully\").\n\nIt is somewhat written in tone and common in essays, speeches and news commentary, but also heard in careful speech.\n\nOnly emotion and evaluation words work here. The emotion belongs to the speaker.",
+      "examples": [
+        { "jp": "残念[ざんねん]なことに、今年[ことし]の花火大会[はなびたいかい]は中止[ちゅうし]になった。", "en": "Unfortunately, this year's fireworks festival has been cancelled." },
+        { "jp": "驚[おどろ]いたことに、彼[かれ]は自転車[じてんしゃ]で日本中[にほんじゅう]を回[まわ]ったそうだ。", "en": "Amazingly, I hear he travelled all over Japan by bicycle." },
+        { "jp": "うれしいことに、留学生[りゅうがくせい]の私[わたし]にも奨学金[しょうがくきん]が出[で]ることになった。", "en": "To my delight, it's been decided that I'll receive a scholarship even as an international student." },
+        { "jp": "困[こま]ったことに、パスポートの期限[きげん]が切[き]れていた。", "en": "The trouble was, my passport had expired." }
+      ],
+      "quiz": [
+        { "q": "ありがたい＿＿、近所[きんじょ]の人[ひと]が引[ひ]っ越[こ]しを手伝[てつだ]ってくれた。", "en": "Thankfully, a neighbour helped me move.", "choices": ["ことから", "ことなく", "ことに", "ことか"], "answer": 2 },
+        { "q": "驚[おどろ]いた＿＿、その店[みせ]は創業[そうぎょう]三百年[さんびゃくねん]だという。", "en": "Surprisingly, that shop is said to have been in business for 300 years.", "choices": ["ことに", "ばかりに", "ものの", "くせに"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-nitsuki",
+      "title": "〜につき",
+      "meaning": "due to (on notices); per",
+      "structure": "Noun + につき",
+      "explanation": "{につき} is a formal written expression with two meanings.\n\n**1. Reason, on signs and notices**: \"due to, because of\": {工事中[こうじちゅう]につき} (under construction), {定休日[ていきゅうび]につき} (regular holiday), {改装中[かいそうちゅう]につき} (under renovation). You'll see these taped to shop doors all over Japan.\n\n**2. Rate, \"per\"**: {一人[ひとり]につき三千円[さんぜんえん]} (3,000 yen per person), {三十分[さんじゅっぷん]につき二百円[にひゃくえん]} (200 yen per 30 minutes). Common in parking lots and shops.\n\nDon't confuse it with {について} (\"about\").",
+      "examples": [
+        { "jp": "工事中[こうじちゅう]につき、立入禁止[たちいりきんし]。", "en": "Under construction. No entry." },
+        { "jp": "本日[ほんじつ]は定休日[ていきゅうび]につき、お休[やす]みさせていただきます。", "en": "We are closed today for our regular holiday." },
+        { "jp": "参加費[さんかひ]は一人[ひとり]につき三千円[さんぜんえん]です。", "en": "The participation fee is 3,000 yen per person." },
+        { "jp": "駐車料金[ちゅうしゃりょうきん]は、三十分[さんじゅっぷん]につき二百円[にひゃくえん]です。", "en": "Parking costs 200 yen per 30 minutes." }
+      ],
+      "quiz": [
+        { "q": "店内[てんない]改装[かいそう]＿＿、臨時休業[りんじきゅうぎょう]いたします。", "en": "We are temporarily closed due to interior renovation.", "choices": ["について", "に対[たい]して", "につき", "にとって"], "answer": 2 },
+        { "q": "お一人様[ひとりさま]＿＿、二点[にてん]までとさせていただきます。", "en": "Purchases are limited to two items per person.", "choices": ["について", "にとって", "に関[かん]して", "につき"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-shidaide",
+      "title": "〜次第[しだい]で / 〜次第[しだい]だ",
+      "meaning": "depending on; it (all) depends on",
+      "structure": "Noun + 次第[しだい]で（は）　／　Noun + 次第[しだい]だ",
+      "explanation": "After a noun, {次第[しだい]} means \"depending on\": the outcome is **decided by X**. {天気[てんき]次第[しだい]で} (depending on the weather), {努力[どりょく]次第[しだい]だ} (it depends on your effort).\n\n- {X次第[しだい]で、Y}: Y changes according to X.\n- {Y はX次第[しだい]だ}: Y is decided by X (often with {〜かどうかは}).\n- {X次第[しだい]では}: \"depending on X, (a particular, often negative, outcome) may happen\".\n\nIt is common in speech and writing. Remember: after a **verb stem**, {次第[しだい]} means \"as soon as\" (Unit 5).",
+      "examples": [
+        { "jp": "天気[てんき]次第[しだい]で、明日[あした]の予定[よてい]を決[き]めよう。", "en": "Let's decide tomorrow's plans depending on the weather." },
+        { "jp": "合格[ごうかく]できるかどうかは、あなたの努力[どりょく]次第[しだい]だ。", "en": "Whether you pass or not depends on your effort." },
+        { "jp": "考[かんが]え方[かた]次第[しだい]で、失敗[しっぱい]も成長[せいちょう]のきっかけになる。", "en": "Depending on how you look at it, even failure can be a chance to grow." },
+        { "jp": "試験[しけん]の結果[けっか]次第[しだい]では、卒業[そつぎょう]できないこともある。", "en": "Depending on your exam results, you may not be able to graduate." }
+      ],
+      "quiz": [
+        { "q": "行[い]くかどうかは、その日[ひ]の体調[たいちょう]＿＿です。", "en": "Whether I go depends on how I feel that day.", "choices": ["以来[いらい]", "一方[いっぽう]", "次第[しだい]", "末[すえ]"], "answer": 2 },
+        { "q": "使[つか]い方[かた]＿＿、便利[べんり]な道具[どうぐ]も危険[きけん]なものになる。", "en": "Depending on how it's used, even a handy tool can become dangerous.", "choices": ["次第[しだい]で", "以来[いらい]で", "に先立[さきだ]って", "にわたって"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-kanoyouni",
+      "title": "〜かのように / 〜かのようだ",
+      "meaning": "as if; as though (but it isn't really so)",
+      "structure": "Plain form + かのように / かのような + Noun / かのようだ　（Noun / な-adj: である + かのように）",
+      "explanation": "{かのようだ} compares something to a situation that is **not actually true**: \"he's smiling as if nothing had happened\" (something did happen). It is often introduced by {まるで}.\n\nCompared with {ようだ}, which can also be a real guess (\"it seems that...\"), {かのようだ} is clearly counterfactual or figurative.\n\nIt is a little literary and common in novels, news features and descriptions: {まるで真冬[まふゆ]に戻[もど]ったかのような寒[さむ]さ} (\"cold as if we'd gone back to midwinter\").",
+      "examples": [
+        { "jp": "彼[かれ]は何[なに]もなかったかのように、笑[わら]っている。", "en": "He's smiling as if nothing had happened." },
+        { "jp": "彼女[かのじょ]はすべてを知[し]っているかのように話[はな]した。", "en": "She spoke as though she knew everything." },
+        { "jp": "三月[さんがつ]なのに、まるで真冬[まふゆ]に戻[もど]ったかのような寒[さむ]さだ。", "en": "It's March, but it's as cold as if we'd gone back to midwinter." },
+        { "jp": "その日[ひ]の富士山[ふじさん]は、まるで絵[え]に描[か]いたかのように美[うつく]しかった。", "en": "Mount Fuji that day was as beautiful as a painting." }
+      ],
+      "quiz": [
+        { "q": "彼[かれ]はまるで自分[じぶん]がやった＿＿顔[かお]をしているが、実[じつ]は何[なに]もしていない。", "en": "He's acting as if he did it himself, but in fact he did nothing.", "choices": ["ものの", "かのような", "ばかりか", "だけあって"], "answer": 1 },
+        { "q": "事故[じこ]の翌日[よくじつ]、町[まち]は何事[なにごと]もなかった＿＿静[しず]かだった。", "en": "The day after the accident, the town was quiet, as if nothing had happened.", "choices": ["ばかりに", "ものの", "ところを", "かのように"], "answer": 3 }
+      ]
+    }
+  ]
+}

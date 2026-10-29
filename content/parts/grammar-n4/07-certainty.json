@@ -10,24 +10,49 @@
       "structure": "Plain form + でしょう / だろう (Noun, な-adj: no だ before it)",
       "explanation": "{でしょう} adds a fairly confident guess: 'probably'. You'll hear it in every weather forecast: {明日[あした]は晴[は]れるでしょう} 'It will probably be sunny tomorrow.' {だろう} is the plain version, used in writing, in men's casual speech, and in thoughts.\n\nIt attaches to plain forms: {来[く]るでしょう}, {来[こ]なかっただろう}, {高[たか]いでしょう}. With nouns and {な}-adjectives, drop {だ}: {雨[あめ]でしょう}, {静[しず]かだろう}.\n\nA very common combination is {〜だろうと思[おも]う} 'I think it's probably ~' — used by everyone. Note that you say {だろうと思[おも]う}, never {でしょうと思[おも]う}.\n\nWith a rising tone, {でしょう？} (casually {でしょ？}) means 'right?', asking the listener to agree: {楽[たの]しかったでしょう？} 'That was fun, right?'",
       "examples": [
-        { "jp": "明日[あした]、東京[とうきょう]は晴[は]れるでしょう。", "en": "It will probably be sunny in Tokyo tomorrow." },
-        { "jp": "山田[やまだ]さんはたぶん来[こ]ないだろう。", "en": "Yamada-san probably isn't coming." },
-        { "jp": "この時間[じかん]なら、道[みち]は空[す]いているでしょう。", "en": "At this time, the roads are probably empty." },
-        { "jp": "彼[かれ]はもう家[いえ]に着[つ]いただろうと思[おも]います。", "en": "I think he's probably already arrived home." },
-        { "jp": "昨日[きのう]のパーティー、楽[たの]しかったでしょう？", "en": "Yesterday's party was fun, right?" }
+        {
+          "jp": "明日[あした]、東京[とうきょう]は晴[は]れるでしょう。",
+          "en": "It will probably be sunny in Tokyo tomorrow."
+        },
+        {
+          "jp": "山田[やまだ]さんはたぶん来[こ]ないだろう。",
+          "en": "Yamada-san probably isn't coming."
+        },
+        {
+          "jp": "この時間[じかん]なら、道[みち]は空[す]いているでしょう。",
+          "en": "At this time, the roads are probably empty."
+        },
+        {
+          "jp": "彼[かれ]はもう家[いえ]に着[つ]いただろうと思[おも]います。",
+          "en": "I think he's probably already arrived home."
+        },
+        {
+          "jp": "昨日[きのう]のパーティー、楽[たの]しかったでしょう？",
+          "en": "Yesterday's party was fun, right?"
+        }
       ],
       "quiz": [
         {
           "q": "明日[あした]は雨[あめ]＿＿。",
           "en": "It will probably rain tomorrow.",
-          "choices": ["でしょう", "だでしょう", "なでしょう", "のでしょう"],
-          "answer": 0
+          "choices": [
+            "なでしょう",
+            "でしょう",
+            "のでしょう",
+            "だでしょう"
+          ],
+          "answer": 1
         },
         {
           "q": "空[そら]が暗[くら]いから、もうすぐ雨[あめ]が降[ふ]る＿＿と思[おも]う。",
           "en": "The sky is dark, so I think it'll probably rain soon.",
-          "choices": ["だろう", "でしょう", "だ", "はず"],
-          "answer": 0
+          "choices": [
+            "だ",
+            "だろう",
+            "はず",
+            "でしょう"
+          ],
+          "answer": 1
         }
       ]
     },
@@ -38,24 +63,49 @@
       "structure": "Plain form + かもしれない (Noun, な-adj: no だ before it)",
       "explanation": "{かもしれない} says something is possible, but you're not sure — around 50% or less. It's weaker than {でしょう}. {午後[ごご]から雨[あめ]が降[ふ]るかもしれない} 'It might rain from the afternoon.'\n\nIt attaches to plain forms, including past and negative: {行[い]くかもしれない}, {行[い]ったかもしれない}, {行[い]かないかもしれない}. With nouns and {な}-adjectives, drop {だ}: {本当[ほんとう]かもしれない}, {無理[むり]かもしれない}.\n\nPolite form: {かもしれません}. In casual speech it's often cut to just {かも}: {このペン、私[わたし]のかも} 'This pen might be mine.'\n\nIt's also a useful softener. {ちょっと高[たか]いかもしれませんね} 'It might be a little expensive' sounds much gentler than a flat statement.",
       "examples": [
-        { "jp": "午後[ごご]から雨[あめ]が降[ふ]るかもしれません。", "en": "It might rain from the afternoon." },
-        { "jp": "電話[でんわ]に出[で]ないね。もう寝[ね]ているかもしれない。", "en": "She's not answering. She might already be asleep." },
-        { "jp": "その話[はなし]は本当[ほんとう]かもしれません。", "en": "That story might be true." },
-        { "jp": "財布[さいふ]、電車[でんしゃ]の中[なか]で落[お]としたかもしれない。", "en": "I might have dropped my wallet on the train." },
-        { "jp": "このペン、私[わたし]のかも。", "en": "This pen might be mine." }
+        {
+          "jp": "午後[ごご]から雨[あめ]が降[ふ]るかもしれません。",
+          "en": "It might rain from the afternoon."
+        },
+        {
+          "jp": "電話[でんわ]に出[で]ないね。もう寝[ね]ているかもしれない。",
+          "en": "She's not answering. She might already be asleep."
+        },
+        {
+          "jp": "その話[はなし]は本当[ほんとう]かもしれません。",
+          "en": "That story might be true."
+        },
+        {
+          "jp": "財布[さいふ]、電車[でんしゃ]の中[なか]で落[お]としたかもしれない。",
+          "en": "I might have dropped my wallet on the train."
+        },
+        {
+          "jp": "このペン、私[わたし]のかも。",
+          "en": "This pen might be mine."
+        }
       ],
       "quiz": [
         {
           "q": "道[みち]が混[こ]んでいるので、少[すこ]し遅[おく]れる＿＿。",
           "en": "The roads are crowded, so I might be a little late.",
-          "choices": ["かもしれません", "かもしれる", "かもしりません", "かどうか"],
-          "answer": 0
+          "choices": [
+            "かもしりません",
+            "かもしれる",
+            "かどうか",
+            "かもしれません"
+          ],
+          "answer": 3
         },
         {
           "q": "あの人[ひと]は＿＿。",
           "en": "That person might be a teacher.",
-          "choices": ["先生[せんせい]かもしれない", "先生[せんせい]だかもしれない", "先生[せんせい]なかもしれない", "先生[せんせい]のかもしれない"],
-          "answer": 0
+          "choices": [
+            "先生[せんせい]だかもしれない",
+            "先生[せんせい]かもしれない",
+            "先生[せんせい]のかもしれない",
+            "先生[せんせい]なかもしれない"
+          ],
+          "answer": 1
         }
       ]
     },
@@ -63,26 +113,51 @@
       "id": "n4-hazu",
       "title": "〜はずだ",
       "meaning": "should (be) / is expected to — based on facts",
-      "structure": "Plain form + はずだ (Noun + の はずだ / な-adj + な はずだ)",
+      "structure": "Plain form + はずだ (Noun + のはずだ / な-adj + なはずだ)",
       "explanation": "{はず} is a logical expectation: given what you know, something **should** be true. {田中[たなか]さんは五時[ごじ]に出[で]たから、もう着[つ]いているはずだ} 'Tanaka left at five, so he should have arrived by now.' You're reasoning from facts, not guessing.\n\nConnections: {来[く]るはず}, {来[こ]ないはず}, {高[たか]いはず}, {静[しず]かなはず}, {休[やす]みのはず}.\n\nIn the past, {〜はずだった} means 'was supposed to (but didn't)': {九時[くじ]に着[つ]くはずだった} 'It was supposed to arrive at nine.'\n\n**Important**: {はず} is never advice. English 'You should study' is {勉強[べんきょう]したほうがいい}, not {はず}. {はず} only talks about what is expected to be the case.",
       "examples": [
-        { "jp": "田中[たなか]さんは五時[ごじ]に会社[かいしゃ]を出[で]たから、もう家[いえ]に着[つ]いているはずです。", "en": "Tanaka-san left the office at five, so he should be home by now." },
-        { "jp": "今日[きょう]は日曜日[にちようび]だから、銀行[ぎんこう]は休[やす]みのはずだ。", "en": "It's Sunday, so the bank should be closed." },
-        { "jp": "鍵[かぎ]はこのかばんに入[い]れたはずです。", "en": "I'm sure I put the key in this bag." },
-        { "jp": "彼[かれ]は日本[にほん]に十年[じゅうねん]住[す]んでいたから、日本語[にほんご]が上手[じょうず]なはずだ。", "en": "He lived in Japan for ten years, so his Japanese should be good." },
-        { "jp": "電車[でんしゃ]は九時[くじ]に着[つ]くはずでしたが、まだ来[き]ません。", "en": "The train was supposed to arrive at nine, but it still hasn't come." }
+        {
+          "jp": "田中[たなか]さんは五時[ごじ]に会社[かいしゃ]を出[で]たから、もう家[いえ]に着[つ]いているはずです。",
+          "en": "Tanaka-san left the office at five, so he should be home by now."
+        },
+        {
+          "jp": "今日[きょう]は日曜日[にちようび]だから、銀行[ぎんこう]は休[やす]みのはずだ。",
+          "en": "It's Sunday, so the bank should be closed."
+        },
+        {
+          "jp": "鍵[かぎ]はこのかばんに入[い]れたはずです。",
+          "en": "I'm sure I put the key in this bag."
+        },
+        {
+          "jp": "彼[かれ]は日本[にほん]に十年[じゅうねん]住[す]んでいたから、日本語[にほんご]が上手[じょうず]なはずだ。",
+          "en": "He lived in Japan for ten years, so his Japanese should be good."
+        },
+        {
+          "jp": "電車[でんしゃ]は九時[くじ]に着[つ]くはずでしたが、まだ来[き]ません。",
+          "en": "The train was supposed to arrive at nine, but it still hasn't come."
+        }
       ],
       "quiz": [
         {
           "q": "荷物[にもつ]は昨日[きのう]送[おく]ったから、明日[あした]には届[とど]く＿＿です。",
           "en": "I sent the package yesterday, so it should arrive tomorrow.",
-          "choices": ["はず", "つもり", "ほう", "ため"],
+          "choices": [
+            "はず",
+            "ほう",
+            "ため",
+            "つもり"
+          ],
           "answer": 0
         },
         {
           "q": "明日[あした]は祝日[しゅくじつ]＿＿はずだよ。",
           "en": "Tomorrow should be a public holiday.",
-          "choices": ["の", "な", "だ", "に"],
+          "choices": [
+            "の",
+            "に",
+            "だ",
+            "な"
+          ],
           "answer": 0
         }
       ]
@@ -94,23 +169,45 @@
       "structure": "Plain form + はずがない (はずはない)",
       "explanation": "{はずがない} is the strong negative of {はず}: based on what you know, something **can't possibly** be true. {彼[かれ]が知[し]っているはずがない} 'There's no way he knows.' {はずはない} means the same and is equally common.\n\nCompare the two negatives:\n\n- {〜ないはずだ} 'should not be (I expect)' — a calm expectation. {彼[かれ]は来[こ]ないはずだ} 'He shouldn't be coming.'\n- {〜はずがない} 'it's impossible that ~' — strong denial. {彼[かれ]が来[く]るはずがない} 'There's no way he'd come.'\n\nThe set phrase {そんなはずはない} 'That can't be!' is useful when something surprises you.",
       "examples": [
-        { "jp": "あんなに練習[れんしゅう]したんだから、負[ま]けるはずがない。", "en": "We practised that hard, so there's no way we'll lose." },
-        { "jp": "彼女[かのじょ]は甘[あま]いものが嫌[きら]いだから、ケーキを食[た]べるはずがない。", "en": "She hates sweet things, so there's no way she'd eat cake." },
-        { "jp": "今日[きょう]は日曜日[にちようび]だから、学校[がっこう]が開[あ]いているはずがない。", "en": "It's Sunday, so the school can't possibly be open." },
-        { "jp": "A：鍵[かぎ]、机[つくえ]の上[うえ]にありましたよ。 B：え？そんなはずはありません。さっき見[み]ましたから。", "en": "A: Your key was on the desk. B: What? That can't be. I looked there just now." }
+        {
+          "jp": "あんなに練習[れんしゅう]したんだから、負[ま]けるはずがない。",
+          "en": "We practised that hard, so there's no way we'll lose."
+        },
+        {
+          "jp": "彼女[かのじょ]は甘[あま]いものが嫌[きら]いだから、ケーキを食[た]べるはずがない。",
+          "en": "She hates sweet things, so there's no way she'd eat cake."
+        },
+        {
+          "jp": "今日[きょう]は日曜日[にちようび]だから、学校[がっこう]が開[あ]いているはずがない。",
+          "en": "It's Sunday, so the school can't possibly be open."
+        },
+        {
+          "jp": "A：鍵[かぎ]、机[つくえ]の上[うえ]にありましたよ。 B：え？そんなはずはありません。さっき見[み]ましたから。",
+          "en": "A: Your key was on the desk. B: What? That can't be. I looked there just now."
+        }
       ],
       "quiz": [
         {
           "q": "彼[かれ]は昨日[きのう]日本[にほん]にいなかったから、ここに来[き]た＿＿。",
           "en": "He wasn't in Japan yesterday, so there's no way he came here.",
-          "choices": ["はずがない", "はずだ", "かもしれない", "はずだった"],
+          "choices": [
+            "はずがない",
+            "かもしれない",
+            "はずだった",
+            "はずだ"
+          ],
           "answer": 0
         },
         {
           "q": "あの静[しず]かな人[ひと]がそんなことを言[い]う＿＿はありません。",
           "en": "There's no way that quiet person would say something like that.",
-          "choices": ["はず", "そう", "よう", "ため"],
-          "answer": 0
+          "choices": [
+            "ため",
+            "そう",
+            "よう",
+            "はず"
+          ],
+          "answer": 3
         }
       ]
     },
@@ -121,24 +218,49 @@
       "structure": "Plain form + かな (Noun, な-adj: no だ before it)",
       "explanation": "{かな} is a casual 'I wonder', said to yourself or to friends. {明日[あした]、晴[は]れるかな} 'I wonder if it'll be sunny tomorrow.' It softens questions, so the listener doesn't feel pressured to answer.\n\nIt attaches to plain forms: {来[く]るかな}, {行[い]ったかな}, {おいしいかな}. With nouns and {な}-adjectives, drop {だ}: {誰[だれ]かな}, {大丈夫[だいじょうぶ]かな}. Adding {の} ({〜のかな}) asks about a reason or situation: {まだ寝[ね]ているのかな}.\n\nNegative + {かな} often expresses a wish: {早[はや]く来[こ]ないかな} 'I wish (they'd) hurry up and come.'\n\n{かしら} means the same but sounds softer and more traditional; it's mostly used by women, often older. The polite equivalent of both is {〜でしょうか}: {駅[えき]はどちらでしょうか}.",
       "examples": [
-        { "jp": "明日[あした]、晴[は]れるかな。", "en": "I wonder if it'll be sunny tomorrow." },
-        { "jp": "田中[たなか]さん、まだ寝[ね]ているのかな。", "en": "I wonder if Tanaka-san is still asleep." },
-        { "jp": "この服[ふく]、私[わたし]に似合[にあ]うかな。", "en": "I wonder if this outfit suits me." },
-        { "jp": "早[はや]く夏休[なつやす]みにならないかな。", "en": "I wish the summer holidays would hurry up and come." },
-        { "jp": "すみません、駅[えき]はどちらでしょうか。", "en": "Excuse me, which way is the station?" }
+        {
+          "jp": "明日[あした]、晴[は]れるかな。",
+          "en": "I wonder if it'll be sunny tomorrow."
+        },
+        {
+          "jp": "田中[たなか]さん、まだ寝[ね]ているのかな。",
+          "en": "I wonder if Tanaka-san is still asleep."
+        },
+        {
+          "jp": "この服[ふく]、私[わたし]に似合[にあ]うかな。",
+          "en": "I wonder if this outfit suits me."
+        },
+        {
+          "jp": "早[はや]く夏休[なつやす]みにならないかな。",
+          "en": "I wish the summer holidays would hurry up and come."
+        },
+        {
+          "jp": "すみません、駅[えき]はどちらでしょうか。",
+          "en": "Excuse me, which way is the station?"
+        }
       ],
       "quiz": [
         {
           "q": "あの人[ひと]、誰[だれ]＿＿。",
           "en": "I wonder who that person is.",
-          "choices": ["かな", "だかな", "なかな", "がかな"],
-          "answer": 0
+          "choices": [
+            "なかな",
+            "だかな",
+            "がかな",
+            "かな"
+          ],
+          "answer": 3
         },
         {
           "q": "バス、早[はや]く来[こ]＿＿かな。",
           "en": "I wish the bus would hurry up and come.",
-          "choices": ["ない", "ろ", "い", "させ"],
-          "answer": 0
+          "choices": [
+            "い",
+            "させ",
+            "ない",
+            "ろ"
+          ],
+          "answer": 2
         }
       ]
     }

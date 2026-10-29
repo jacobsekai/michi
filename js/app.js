@@ -3,12 +3,15 @@ import { loadAll } from './data.js';
 import { dueCount } from './srs.js';
 import { stop } from './tts.js';
 import { applySettings } from './ui.js';
+import { migrate } from './srs.js';
+import { startAutoSync } from './sync.js';
 import { homeView, pathView } from './views/home.js';
 import { lessonView } from './views/lesson.js';
 import { reviewView } from './views/review.js';
-import { libraryView, kanaChartView, vocabListView, kanjiListView, wordView, kanjiDetailView, grammarView, readingListView, readingView, lifeListView, lifeUnitView, searchView } from './views/library.js';
+import { libraryView, kanaChartView, vocabListView, kanjiListView, wordView, kanjiDetailView, grammarView, readingListView, readingView, lifeListView, lifeUnitView, searchView, mineView } from './views/library.js';
 import { practiceView } from './views/practice.js';
 import { statsView, settingsView } from './views/me.js';
+import { examsView } from './views/exam.js';
 
 const ROUTES = {
   '': [homeView, 'home'],
@@ -26,6 +29,8 @@ const ROUTES = {
   life: [lifeListView, 'library'],
   search: [searchView, 'library'],
   practice: [practiceView, 'home'],
+  exams: [examsView, 'library'],
+  mine: [mineView, 'library'],
   stats: [statsView, 'me'],
   settings: [settingsView, 'me'],
 };
@@ -70,8 +75,16 @@ async function start() {
   applySettings();
   await loadAll();
   document.getElementById('splash')?.remove();
+  migrate();
   addEventListener('hashchange', route);
   route();
+  // When sync brings in progress from another device, refresh overview screens (never mid-lesson or mid-review).
+  addEventListener('michi:synced', () => {
+    const name = location.hash.replace(/^#\/?/, '').split('/')[0];
+    if (['', 'path', 'stats', 'library', 'vocab', 'kanji', 'grammar'].includes(name)) route();
+    else updateBadge();
+  });
+  startAutoSync();
   setInterval(updateBadge, 60e3);
   navigator.storage?.persist?.();
   if ('serviceWorker' in navigator && location.protocol !== 'file:') {

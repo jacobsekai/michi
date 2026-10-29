@@ -1,6 +1,7 @@
 // Loads all course data once and builds the learning path + lookup indexes.
 import { KANA_GROUPS, KANA_BY_ID } from './kana.js';
 import { FOUNDATIONS, STAGE_INFO } from './foundations.js';
+import { S } from './store.js';
 
 export const LEVELS = ['N5', 'N4', 'N3', 'N2', 'N1'];
 export const D = {
@@ -26,7 +27,7 @@ export async function loadAll() {
   D.kanji = kanji;
   for (const k of kanji) D.index.kanji.set(k.c, k);
   LEVELS.forEach((l, i) => {
-    D.vocab[l] = rest[i].map(([w, r, m, alt]) => ({ id: `v:${w}|${r}`, w, r, m, alt, level: l }));
+    D.vocab[l] = rest[i].map(([w, r, m, alt, p]) => ({ id: `v:${w}|${r}`, w, r, m, alt, p, level: l }));
     for (const v of D.vocab[l]) D.index.vocab.set(v.id, v);
     D.grammar[l] = rest[LEVELS.length + i];
     for (const u of D.grammar[l].units) for (const p of u.points) D.index.grammarPoint.set(p.id, { ...p, unit: u, level: l });
@@ -37,10 +38,19 @@ export async function loadAll() {
   buildPath();
 }
 
+// Example sentences are big, so they load per level on first use: "<word>|<reading>" -> [[jp, en], ...].
+const sentenceCache = {};
+export function sentencesFor(level) {
+  return (sentenceCache[level] ||= getJSON(`data/sentences-${level.toLowerCase()}.json`, {}));
+}
+export async function examplesFor(v) {
+  if (!v?.level) return [];
+  return (await sentencesFor(v.level))[v.id.slice(2)] || [];
+}
+
 // ---- path ---------------------------------------------------------------------
 
 const chunk = (arr, n) => Array.from({ length: Math.ceil(arr.length / n) }, (_, i) => arr.slice(i * n, i * n + n));
-const KANJI_RE = /[一-鿿々]/g;
 
 // Example words for a kanji, easiest levels first.
 export function wordsWithKanji(c, limit = 4) {
@@ -56,14 +66,12 @@ export function wordsWithKanji(c, limit = 4) {
 
 function levelNodes(level) {
   const lvl = level.toLowerCase();
-  const kanjiOrder = new Map(D.kanji.map((k, i) => [k.c, i]));
   const levelKanji = D.kanji.filter((k) => `N${k.l}` === level);
   const kSize = level === 'N5' || level === 'N4' ? 6 : 10;
   const vSize = level === 'N5' || level === 'N4' ? 10 : 15;
 
-  // Words become "ready" once the kanji they use have been taught, so sort vocab by its hardest kanji.
-  const readiness = (v) => Math.max(-1, ...(v.w.match(KANJI_RE) || []).map((c) => kanjiOrder.get(c) ?? 99999));
-  const vocab = D.vocab[level].map((v, i) => ({ v, i, r: readiness(v) })).sort((a, b) => a.r - b.r || a.i - b.i).map((x) => x.v);
+  // Vocabulary files are already ordered by real-world frequency: most useful words first.
+  const vocab = D.vocab[level];
 
   const lists = {
     kanji: chunk(levelKanji, kSize).map((ks, i, all) => ({
@@ -84,6 +92,10 @@ function levelNodes(level) {
   };
   const nodes = Object.values(lists).flat().sort((a, b) => a.pos - b.pos || a.order - b.order);
   if (level === 'N5') nodes.unshift(foundationNode(FOUNDATIONS.kanji, level));
+  // Checkpoint exams halfway through and at the end of each level.
+  const mid = Math.floor(nodes.length / 2);
+  nodes.splice(mid, 0, { id: `${lvl}-exam-mid`, type: 'exam', level, title: `${level} checkpoint quiz`, sub: 'Mixed test on the first half of this level', items: [], exam: { level, kind: 'checkpoint', upto: mid } });
+  nodes.push({ id: `${lvl}-exam-final`, type: 'exam', level, title: `${level} mock exam`, sub: 'JLPT-style: vocabulary, grammar, reading, listening', items: [], exam: { level, kind: 'mock' } });
   return nodes;
 }
 
@@ -137,6 +149,14 @@ export function cardInfo(id) {
       const p = D.index.grammarPoint.get(pid);
       const q = p?.quiz[+qi];
       return q && { kind: 'grammar', id, p, q };
+    }
+    case 'c': {
+      const c = S().custom[rest];
+      return c && { kind: 'vocab', id, v: { id, w: c.w, r: c.r, m: c.m, level: 'Mine', custom: true } };
+    }
+    case 'x': {
+      const c = S().custom[rest];
+      return c && { kind: 'vocab-rev', id, v: { id: `c:${rest}`, w: c.w, r: c.r, m: c.m, level: 'Mine', custom: true } };
     }
     case 'p': {
       const [uid, i] = rest.split('#');

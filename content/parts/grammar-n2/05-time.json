@@ -1,0 +1,144 @@
+{
+  "id": "n2-u05",
+  "title": "Time, occasions, and turning points",
+  "summary": "Formal ways to talk about when things happen: ever since ({て以来[いらい]}), only after ({てはじめて}), as soon as ({次第[しだい]}), after careful steps ({上[うえ]で}), on occasions ({際[さい]に}, {にあたって}, {に先立[さきだ]って}), and triggers ({をきっかけに}).",
+  "points": [
+    {
+      "id": "n2-teirai",
+      "title": "〜て以来[いらい]",
+      "meaning": "ever since",
+      "structure": "V-て + 以来[いらい]　／　Noun + 以来[いらい]",
+      "explanation": "{て以来[いらい]} marks a starting point in the past, and the second half describes a state or habit that has **continued ever since**: \"since I came to Japan, I've kept a diary\". The second half is therefore usually {〜ている}, a negative like {一度[いちど]も〜ていない}, or a long-term change.\n\nIt is not used for a single event that happened right after, or for the very recent past. ✗ {昨日[きのう]以来[いらい]} sounds odd; say {昨日[きのう]から}.\n\nIt works in speech and writing, and nouns such as {入社[にゅうしゃ]以来[いらい]}, {震災[しんさい]以来[いらい]} are common in news.",
+      "examples": [
+        { "jp": "日本[にほん]に来[き]て以来[いらい]、毎日[まいにち]日記[にっき]をつけている。", "en": "Ever since I came to Japan, I've kept a diary every day." },
+        { "jp": "卒業[そつぎょう]して以来[いらい]、彼[かれ]とは一度[いちど]も会[あ]っていない。", "en": "I haven't seen him once since we graduated." },
+        { "jp": "入社[にゅうしゃ]以来[いらい]、一日[いちにち]も休[やす]んだことがない。", "en": "Since joining the company, I haven't taken a single day off." },
+        { "jp": "震災[しんさい]以来[いらい]、防災[ぼうさい]グッズを準備[じゅんび]する家庭[かてい]が増[ふ]えた。", "en": "Since the earthquake disaster, more households have been preparing emergency supplies." }
+      ],
+      "quiz": [
+        { "q": "大学[だいがく]を卒業[そつぎょう]して＿＿、ずっと東京[とうきょう]で働[はたら]いている。", "en": "Ever since graduating from university, I've been working in Tokyo.", "choices": ["以上[いじょう]", "次第[しだい]", "以来[いらい]", "末[すえ]に"], "answer": 2 },
+        { "q": "その事故[じこ]＿＿、彼[かれ]は車[くるま]を運転[うんてん]しなくなった。", "en": "Since that accident, he has stopped driving.", "choices": ["以来[いらい]", "次第[しだい]", "にあたって", "に先立[さきだ]って"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-tehajimete",
+      "title": "〜てはじめて（て初[はじ]めて）",
+      "meaning": "only after; not until",
+      "structure": "V-て + はじめて",
+      "explanation": "{てはじめて} says that a realisation or change came **only after** an experience: \"only when I got sick did I understand how precious health is\". The second half is typically a verb of realising: {わかる}, {気[き]づく}, {知[し]る}, {〜ようになる}.\n\nIt carries a reflective tone, as if the speaker is saying \"I should have known earlier\". It is common in essays, speeches and conversation alike.\n\nIt is often combined with {〜てみて}: {やってみてはじめて} (\"not until I actually tried it\").",
+      "examples": [
+        { "jp": "病気[びょうき]になってはじめて、健康[けんこう]のありがたさがわかった。", "en": "Only after I got sick did I appreciate the value of good health." },
+        { "jp": "一人暮[ひとりぐ]らしをしてはじめて、親[おや]の苦労[くろう]を知[し]った。", "en": "It wasn't until I lived alone that I understood how hard my parents worked." },
+        { "jp": "実際[じっさい]に働[はたら]いてみてはじめて、この仕事[しごと]の大変[たいへん]さに気[き]づいた。", "en": "Only once I actually started working did I realise how demanding this job is." },
+        { "jp": "日本[にほん]に住[す]んではじめて、ごみの分別[ぶんべつ]がこんなに細[こま]かいと知[し]った。", "en": "Not until I lived in Japan did I learn how detailed rubbish sorting is." }
+      ],
+      "quiz": [
+        { "q": "海外[かいがい]に出[で]て＿＿、自分[じぶん]の国[くに]のよさがわかった。", "en": "Only after going abroad did I see the good points of my own country.", "choices": ["以来[いらい]", "はじめて", "次第[しだい]", "ばかりに"], "answer": 1 },
+        { "q": "失[うしな]って＿＿、その大切[たいせつ]さに気[き]づくものだ。", "en": "It's only after you lose something that you realise how important it was.", "choices": ["ばかりで", "以来[いらい]", "いても", "はじめて"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-shidai",
+      "title": "〜次第[しだい]（as soon as）",
+      "meaning": "as soon as",
+      "structure": "V-ます stem + 次第[しだい]　／　Noun (する verbs) + 次第[しだい]",
+      "explanation": "{次第[しだい]} after a verb stem means \"as soon as X happens, (I will) do Y\". It is a polite, efficient expression used constantly in **business**: {分[わ]かり次第[しだい]ご連絡[れんらく]します} (\"I'll contact you as soon as I know\").\n\nThe second half must be a future action, intention or request by a person. You cannot use it for past events or for things that just happen naturally. ✗ {駅[えき]に着[つ]き次第[しだい]、雨[あめ]が降[ふ]った}.\n\nThe casual equivalent is {〜たらすぐ}. For {次第[しだい]で} (\"depending on\"), see Unit 13.",
+      "examples": [
+        { "jp": "雨[あめ]がやみ次第[しだい]、出発[しゅっぱつ]しましょう。", "en": "Let's set off as soon as the rain stops." },
+        { "jp": "準備[じゅんび]ができ次第[しだい]、会議[かいぎ]を始[はじ]めてください。", "en": "Please start the meeting as soon as everything is ready." },
+        { "jp": "詳細[しょうさい]が決[き]まり次第[しだい]、ご連絡[れんらく]いたします。", "en": "We will contact you as soon as the details are decided." },
+        { "jp": "商品[しょうひん]が入荷[にゅうか]し次第[しだい]、発送[はっそう]いたします。", "en": "We will ship the item as soon as it arrives in stock." }
+      ],
+      "quiz": [
+        { "q": "結果[けっか]が分[わ]かり＿＿、メールでお知[し]らせします。", "en": "We'll let you know by email as soon as we have the results.", "choices": ["次第[しだい]", "以来[いらい]", "末[すえ]", "上[うえ]は"], "answer": 0 },
+        { "q": "田中[たなか]が戻[もど]り次第[しだい]、＿＿。", "en": "(On the phone to a client) As soon as Tanaka is back, I'll have him call you back.", "choices": ["雨[あめ]が降[ふ]り出[だ]しました", "会議[かいぎ]が終[お]わっていました", "折[お]り返[かえ]しお電話[でんわ]させます", "私[わたし]は帰[かえ]りました"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-uede",
+      "title": "〜上[うえ]で",
+      "meaning": "after (doing carefully); in doing / for the purpose of",
+      "structure": "V-た + 上[うえ]で　／　Noun + の上[うえ]（で）　／　V-dictionary + 上[うえ]で",
+      "explanation": "{上[うえ]で} has two main uses.\n\n**1. After the {た} form or a noun + {の}: \"after doing X (and based on it)\"**. X is a necessary first step before the main action: think it over, consult, confirm. It is more formal and deliberate than {〜てから}. Forms like {ご確認[かくにん]の上[うえ]} are standard on forms and in emails.\n\n**2. After V-dictionary: \"in doing / when it comes to\"**. It introduces an area in which something is important or a problem: {日本[にほん]で生活[せいかつ]する上[うえ]で大切[たいせつ]なこと} (\"what's important in living in Japan\").\n\nBoth are common in business and formal speech.",
+      "examples": [
+        { "jp": "よく考[かんが]えた上[うえ]で、お返事[へんじ]します。", "en": "I'll give you my answer after thinking it over carefully." },
+        { "jp": "家族[かぞく]と相談[そうだん]した上[うえ]で決[き]めたいと思[おも]います。", "en": "I'd like to decide after talking it over with my family." },
+        { "jp": "契約書[けいやくしょ]の内容[ないよう]をご確認[かくにん]の上[うえ]、ご署名[しょめい]ください。", "en": "Please sign after confirming the contents of the contract." },
+        { "jp": "日本[にほん]で生活[せいかつ]する上[うえ]で、在留[ざいりゅう]カードは欠[か]かせない。", "en": "When it comes to living in Japan, your residence card is indispensable." },
+        { "jp": "外国語[がいこくご]を学[まな]ぶ上[うえ]で大切[たいせつ]なのは、毎日[まいにち]続[つづ]けることだ。", "en": "What matters most in learning a foreign language is keeping at it every day." }
+      ],
+      "quiz": [
+        { "q": "両親[りょうしん]とよく話[はな]し合[あ]った＿＿、留学[りゅうがく]を決[き]めた。", "en": "I decided to study abroad after discussing it thoroughly with my parents.", "choices": ["上[うえ]に", "上[うえ]は", "以来[いらい]", "上[うえ]で"], "answer": 3 },
+        { "q": "仕事[しごと]をする＿＿、報告[ほうこく]・連絡[れんらく]・相談[そうだん]は欠[か]かせない。", "en": "In doing your job, reporting, keeping people informed and consulting are essential.", "choices": ["上[うえ]で", "上[うえ]は", "末[すえ]に", "次第[しだい]"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-saini",
+      "title": "〜際[さい]に（際[さい]は）",
+      "meaning": "when; on the occasion of (formal)",
+      "structure": "V-dictionary / V-た + 際[さい]（に / は）　／　Noun + の際[さい]（に / は）",
+      "explanation": "{際[さい]} is a formal word for \"time, occasion\", so {〜際[さい]に} is a stiffer version of {〜時[とき]に}. You will see it on signs, in announcements, manuals, official letters and business emails: {お降[お]りの際[さい]は足元[あしもと]にご注意[ちゅうい]ください}.\n\n**{際[さい]} vs {時[とき]}**\n- {時[とき]} is general: any time, any register, including states and periods ({子[こ]どもの時[とき]}, {暇[ひま]な時[とき]}).\n- {際[さい]} refers to a **specific occasion or procedure**, usually a deliberate action, and sounds formal. It is not used for long states or ages: ✗ {子[こ]どもの際[さい]}.\n\nIn casual conversation, {際[さい]} would sound oddly stiff.",
+      "examples": [
+        { "jp": "お降[お]りの際[さい]は、足元[あしもと]にご注意[ちゅうい]ください。", "en": "Please watch your step when getting off." },
+        { "jp": "退室[たいしつ]する際[さい]には、必[かなら]ず電気[でんき]を消[け]してください。", "en": "When leaving the room, please be sure to turn off the lights." },
+        { "jp": "緊急[きんきゅう]の際[さい]は、こちらの番号[ばんごう]にお電話[でんわ]ください。", "en": "In case of emergency, please call this number." },
+        { "jp": "先日[せんじつ]京都[きょうと]へ出張[しゅっちょう]した際[さい]に、昔[むかし]の同僚[どうりょう]に会[あ]った。", "en": "When I was on a business trip to Kyoto the other day, I met a former colleague." }
+      ],
+      "quiz": [
+        { "q": "子[こ]どもの＿＿、よく川[かわ]で泳[およ]いだ。", "en": "When I was a child, I often swam in the river.", "choices": ["際[さい]", "時[とき]", "上[うえ]", "末[すえ]"], "answer": 1 },
+        { "q": "パスポートを申請[しんせい]する＿＿は、写真[しゃしん]が一枚[いちまい]必要[ひつよう]です。", "en": "When applying for a passport, you need one photo.", "choices": ["末[すえ]", "上[うえ]に", "際[さい]", "以来[いらい]"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-niatatte",
+      "title": "〜にあたって（にあたり）",
+      "meaning": "on the occasion of; when undertaking (something important)",
+      "structure": "Noun / V-dictionary + にあたって・にあたり・にあたっては",
+      "explanation": "{にあたって} is used when facing an **important, one-time milestone**: starting a business, opening a ceremony, moving abroad, graduating. The second half usually describes preparations, attitude or a formal greeting.\n\n{にあたり} is the more formal written version, typical of speeches: {開会[かいかい]にあたり、一言[ひとこと]ご挨拶[あいさつ]申[もう]し上[あ]げます}.\n\n**vs {際[さい]に}**: {際[さい]} can be used for routine actions ({お降[お]りの際[さい]}), but {にあたって} is only for significant occasions. ✗ {トイレを使[つか]うにあたって}.",
+      "examples": [
+        { "jp": "新[あたら]しい生活[せいかつ]を始[はじ]めるにあたって、家具[かぐ]をそろえた。", "en": "In preparation for starting my new life, I got all the furniture together." },
+        { "jp": "開会[かいかい]にあたり、一言[ひとこと]ご挨拶[あいさつ]申[もう]し上[あ]げます。", "en": "On the occasion of this opening, allow me to say a few words." },
+        { "jp": "海外[かいがい]に進出[しんしゅつ]するにあたって、現地[げんち]の法律[ほうりつ]を詳[くわ]しく調[しら]べた。", "en": "Before expanding overseas, we researched local laws in detail." },
+        { "jp": "本[ほん]サービスのご利用[りよう]にあたっては、利用規約[りようきやく]をお読[よ]みください。", "en": "Before using this service, please read the terms of use." }
+      ],
+      "quiz": [
+        { "q": "新[あら]たな事業[じぎょう]を始[はじ]める＿＿、社員[しゃいん]全員[ぜんいん]の意見[いけん]を聞[き]いた。", "en": "In starting the new business, we asked all employees for their opinions.", "choices": ["に限[かぎ]って", "にあたって", "をめぐって", "にかかわらず"], "answer": 1 },
+        { "q": "卒業[そつぎょう]＿＿、お世話[せわ]になった先生方[せんせいがた]に心[こころ]からお礼[れい]を申[もう]し上[あ]げます。", "en": "On the occasion of our graduation, we sincerely thank the teachers who looked after us.", "choices": ["に反[はん]して", "につれて", "に過[す]ぎず", "にあたり"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-nisakidatte",
+      "title": "〜に先立[さきだ]って（に先立[さきだ]ち）",
+      "meaning": "prior to; ahead of",
+      "structure": "Noun / V-dictionary + に先立[さきだ]って・に先立[さきだ]ち・に先立[さきだ]つ + Noun",
+      "explanation": "{先立[さきだ]つ} means \"to go before\". {〜に先立[さきだ]って} says something is done **before** a main event, usually as preparation or a preview: a press conference before a launch, an opening ceremony before a match.\n\nIt is formal and common in news reports and official announcements. {に先立[さきだ]ち} is even more formal, and {〜に先立[さきだ]つ + Noun} modifies a noun ({公開[こうかい]に先立[さきだ]つ試写会[ししゃかい]}).\n\nIn everyday speech, {〜の前[まえ]に} is the normal choice.",
+      "examples": [
+        { "jp": "試合[しあい]に先立[さきだ]って、開会式[かいかいしき]が行[おこな]われた。", "en": "An opening ceremony was held prior to the match." },
+        { "jp": "新製品[しんせいひん]の発売[はつばい]に先立[さきだ]ち、記者会見[きしゃかいけん]が開[ひら]かれた。", "en": "A press conference was held ahead of the new product's release." },
+        { "jp": "工事[こうじ]を始[はじ]めるに先立[さきだ]って、近所[きんじょ]の住民[じゅうみん]に説明会[せつめいかい]を行[おこな]った。", "en": "Before starting construction, they held an information session for local residents." },
+        { "jp": "映画[えいが]の一般[いっぱん]公開[こうかい]に先立[さきだ]つ試写会[ししゃかい]に招待[しょうたい]された。", "en": "I was invited to a preview screening held before the film's general release." }
+      ],
+      "quiz": [
+        { "q": "首脳会談[しゅのうかいだん]に＿＿、両国[りょうこく]の外相[がいしょう]が会談[かいだん]した。", "en": "Ahead of the summit, the foreign ministers of both countries held talks.", "choices": ["応[おう]じて", "先立[さきだ]って", "沿[そ]って", "基[もと]づいて"], "answer": 1 },
+        { "q": "本格的[ほんかくてき]な販売[はんばい]＿＿、一部[いちぶ]の店舗[てんぽ]で試験的[しけんてき]に販売[はんばい]を行[おこな]う。", "en": "Prior to the full launch, trial sales will be held at some stores.", "choices": ["に先立[さきだ]ち", "にわたり", "に応[おう]じ", "をめぐり"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-kikkake",
+      "title": "〜をきっかけに（がきっかけで）",
+      "meaning": "with X as the trigger; prompted by",
+      "structure": "Noun / V-た + の + をきっかけに（して）・がきっかけで　／　（formal）を契機[けいき]に",
+      "explanation": "{きっかけ} is a trigger or chance that starts something new. {Xをきっかけに} means \"X prompted (a new habit, interest or change)\". Note the particles: {をきっかけに} or {がきっかけで}; don't mix them (✗ {がきっかけに}).\n\nTypical topics are life changes: starting a hobby, changing jobs, moving, getting interested in a country.\n\n{を契機[けいき]に} means the same but is formal and used in news and business writing, often about social or organisational change.",
+      "examples": [
+        { "jp": "留学[りゅうがく]をきっかけに、環境問題[かんきょうもんだい]に興味[きょうみ]を持[も]つようになった。", "en": "Studying abroad got me interested in environmental issues." },
+        { "jp": "結婚[けっこん]したのをきっかけに、料理[りょうり]を始[はじ]めた。", "en": "I started cooking when I got married." },
+        { "jp": "友人[ゆうじん]の一言[ひとこと]がきっかけで、転職[てんしょく]を考[かんが]え始[はじ]めた。", "en": "A single remark from a friend made me start thinking about changing jobs." },
+        { "jp": "今回[こんかい]の事故[じこ]を契機[けいき]に、安全対策[あんぜんたいさく]の見直[みなお]しが進[すす]められている。", "en": "Prompted by this accident, safety measures are being reviewed." }
+      ],
+      "quiz": [
+        { "q": "アニメを見[み]たの＿＿、日本語[にほんご]の勉強[べんきょう]を始[はじ]めた。", "en": "Watching anime was what got me started studying Japanese.", "choices": ["にあたって", "に先立[さきだ]って", "をきっかけに", "次第[しだい]で"], "answer": 2 },
+        { "q": "祖母[そぼ]の入院[にゅういん]が＿＿、家族[かぞく]で過[す]ごす時間[じかん]が増[ふ]えた。", "en": "Our grandmother's hospital stay led to our family spending more time together.", "choices": ["きっかけで", "きっかけに", "際[さい]に", "以来[いらい]で"], "answer": 0 }
+      ]
+    }
+  ]
+}

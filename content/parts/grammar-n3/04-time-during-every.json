@@ -10,15 +10,50 @@
       "structure": "Verb (dictionary / ている / ない-form) + うちに ; い-adj + うちに ; な-adj + な + うちに ; Noun + の + うちに",
       "explanation": "{〜うちに} has two main uses.\n\n**1. Do it while you can.** The first part describes a state that won't last, and the second part is something you should do before it ends: {熱[あつ]いうちに食[た]べてください。} 'Eat it while it's hot.' {若[わか]いうちに} 'while you're young'. With the {ない}-form, it means 'before something (unwanted) happens': {雨[あめ]が降[ふ]らないうちに帰[かえ]ろう。} 'Let's go home before it rains.'\n\n**2. While doing ~, something changed (without you noticing).** {本[ほん]を読[よ]んでいるうちに、寝[ね]てしまった。} 'While I was reading, I fell asleep.' The first part is usually a continuing action ({〜ている}), and the second part is a change ({〜ようになった}, {〜てしまった}, {だんだん〜}).\n\nThe key feeling of {うちに} is 'before the situation changes' or 'the situation changed along the way'.",
       "examples": [
-        { "jp": "熱[あつ]いうちに食[た]べてください。", "en": "Please eat it while it's hot." },
-        { "jp": "若[わか]いうちに、いろいろな国[くに]へ行[い]ってみたい。", "en": "I want to visit lots of countries while I'm young." },
-        { "jp": "雨[あめ]が降[ふ]らないうちに、帰[かえ]りましょう。", "en": "Let's go home before it starts raining." },
-        { "jp": "日本[にほん]に住[す]んでいるうちに、納豆[なっとう]が好[す]きになった。", "en": "Living in Japan, I came to like natto." },
-        { "jp": "本[ほん]を読[よ]んでいるうちに、寝[ね]てしまった。", "en": "I fell asleep while I was reading." }
+        {
+          "jp": "熱[あつ]いうちに食[た]べてください。",
+          "en": "Please eat it while it's hot."
+        },
+        {
+          "jp": "若[わか]いうちに、いろいろな国[くに]へ行[い]ってみたい。",
+          "en": "I want to visit lots of countries while I'm young."
+        },
+        {
+          "jp": "雨[あめ]が降[ふ]らないうちに、帰[かえ]りましょう。",
+          "en": "Let's go home before it starts raining."
+        },
+        {
+          "jp": "日本[にほん]に住[す]んでいるうちに、納豆[なっとう]が好[す]きになった。",
+          "en": "Living in Japan, I came to like natto."
+        },
+        {
+          "jp": "本[ほん]を読[よ]んでいるうちに、寝[ね]てしまった。",
+          "en": "I fell asleep while I was reading."
+        }
       ],
       "quiz": [
-        { "q": "忘[わす]れない＿＿、メモしておこう。", "en": "I'll make a note before I forget.", "choices": ["うちに", "間[あいだ]に", "最中[さいちゅう]に", "たびに"], "answer": 0 },
-        { "q": "日本[にほん]のドラマを見[み]ている＿＿、だんだん聞[き]き取[と]れるようになった。", "en": "As I kept watching Japanese dramas, I gradually became able to catch what they were saying.", "choices": ["うちに", "間[あいだ]", "最中[さいちゅう]に", "ついでに"], "answer": 0 }
+        {
+          "q": "忘[わす]れない＿＿、メモしておこう。",
+          "en": "I'll make a note before I forget.",
+          "choices": [
+            "最中[さいちゅう]に",
+            "うちに",
+            "たびに",
+            "間[あいだ]に"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "日本[にほん]のドラマを見[み]ている＿＿、だんだん聞[き]き取[と]れるようになった。",
+          "en": "As I kept watching Japanese dramas, I gradually became able to catch what they were saying.",
+          "choices": [
+            "間[あいだ]",
+            "ついでに",
+            "うちに",
+            "最中[さいちゅう]に"
+          ],
+          "answer": 2
+        }
       ]
     },
     {
@@ -28,15 +63,50 @@
       "structure": "Verb (ている) + 間[あいだ] / 間[あいだ]に ; Noun + の + 間[あいだ] / 間[あいだ]に",
       "explanation": "{間[あいだ]} means 'interval' or 'space between'. The particle {に} makes a big difference.\n\n- **{〜間[あいだ]} (no {に}):** something continues for the **whole** period. The second part is a continuing action or state: {夏休[なつやす]みの間[あいだ]、ずっと実家[じっか]にいました。} 'I was at my parents' place the whole summer vacation.'\n- **{〜間[あいだ]に}:** something happens **at one point within** the period. The second part is a one-time event: {夏休[なつやす]みの間[あいだ]に、運転免許[うんてんめんきょ]を取[と]りたい。} 'I want to get my driver's license during the summer vacation.'\n\n**{間[あいだ]に} vs {うちに}:** {間[あいだ]に} is a neutral time span with a clear beginning and end. {うちに} adds the feeling of 'before it changes / while I still can', and is the natural choice with states like {若[わか]い} and {熱[あつ]い}. When there's a clear period like 'while the kids are asleep', both are often possible.",
       "examples": [
-        { "jp": "夏休[なつやす]みの間[あいだ]、ずっと実家[じっか]にいました。", "en": "I was at my parents' home for the whole summer vacation." },
-        { "jp": "夏休[なつやす]みの間[あいだ]に、運転免許[うんてんめんきょ]を取[と]りたい。", "en": "I want to get my driver's license during summer vacation." },
-        { "jp": "私[わたし]が電話[でんわ]している間[あいだ]、子供[こども]たちは静[しず]かに待[ま]っていた。", "en": "The children waited quietly the whole time I was on the phone." },
-        { "jp": "留守[るす]の間[あいだ]に、荷物[にもつ]が届[とど]いていた。", "en": "A package arrived while I was out." },
-        { "jp": "部長[ぶちょう]が出張[しゅっちょう]している間[あいだ]に、この資料[しりょう]を準備[じゅんび]しておきましょう。", "en": "Let's get these materials ready while the manager is away on his business trip." }
+        {
+          "jp": "夏休[なつやす]みの間[あいだ]、ずっと実家[じっか]にいました。",
+          "en": "I was at my parents' home for the whole summer vacation."
+        },
+        {
+          "jp": "夏休[なつやす]みの間[あいだ]に、運転免許[うんてんめんきょ]を取[と]りたい。",
+          "en": "I want to get my driver's license during summer vacation."
+        },
+        {
+          "jp": "私[わたし]が電話[でんわ]している間[あいだ]、子供[こども]たちは静[しず]かに待[ま]っていた。",
+          "en": "The children waited quietly the whole time I was on the phone."
+        },
+        {
+          "jp": "留守[るす]の間[あいだ]に、荷物[にもつ]が届[とど]いていた。",
+          "en": "A package arrived while I was out."
+        },
+        {
+          "jp": "部長[ぶちょう]が出張[しゅっちょう]している間[あいだ]に、この資料[しりょう]を準備[じゅんび]しておきましょう。",
+          "en": "Let's get these materials ready while the manager is away on his business trip."
+        }
       ],
       "quiz": [
-        { "q": "会議[かいぎ]の＿＿、ずっと携帯[けいたい]の電源[でんげん]を切[き]っていた。", "en": "I kept my phone switched off for the whole meeting.", "choices": ["間[あいだ]", "間[あいだ]に", "たびに", "ついでに"], "answer": 0 },
-        { "q": "私[わたし]がシャワーを浴[あ]びている＿＿、友達[ともだち]から電話[でんわ]があった。", "en": "While I was taking a shower, a friend called.", "choices": ["間[あいだ]に", "間[あいだ]", "たびに", "ところだった"], "answer": 0 }
+        {
+          "q": "会議[かいぎ]の＿＿、ずっと携帯[けいたい]の電源[でんげん]を切[き]っていた。",
+          "en": "I kept my phone switched off for the whole meeting.",
+          "choices": [
+            "間[あいだ]",
+            "ついでに",
+            "間[あいだ]に",
+            "たびに"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "私[わたし]がシャワーを浴[あ]びている＿＿、友達[ともだち]から電話[でんわ]があった。",
+          "en": "While I was taking a shower, a friend called.",
+          "choices": [
+            "たびに",
+            "ところだった",
+            "ついでに",
+            "間[あいだ]に"
+          ],
+          "answer": 3
+        }
       ]
     },
     {
@@ -46,14 +116,46 @@
       "structure": "Verb (ている) + 最中[さいちゅう]に ; Noun + の + 最中[さいちゅう]に ; 〜最中[さいちゅう]だ",
       "explanation": "{〜最中[さいちゅう]に} means 'right in the middle of ~', at the very peak of an activity. The second part is usually something **unexpected** that interrupts it, often something annoying.\n\n{会議[かいぎ]の最中[さいちゅう]に、電話[でんわ]が鳴[な]った。} 'Right in the middle of the meeting, a phone rang.'\n\nYou can also end a sentence with {最中[さいちゅう]だ} to say you're busy in the middle of something: {今[いま]考[かんが]えている最中[さいちゅう]だから、ちょっと待[ま]って。} 'I'm in the middle of thinking, so hang on.'\n\nCompared with {間[あいだ]に}, {最中[さいちゅう]に} focuses on the busiest, most active moment and the surprise of the interruption. It's used with activities, not with states like {若[わか]い}.",
       "examples": [
-        { "jp": "会議[かいぎ]の最中[さいちゅう]に、電話[でんわ]が鳴[な]った。", "en": "Right in the middle of the meeting, a phone rang." },
-        { "jp": "料理[りょうり]をしている最中[さいちゅう]に、停電[ていでん]した。", "en": "The power went out right in the middle of my cooking." },
-        { "jp": "試験[しけん]の最中[さいちゅう]に、お腹[なか]が痛[いた]くなった。", "en": "In the middle of the exam, I got a stomachache." },
-        { "jp": "今[いま]、考[かんが]えている最中[さいちゅう]だから、ちょっと待[ま]って。", "en": "I'm right in the middle of thinking, so wait a moment." }
+        {
+          "jp": "会議[かいぎ]の最中[さいちゅう]に、電話[でんわ]が鳴[な]った。",
+          "en": "Right in the middle of the meeting, a phone rang."
+        },
+        {
+          "jp": "料理[りょうり]をしている最中[さいちゅう]に、停電[ていでん]した。",
+          "en": "The power went out right in the middle of my cooking."
+        },
+        {
+          "jp": "試験[しけん]の最中[さいちゅう]に、お腹[なか]が痛[いた]くなった。",
+          "en": "In the middle of the exam, I got a stomachache."
+        },
+        {
+          "jp": "今[いま]、考[かんが]えている最中[さいちゅう]だから、ちょっと待[ま]って。",
+          "en": "I'm right in the middle of thinking, so wait a moment."
+        }
       ],
       "quiz": [
-        { "q": "今[いま]、資料[しりょう]を作[つく]っている＿＿だから、少[すこ]し待[ま]ってください。", "en": "I'm in the middle of making the materials right now, so please wait a little.", "choices": ["最中[さいちゅう]", "うち", "たび", "ついで"], "answer": 0 },
-        { "q": "食事[しょくじ]の＿＿に地震[じしん]が起[お]きて、びっくりした。", "en": "An earthquake hit right in the middle of our meal, and I was startled.", "choices": ["最中[さいちゅう]", "ついで", "おかげ", "くせ"], "answer": 0 }
+        {
+          "q": "今[いま]、資料[しりょう]を作[つく]っている＿＿だから、少[すこ]し待[ま]ってください。",
+          "en": "I'm in the middle of making the materials right now, so please wait a little.",
+          "choices": [
+            "最中[さいちゅう]",
+            "ついで",
+            "たび",
+            "うち"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "食事[しょくじ]の＿＿に地震[じしん]が起[お]きて、びっくりした。",
+          "en": "An earthquake hit right in the middle of our meal, and I was startled.",
+          "choices": [
+            "おかげ",
+            "最中[さいちゅう]",
+            "くせ",
+            "ついで"
+          ],
+          "answer": 1
+        }
       ]
     },
     {
@@ -63,14 +165,46 @@
       "structure": "Verb (dictionary) + たびに ; Noun + の + たびに",
       "explanation": "{〜たびに} means 'every time A happens, B happens too'. {たび} means 'occasion', so it's literally 'on every occasion of A'.\n\n{この歌[うた]を聞[き]くたびに、学生時代[がくせいじだい]を思[おも]い出[だ]す。} 'Every time I hear this song, I remember my student days.'\n\nIt works with verbs in the dictionary form and with nouns that describe events: {出張[しゅっちょう]のたびに} 'every business trip', {引[ひ]っ越[こ]しのたびに} 'every time I move'.\n\nIt is close to {〜とき（は）いつも}, but {たびに} emphasizes that B reliably follows A each time, often with a sense of repetition or gradual change.",
       "examples": [
-        { "jp": "この歌[うた]を聞[き]くたびに、学生時代[がくせいじだい]を思[おも]い出[だ]す。", "en": "Every time I hear this song, I remember my student days." },
-        { "jp": "田中[たなか]さんは出張[しゅっちょう]のたびに、お土産[みやげ]を買[か]ってきてくれる。", "en": "Every time Tanaka goes on a business trip, he brings us back a souvenir." },
-        { "jp": "祖母[そぼ]は、会[あ]うたびに「大[おお]きくなったね」と言[い]う。", "en": "Every time I see my grandmother, she says, 'You've grown!'" },
-        { "jp": "引[ひ]っ越[こ]しのたびに、物[もの]が少[すこ]しずつ減[へ]っていく。", "en": "Each time I move, I have a few less things." }
+        {
+          "jp": "この歌[うた]を聞[き]くたびに、学生時代[がくせいじだい]を思[おも]い出[だ]す。",
+          "en": "Every time I hear this song, I remember my student days."
+        },
+        {
+          "jp": "田中[たなか]さんは出張[しゅっちょう]のたびに、お土産[みやげ]を買[か]ってきてくれる。",
+          "en": "Every time Tanaka goes on a business trip, he brings us back a souvenir."
+        },
+        {
+          "jp": "祖母[そぼ]は、会[あ]うたびに「大[おお]きくなったね」と言[い]う。",
+          "en": "Every time I see my grandmother, she says, 'You've grown!'"
+        },
+        {
+          "jp": "引[ひ]っ越[こ]しのたびに、物[もの]が少[すこ]しずつ減[へ]っていく。",
+          "en": "Each time I move, I end up with a few fewer things."
+        }
       ],
       "quiz": [
-        { "q": "実家[じっか]に帰[かえ]る＿＿、母[はは]がたくさん料理[りょうり]を作[つく]ってくれる。", "en": "Every time I go back to my parents' home, my mother cooks lots of food for me.", "choices": ["たびに", "最中[さいちゅう]に", "とたんに", "ついでに"], "answer": 0 },
-        { "q": "あの写真[しゃしん]を見[み]る＿＿、楽[たの]しかった旅行[りょこう]を思[おも]い出[だ]します。", "en": "Every time I look at that photo, I remember that fun trip.", "choices": ["たびに", "最中[さいちゅう]に", "おきに", "ところに"], "answer": 0 }
+        {
+          "q": "実家[じっか]に帰[かえ]る＿＿、母[はは]がたくさん料理[りょうり]を作[つく]ってくれる。",
+          "en": "Every time I go back to my parents' home, my mother cooks lots of food for me.",
+          "choices": [
+            "たびに",
+            "とたんに",
+            "最中[さいちゅう]に",
+            "ついでに"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "あの写真[しゃしん]を見[み]る＿＿、楽[たの]しかった旅行[りょこう]を思[おも]い出[だ]します。",
+          "en": "Every time I look at that photo, I remember that fun trip.",
+          "choices": [
+            "ところに",
+            "最中[さいちゅう]に",
+            "たびに",
+            "おきに"
+          ],
+          "answer": 2
+        }
       ]
     },
     {
@@ -80,14 +214,46 @@
       "structure": "Verb (dictionary / た-form) + ついでに ; Noun + の + ついでに",
       "explanation": "{〜ついでに} means you're already doing A, so you **take the opportunity** to do B as well. A is the main purpose; B is a small extra that's convenient to do at the same time.\n\n{コンビニに行[い]くついでに、この手紙[てがみ]を出[だ]してくれない？} 'Since you're going to the convenience store anyway, could you post this letter for me?'\n\nThe same person does both A and B. Nouns that describe activities take {の}: {散歩[さんぽ]のついでに} 'while out on a walk', {買[か]い物[もの]のついでに} 'while out shopping'.\n\nOn its own, {ついでに} can also start a sentence: {ついでに、これもお願[ねが]いできますか。} 'While you're at it, could you do this too?'",
       "examples": [
-        { "jp": "コンビニに行[い]くついでに、この手紙[てがみ]を出[だ]してくれない？", "en": "Since you're going to the convenience store, could you post this letter for me?" },
-        { "jp": "散歩[さんぽ]のついでに、パンを買[か]ってきた。", "en": "I picked up some bread while I was out for a walk." },
-        { "jp": "東京[とうきょう]へ出張[しゅっちょう]したついでに、昔[むかし]の友達[ともだち]に会[あ]った。", "en": "While I was in Tokyo on business, I took the chance to see an old friend." },
-        { "jp": "部屋[へや]を掃除[そうじ]するついでに、いらない服[ふく]も捨[す]てた。", "en": "While cleaning my room, I also threw out clothes I didn't need." }
+        {
+          "jp": "コンビニに行[い]くついでに、この手紙[てがみ]を出[だ]してくれない？",
+          "en": "Since you're going to the convenience store, could you post this letter for me?"
+        },
+        {
+          "jp": "散歩[さんぽ]のついでに、パンを買[か]ってきた。",
+          "en": "I picked up some bread while I was out for a walk."
+        },
+        {
+          "jp": "東京[とうきょう]へ出張[しゅっちょう]したついでに、昔[むかし]の友達[ともだち]に会[あ]った。",
+          "en": "While I was in Tokyo on business, I took the chance to see an old friend."
+        },
+        {
+          "jp": "部屋[へや]を掃除[そうじ]するついでに、いらない服[ふく]も捨[す]てた。",
+          "en": "While cleaning my room, I also threw out clothes I didn't need."
+        }
       ],
       "quiz": [
-        { "q": "郵便局[ゆうびんきょく]へ行[い]った＿＿、銀行[ぎんこう]にも寄[よ]った。", "en": "While I was at the post office, I stopped by the bank too.", "choices": ["ついでに", "最中[さいちゅう]に", "とたんに", "くせに"], "answer": 0 },
-        { "q": "買[か]い物[もの]の＿＿、駅前[えきまえ]の本屋[ほんや]をのぞいてみた。", "en": "While I was out shopping, I took a look in the bookstore in front of the station.", "choices": ["ついでに", "たびに", "うちに", "せいで"], "answer": 0 }
+        {
+          "q": "郵便局[ゆうびんきょく]へ行[い]った＿＿、銀行[ぎんこう]にも寄[よ]った。",
+          "en": "While I was at the post office, I stopped by the bank too.",
+          "choices": [
+            "とたんに",
+            "最中[さいちゅう]に",
+            "くせに",
+            "ついでに"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "買[か]い物[もの]の＿＿、駅前[えきまえ]の本屋[ほんや]をのぞいてみた。",
+          "en": "While I was out shopping, I took a look in the bookstore in front of the station.",
+          "choices": [
+            "せいで",
+            "ついでに",
+            "たびに",
+            "うちに"
+          ],
+          "answer": 1
+        }
       ]
     },
     {
@@ -97,15 +263,50 @@
       "structure": "Number + counter + おきに ; Number + counter + ごとに ; Noun + ごとに ; Verb (dictionary) + ごとに",
       "explanation": "Both express regular repetition, but they count differently.\n\n**{ごとに}** = 'every / each': {一日[いちにち]ごとに} = every day. {二時間[にじかん]ごとに} = every two hours. It also attaches to nouns: {季節[きせつ]ごとに} 'each season', {チームごとに} 'each team'.\n\n**{おきに}** = 'with ~ in between': {一日[いちにち]おきに} = every **other** day (Monday, Wednesday, Friday…), because one day is skipped between.\n\nFor continuous quantities like minutes or meters, the two mean almost the same thing: {十五分[じゅうごふん]おきに} and {十五分[じゅうごふん]ごとに} are both 'every 15 minutes'. The difference only matters with units like days, floors, or stops.",
       "examples": [
-        { "jp": "このバスは十五分[じゅうごふん]おきに来[き]ます。", "en": "This bus comes every fifteen minutes." },
-        { "jp": "一日[いちにち]おきにジムに通[かよ]っている。", "en": "I go to the gym every other day." },
-        { "jp": "二時間[にじかん]ごとに休憩[きゅうけい]を取[と]ってください。", "en": "Please take a break every two hours." },
-        { "jp": "この町[まち]では、季節[きせつ]ごとに違[ちが]う景色[けしき]が楽[たの]しめる。", "en": "In this town you can enjoy different scenery each season." },
-        { "jp": "駅[えき]に着[つ]くごとに、乗客[じょうきゃく]が増[ふ]えていった。", "en": "With each station we stopped at, there were more passengers." }
+        {
+          "jp": "このバスは十五分[じゅうごふん]おきに来[き]ます。",
+          "en": "This bus comes every fifteen minutes."
+        },
+        {
+          "jp": "一日[いちにち]おきにジムに通[かよ]っている。",
+          "en": "I go to the gym every other day."
+        },
+        {
+          "jp": "二時間[にじかん]ごとに休憩[きゅうけい]を取[と]ってください。",
+          "en": "Please take a break every two hours."
+        },
+        {
+          "jp": "この町[まち]では、季節[きせつ]ごとに違[ちが]う景色[けしき]が楽[たの]しめる。",
+          "en": "In this town you can enjoy different scenery each season."
+        },
+        {
+          "jp": "駅[えき]に着[つ]くごとに、乗客[じょうきゃく]が増[ふ]えていった。",
+          "en": "With each station we stopped at, there were more passengers."
+        }
       ],
       "quiz": [
-        { "q": "月曜[げつよう]、水曜[すいよう]、金曜[きんよう]と、一日[いちにち]＿＿日本語[にほんご]のレッスンがある。", "en": "I have Japanese lessons every other day: Monday, Wednesday and Friday.", "choices": ["おきに", "ごとに", "たびに", "ついでに"], "answer": 0 },
-        { "q": "会議[かいぎ]では、チーム＿＿意見[いけん]を発表[はっぴょう]することになった。", "en": "It was decided that each team will present its opinion at the meeting.", "choices": ["ごとに", "おきに", "たびに", "ついでに"], "answer": 0 }
+        {
+          "q": "月曜[げつよう]、水曜[すいよう]、金曜[きんよう]と、一日[いちにち]＿＿日本語[にほんご]のレッスンがある。",
+          "en": "I have Japanese lessons every other day: Monday, Wednesday and Friday.",
+          "choices": [
+            "たびに",
+            "ごとに",
+            "おきに",
+            "ついでに"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "会議[かいぎ]では、チーム＿＿意見[いけん]を発表[はっぴょう]することになった。",
+          "en": "It was decided that each team will present its opinion at the meeting.",
+          "choices": [
+            "ついでに",
+            "たびに",
+            "ごとに",
+            "おきに"
+          ],
+          "answer": 2
+        }
       ]
     },
     {
@@ -113,16 +314,48 @@
       "title": "〜から〜にかけて",
       "meaning": "from ~ through ~ ; over the period / area from ~ to ~ (a rough span)",
       "structure": "Noun + から + Noun + にかけて",
-      "explanation": "{AからBにかけて} describes a span of time or space from A to B, without exact edges. It's the standard phrase in weather forecasts.\n\n{今夜[こんや]から明日[あした]の朝[あさ]にかけて、雨[あめ]が強[つよ]く降[ふ]るでしょう。} 'Heavy rain is expected from tonight through tomorrow morning.'\n\n**{にかけて} vs {まで}:** {AからBまで} gives exact start and end points: {九時[くじ]から五時[ごじ]まで働[はたら]く} 'I work from 9 to 5.' {AからBにかけて} gives a fuzzy range — something is happening somewhere across that span, possibly not all of it. So don't use {にかけて} for precise schedules.\n\nIt also works on its own after one noun: {週末[しゅうまつ]にかけて} 'heading into the weekend'.",
+      "explanation": "{AからBにかけて} describes a span of time or space from A to B, without exact edges. It's the standard phrase in weather forecasts.\n\n{今夜[こんや]から明日[あした]の朝[あさ]にかけて、雨[あめ]が強[つよ]く降[ふ]るでしょう。} 'Heavy rain is expected from tonight through tomorrow morning.'\n\n**{にかけて} vs {まで}:** {AからBまで} gives exact start and end points: {九時[くじ]から五時[ごじ]まで働[はたら]く} 'I work from 9 to 5.' {AからBにかけて} gives a fuzzy range — something is happening somewhere across that span, possibly not all of it. So {にかけて} is not suited to exact start and end times like {九時[くじ]から五時[ごじ]まで}; with days or dates it gives a looser 'over that period' feel ({月曜[げつよう]から水曜[すいよう]にかけて出張[しゅっちょう]です} is fine).\n\nIt also works on its own after one noun: {週末[しゅうまつ]にかけて} 'heading into the weekend'.",
       "examples": [
-        { "jp": "今夜[こんや]から明日[あした]の朝[あさ]にかけて、雨[あめ]が強[つよ]く降[ふ]るでしょう。", "en": "Heavy rain is expected from tonight through tomorrow morning." },
-        { "jp": "関東[かんとう]から東北[とうほく]にかけて、雪[ゆき]が降[ふ]っています。", "en": "Snow is falling across the region from Kanto to Tohoku." },
-        { "jp": "毎年[まいとし]三月[さんがつ]から四月[しがつ]にかけて、桜[さくら]が咲[さ]きます。", "en": "Every year the cherry blossoms bloom from March into April." },
-        { "jp": "年末[ねんまつ]から年始[ねんし]にかけて、多[おお]くの会社[かいしゃ]が休[やす]みになる。", "en": "Many companies close over the New Year period." }
+        {
+          "jp": "今夜[こんや]から明日[あした]の朝[あさ]にかけて、雨[あめ]が強[つよ]く降[ふ]るでしょう。",
+          "en": "Heavy rain is expected from tonight through tomorrow morning."
+        },
+        {
+          "jp": "関東[かんとう]から東北[とうほく]にかけて、雪[ゆき]が降[ふ]っています。",
+          "en": "Snow is falling across the region from Kanto to Tohoku."
+        },
+        {
+          "jp": "毎年[まいとし]三月[さんがつ]から四月[しがつ]にかけて、桜[さくら]が咲[さ]きます。",
+          "en": "Every year the cherry blossoms bloom from March into April."
+        },
+        {
+          "jp": "年末[ねんまつ]から年始[ねんし]にかけて、多[おお]くの会社[かいしゃ]が休[やす]みになる。",
+          "en": "Many companies close over the New Year period."
+        }
       ],
       "quiz": [
-        { "q": "九州[きゅうしゅう]から四国[しこく]＿＿、大雨[おおあめ]に注意[ちゅうい]してください。", "en": "Please watch out for heavy rain across the area from Kyushu to Shikoku.", "choices": ["にかけて", "について", "にとって", "として"], "answer": 0 },
-        { "q": "来週[らいしゅう]の月曜日[げつようび]＿＿水曜日[すいようび]にかけて、出張[しゅっちょう]で大阪[おおさか]にいます。", "en": "From next Monday through Wednesday, I'll be in Osaka on a business trip.", "choices": ["から", "まで", "に", "で"], "answer": 0 }
+        {
+          "q": "九州[きゅうしゅう]から四国[しこく]＿＿、大雨[おおあめ]に注意[ちゅうい]してください。",
+          "en": "Please watch out for heavy rain across the area from Kyushu to Shikoku.",
+          "choices": [
+            "として",
+            "にとって",
+            "について",
+            "にかけて"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "来週[らいしゅう]の月曜日[げつようび]＿＿水曜日[すいようび]にかけて、出張[しゅっちょう]で大阪[おおさか]にいます。",
+          "en": "From next Monday through Wednesday, I'll be in Osaka on a business trip.",
+          "choices": [
+            "まで",
+            "に",
+            "で",
+            "から"
+          ],
+          "answer": 3
+        }
       ]
     }
   ]

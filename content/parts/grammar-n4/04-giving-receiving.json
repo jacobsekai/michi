@@ -10,24 +10,46 @@
       "structure": "Giver は/が + Receiver に + Thing を + あげる",
       "explanation": "Japanese has different verbs for 'give' depending on the direction of the giving. {あげる} is for giving **outward**: from me (or someone on my side) to someone else, or between two other people. {私[わたし]は友[とも]だちに花[はな]をあげた} 'I gave my friend flowers.' {田中[たなか]さんは山田[やまだ]さんに本[ほん]をあげた} 'Tanaka gave Yamada a book.'\n\nThe one thing {あげる} can never do is describe giving **to me** or my inner circle — that needs {くれる} (next point).\n\nLevels of politeness:\n\n- {さしあげる}: humble, for giving to someone of higher status, like a teacher or customer.\n- {やる}: plain, for giving to animals, plants, or (casually) to one's own younger family members.",
       "examples": [
-        { "jp": "私[わたし]は友[とも]だちに誕生日[たんじょうび]のプレゼントをあげました。", "en": "I gave my friend a birthday present." },
-        { "jp": "田中[たなか]さんは山田[やまだ]さんに本[ほん]をあげました。", "en": "Tanaka-san gave Yamada-san a book." },
-        { "jp": "毎朝[まいあさ]、犬[いぬ]にえさをやります。", "en": "I feed the dog every morning." },
-        { "jp": "先生[せんせい]に旅行[りょこう]のお土産[みやげ]をさしあげました。", "en": "I gave my teacher a souvenir from my trip." }
+        {
+          "jp": "私[わたし]は友[とも]だちに誕生日[たんじょうび]のプレゼントをあげました。",
+          "en": "I gave my friend a birthday present."
+        },
+        {
+          "jp": "田中[たなか]さんは山田[やまだ]さんに本[ほん]をあげました。",
+          "en": "Tanaka-san gave Yamada-san a book."
+        },
+        {
+          "jp": "毎朝[まいあさ]、犬[いぬ]にえさをやります。",
+          "en": "I feed the dog every morning."
+        },
+        {
+          "jp": "先生[せんせい]に旅行[りょこう]のお土産[みやげ]をさしあげました。",
+          "en": "I gave my teacher a souvenir from my trip."
+        }
       ],
       "notes": "Nowadays many people also say {花[はな]に水[みず]をあげる} or {犬[いぬ]にえさをあげる}; {やる} sounds a little rougher to some ears. Either is fine for plants and pets.",
       "quiz": [
         {
           "q": "私[わたし]は妹[いもうと]に古[ふる]いかばんを＿＿。",
           "en": "I gave my old bag to my younger sister.",
-          "choices": ["あげました", "くれました", "もらいました", "いただきました"],
-          "answer": 0
+          "choices": [
+            "もらいました",
+            "いただきました",
+            "くれました",
+            "あげました"
+          ],
+          "answer": 3
         },
         {
           "q": "毎日[まいにち]、庭[にわ]の花[はな]に水[みず]を＿＿。",
           "en": "I water the flowers in the garden every day.",
-          "choices": ["やります", "くれます", "もらいます", "くださいます"],
-          "answer": 0
+          "choices": [
+            "くださいます",
+            "くれます",
+            "もらいます",
+            "やります"
+          ],
+          "answer": 3
         }
       ]
     },
@@ -38,23 +60,45 @@
       "structure": "Giver は/が + (私[わたし]に) + Thing を + くれる",
       "explanation": "{くれる} is for giving **toward me** or someone in my circle: family, close friends, my team. {友[とも]だちが私[わたし]にお菓子[かし]をくれた} 'My friend gave me sweets.' Because the direction is built into the verb, {私[わたし]に} is often left out.\n\nThe giver is the subject (marked with {は} or {が}), and the receiver is always me or my side. You can't say {私[わたし]は友[とも]だちにくれた}; that would be {あげた}.\n\nWhen the giver is someone of higher status, use the honorific {くださる}. Its {ます}-form is irregular: {くださいます} (not {くださります}). {先生[せんせい]が辞書[じしょ]をくださいました} 'My teacher gave me a dictionary.'",
       "examples": [
-        { "jp": "友[とも]だちが映画[えいが]のチケットをくれました。", "en": "My friend gave me movie tickets." },
-        { "jp": "祖母[そぼ]は毎年[まいとし]、誕生日[たんじょうび]にカードをくれる。", "en": "My grandmother gives me a card every year on my birthday." },
-        { "jp": "隣[となり]の人[ひと]が弟[おとうと]にお菓子[かし]をくれました。", "en": "The neighbour gave my little brother some sweets." },
-        { "jp": "先生[せんせい]が辞書[じしょ]をくださいました。", "en": "My teacher gave me a dictionary." }
+        {
+          "jp": "友[とも]だちが映画[えいが]のチケットをくれました。",
+          "en": "My friend gave me movie tickets."
+        },
+        {
+          "jp": "祖母[そぼ]は毎年[まいとし]、誕生日[たんじょうび]にカードをくれる。",
+          "en": "My grandmother gives me a card every year on my birthday."
+        },
+        {
+          "jp": "隣[となり]の人[ひと]が弟[おとうと]にお菓子[かし]をくれました。",
+          "en": "The neighbour gave my little brother some sweets."
+        },
+        {
+          "jp": "先生[せんせい]が辞書[じしょ]をくださいました。",
+          "en": "My teacher gave me a dictionary."
+        }
       ],
       "quiz": [
         {
           "q": "姉[あね]が私[わたし]にマフラーを＿＿。",
           "en": "My older sister gave me a scarf.",
-          "choices": ["くれました", "あげました", "やりました", "さしあげました"],
+          "choices": [
+            "くれました",
+            "さしあげました",
+            "やりました",
+            "あげました"
+          ],
           "answer": 0
         },
         {
           "q": "部長[ぶちょう]が私[わたし]にお土産[みやげ]を＿＿。",
           "en": "The department manager gave me a souvenir.",
-          "choices": ["くださいました", "さしあげました", "いただきました", "あげました"],
-          "answer": 0
+          "choices": [
+            "あげました",
+            "さしあげました",
+            "くださいました",
+            "いただきました"
+          ],
+          "answer": 2
         }
       ]
     },
@@ -65,23 +109,45 @@
       "structure": "Receiver は + Giver に/から + Thing を + もらう",
       "explanation": "{もらう} looks at the same event from the receiver's side: 'I got X from Y'. The receiver is the subject, and the giver is marked with {に} or {から}. {私[わたし]は父[ちち]に時計[とけい]をもらった} 'I got a watch from my father.' Use {から} especially when the giver is an organisation: {会社[かいしゃ]から手紙[てがみ]をもらった}.\n\nSo one event can be described three ways:\n\n- {父[ちち]が私[わたし]に時計[とけい]をくれた} (giver's side, toward me)\n- {私[わたし]は父[ちち]に時計[とけい]をもらった} (receiver's side)\n- but never {父[ちち]が私[わたし]に時計[とけい]をあげた}\n\nWhen the giver is of higher status, use the humble {いただく}: {先生[せんせい]に本[ほん]をいただきました}. This is the same {いただく} as in {いただきます} before meals — 'I humbly receive'.",
       "examples": [
-        { "jp": "私[わたし]は父[ちち]に時計[とけい]をもらいました。", "en": "I got a watch from my father." },
-        { "jp": "会社[かいしゃ]から手紙[てがみ]をもらった。", "en": "I received a letter from the company." },
-        { "jp": "先生[せんせい]に本[ほん]をいただきました。", "en": "I received a book from my teacher." },
-        { "jp": "友[とも]だちからもらったお菓子[かし]を、みんなで食[た]べた。", "en": "We all ate the sweets I'd got from a friend." }
+        {
+          "jp": "私[わたし]は父[ちち]に時計[とけい]をもらいました。",
+          "en": "I got a watch from my father."
+        },
+        {
+          "jp": "会社[かいしゃ]から手紙[てがみ]をもらった。",
+          "en": "I received a letter from the company."
+        },
+        {
+          "jp": "先生[せんせい]に本[ほん]をいただきました。",
+          "en": "I received a book from my teacher."
+        },
+        {
+          "jp": "友[とも]だちからもらったお菓子[かし]を、みんなで食[た]べた。",
+          "en": "We all ate the sweets I'd got from a friend."
+        }
       ],
       "quiz": [
         {
           "q": "私[わたし]は友[とも]だち＿＿手作[てづく]りのケーキをもらいました。",
           "en": "I got a homemade cake from my friend.",
-          "choices": ["に", "が", "を", "で"],
-          "answer": 0
+          "choices": [
+            "が",
+            "を",
+            "に",
+            "で"
+          ],
+          "answer": 2
         },
         {
           "q": "社長[しゃちょう]にお土産[みやげ]を＿＿。",
           "en": "I received a souvenir from the company president.",
-          "choices": ["いただきました", "くださいました", "さしあげました", "くれました"],
-          "answer": 0
+          "choices": [
+            "くれました",
+            "くださいました",
+            "いただきました",
+            "さしあげました"
+          ],
+          "answer": 2
         }
       ]
     },
@@ -92,23 +158,45 @@
       "structure": "V-て + あげる",
       "explanation": "Japanese uses the giving verbs after a {て}-form to show that an action is a favour. {〜てあげる} means 'do ~ for someone else', with the same outward direction as {あげる}: {妹[いもうと]に本[ほん]を読[よ]んであげた} 'I read a book to my little sister (for her).'\n\nThe particle for the person depends on the verb. Keep whatever the verb normally takes: {友[とも]だちを手伝[てつだ]ってあげる} (help takes {を}), {友[とも]だちに道[みち]を教[おし]えてあげる} (teach takes {に}), {友[とも]だちの宿題[しゅくだい]を見[み]てあげる} (someone's thing takes {の}).\n\n**Careful**: saying {〜てあげる} directly to the person you're helping, especially a superior or a stranger, can sound like 'I'll do you the favour' — a bit condescending. To offer help, use {〜ましょうか}: {持[も]ちましょうか} rather than {持[も]ってあげましょうか}.",
       "examples": [
-        { "jp": "妹[いもうと]に本[ほん]を読[よ]んであげました。", "en": "I read a book to my little sister." },
-        { "jp": "道[みち]に迷[まよ]っている人[ひと]に、駅[えき]までの道[みち]を教[おし]えてあげた。", "en": "I showed someone who was lost the way to the station." },
-        { "jp": "弟[おとうと]の宿題[しゅくだい]を手伝[てつだ]ってあげました。", "en": "I helped my little brother with his homework." },
-        { "jp": "子[こ]どもを公園[こうえん]に連[つ]れていってあげた。", "en": "I took the kids to the park." }
+        {
+          "jp": "妹[いもうと]に本[ほん]を読[よ]んであげました。",
+          "en": "I read a book to my little sister."
+        },
+        {
+          "jp": "道[みち]に迷[まよ]っている人[ひと]に、駅[えき]までの道[みち]を教[おし]えてあげた。",
+          "en": "I showed someone who was lost the way to the station."
+        },
+        {
+          "jp": "弟[おとうと]の宿題[しゅくだい]を手伝[てつだ]ってあげました。",
+          "en": "I helped my little brother with his homework."
+        },
+        {
+          "jp": "子[こ]どもを公園[こうえん]に連[つ]れていってあげた。",
+          "en": "I took the kids to the park."
+        }
       ],
       "quiz": [
         {
           "q": "おばあさんが重[おも]い荷物[にもつ]を持[も]っていたので、持[も]って＿＿。",
           "en": "An old woman was carrying heavy bags, so I carried them for her.",
-          "choices": ["あげました", "くれました", "もらいました", "くださいました"],
-          "answer": 0
+          "choices": [
+            "くれました",
+            "くださいました",
+            "もらいました",
+            "あげました"
+          ],
+          "answer": 3
         },
         {
           "q": "先生[せんせい]、そのかばん、＿＿。",
           "en": "Professor, shall I carry that bag for you?",
-          "choices": ["持[も]ちましょうか", "持[も]ってあげましょうか", "持[も]ってあげます", "持[も]ってくれますか"],
-          "answer": 0
+          "choices": [
+            "持[も]ってあげましょうか",
+            "持[も]ってあげます",
+            "持[も]ってくれますか",
+            "持[も]ちましょうか"
+          ],
+          "answer": 3
         }
       ]
     },
@@ -119,24 +207,49 @@
       "structure": "Person が + V-て + くれる",
       "explanation": "{〜てくれる} means someone does a favour for me or my side, with the same inward direction as {くれる}: {友[とも]だちが駅[えき]まで送[おく]ってくれた} 'My friend took me to the station.'\n\nJapanese uses this far more than English uses 'for me'. It quietly expresses gratitude. If you just say {友[とも]だちが手伝[てつだ]った} 'My friend helped', it sounds flat or even cold; {手伝[てつだ]ってくれた} sounds warm and appreciative. When something nice is done for you, reach for {てくれる}.\n\nWith people of higher status, use {〜てくださる}: {先生[せんせい]が直[なお]してくださいました}.\n\nIt also makes requests: {〜てくれる？} (casual), {〜てくれませんか} (polite).",
       "examples": [
-        { "jp": "友[とも]だちが駅[えき]まで車[くるま]で送[おく]ってくれました。", "en": "My friend drove me to the station." },
-        { "jp": "母[はは]が毎朝[まいあさ]お弁当[べんとう]を作[つく]ってくれる。", "en": "My mum makes me a packed lunch every morning." },
-        { "jp": "知[し]らない人[ひと]が財布[さいふ]を拾[ひろ]ってくれた。", "en": "A stranger picked up my wallet for me." },
-        { "jp": "先生[せんせい]が作文[さくぶん]を直[なお]してくださいました。", "en": "My teacher corrected my essay for me." },
-        { "jp": "ちょっと塩[しお]を取[と]ってくれる？", "en": "Could you pass me the salt?" }
+        {
+          "jp": "友[とも]だちが駅[えき]まで車[くるま]で送[おく]ってくれました。",
+          "en": "My friend drove me to the station."
+        },
+        {
+          "jp": "母[はは]が毎朝[まいあさ]お弁当[べんとう]を作[つく]ってくれる。",
+          "en": "My mum makes me a packed lunch every morning."
+        },
+        {
+          "jp": "知[し]らない人[ひと]が財布[さいふ]を拾[ひろ]ってくれた。",
+          "en": "A stranger picked up my wallet for me."
+        },
+        {
+          "jp": "先生[せんせい]が作文[さくぶん]を直[なお]してくださいました。",
+          "en": "My teacher corrected my essay for me."
+        },
+        {
+          "jp": "ちょっと塩[しお]を取[と]ってくれる？",
+          "en": "Could you pass me the salt?"
+        }
       ],
       "quiz": [
         {
           "q": "日本語[にほんご]が分[わ]からなかったとき、隣[となり]の人[ひと]が教[おし]えて＿＿。",
           "en": "When I didn't understand the Japanese, the person next to me explained it to me.",
-          "choices": ["くれました", "あげました", "もらいました", "やりました"],
-          "answer": 0
+          "choices": [
+            "もらいました",
+            "くれました",
+            "やりました",
+            "あげました"
+          ],
+          "answer": 1
         },
         {
           "q": "すみません、写真[しゃしん]を撮[と]って＿＿か。",
           "en": "Excuse me, could you take a photo for me?",
-          "choices": ["くれません", "あげません", "やりません", "さしあげません"],
-          "answer": 0
+          "choices": [
+            "さしあげません",
+            "あげません",
+            "くれません",
+            "やりません"
+          ],
+          "answer": 2
         }
       ]
     },
@@ -147,23 +260,45 @@
       "structure": "Receiver は + Person に + V-て + もらう",
       "explanation": "{〜てもらう} describes a favour from the receiver's side: 'I had / got someone do ~'. The person who does the favour is marked with {に}: {友[とも]だちに引[ひ]っ越[こ]しを手伝[てつだ]ってもらった} 'I got my friend to help me move.'\n\nCompared with {〜てくれる}, {〜てもらう} often suggests that you asked for the favour. {友[とも]だちが手伝[てつだ]ってくれた} focuses on the friend's kindness; {友[とも]だちに手伝[てつだ]ってもらった} focuses on you getting help.\n\nIt's also how you talk about services: {美容院[びよういん]で髪[かみ]を切[き]ってもらった} 'I had my hair cut at the salon.'\n\nWith people of higher status, use the humble {〜ていただく}.",
       "examples": [
-        { "jp": "友[とも]だちに引[ひ]っ越[こ]しを手伝[てつだ]ってもらいました。", "en": "I got my friend to help me move." },
-        { "jp": "美容院[びよういん]で髪[かみ]を切[き]ってもらった。", "en": "I had my hair cut at the salon." },
-        { "jp": "医者[いしゃ]に診[み]てもらったほうがいいですよ。", "en": "You'd better have a doctor look at it." },
-        { "jp": "先輩[せんぱい]に仕事[しごと]のやり方[かた]を教[おし]えていただきました。", "en": "A senior colleague kindly taught me how to do the job." }
+        {
+          "jp": "友[とも]だちに引[ひ]っ越[こ]しを手伝[てつだ]ってもらいました。",
+          "en": "I got my friend to help me move."
+        },
+        {
+          "jp": "美容院[びよういん]で髪[かみ]を切[き]ってもらった。",
+          "en": "I had my hair cut at the salon."
+        },
+        {
+          "jp": "医者[いしゃ]に診[み]てもらったほうがいいですよ。",
+          "en": "You'd better have a doctor look at it."
+        },
+        {
+          "jp": "先輩[せんぱい]に仕事[しごと]のやり方[かた]を教[おし]えていただきました。",
+          "en": "A senior colleague kindly taught me how to do the job."
+        }
       ],
       "quiz": [
         {
           "q": "私[わたし]は田中[たなか]さん＿＿日本語[にほんご]の手紙[てがみ]を読[よ]んでもらいました。",
           "en": "I had Tanaka-san read the Japanese letter for me.",
-          "choices": ["に", "が", "を", "で"],
-          "answer": 0
+          "choices": [
+            "を",
+            "で",
+            "が",
+            "に"
+          ],
+          "answer": 3
         },
         {
           "q": "自分[じぶん]で直[なお]せなかったので、店[みせ]の人[ひと]に直[なお]して＿＿。",
           "en": "I couldn't fix it myself, so I had the shop staff fix it.",
-          "choices": ["もらいました", "くれました", "あげました", "やりました"],
-          "answer": 0
+          "choices": [
+            "くれました",
+            "やりました",
+            "あげました",
+            "もらいました"
+          ],
+          "answer": 3
         }
       ]
     },
@@ -174,23 +309,48 @@
       "structure": "Person に + V-て + ほしい / V-ないで + ほしい",
       "explanation": "{〜たい} is only for your own actions: {行[い]きたい} 'I want to go.' When you want **someone else** to do something, use {V-て + ほしい}, and mark that person with {に}: {母[はは]に元気[げんき]でいてほしい} 'I want my mother to stay healthy.'\n\nFor 'I don't want you to ~', use {V-ないで + ほしい}: {誰[だれ]にも言[い]わないでほしい} 'I don't want you to tell anyone.'\n\n{〜てほしいんですが} works as a soft request between equals or to people below you. To a superior, though, stating what you want them to do is too direct; use {〜ていただけませんか} (next point) instead.",
       "examples": [
-        { "jp": "両親[りょうしん]にはずっと元気[げんき]でいてほしい。", "en": "I want my parents to stay healthy forever." },
-        { "jp": "友[とも]だちに、もう少[すこ]し早[はや]く返事[へんじ]をしてほしいです。", "en": "I wish my friend would reply a little faster." },
-        { "jp": "この話[はなし]は誰[だれ]にも言[い]わないでほしい。", "en": "I don't want you to tell anyone about this." },
-        { "jp": "子[こ]どもには、外[そと]で元気[げんき]に遊[あそ]んでほしいと思[おも]っています。", "en": "I'd like my children to play energetically outside." },
-        { "jp": "明日[あした]までにこの書類[しょるい]を見[み]てほしいんですが。", "en": "I'd like you to look over this document by tomorrow." }
+        {
+          "jp": "両親[りょうしん]にはずっと元気[げんき]でいてほしい。",
+          "en": "I want my parents to stay healthy forever."
+        },
+        {
+          "jp": "友[とも]だちに、もう少[すこ]し早[はや]く返事[へんじ]をしてほしいです。",
+          "en": "I wish my friend would reply a little faster."
+        },
+        {
+          "jp": "この話[はなし]は誰[だれ]にも言[い]わないでほしい。",
+          "en": "I don't want you to tell anyone about this."
+        },
+        {
+          "jp": "子[こ]どもには、外[そと]で元気[げんき]に遊[あそ]んでほしいと思[おも]っています。",
+          "en": "I'd like my children to play energetically outside."
+        },
+        {
+          "jp": "明日[あした]までにこの書類[しょるい]を見[み]てほしいんですが。",
+          "en": "I'd like you to look over this document by tomorrow."
+        }
       ],
       "quiz": [
         {
           "q": "夫[おっと]にもっと料理[りょうり]を手伝[てつだ]って＿＿。",
           "en": "I want my husband to help more with the cooking.",
-          "choices": ["ほしいです", "たいです", "くれたいです", "あげたいです"],
-          "answer": 0
+          "choices": [
+            "くれたいです",
+            "たいです",
+            "あげたいです",
+            "ほしいです"
+          ],
+          "answer": 3
         },
         {
           "q": "この写真[しゃしん]は誰[だれ]にも見[み]せ＿＿ほしい。",
           "en": "I don't want you to show this photo to anyone.",
-          "choices": ["ないで", "なくて", "なくても", "ないと"],
+          "choices": [
+            "ないで",
+            "なくても",
+            "なくて",
+            "ないと"
+          ],
           "answer": 0
         }
       ]
@@ -202,22 +362,44 @@
       "structure": "V-て + くれませんか / もらえませんか / くださいませんか / いただけませんか",
       "explanation": "Combining the favour verbs gives you a ladder of requests, from casual to very polite:\n\n- {〜て} / {〜てくれる？} — friends and family\n- {〜てください} — polite, but still a direct instruction\n- {〜てくれませんか} — polite request\n- {〜てもらえませんか} — 'Could I get you to ~?'\n- {〜てくださいませんか} — very polite\n- {〜ていただけませんか} — very polite; the standard choice with superiors, customers and strangers\n\n{もらえる} and {いただける} are the potential forms of {もらう} and {いただく}, so {〜ていただけませんか} literally means 'Can't I humbly receive you doing ~?' Asking in the negative ({〜ませんか}) is softer than asking in the positive ({〜ますか}).\n\nAdd a cushion phrase in front for extra politeness: {すみませんが}, {申[もう]し訳[わけ]ありませんが}.",
       "examples": [
-        { "jp": "すみません、もう一度[いちど]言[い]ってもらえませんか。", "en": "Sorry, could you say that once more?" },
-        { "jp": "ペンを貸[か]してくれませんか。", "en": "Could you lend me a pen?" },
-        { "jp": "先生[せんせい]、この漢字[かんじ]の読[よ]み方[かた]を教[おし]えていただけませんか。", "en": "Professor, could you tell me how to read this kanji?" },
-        { "jp": "申[もう]し訳[わけ]ありませんが、少[すこ]し待[ま]っていただけませんか。", "en": "I'm very sorry, but would you mind waiting a moment?" }
+        {
+          "jp": "すみません、もう一度[いちど]言[い]ってもらえませんか。",
+          "en": "Sorry, could you say that once more?"
+        },
+        {
+          "jp": "ペンを貸[か]してくれませんか。",
+          "en": "Could you lend me a pen?"
+        },
+        {
+          "jp": "先生[せんせい]、この漢字[かんじ]の読[よ]み方[かた]を教[おし]えていただけませんか。",
+          "en": "Professor, could you tell me how to read this kanji?"
+        },
+        {
+          "jp": "申[もう]し訳[わけ]ありませんが、少[すこ]し待[ま]っていただけませんか。",
+          "en": "I'm very sorry, but would you mind waiting a moment?"
+        }
       ],
       "quiz": [
         {
           "q": "すみませんが、窓[まど]を開[あ]けて＿＿か。",
           "en": "Excuse me, but could you open the window?",
-          "choices": ["いただけません", "いただきません", "さしあげません", "あげません"],
-          "answer": 0
+          "choices": [
+            "あげません",
+            "いただきません",
+            "いただけません",
+            "さしあげません"
+          ],
+          "answer": 2
         },
         {
           "q": "部長[ぶちょう]、この書類[しょるい]をチェックして＿＿。",
           "en": "Manager, could you please check this document?",
-          "choices": ["くださいませんか", "くれる？", "あげませんか", "もらいませんか"],
+          "choices": [
+            "くださいませんか",
+            "あげませんか",
+            "くれる？",
+            "もらいませんか"
+          ],
           "answer": 0
         }
       ]

@@ -10,14 +10,46 @@
       "structure": "Verb (dictionary / ない-form) + ことにする",
       "explanation": "{〜ことにする} means 'to decide to do ~', where **you** are the one making the decision. Literally it's 'to make it the thing (that I do)'.\n\n- {ことにした} (past) is the usual way to announce a decision you've just made: {日本[にほん]で働[はたら]くことにしました。} 'I've decided to work in Japan.'\n- {ことにしよう} is 'let's decide to / I'll go with ~'.\n- {ことにしている} describes a personal rule or habit you decided on earlier and keep following: {夜[よる]はコーヒーを飲[の]まないことにしている。} 'I make it a rule not to drink coffee at night.'\n\nUse the {ない}-form to decide **not** to do something.",
       "examples": [
-        { "jp": "来年[らいねん]、日本[にほん]で働[はたら]くことにしました。", "en": "I've decided to work in Japan next year." },
-        { "jp": "健康[けんこう]のために、エレベーターを使[つか]わないことにした。", "en": "For my health, I decided not to use the elevator." },
-        { "jp": "毎朝[まいあさ]、仕事[しごと]の前[まえ]に三十分[さんじゅっぷん]日本語[にほんご]を勉強[べんきょう]することにしています。", "en": "I make it a rule to study Japanese for thirty minutes every morning before work." },
-        { "jp": "雨[あめ]が降[ふ]りそうだから、今日[きょう]の花見[はなみ]はやめることにしよう。", "en": "It looks like rain, so let's call off today's cherry-blossom viewing." }
+        {
+          "jp": "来年[らいねん]、日本[にほん]で働[はたら]くことにしました。",
+          "en": "I've decided to work in Japan next year."
+        },
+        {
+          "jp": "健康[けんこう]のために、エレベーターを使[つか]わないことにした。",
+          "en": "For my health, I decided not to use the elevator."
+        },
+        {
+          "jp": "毎朝[まいあさ]、仕事[しごと]の前[まえ]に三十分[さんじゅっぷん]日本語[にほんご]を勉強[べんきょう]することにしています。",
+          "en": "I make it a rule to study Japanese for thirty minutes every morning before work."
+        },
+        {
+          "jp": "雨[あめ]が降[ふ]りそうだから、今日[きょう]の花見[はなみ]はやめることにしよう。",
+          "en": "It looks like rain, so let's call off today's cherry-blossom viewing."
+        }
       ],
       "quiz": [
-        { "q": "色々[いろいろ]考[かんが]えて、会社[かいしゃ]を辞[や]める＿＿。", "en": "After thinking it over a lot, I decided to quit my company.", "choices": ["ことにしました", "ことがあります", "はずです", "わけがありません"], "answer": 0 },
-        { "q": "夜[よる]はコーヒーを飲[の]まない＿＿います。眠[ねむ]れなくなるからです。", "en": "I make it a rule not to drink coffee at night, because I can't sleep otherwise.", "choices": ["ことにして", "ことになって", "ように言[い]って", "わけにはいかなくて"], "answer": 0 }
+        {
+          "q": "色々[いろいろ]考[かんが]えて、会社[かいしゃ]を辞[や]める＿＿。",
+          "en": "After thinking it over a lot, I decided to quit my company.",
+          "choices": [
+            "わけがありません",
+            "ことにしました",
+            "ことがあります",
+            "はずです"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "眠[ねむ]れなくなるので、自分[じぶん]で決[き]めて、夜[よる]はコーヒーを飲[の]まない＿＿います。",
+          "en": "Because it keeps me awake, I've made it my own rule not to drink coffee at night.",
+          "choices": [
+            "わけにはいかなくて",
+            "ことにして",
+            "はずがなくて",
+            "ことになって"
+          ],
+          "answer": 1
+        }
       ]
     },
     {
@@ -27,15 +59,47 @@
       "structure": "Verb (dictionary / ない-form) + ことになる",
       "explanation": "{〜ことになる} means 'it comes about that ~' — a decision made by someone else (your company, your boss, a group) or by circumstances, not by you personally.\n\n- {ことになった} announces the outcome: {来月[らいげつ]から本社[ほんしゃ]で働[はたら]くことになりました。} 'It's been decided that I'll work at head office from next month.'\n- {ことになっている} describes an existing rule, custom or arrangement: {ごみは朝[あさ]八時[はちじ]までに出[だ]すことになっています。} 'The rule is that trash goes out by 8 a.m.'\n\nThis is extremely common at work and in apartment rules in Japan, so it's worth recognizing instantly.",
       "examples": [
-        { "jp": "来月[らいげつ]から東京[とうきょう]の本社[ほんしゃ]で働[はたら]くことになりました。", "en": "It's been decided that I'll work at the Tokyo head office from next month." },
-        { "jp": "次[つぎ]の会議[かいぎ]は金曜日[きんようび]に行[おこな]うことになった。", "en": "It was decided that the next meeting will be held on Friday." },
-        { "jp": "この会社[かいしゃ]では、休[やす]む時[とき]は朝[あさ]九時[くじ]までに連絡[れんらく]することになっています。", "en": "At this company, the rule is that you contact them by 9 a.m. when you're taking the day off." },
-        { "jp": "このマンションでは、ごみは朝[あさ]八時[はちじ]までに出[だ]すことになっています。", "en": "In this apartment building, trash is supposed to be put out by 8 a.m." }
+        {
+          "jp": "来月[らいげつ]から東京[とうきょう]の本社[ほんしゃ]で働[はたら]くことになりました。",
+          "en": "It's been decided that I'll work at the Tokyo head office from next month."
+        },
+        {
+          "jp": "次[つぎ]の会議[かいぎ]は金曜日[きんようび]に行[おこな]うことになった。",
+          "en": "It was decided that the next meeting will be held on Friday."
+        },
+        {
+          "jp": "この会社[かいしゃ]では、休[やす]む時[とき]は朝[あさ]九時[くじ]までに連絡[れんらく]することになっています。",
+          "en": "At this company, the rule is that you contact them by 9 a.m. when you're taking the day off."
+        },
+        {
+          "jp": "このマンションでは、ごみは朝[あさ]八時[はちじ]までに出[だ]すことになっています。",
+          "en": "In this apartment building, trash is supposed to be put out by 8 a.m."
+        }
       ],
       "notes": "Japanese speakers often use {ことになりました} even for their **own** decisions (e.g. {結婚[けっこん]することになりました} 'I'm getting married'). It sounds modest, as if things simply turned out that way, rather than 'I decided'.",
       "quiz": [
-        { "q": "会社[かいしゃ]の決[き]まりで、毎週[まいしゅう]月曜日[げつようび]に報告書[ほうこくしょ]を出[だ]す＿＿。", "en": "Under company rules, we're supposed to submit a report every Monday.", "choices": ["ことになっています", "ことにしています", "わけがありません", "はずがありません"], "answer": 0 },
-        { "q": "部長[ぶちょう]の指示[しじ]で、来週[らいしゅう]大阪[おおさか]へ出張[しゅっちょう]する＿＿。", "en": "On the manager's instructions, I'm to go on a business trip to Osaka next week.", "choices": ["ことになりました", "ことにしました", "わけがありません", "ようにしました"], "answer": 0 }
+        {
+          "q": "会社[かいしゃ]の決[き]まりで、毎週[まいしゅう]月曜日[げつようび]に報告書[ほうこくしょ]を出[だ]す＿＿。",
+          "en": "Under company rules, we're supposed to submit a report every Monday.",
+          "choices": [
+            "ことにしています",
+            "わけがありません",
+            "ことになっています",
+            "はずがありません"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "部長[ぶちょう]の指示[しじ]で、来週[らいしゅう]大阪[おおさか]へ出張[しゅっちょう]する＿＿。",
+          "en": "On the manager's instructions, I'm to go on a business trip to Osaka next week.",
+          "choices": [
+            "わけがありません",
+            "はずがありません",
+            "ことがありました",
+            "ことになりました"
+          ],
+          "answer": 3
+        }
       ]
     },
     {
@@ -45,15 +109,47 @@
       "structure": "Verb (dictionary / ない-form) + ようにする",
       "explanation": "{〜ようにする} means 'to act so that ~ happens' — to make an effort, to be careful to do (or not do) something.\n\n- {ようにします} is a promise of effort: {明日[あした]は遅[おく]れないようにします。} 'I'll make sure not to be late tomorrow.'\n- {ようにしている} describes an ongoing effort or habit: {毎日[まいにち]野菜[やさい]を食[た]べるようにしています。} 'I try to eat vegetables every day.'\n- {ようにしてください} is a polite way to ask someone to make a habit of something.\n\nThe difference from {ことにする}: {ことにする} is a clear-cut decision (yes or no). {ようにする} is an effort you keep up as well as you can — you may not succeed 100% of the time.",
       "examples": [
-        { "jp": "明日[あした]は遅[おく]れないようにします。", "en": "I'll make sure I'm not late tomorrow." },
-        { "jp": "毎日[まいにち]野菜[やさい]を食[た]べるようにしています。", "en": "I try to eat vegetables every day." },
-        { "jp": "大事[だいじ]なことは、必[かなら]ずメモするようにしてください。", "en": "Please make sure you always write down important things." },
-        { "jp": "日本語[にほんご]が上手[じょうず]になりたいので、できるだけ日本語[にほんご]で話[はな]すようにしている。", "en": "I want to get better at Japanese, so I try to speak in Japanese as much as possible." }
+        {
+          "jp": "明日[あした]は遅[おく]れないようにします。",
+          "en": "I'll make sure I'm not late tomorrow."
+        },
+        {
+          "jp": "毎日[まいにち]野菜[やさい]を食[た]べるようにしています。",
+          "en": "I try to eat vegetables every day."
+        },
+        {
+          "jp": "大事[だいじ]なことは、必[かなら]ずメモするようにしてください。",
+          "en": "Please make sure you always write down important things."
+        },
+        {
+          "jp": "日本語[にほんご]が上手[じょうず]になりたいので、できるだけ日本語[にほんご]で話[はな]すようにしている。",
+          "en": "I want to get better at Japanese, so I try to speak in Japanese as much as possible."
+        }
       ],
       "notes": "Three look-alikes:\n- {ようにする} — make an effort (your action)\n- {ようになる} — come to be able / a change happens ({話[はな]せるようになった} 'I became able to speak')\n- {ことにする} — decide",
       "quiz": [
-        { "q": "健康[けんこう]のために、なるべく階段[かいだん]を使[つか]う＿＿います。", "en": "For my health, I try to use the stairs whenever possible.", "choices": ["ようにして", "ようになって", "わけにはいかなくて", "はずがなくて"], "answer": 0 },
-        { "q": "「最近[さいきん]ミスが多[おお]いですよ。」「すみません。これからはよく確認[かくにん]する＿＿。」", "en": "'You've been making a lot of mistakes lately.' 'I'm sorry. From now on I'll make sure to check carefully.'", "choices": ["ようにします", "ようになります", "わけです", "はずです"], "answer": 0 }
+        {
+          "q": "健康[けんこう]のために、なるべく階段[かいだん]を使[つか]う＿＿います。",
+          "en": "For my health, I try to use the stairs whenever possible.",
+          "choices": [
+            "はずがなくて",
+            "ようにして",
+            "ようになって",
+            "わけにはいかなくて"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "「最近[さいきん]ミスが多[おお]いですよ。」「すみません。これからはよく確認[かくにん]する＿＿。」",
+          "en": "'You've been making a lot of mistakes lately.' 'I'm sorry. From now on I'll make sure to check carefully.'",
+          "choices": [
+            "ようにします",
+            "はずです",
+            "ようになります",
+            "わけです"
+          ],
+          "answer": 0
+        }
       ]
     },
     {
@@ -63,15 +159,50 @@
       "structure": "Verb (dictionary / ない-form / potential) + ように ; Verb-ます + ように (wish)",
       "explanation": "{〜ように} on its own expresses the goal of an action: 'so that ~'.\n\n{忘[わす]れないように、カレンダーに書[か]いておきます。} 'I'll write it on the calendar so that I don't forget.'\n\n**{ように} vs {ために}:** both mean 'in order to', but {ために} needs a verb you can control (a deliberate action). {ように} is used with things that aren't directly under your control: potential forms ({読[よ]める}), {ない}-forms, and verbs like {わかる}, {見[み]える}, {聞[き]こえる}, {なる}. Often the subjects of the two clauses are different, too.\n\n**Wishes:** {〜ますように} on its own is a prayer or hope, the kind of thing you write on an {絵馬[えま]} at a shrine: {合格[ごうかく]できますように。} 'Please let me pass.'",
       "examples": [
-        { "jp": "後[うし]ろの人[ひと]にも聞[き]こえるように、大[おお]きい声[こえ]で話[はな]してください。", "en": "Please speak loudly so that the people at the back can hear too." },
-        { "jp": "忘[わす]れないように、カレンダーに書[か]いておきます。", "en": "I'll write it on the calendar so I don't forget." },
-        { "jp": "外国人[がいこくじん]にもわかるように、簡単[かんたん]な日本語[にほんご]で説明[せつめい]した。", "en": "I explained in simple Japanese so that foreigners could understand too." },
-        { "jp": "試験[しけん]に合格[ごうかく]できますように。", "en": "I hope I pass the exam. (a wish / prayer)" },
-        { "jp": "早[はや]く元気[げんき]になりますように。", "en": "I hope you get well soon." }
+        {
+          "jp": "後[うし]ろの人[ひと]にも聞[き]こえるように、大[おお]きい声[こえ]で話[はな]してください。",
+          "en": "Please speak loudly so that the people at the back can hear too."
+        },
+        {
+          "jp": "忘[わす]れないように、カレンダーに書[か]いておきます。",
+          "en": "I'll write it on the calendar so I don't forget."
+        },
+        {
+          "jp": "外国人[がいこくじん]にもわかるように、簡単[かんたん]な日本語[にほんご]で説明[せつめい]した。",
+          "en": "I explained in simple Japanese so that foreigners could understand too."
+        },
+        {
+          "jp": "試験[しけん]に合格[ごうかく]できますように。",
+          "en": "I hope I pass the exam. (a wish / prayer)"
+        },
+        {
+          "jp": "早[はや]く元気[げんき]になりますように。",
+          "en": "I hope you get well soon."
+        }
       ],
       "quiz": [
-        { "q": "電車[でんしゃ]の中[なか]でも読[よ]める＿＿、小[ちい]さい本[ほん]を買[か]った。", "en": "I bought a small book so that I can read it even on the train.", "choices": ["ように", "ために", "ことに", "わけに"], "answer": 0 },
-        { "q": "神社[じんじゃ]で「家族[かぞく]がみんな元気[げんき]でいられます＿＿。」とお願[ねが]いした。", "en": "At the shrine, I prayed, 'May my whole family stay healthy.'", "choices": ["ように", "ために", "ことに", "はずに"], "answer": 0 }
+        {
+          "q": "電車[でんしゃ]の中[なか]でも読[よ]める＿＿、小[ちい]さい本[ほん]を買[か]った。",
+          "en": "I bought a small book so that I can read it even on the train.",
+          "choices": [
+            "ように",
+            "ために",
+            "ことに",
+            "わけに"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "神社[じんじゃ]で「家族[かぞく]がみんな元気[げんき]でいられます＿＿。」とお願[ねが]いした。",
+          "en": "At the shrine, I prayed, 'May my whole family stay healthy.'",
+          "choices": [
+            "ことに",
+            "ように",
+            "はずに",
+            "ために"
+          ],
+          "answer": 1
+        }
       ]
     },
     {
@@ -81,15 +212,47 @@
       "structure": "Verb (dictionary / ない-form) + ように + 言[い]う・頼[たの]む・伝[つた]える・注意[ちゅうい]する",
       "explanation": "When you report a request or an instruction, rather than a statement, use {ように} before verbs such as {言[い]う} (tell), {頼[たの]む} (ask), {伝[つた]える} (pass on), and {注意[ちゅうい]する} (warn).\n\nDirect: {医者[いしゃ]は「お酒[さけ]を飲[の]まないでください」と言[い]った。}\nIndirect: {医者[いしゃ]にお酒[さけ]を飲[の]まないように言[い]われた。} 'The doctor told me not to drink.'\n\nIt is often used in the passive ({言[い]われた}, {頼[たの]まれた}) to say what you were told to do. In the office, {〜ように伝[つた]えてください} ('please tell him to ~') is a phrase you'll use and hear constantly.",
       "examples": [
-        { "jp": "医者[いしゃ]にお酒[さけ]を飲[の]まないように言[い]われました。", "en": "The doctor told me not to drink alcohol." },
-        { "jp": "田中[たなか]さんに、会議[かいぎ]の資料[しりょう]をコピーするように頼[たの]んだ。", "en": "I asked Tanaka to copy the meeting materials." },
-        { "jp": "山田[やまだ]さんに、明日[あした]は九時[くじ]に来[く]るように伝[つた]えてください。", "en": "Please tell Yamada to come at nine tomorrow." },
-        { "jp": "課長[かちょう]に、メールはもっと短[みじか]く書[か]くように注意[ちゅうい]された。", "en": "The section chief told me (as a warning) to write my emails more concisely." }
+        {
+          "jp": "医者[いしゃ]にお酒[さけ]を飲[の]まないように言[い]われました。",
+          "en": "The doctor told me not to drink alcohol."
+        },
+        {
+          "jp": "田中[たなか]さんに、会議[かいぎ]の資料[しりょう]をコピーするように頼[たの]んだ。",
+          "en": "I asked Tanaka to copy the meeting materials."
+        },
+        {
+          "jp": "山田[やまだ]さんに、明日[あした]は九時[くじ]に来[く]るように伝[つた]えてください。",
+          "en": "Please tell Yamada to come at nine tomorrow."
+        },
+        {
+          "jp": "課長[かちょう]に、メールはもっと短[みじか]く書[か]くように注意[ちゅうい]された。",
+          "en": "The section chief told me (as a warning) to write my emails more concisely."
+        }
       ],
       "notes": "{〜と言[い]った} reports what someone **said**. {〜ように言[い]った} reports what someone **told you to do**.",
       "quiz": [
-        { "q": "先生[せんせい]に、宿題[しゅくだい]を忘[わす]れない＿＿言[い]われた。", "en": "The teacher told me not to forget my homework.", "choices": ["ように", "ことに", "わけに", "ために"], "answer": 0 },
-        { "q": "部長[ぶちょう]に、この書類[しょるい]を明日[あした]までに出[だ]す＿＿頼[たの]まれました。", "en": "The manager asked me to submit this document by tomorrow.", "choices": ["ように", "ことに", "ところに", "わけで"], "answer": 0 }
+        {
+          "q": "先生[せんせい]に、宿題[しゅくだい]を忘[わす]れない＿＿言[い]われた。",
+          "en": "The teacher told me not to forget my homework.",
+          "choices": [
+            "ことに",
+            "ように",
+            "わけに",
+            "ために"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "部長[ぶちょう]に、この書類[しょるい]を明日[あした]までに出[だ]す＿＿頼[たの]まれました。",
+          "en": "The manager asked me to submit this document by tomorrow.",
+          "choices": [
+            "ように",
+            "わけで",
+            "ところに",
+            "ことに"
+          ],
+          "answer": 0
+        }
       ]
     },
     {
@@ -99,15 +262,47 @@
       "structure": "Verb / い-adj (plain) + ものだ ; な-adj + な + ものだ ; Verb (た-form) + ものだ",
       "explanation": "{もの} means 'thing', and {〜ものだ} talks about how things are by nature or how they should be. It has three common uses.\n\n- **Nature / general truth:** {人[ひと]は誰[だれ]でも間違[まちが]えるものだ。} 'Everyone makes mistakes — that's human nature.'\n- **Social expectation (should):** {年上[としうえ]の人[ひと]には敬語[けいご]を使[つか]うものです。} 'You're supposed to use keigo with older people.' The negative {〜ものではない} means 'you shouldn't'.\n- **Nostalgia ({〜たものだ}):** looking back fondly on something you did often in the past: {子供[こども]の頃[ころ]、よくこの川[かわ]で泳[およ]いだものだ。} 'As a kid, I often used to swim in this river.'\n\nIt can also express deep feeling about something: {時間[じかん]が経[た]つのは早[はや]いものですね。} 'Time really does fly.' Casual: {もんだ}.",
       "examples": [
-        { "jp": "人[ひと]は誰[だれ]でも間違[まちが]えるものだ。", "en": "Everyone makes mistakes. That's just how people are." },
-        { "jp": "年上[としうえ]の人[ひと]には敬語[けいご]を使[つか]うものです。", "en": "You're supposed to use keigo with people older than you." },
-        { "jp": "子供[こども]の頃[ころ]は、よくこの川[かわ]で泳[およ]いだものだ。", "en": "When I was a kid, I often used to swim in this river." },
-        { "jp": "時間[じかん]が経[た]つのは、本当[ほんとう]に早[はや]いものですね。", "en": "Time really does pass quickly, doesn't it?" }
+        {
+          "jp": "人[ひと]は誰[だれ]でも間違[まちが]えるものだ。",
+          "en": "Everyone makes mistakes. That's just how people are."
+        },
+        {
+          "jp": "年上[としうえ]の人[ひと]には敬語[けいご]を使[つか]うものです。",
+          "en": "You're supposed to use keigo with people older than you."
+        },
+        {
+          "jp": "子供[こども]の頃[ころ]は、よくこの川[かわ]で泳[およ]いだものだ。",
+          "en": "When I was a kid, I often used to swim in this river."
+        },
+        {
+          "jp": "時間[じかん]が経[た]つのは、本当[ほんとう]に早[はや]いものですね。",
+          "en": "Time really does pass quickly, doesn't it?"
+        }
       ],
       "notes": "**{ものだ} vs {ことだ}:** {ものだ} expresses a general truth or social rule that applies to everyone. {ことだ} (next point) is direct advice to a specific person in a specific situation.",
       "quiz": [
-        { "q": "小[ちい]さい頃[ころ]は、毎日[まいにち]暗[くら]くなるまで外[そと]で遊[あそ]んだ＿＿。", "en": "When I was little, I used to play outside every day until it got dark.", "choices": ["ものだ", "ことだ", "わけがない", "ことにする"], "answer": 0 },
-        { "q": "人[ひと]の話[はなし]は最後[さいご]まで聞[き]く＿＿。", "en": "You should listen to what people say until they're finished.", "choices": ["ものだ", "わけがない", "はずがない", "ようがない"], "answer": 0 }
+        {
+          "q": "小[ちい]さい頃[ころ]は、毎日[まいにち]暗[くら]くなるまで外[そと]で遊[あそ]んだ＿＿。",
+          "en": "When I was little, I used to play outside every day until it got dark.",
+          "choices": [
+            "ものだ",
+            "ことだ",
+            "ことにする",
+            "わけがない"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "人[ひと]の話[はなし]は最後[さいご]まで聞[き]く＿＿。",
+          "en": "You should listen to what people say until they're finished.",
+          "choices": [
+            "はずがない",
+            "ものだ",
+            "ようがない",
+            "わけがない"
+          ],
+          "answer": 1
+        }
       ]
     },
     {
@@ -117,14 +312,46 @@
       "structure": "Verb (dictionary / ない-form) + ことだ",
       "explanation": "{〜ことだ} gives direct, practical advice: 'the thing to do (in your situation) is ~'. It often follows a condition with {なら} or {たければ}.\n\n{日本語[にほんご]が上手[じょうず]になりたいなら、毎日[まいにち]話[はな]すことだ。} 'If you want to get good at Japanese, you should speak every day.'\n\nIt's the kind of thing a teacher, a parent or a senior colleague says. Because it sounds like instruction from above, **don't use it toward your boss or customers** — use {〜たほうがいいと思[おも]います} instead.\n\nWith the {ない}-form it's advice **not** to do something: {無理[むり]をしないことだ。} 'Don't overdo it.'",
       "examples": [
-        { "jp": "日本語[にほんご]が上手[じょうず]になりたいなら、毎日[まいにち]少[すこ]しずつでも話[はな]すことだ。", "en": "If you want to get good at Japanese, you should speak every day, even just a little." },
-        { "jp": "風邪[かぜ]を早[はや]く治[なお]したいなら、薬[くすり]を飲[の]んでゆっくり寝[ね]ることです。", "en": "If you want to get over your cold quickly, take some medicine and get plenty of sleep." },
-        { "jp": "面接[めんせつ]の前[まえ]には、その会社[かいしゃ]のことをよく調[しら]べておくことだね。", "en": "Before an interview, you should research the company well." },
-        { "jp": "信頼[しんらい]されたければ、約束[やくそく]の時間[じかん]を守[まも]ることだ。", "en": "If you want people to trust you, be on time for appointments." }
+        {
+          "jp": "日本語[にほんご]が上手[じょうず]になりたいなら、毎日[まいにち]少[すこ]しずつでも話[はな]すことだ。",
+          "en": "If you want to get good at Japanese, you should speak every day, even just a little."
+        },
+        {
+          "jp": "風邪[かぜ]を早[はや]く治[なお]したいなら、薬[くすり]を飲[の]んでゆっくり寝[ね]ることです。",
+          "en": "If you want to get over your cold quickly, take some medicine and get plenty of sleep."
+        },
+        {
+          "jp": "面接[めんせつ]の前[まえ]には、その会社[かいしゃ]のことをよく調[しら]べておくことだね。",
+          "en": "Before an interview, you should research the company well."
+        },
+        {
+          "jp": "信頼[しんらい]されたければ、約束[やくそく]の時間[じかん]を守[まも]ることだ。",
+          "en": "If you want people to trust you, be on time for appointments."
+        }
       ],
       "quiz": [
-        { "q": "試験[しけん]に合格[ごうかく]したいなら、毎日[まいにち]復習[ふくしゅう]する＿＿。", "en": "If you want to pass the exam, you should review every day.", "choices": ["ことだ", "ものだった", "わけがない", "はずがない"], "answer": 0 },
-        { "q": "疲[つか]れているなら、無理[むり]をしない＿＿よ。", "en": "If you're tired, you shouldn't push yourself.", "choices": ["ことだ", "わけだ", "はずだ", "ところだ"], "answer": 0 }
+        {
+          "q": "試験[しけん]に合格[ごうかく]したいなら、毎日[まいにち]復習[ふくしゅう]する＿＿。",
+          "en": "If you want to pass the exam, you should review every day.",
+          "choices": [
+            "わけがない",
+            "はずがない",
+            "ものだった",
+            "ことだ"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "疲[つか]れているなら、無理[むり]をしない＿＿よ。",
+          "en": "If you're tired, you shouldn't push yourself.",
+          "choices": [
+            "ところだ",
+            "ことだ",
+            "わけだ",
+            "ようがない"
+          ],
+          "answer": 1
+        }
       ]
     }
   ]

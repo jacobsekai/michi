@@ -10,24 +10,49 @@
       "structure": "V-ない → drop い + ければならない / ければいけない / くてはいけない",
       "explanation": "Japanese says 'must' with a double negative: 'if you don't do it, it won't do'. Start from the {ない}-form, drop the final {い}, and add {ければならない} or {ければいけない}: {行[い]かない} → {行[い]かなければならない}, {食[た]べない} → {食[た]べなければいけない}, {しない} → {しなければならない}.\n\nThe two endings are very close:\n\n- {〜ならない} sounds more formal and general — rules, laws, social duties.\n- {〜いけない} sounds a bit more personal and situational — 'I've got to do this today'.\n\nPolite forms: {〜なければなりません} / {〜なければいけません}. You'll also see {〜なくてはならない} / {〜なくてはいけない}, which mean the same thing.\n\nAdjectives and nouns work too: {静[しず]かでなければならない}, {二十歳[はたち]以上[いじょう]でなければならない}.",
       "examples": [
-        { "jp": "明日[あした]は早[はや]く起[お]きなければなりません。", "en": "I have to get up early tomorrow." },
-        { "jp": "日本[にほん]では、家[いえ]に入[はい]る前[まえ]に靴[くつ]を脱[ぬ]がなければいけません。", "en": "In Japan you have to take off your shoes before entering a house." },
-        { "jp": "この薬[くすり]は一日[いちにち]三回[さんかい]飲[の]まなければならない。", "en": "This medicine must be taken three times a day." },
-        { "jp": "レポートを今週中[こんしゅうちゅう]に出[だ]さなくてはいけません。", "en": "I have to hand in the report by the end of this week." },
-        { "jp": "外国人[がいこくじん]はいつも在留[ざいりゅう]カードを持[も]っていなければなりません。", "en": "Foreign residents must carry their residence card at all times." }
+        {
+          "jp": "明日[あした]は早[はや]く起[お]きなければなりません。",
+          "en": "I have to get up early tomorrow."
+        },
+        {
+          "jp": "日本[にほん]では、家[いえ]に入[はい]る前[まえ]に靴[くつ]を脱[ぬ]がなければいけません。",
+          "en": "In Japan you have to take off your shoes before entering a house."
+        },
+        {
+          "jp": "この薬[くすり]は一日[いちにち]三回[さんかい]飲[の]まなければならない。",
+          "en": "This medicine must be taken three times a day."
+        },
+        {
+          "jp": "レポートを今週中[こんしゅうちゅう]に出[だ]さなくてはいけません。",
+          "en": "I have to hand in the report by the end of this week."
+        },
+        {
+          "jp": "外国人[がいこくじん]はいつも在留[ざいりゅう]カードを持[も]っていなければなりません。",
+          "en": "Foreign residents must carry their residence card at all times."
+        }
       ],
       "quiz": [
         {
           "q": "明日[あした]は試験[しけん]なので、今晩[こんばん]勉強[べんきょう]し＿＿。",
           "en": "There's an exam tomorrow, so I have to study tonight.",
-          "choices": ["なければなりません", "なくてもいいです", "てはいけません", "ないでください"],
-          "answer": 0
+          "choices": [
+            "なくてもいいです",
+            "ないでください",
+            "てはいけません",
+            "なければなりません"
+          ],
+          "answer": 3
         },
         {
           "q": "宿題[しゅくだい]を出[だ]さ＿＿いけません。",
           "en": "You have to hand in your homework.",
-          "choices": ["なければ", "なくても", "ないで", "ないのに"],
-          "answer": 0
+          "choices": [
+            "なくても",
+            "ないで",
+            "なければ",
+            "ないのに"
+          ],
+          "answer": 2
         }
       ]
     },
@@ -38,23 +63,45 @@
       "structure": "V-ないと (いけない) / V-なきゃ (いけない) / V-なくちゃ (いけない)",
       "explanation": "In conversation the long 'must' forms are almost always shortened:\n\n- {〜なければ} → {〜なきゃ}: {行[い]かなきゃ}\n- {〜なくては} → {〜なくちゃ}: {行[い]かなくちゃ}\n- {〜ないと(いけない)}: {行[い]かないと}\n\nVery often the ending ({いけない} / {ならない}) is dropped completely, leaving just {もう行[い]かなきゃ} 'I've gotta go.' These dropped versions are casual.\n\n{〜ないといけません} is the one you can use in polite conversation too; it's softer than {〜なければなりません} and very common at work: {確認[かくにん]しないといけませんね} 'We'll need to check that.'",
       "examples": [
-        { "jp": "もう遅[おそ]いから、帰[かえ]らなきゃ。", "en": "It's late, so I've gotta go home." },
-        { "jp": "明日[あした]までにこれを終[お]わらせないと。", "en": "I have to finish this by tomorrow." },
-        { "jp": "牛乳[ぎゅうにゅう]がないから、買[か]いに行[い]かなくちゃ。", "en": "We're out of milk, so I need to go buy some." },
-        { "jp": "部長[ぶちょう]に報告[ほうこく]しないといけませんね。", "en": "We'll have to report this to the manager." }
+        {
+          "jp": "もう遅[おそ]いから、帰[かえ]らなきゃ。",
+          "en": "It's late, so I've gotta go home."
+        },
+        {
+          "jp": "明日[あした]までにこれを終[お]わらせないと。",
+          "en": "I have to finish this by tomorrow."
+        },
+        {
+          "jp": "牛乳[ぎゅうにゅう]がないから、買[か]いに行[い]かなくちゃ。",
+          "en": "We're out of milk, so I need to go buy some."
+        },
+        {
+          "jp": "部長[ぶちょう]に報告[ほうこく]しないといけませんね。",
+          "en": "We'll have to report this to the manager."
+        }
       ],
       "quiz": [
         {
           "q": "あ、もう八時[はちじ]だ。早[はや]く出[で]＿＿。",
           "en": "Oh, it's already eight. I've gotta leave right away.",
-          "choices": ["なきゃ", "なくても", "ないで", "ても"],
-          "answer": 0
+          "choices": [
+            "なくても",
+            "なきゃ",
+            "ないで",
+            "ても"
+          ],
+          "answer": 1
         },
         {
           "q": "ゴミの日[ひ]だから、ゴミを出[だ]さ＿＿いけない。",
           "en": "It's garbage day, so I have to take out the trash.",
-          "choices": ["ないと", "ないで", "なくて", "なきゃと"],
-          "answer": 0
+          "choices": [
+            "なきゃと",
+            "ないと",
+            "ないで",
+            "なくて"
+          ],
+          "answer": 1
         }
       ]
     },
@@ -65,24 +112,49 @@
       "structure": "V-ない → drop い + くてもいい / くてもかまわない",
       "explanation": "To say there's **no** obligation, take the {ない}-form, drop {い}, and add {くてもいい}: {行[い]かない} → {行[い]かなくてもいい} 'You don't have to go.' Literally: 'Even if you don't go, it's fine.'\n\nThis is the natural answer to a 'must' question: {払[はら]わなければなりませんか} 'Do I have to pay?' → {いいえ、払[はら]わなくてもいいです} 'No, you don't have to.'\n\nVariations: {〜なくてもかまいません} (polite, 'it doesn't matter if you don't'), and casually {〜なくていい} without {も}: {心配[しんぱい]しなくていいよ} 'You don't need to worry.'\n\nDon't mix this up with {〜ないでください}: {来[こ]なくてもいいです} 'You don't have to come' is very different from {来[こ]ないでください} 'Please don't come'!",
       "examples": [
-        { "jp": "明日[あした]は休[やす]みだから、早[はや]く起[お]きなくてもいい。", "en": "Tomorrow's a day off, so I don't have to get up early." },
-        { "jp": "靴[くつ]は脱[ぬ]がなくてもいいですよ。", "en": "You don't need to take your shoes off." },
-        { "jp": "全部[ぜんぶ]食[た]べなくてもかまいません。", "en": "You don't have to eat all of it." },
-        { "jp": "A：お金[かね]を払[はら]わなければなりませんか。 B：いいえ、払[はら]わなくてもいいです。", "en": "A: Do I have to pay? B: No, you don't have to." },
-        { "jp": "心配[しんぱい]しなくていいよ。", "en": "You don't need to worry." }
+        {
+          "jp": "明日[あした]は休[やす]みだから、早[はや]く起[お]きなくてもいい。",
+          "en": "Tomorrow's a day off, so I don't have to get up early."
+        },
+        {
+          "jp": "靴[くつ]は脱[ぬ]がなくてもいいですよ。",
+          "en": "You don't need to take your shoes off."
+        },
+        {
+          "jp": "全部[ぜんぶ]食[た]べなくてもかまいません。",
+          "en": "You don't have to eat all of it."
+        },
+        {
+          "jp": "A：お金[かね]を払[はら]わなければなりませんか。 B：いいえ、払[はら]わなくてもいいです。",
+          "en": "A: Do I have to pay? B: No, you don't have to."
+        },
+        {
+          "jp": "心配[しんぱい]しなくていいよ。",
+          "en": "You don't need to worry."
+        }
       ],
       "quiz": [
         {
           "q": "A：名前[なまえ]を書[か]かなければなりませんか。 B：いいえ、書[か]か＿＿。",
           "en": "A: Do I have to write my name? B: No, you don't have to.",
-          "choices": ["なくてもいいです", "なければなりません", "ないでください", "てもいいです"],
-          "answer": 0
+          "choices": [
+            "なければなりません",
+            "てもいいです",
+            "ないでください",
+            "なくてもいいです"
+          ],
+          "answer": 3
         },
         {
           "q": "今日[きょう]は暖[あたた]かいから、コートを着[き]＿＿いいよ。",
           "en": "It's warm today, so you don't need to wear a coat.",
-          "choices": ["なくても", "なかった", "なくちゃ", "ないし"],
-          "answer": 0
+          "choices": [
+            "なくちゃ",
+            "ないし",
+            "なかった",
+            "なくても"
+          ],
+          "answer": 3
         }
       ]
     },
@@ -93,24 +165,49 @@
       "structure": "V-て + も / い-adj: 〜くても / な-adj, Noun: 〜でも",
       "explanation": "{ても} means 'even if' or 'even though': the result in the main clause doesn't change, despite what you'd expect. {雨[あめ]が降[ふ]っても、行[い]きます} 'Even if it rains, I'll go.'\n\nForms:\n\n- Verbs: {て}-form + {も}: {降[ふ]っても}, {食[た]べても}, {飲[の]んでも}\n- {い}-adjectives: {〜くても}: {高[たか]くても}\n- {な}-adjectives and nouns: {〜でも}: {静[しず]かでも}, {子[こ]どもでも}\n- Negative: {〜なくても}\n\nWith question words it means 'no matter how / what / how many times': {いくら食[た]べても} 'no matter how much I eat', {何回[なんかい]聞[き]いても} 'however many times I listen', {どんなに忙[いそが]しくても} 'however busy'.\n\nIt works for real past events too: {薬[くすり]を飲[の]んでも、治[なお]らなかった} 'Even though I took medicine, it didn't get better.'",
       "examples": [
-        { "jp": "雨[あめ]が降[ふ]っても、試合[しあい]はあります。", "en": "Even if it rains, the match will go ahead." },
-        { "jp": "高[たか]くても、このかばんが欲[ほ]しい。", "en": "Even if it's expensive, I want this bag." },
-        { "jp": "いくら食[た]べても、太[ふと]らない人[ひと]がいる。", "en": "Some people don't put on weight no matter how much they eat." },
-        { "jp": "何回[なんかい]聞[き]いても、意味[いみ]が分[わ]かりませんでした。", "en": "However many times I listened, I couldn't understand the meaning." },
-        { "jp": "日曜日[にちようび]でも、父[ちち]は会社[かいしゃ]に行[い]きます。", "en": "Even on Sundays, my father goes to the office." }
+        {
+          "jp": "雨[あめ]が降[ふ]っても、試合[しあい]はあります。",
+          "en": "Even if it rains, the match will go ahead."
+        },
+        {
+          "jp": "高[たか]くても、このかばんが欲[ほ]しい。",
+          "en": "Even if it's expensive, I want this bag."
+        },
+        {
+          "jp": "いくら食[た]べても、太[ふと]らない人[ひと]がいる。",
+          "en": "Some people don't put on weight no matter how much they eat."
+        },
+        {
+          "jp": "何回[なんかい]聞[き]いても、意味[いみ]が分[わ]かりませんでした。",
+          "en": "However many times I listened, I couldn't understand the meaning."
+        },
+        {
+          "jp": "日曜日[にちようび]でも、父[ちち]は会社[かいしゃ]に行[い]きます。",
+          "en": "Even on Sundays, my father goes to the office."
+        }
       ],
       "quiz": [
         {
           "q": "いくら＿＿、この問題[もんだい]が分[わ]かりません。",
           "en": "No matter how much I think about it, I can't figure out this problem.",
-          "choices": ["考[かんが]えても", "考[かんが]えたら", "考[かんが]えれば", "考[かんが]えると"],
-          "answer": 0
+          "choices": [
+            "考[かんが]えると",
+            "考[かんが]えたら",
+            "考[かんが]えれば",
+            "考[かんが]えても"
+          ],
+          "answer": 3
         },
         {
           "q": "この料理[りょうり]は簡単[かんたん]なので、子[こ]ども＿＿作[つく]れます。",
           "en": "This dish is easy, so even a child can make it.",
-          "choices": ["でも", "ても", "だっても", "くても"],
-          "answer": 0
+          "choices": [
+            "くても",
+            "だっても",
+            "ても",
+            "でも"
+          ],
+          "answer": 3
         }
       ]
     },
@@ -121,23 +218,48 @@
       "structure": "V-て + もいい / もかまわない (permission) / V-て + はいけない (prohibition)",
       "explanation": "{〜てもいい} builds on {ても}: 'even if you do it, it's fine' — that is, permission. Ask with {〜てもいいですか} 'May I ~?': {ここで写真[しゃしん]を撮[と]ってもいいですか}. {〜てもかまいませんか} ('Would you mind if I ~?') is a little more polite.\n\nFor prohibition, use {〜てはいけない} 'must not': {ここで泳[およ]いではいけません}. It's strong and sounds like a rule, a sign, or a parent talking to a child. Casually it becomes {〜ちゃだめ} / {〜ちゃいけない} (and {〜じゃだめ} after {で}-forms).\n\nWhen someone asks you {〜てもいいですか} and the answer is no, Japanese people rarely say {いけません} to an equal. A softer {すみません、ちょっと…} or {〜ないでいただけますか} is more natural.",
       "examples": [
-        { "jp": "ここで写真[しゃしん]を撮[と]ってもいいですか。", "en": "May I take photos here?" },
-        { "jp": "窓[まど]を開[あ]けてもかまいませんか。", "en": "Would you mind if I opened the window?" },
-        { "jp": "図書館[としょかん]で大[おお]きい声[こえ]で話[はな]してはいけません。", "en": "You mustn't talk loudly in the library." },
-        { "jp": "疲[つか]れたら、休[やす]んでもいいですよ。", "en": "If you get tired, feel free to take a break." },
-        { "jp": "ここに自転車[じてんしゃ]を止[と]めちゃだめだよ。", "en": "You can't park your bike here, you know." }
+        {
+          "jp": "ここで写真[しゃしん]を撮[と]ってもいいですか。",
+          "en": "May I take photos here?"
+        },
+        {
+          "jp": "窓[まど]を開[あ]けてもかまいませんか。",
+          "en": "Would you mind if I opened the window?"
+        },
+        {
+          "jp": "図書館[としょかん]で大[おお]きい声[こえ]で話[はな]してはいけません。",
+          "en": "You mustn't talk loudly in the library."
+        },
+        {
+          "jp": "疲[つか]れたら、休[やす]んでもいいですよ。",
+          "en": "If you get tired, feel free to take a break."
+        },
+        {
+          "jp": "ここに自転車[じてんしゃ]を止[と]めちゃだめだよ。",
+          "en": "You can't park your bike here, you know."
+        }
       ],
       "quiz": [
         {
           "q": "すみません、このペンを＿＿もいいですか。",
           "en": "Excuse me, may I use this pen?",
-          "choices": ["使[つか]って", "使[つか]え", "使[つか]った", "使[つか]う"],
+          "choices": [
+            "使[つか]って",
+            "使[つか]う",
+            "使[つか]え",
+            "使[つか]った"
+          ],
           "answer": 0
         },
         {
           "q": "美術館[びじゅつかん]の中[なか]で写真[しゃしん]を撮[と]っては＿＿。",
           "en": "You must not take photos inside the art museum.",
-          "choices": ["いけません", "いいです", "かまいません", "ください"],
+          "choices": [
+            "いけません",
+            "ください",
+            "かまいません",
+            "いいです"
+          ],
           "answer": 0
         }
       ]
@@ -149,23 +271,45 @@
       "structure": "V-た + ほうがいい / V-ない + ほうがいい",
       "explanation": "{ほう} means 'side' or 'direction', so {〜ほうがいい} is 'the ~ side is better' — a recommendation.\n\n- Positive advice uses the **past** {た}-form: {早[はや]く寝[ね]たほうがいい} 'You'd better go to bed early.'\n- Negative advice uses the plain **{ない}**-form (not {なかった}): {飲[の]まないほうがいい} 'You'd better not drink.'\n\nIt's fairly direct — like English 'you'd better' — so with people you don't know well or superiors, soften it: {〜たほうがいいと思[おも]いますよ} or {〜たほうがいいかもしれません}.\n\nThe same structure compares choices: {電車[でんしゃ]のほうが速[はや]い} 'The train is faster.'",
       "examples": [
-        { "jp": "熱[ねつ]があるなら、病院[びょういん]に行[い]ったほうがいいですよ。", "en": "If you have a fever, you'd better go to the hospital." },
-        { "jp": "夜[よる]遅[おそ]く一人[ひとり]で歩[ある]かないほうがいい。", "en": "You'd better not walk alone late at night." },
-        { "jp": "午後[ごご]から雨[あめ]だから、傘[かさ]を持[も]っていったほうがいいよ。", "en": "It's going to rain from the afternoon, so you'd better take an umbrella." },
-        { "jp": "面接[めんせつ]には、スーツを着[き]ていったほうがいいと思[おも]います。", "en": "I think you should wear a suit to the interview." }
+        {
+          "jp": "熱[ねつ]があるなら、病院[びょういん]に行[い]ったほうがいいですよ。",
+          "en": "If you have a fever, you'd better go to the hospital."
+        },
+        {
+          "jp": "夜[よる]遅[おそ]く一人[ひとり]で歩[ある]かないほうがいい。",
+          "en": "You'd better not walk alone late at night."
+        },
+        {
+          "jp": "午後[ごご]から雨[あめ]だから、傘[かさ]を持[も]っていったほうがいいよ。",
+          "en": "It's going to rain from the afternoon, so you'd better take an umbrella."
+        },
+        {
+          "jp": "面接[めんせつ]には、スーツを着[き]ていったほうがいいと思[おも]います。",
+          "en": "I think you should wear a suit to the interview."
+        }
       ],
       "quiz": [
         {
           "q": "顔色[かおいろ]が悪[わる]いですね。今日[きょう]は早[はや]く＿＿ほうがいいですよ。",
           "en": "You look pale. You'd better go home early today.",
-          "choices": ["帰[かえ]った", "帰[かえ]って", "帰[かえ]ろう", "帰[かえ]れ"],
-          "answer": 0
+          "choices": [
+            "帰[かえ]れ",
+            "帰[かえ]った",
+            "帰[かえ]って",
+            "帰[かえ]ろう"
+          ],
+          "answer": 1
         },
         {
           "q": "この水[みず]は飲[の]ま＿＿ほうがいいです。",
           "en": "You'd better not drink this water.",
-          "choices": ["ない", "なかった", "なくて", "ず"],
-          "answer": 0
+          "choices": [
+            "なかった",
+            "ず",
+            "ない",
+            "なくて"
+          ],
+          "answer": 2
         }
       ]
     }

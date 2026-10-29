@@ -1,0 +1,370 @@
+{
+  "id": "n4-u11",
+  "title": "Connecting ideas: reasons, contrasts and time",
+  "summary": "Link clauses with {ので} (because), {ながら} (while), {し} (and what's more), {のに} (even though), {場合[ばあい]は} (in case), {間[あいだ]}/{間[あいだ]に} (during), and use the right tense before {とき}.",
+  "points": [
+    {
+      "id": "n4-node",
+      "title": "〜ので",
+      "meaning": "because / since (soft, explanatory)",
+      "structure": "Plain form + ので (Noun, な-adj + なので)",
+      "explanation": "{ので} gives a reason, like {から}, but it sounds softer and more objective — as if the reason is simply a fact of the situation. That makes it the natural choice for polite explanations, excuses and requests: {頭[あたま]が痛[いた]いので、早[はや]く帰[かえ]ってもいいですか} 'My head hurts, so may I go home early?'\n\nConnections: {雨[あめ]が降[ふ]っているので}, {高[たか]いので}. With nouns and {な}-adjectives, use {な}: {休[やす]みなので}, {静[しず]かなので}. In polite speech, {〜ますので} / {〜ですので} is also fine.\n\n{から} is stronger and more personal. It suits strong opinions, commands and casual talk: {危[あぶ]ないから、やめろ！} 'It's dangerous — stop!' In casual speech, {ので} often becomes {んで}.",
+      "examples": [
+        {
+          "jp": "雨[あめ]が降[ふ]っているので、今日[きょう]は出[で]かけません。",
+          "en": "It's raining, so I'm not going out today."
+        },
+        {
+          "jp": "明日[あした]は休[やす]みなので、ゆっくり寝[ね]られます。",
+          "en": "Tomorrow's a day off, so I can sleep in."
+        },
+        {
+          "jp": "道[みち]が混[こ]んでいたので、遅[おく]れてしまいました。すみません。",
+          "en": "The roads were crowded, so I'm late. I'm sorry."
+        },
+        {
+          "jp": "用事[ようじ]があるので、お先[さき]に失礼[しつれい]します。",
+          "en": "I have something to take care of, so I'll be leaving before you."
+        },
+        {
+          "jp": "この辺[へん]は静[しず]かなので、よく眠[ねむ]れます。",
+          "en": "It's quiet around here, so I can sleep well."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "今日[きょう]は日曜日[にちようび]＿＿ので、銀行[ぎんこう]は休[やす]みです。",
+          "en": "Today is Sunday, so the bank is closed.",
+          "choices": [
+            "の",
+            "で",
+            "な",
+            "だ"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "すみません、熱[ねつ]がある＿＿、今日[きょう]は休[やす]ませていただけませんか。",
+          "en": "Excuse me, I have a fever, so could you let me take today off?",
+          "choices": [
+            "ても",
+            "ながら",
+            "ので",
+            "のに"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n4-nagara",
+      "title": "〜ながら",
+      "meaning": "while ~ing (doing two things at once)",
+      "structure": "V-ます stem + ながら",
+      "explanation": "{ながら} links two actions done **at the same time by the same person**: {音楽[おんがく]を聞[き]きながら勉強[べんきょう]する} 'study while listening to music.' Form: {ます}-stem + {ながら}: {食[た]べながら}, {歩[ある]きながら}, {話[はな]しながら}.\n\nThe main action comes **last**; the {ながら} action is the background. {勉強[べんきょう]しながら音楽[おんがく]を聞[き]く} puts the focus on listening to music instead.\n\nIt also works over longer periods: {働[はたら]きながら大学[だいがく]に通[かよ]う} 'attend university while working.'\n\nIf the two actions are done by **different** people, you can't use {ながら}. Use {〜間[あいだ]} instead (later in this unit).",
+      "examples": [
+        {
+          "jp": "音楽[おんがく]を聞[き]きながら、宿題[しゅくだい]をします。",
+          "en": "I do my homework while listening to music."
+        },
+        {
+          "jp": "歩[ある]きながらスマホを見[み]るのは危[あぶ]ないですよ。",
+          "en": "It's dangerous to look at your phone while walking."
+        },
+        {
+          "jp": "父[ちち]はいつも新聞[しんぶん]を読[よ]みながら朝[あさ]ご飯[はん]を食[た]べる。",
+          "en": "My father always eats breakfast while reading the newspaper."
+        },
+        {
+          "jp": "働[はたら]きながら、夜[よる]の学校[がっこう]に通[かよ]っています。",
+          "en": "I attend night school while working."
+        },
+        {
+          "jp": "コーヒーでも飲[の]みながら話[はな]しましょう。",
+          "en": "Let's talk over a coffee or something."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "テレビを＿＿ご飯[はん]を食[た]べないでください。",
+          "en": "Please don't eat while watching TV.",
+          "choices": [
+            "見[み]たながら",
+            "見[み]るながら",
+            "見[み]てながら",
+            "見[み]ながら"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "彼[かれ]は歌[うた]＿＿料理[りょうり]をしている。",
+          "en": "He's cooking while singing.",
+          "choices": [
+            "いて",
+            "いながら",
+            "ったら",
+            "うながら"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n4-shi",
+      "title": "〜し",
+      "meaning": "and (what's more) / listing reasons",
+      "structure": "Plain form + し (Noun, な-adj + だし)",
+      "explanation": "{し} lists several reasons or points, with the feeling of 'and on top of that...'. {この部屋[へや]は広[ひろ]いし、駅[えき]から近[ちか]いし、便利[べんり]です} 'This flat is spacious, it's close to the station — it's really convenient.'\n\nConnections: plain forms of verbs and {い}-adjectives ({あるし}, {高[たか]いし}); nouns and {な}-adjectives take {だ} ({雨[あめ]だし}, {静[しず]かだし}). In polite speech you can use {ですし} / {ますし}.\n\nOften only **one** reason is said, and {し} hints that there are others: {もう遅[おそ]いし、帰[かえ]りましょうか} 'It's late (among other things), so shall we head home?' This makes your reason sound softer and less absolute.\n\nThe items listed usually point in the same direction — all good points or all bad points.",
+      "examples": [
+        {
+          "jp": "この部屋[へや]は広[ひろ]いし、駅[えき]から近[ちか]いし、とても便利[べんり]です。",
+          "en": "This flat is spacious and close to the station — it's very convenient."
+        },
+        {
+          "jp": "今日[きょう]は雨[あめ]だし、寒[さむ]いし、家[いえ]にいよう。",
+          "en": "It's raining and it's cold, so let's stay home today."
+        },
+        {
+          "jp": "田中[たなか]さんは頭[あたま]もいいし、優[やさ]しいし、みんなに人気[にんき]がある。",
+          "en": "Tanaka-san is smart and kind, so everyone likes her."
+        },
+        {
+          "jp": "もう遅[おそ]いし、そろそろ帰[かえ]りましょうか。",
+          "en": "It's getting late, so shall we head home soon?"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "あのレストランは高[たか]い＿＿、店員[てんいん]も親切[しんせつ]じゃないし、もう行[い]きたくない。",
+          "en": "That restaurant is expensive, and the staff aren't friendly either, so I don't want to go anymore.",
+          "choices": [
+            "のに",
+            "し",
+            "ので",
+            "から"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "この町[まち]は静[しず]か＿＿し、緑[みどり]も多[おお]いし、住[す]みやすいです。",
+          "en": "This town is quiet and has lots of greenery, so it's a nice place to live.",
+          "choices": [
+            "で",
+            "だ",
+            "な",
+            "の"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n4-noni",
+      "title": "〜のに (even though)",
+      "meaning": "even though / despite (with frustration or surprise)",
+      "structure": "Plain form + のに (Noun, な-adj + なのに)",
+      "explanation": "{のに} connects two facts where the second goes against what you'd expect, and it usually carries a feeling: disappointment, frustration, surprise or complaint. {一生懸命[いっしょうけんめい]勉強[べんきょう]したのに、試験[しけん]に落[お]ちた} 'Even though I studied really hard, I failed the exam.'\n\nConnections: {降[ふ]っているのに}, {高[たか]いのに}; nouns and {な}-adjectives take {な}: {日曜日[にちようび]なのに}, {元気[げんき]なのに}.\n\nThe second half is a fact, so it can't be a request, invitation or intention. {雨[あめ]なのに出[で]かけましょう} is wrong; use {けど} or {ても}.\n\nEnding a sentence with {のに} expresses regret: {言[い]ってくれれば手伝[てつだ]ったのに} 'If you'd told me, I would have helped (but you didn't)!'\n\nCompare: {ても} is 'even if' (often hypothetical, neutral); {のに} is 'even though' (real fact, emotional); {けど} is a plain 'but'.",
+      "examples": [
+        {
+          "jp": "一生懸命[いっしょうけんめい]勉強[べんきょう]したのに、試験[しけん]に落[お]ちてしまった。",
+          "en": "Even though I studied really hard, I failed the exam."
+        },
+        {
+          "jp": "もう四月[しがつ]なのに、まだ寒[さむ]いですね。",
+          "en": "It's already April, but it's still cold, isn't it?"
+        },
+        {
+          "jp": "約束[やくそく]したのに、彼[かれ]は来[こ]なかった。",
+          "en": "He promised, but he didn't come."
+        },
+        {
+          "jp": "この店[みせ]は高[たか]いのに、あまりおいしくない。",
+          "en": "This place is expensive, and yet it's not very good."
+        },
+        {
+          "jp": "言[い]ってくれれば手伝[てつだ]ったのに。",
+          "en": "If you'd told me, I would have helped!"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "薬[くすり]を飲[の]んだ＿＿、まだ頭[あたま]が痛[いた]い。",
+          "en": "Even though I took medicine, I still have a headache.",
+          "choices": [
+            "のに",
+            "ので",
+            "なら",
+            "から"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "日曜日[にちようび]＿＿のに、仕事[しごと]に行[い]かなければならない。",
+          "en": "Even though it's Sunday, I have to go to work.",
+          "choices": [
+            "の",
+            "で",
+            "だ",
+            "な"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n4-baai-wa",
+      "title": "〜場合[ばあい]は",
+      "meaning": "in case of ~ / if ~ (formal, for situations)",
+      "structure": "V-plain / い-adj / な-adj + な / Noun + の + 場合[ばあい]は",
+      "explanation": "{場合[ばあい]} means 'case' or 'situation'. {〜場合[ばあい]は} is a formal 'if / in the event that', used for instructions, rules, announcements and workplace procedures: {火事[かじ]の場合[ばあい]は、エレベーターを使[つか]わないでください} 'In case of fire, do not use the elevator.'\n\nConnections: {遅[おく]れる場合[ばあい]は}, {忘[わす]れた場合[ばあい]は}, {来[こ]られない場合[ばあい]は}, {体調[たいちょう]が悪[わる]い場合[ばあい]は}, {必要[ひつよう]な場合[ばあい]は}, {雨[あめ]の場合[ばあい]は}.\n\nIt's for hypothetical situations that may come up, so it doesn't fit one-time personal events or things that will definitely happen. 'When I get home, I'll call' is {家[いえ]に着[つ]いたら}, not {場合[ばあい]}.\n\nYou'll see it on forms, signs, emails and manuals in Japan.",
+      "examples": [
+        {
+          "jp": "火事[かじ]の場合[ばあい]は、エレベーターを使[つか]わないでください。",
+          "en": "In case of fire, do not use the elevator."
+        },
+        {
+          "jp": "遅[おく]れる場合[ばあい]は、必[かなら]ず連絡[れんらく]してください。",
+          "en": "If you're going to be late, be sure to let us know."
+        },
+        {
+          "jp": "雨[あめ]の場合[ばあい]は、運動会[うんどうかい]は中止[ちゅうし]です。",
+          "en": "In case of rain, sports day will be cancelled."
+        },
+        {
+          "jp": "パスワードを忘[わす]れた場合[ばあい]は、こちらのボタンを押[お]してください。",
+          "en": "If you've forgotten your password, please press this button."
+        },
+        {
+          "jp": "体調[たいちょう]が悪[わる]い場合[ばあい]は、無理[むり]をしないでください。",
+          "en": "If you're feeling unwell, please don't push yourself."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "地震[じしん]＿＿場合[ばあい]は、机[つくえ]の下[した]に入[はい]ってください。",
+          "en": "In case of an earthquake, get under a desk.",
+          "choices": [
+            "が",
+            "な",
+            "の",
+            "に"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "会議[かいぎ]に出席[しゅっせき]でき＿＿場合[ばあい]は、メールで連絡[れんらく]してください。",
+          "en": "If you can't attend the meeting, please let us know by email.",
+          "choices": [
+            "ず",
+            "なければ",
+            "ない",
+            "なくて"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n4-aida",
+      "title": "〜間[あいだ] / 〜間[あいだ]に",
+      "meaning": "the whole time ~ / at some point while ~",
+      "structure": "V-ている / Noun + の + 間[あいだ] / 間[あいだ]に",
+      "explanation": "{間[あいだ]} means 'interval' or 'period'. The tiny particle {に} makes a big difference:\n\n- **{〜間[あいだ]}** = during the **whole** period. The main action continues the entire time: {夏休[なつやす]みの間[あいだ]、ずっと国[くに]にいた} 'I was back home for the whole summer holiday.'\n- **{〜間[あいだ]に}** = at **some point** within the period. The main action is a single event: {夏休[なつやす]みの間[あいだ]に、運転免許[うんてんめんきょ]を取[と]った} 'During the summer holiday, I got my driver's licence.'\n\nConnections: {Noun + の間[あいだ]}, {V-ている + 間[あいだ]}, {い}-adjective + {間[あいだ]} ({若[わか]い間[あいだ]に}).\n\nUnlike {ながら}, the two parts can have **different** subjects: {母[はは]が買[か]い物[もの]をしている間[あいだ]、私[わたし]は車[くるま]で待[ま]っていた}.",
+      "examples": [
+        {
+          "jp": "夏休[なつやす]みの間[あいだ]、ずっと国[くに]に帰[かえ]っていました。",
+          "en": "I was back in my home country for the whole summer holiday."
+        },
+        {
+          "jp": "私[わたし]が寝[ね]ている間[あいだ]に、雨[あめ]が降[ふ]ったようです。",
+          "en": "It seems it rained while I was asleep."
+        },
+        {
+          "jp": "母[はは]が買[か]い物[もの]をしている間[あいだ]、私[わたし]は車[くるま]で待[ま]っていた。",
+          "en": "While my mother was shopping, I waited in the car."
+        },
+        {
+          "jp": "日本[にほん]にいる間[あいだ]に、富士山[ふじさん]に登[のぼ]りたい。",
+          "en": "I want to climb Mt. Fuji while I'm in Japan."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "電車[でんしゃ]に乗[の]っている＿＿、ずっと本[ほん]を読[よ]んでいた。",
+          "en": "The whole time I was on the train, I was reading a book.",
+          "choices": [
+            "までに",
+            "間[あいだ]",
+            "ながら",
+            "間[あいだ]に"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "留守[るす]の＿＿、友[とも]だちが来[き]たらしい。",
+          "en": "Apparently a friend came by while I was out.",
+          "choices": [
+            "ながら",
+            "間[あいだ]に",
+            "間[あいだ]",
+            "まで"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n4-toki-tense",
+      "title": "〜とき (tense before とき)",
+      "meaning": "when ~ (before it vs. after it)",
+      "structure": "V-dictionary + とき (before / at the time of) / V-た + とき (after it's done)",
+      "explanation": "With {とき} 'when', the tense of the verb in front doesn't relate to **now** — it shows the order of the two events.\n\n- **Dictionary form + {とき}**: the main action happens before (or on the way to) the {とき} action. {日本[にほん]へ行[い]くとき、空港[くうこう]でお土産[みやげ]を買[か]った} 'When I was going to Japan, I bought souvenirs at the airport' (before arriving).\n- **{た}-form + {とき}**: the main action happens after the {とき} action is complete. {日本[にほん]へ行[い]ったとき、京都[きょうと]でお土産[みやげ]を買[か]った} 'When I went to Japan, I bought souvenirs in Kyoto' (after arriving).\n\nThe greetings show it nicely: you say {行[い]ってきます} when you're about to leave ({出[で]るとき}) and {ただいま} once you're home ({帰[かえ]ったとき}).\n\nWith adjectives and nouns, just use their normal forms: {暇[ひま]なとき}, {子[こ]どものとき}, {寒[さむ]いとき}.",
+      "examples": [
+        {
+          "jp": "日本[にほん]へ行[い]くとき、空港[くうこう]でお土産[みやげ]を買[か]いました。",
+          "en": "On my way to Japan, I bought souvenirs at the airport."
+        },
+        {
+          "jp": "日本[にほん]へ行[い]ったとき、京都[きょうと]でお土産[みやげ]を買[か]いました。",
+          "en": "When I went to Japan, I bought souvenirs in Kyoto."
+        },
+        {
+          "jp": "家[いえ]を出[で]るとき、「行[い]ってきます」と言[い]います。",
+          "en": "When you leave the house, you say 'Ittekimasu.'"
+        },
+        {
+          "jp": "家[いえ]に帰[かえ]ったとき、「ただいま」と言[い]います。",
+          "en": "When you get home, you say 'Tadaima.'"
+        },
+        {
+          "jp": "暇[ひま]なとき、何[なに]をしていますか。",
+          "en": "What do you do in your free time?"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "ご飯[はん]を＿＿とき、「いただきます」と言[い]います。",
+          "en": "Before you eat a meal, you say 'Itadakimasu.'",
+          "choices": [
+            "食[た]べる",
+            "食[た]べた",
+            "食[た]べて",
+            "食[た]べ"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "ご飯[はん]を＿＿とき、「ごちそうさまでした」と言[い]います。",
+          "en": "When you've finished eating, you say 'Gochisōsama deshita.'",
+          "choices": [
+            "食[た]べ終[お]わった",
+            "食[た]べ終[お]わろう",
+            "食[た]べ終[お]わる",
+            "食[た]べ終[お]わり"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

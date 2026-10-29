@@ -1,0 +1,358 @@
+{
+  "id": "n3-u14",
+  "title": "Casual conversation",
+  "summary": "The little endings that make Japanese sound natural among friends and coworkers: {っけ}, quotative and topic {って}, {なきゃ} / {なくちゃ}, {とか}, {じゃん} / {じゃない}, and the excuse-giving {もん}.",
+  "points": [
+    {
+      "id": "n3-kke",
+      "title": "〜っけ",
+      "meaning": "(checking your memory) was it ~? ; did ~? ; (nostalgic) I remember ~",
+      "structure": "Plain past / Noun + だった・だ + っけ ; polite: 〜でしたっけ / 〜ましたっけ",
+      "explanation": "{〜っけ} is added to a sentence when you're **trying to remember** something you once knew, or checking it with someone: 'What was it again?'\n\n{明日[あした]の会議[かいぎ]、何時[なんじ]からだっけ？} 'What time is tomorrow's meeting again?'\n\nIt can be a question to someone else or a question to yourself: {あれ、鍵[かぎ]どこに置[お]いたっけ。} 'Huh, where did I put my keys?'\n\nIt attaches to past forms or {だ}: {だっけ}, {だったっけ}, {〜たっけ}. For polite situations, {〜でしたっけ} / {〜ましたっけ} is fine with coworkers — {お名前[なまえ]、何[なん]でしたっけ？} is a gentle way to ask someone's name again.\n\nWith {なあ}, it can also be nostalgic: {よくここで遊[あそ]んだっけなあ。} 'We used to play here a lot, didn't we.'",
+      "examples": [
+        {
+          "jp": "明日[あした]の会議[かいぎ]、何時[なんじ]からだっけ？",
+          "en": "What time does tomorrow's meeting start again?"
+        },
+        {
+          "jp": "あれ、鍵[かぎ]どこに置[お]いたっけ。",
+          "en": "Hmm, where did I put my keys?"
+        },
+        {
+          "jp": "すみません、お名前[なまえ]は何[なん]でしたっけ。",
+          "en": "I'm sorry, what was your name again?"
+        },
+        {
+          "jp": "子供[こども]の頃[ころ]、よくこの公園[こうえん]で遊[あそ]んだっけなあ。",
+          "en": "I used to play in this park a lot when I was little, I remember."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "「田中[たなか]さんの誕生日[たんじょうび]、いつ＿＿？」「来週[らいしゅう]の金曜日[きんようび]だよ。」",
+          "en": "'When is Tanaka's birthday again?' 'Next Friday.'",
+          "choices": [
+            "だっけ",
+            "っぽい",
+            "じゃん",
+            "なきゃ"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "あれ、今日[きょう]って何曜日[なんようび]＿＿？",
+          "en": "Huh, what day of the week is it today again?",
+          "choices": [
+            "もん",
+            "なきゃ",
+            "だっけ",
+            "じゃん"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n3-tte-quote",
+      "title": "〜って (quoting / hearsay)",
+      "meaning": "(casual) (someone) says ~ ; I heard ~ ; called ~",
+      "structure": "Plain form + って (= と言[い]っていた / そうだ) ; Noun + っていう + Noun (= という)",
+      "explanation": "In casual speech, {って} replaces the quotation particle {と} and much more.\n\n- **Quoting:** {部長[ぶちょう]が、すぐ来[き]てくれって言[い]ってたよ。} 'The manager said to come right away.'\n- **Hearsay** — at the end of a sentence, {って} alone means 'I heard / they say' (= {そうだ}): {明日[あした]は雨[あめ]だって。} 'Apparently it's going to rain tomorrow.' {〜んだって} is very common: {新[あたら]しい店[みせ]ができたんだって。} 'I heard a new shop opened.'\n- **Naming** — {っていう} = {という} ('called'): {「ミチ」っていうアプリ} 'an app called Michi'.\n\nIf you hear {って} at the end of a friend's sentence, they're almost always passing on something someone else said.",
+      "examples": [
+        {
+          "jp": "田中[たなか]さん、今日[きょう]は来[こ]られないって。",
+          "en": "Tanaka says he can't come today."
+        },
+        {
+          "jp": "明日[あした]は雨[あめ]だって。",
+          "en": "Apparently it's going to rain tomorrow."
+        },
+        {
+          "jp": "部長[ぶちょう]が、すぐ来[き]てくれって言[い]ってたよ。",
+          "en": "The manager said for you to come right away."
+        },
+        {
+          "jp": "「ミチ」っていうアプリ、知[し]ってる？",
+          "en": "Do you know an app called Michi?"
+        },
+        {
+          "jp": "駅前[えきまえ]に新[あたら]しいラーメン屋[や]ができたんだって。",
+          "en": "I heard a new ramen shop opened in front of the station."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "天気予報[てんきよほう]によると、明日[あした]は雪[ゆき]＿＿。",
+          "en": "According to the weather forecast, it's going to snow tomorrow.",
+          "choices": [
+            "なきゃ",
+            "がち",
+            "向[む]き",
+            "だって"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "「山田[やまだ]さん、何[なん]て言[い]ってた？」「少[すこ]し遅[おく]れる＿＿。」",
+          "en": "'What did Yamada say?' 'He says he'll be a bit late.'",
+          "choices": [
+            "なきゃ",
+            "っけ",
+            "って",
+            "じゃん"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n3-tte-topic",
+      "title": "〜って (topic)",
+      "meaning": "(casual topic marker) as for ~ ; what is ~? ; ~ is (really)…",
+      "structure": "Noun / Plain form + って (= は / というのは)",
+      "explanation": "{って} can also mark the **topic** of a sentence, replacing {は} or {というのは} in casual speech.\n\n{日本[にほん]の夏[なつ]って、本当[ほんとう]に暑[あつ]いね。} 'Japanese summers are really hot, huh.'\n\nIt's especially common when:\n- **Asking what a word means:** {「ググる」って、どういう意味[いみ]？} 'What does guguru mean?'\n- **Asking about a person or thing:** {田中[たなか]さんって、どんな人[ひと]？} 'What's Tanaka like?'\n- **Giving an emotional comment about something:** {一人[ひとり]で海外[かいがい]に住[す]むって、大変[たいへん]だよね。} 'Living abroad alone must be tough.'\n\nIt's informal, but {〜って何[なん]ですか} is perfectly fine for asking a coworker what something means.",
+      "examples": [
+        {
+          "jp": "「ググる」って、どういう意味[いみ]？",
+          "en": "What does 'guguru' mean?"
+        },
+        {
+          "jp": "日本[にほん]の夏[なつ]って、本当[ほんとう]に暑[あつ]いね。",
+          "en": "Summer in Japan is really hot, isn't it?"
+        },
+        {
+          "jp": "新[あたら]しく入[はい]った田中[たなか]さんって、どんな人[ひと]？",
+          "en": "What's the new guy, Tanaka, like?"
+        },
+        {
+          "jp": "一人[ひとり]で海外[かいがい]に住[す]むって、大変[たいへん]だよね。",
+          "en": "Living abroad on your own must be hard, huh."
+        },
+        {
+          "jp": "「お疲[つか]れ様[さま]です」って、いつ使[つか]うんですか。",
+          "en": "When do you use 'otsukaresama desu'?"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "「あの店[みせ]の『おまかせ』＿＿、何[なん]ですか。」「シェフが料理[りょうり]を選[えら]ぶコースのことですよ。」",
+          "en": "'What is \"omakase\" at that restaurant?' 'It's a course where the chef chooses the dishes.'",
+          "choices": [
+            "じゃん",
+            "って",
+            "っけ",
+            "なきゃ"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "東京[とうきょう]の電車[でんしゃ]＿＿、いつも時間[じかん]どおりに来[く]るね。",
+          "en": "Tokyo trains always come right on time, don't they?",
+          "choices": [
+            "もん",
+            "っけ",
+            "って",
+            "なきゃ"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n3-nakya",
+      "title": "〜なきゃ / 〜なくちゃ",
+      "meaning": "(casual) have to ~ ; must ~ ; gotta ~",
+      "structure": "Verb (ない-form minus い) + きゃ / くちゃ (+ いけない / ならない)",
+      "explanation": "These are the casual, contracted forms of 'must' that you'll hear constantly:\n\n- {〜なければ} → {〜なきゃ}\n- {〜なくては} → {〜なくちゃ}\n\nSo {帰[かえ]らなければならない} / {帰[かえ]らなければいけない} becomes {帰[かえ]らなきゃならない} / {帰[かえ]らなきゃいけない}, and very often just {帰[かえ]らなきゃ}. 'I've gotta go home.'\n\nThe second half ({いけない} / {ならない}) is often dropped, especially when talking to yourself. {なくちゃ} sounds a little softer and is often heard from women and children, but anyone can use it.\n\nThese forms are casual — in a meeting or with customers, use {〜なければなりません} or {〜ないといけません}.",
+      "examples": [
+        {
+          "jp": "もうこんな時間[じかん]！早[はや]く帰[かえ]らなきゃ。",
+          "en": "Is it already this late? I've gotta get home."
+        },
+        {
+          "jp": "明日[あした]までにレポートを出[だ]さなくちゃ。",
+          "en": "I have to hand in my report by tomorrow."
+        },
+        {
+          "jp": "引[ひ]っ越[こ]したら、区役所[くやくしょ]に届[とど]けを出[だ]さなきゃいけない。",
+          "en": "When you move, you have to file a notice at the ward office."
+        },
+        {
+          "jp": "薬[くすり]を飲[の]まなくちゃいけないのに、忘[わす]れちゃった。",
+          "en": "I was supposed to take my medicine, but I forgot."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "終電[しゅうでん]に乗[の]り遅[おく]れないように、もう出[で]＿＿。",
+          "en": "I have to leave now so I don't miss the last train.",
+          "choices": [
+            "っけ",
+            "なきゃ",
+            "じゃん",
+            "って"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "来週[らいしゅう]は試験[しけん]だから、勉強[べんきょう]し＿＿。",
+          "en": "The exam is next week, so I have to study.",
+          "choices": [
+            "って",
+            "じゃん",
+            "っぽい",
+            "なくちゃ"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n3-toka",
+      "title": "〜とか",
+      "meaning": "things like ~ ; ~ or something ; (hearsay) I heard something like ~",
+      "structure": "Noun / Plain form + とか (〜とか〜とか)",
+      "explanation": "{とか} is a casual way to give **examples**, like {や} but usable with verbs too, and with a vaguer feel.\n\n- **Listing examples:** {映画[えいが]を見[み]るとか、本[ほん]を読[よ]むとかしています。} 'I do things like watching movies or reading.'\n- **Softening a suggestion** ('… or something'): {ラーメンとか食[た]べに行[い]かない？} 'Want to go eat ramen or something?' Using {とか} makes it sound less pushy, because you're offering just one possible example.\n- **Vague hearsay**: {田中[たなか]さん、来月[らいげつ]結婚[けっこん]するとか。} 'I heard something about Tanaka getting married next month.'\n\nYoung people sometimes overuse {とか} as a filler, but in normal use it's very natural.",
+      "examples": [
+        {
+          "jp": "休[やす]みの日[ひ]は、映画[えいが]を見[み]るとか、本[ほん]を読[よ]むとかしています。",
+          "en": "On my days off I do things like watching movies and reading."
+        },
+        {
+          "jp": "週末[しゅうまつ]、ラーメンとか食[た]べに行[い]かない？",
+          "en": "Want to go eat ramen or something this weekend?"
+        },
+        {
+          "jp": "田中[たなか]さん、来月[らいげつ]結婚[けっこん]するとか。",
+          "en": "I heard something about Tanaka getting married next month."
+        },
+        {
+          "jp": "疲[つか]れてるなら、少[すこ]し休[やす]むとかしたら？",
+          "en": "If you're tired, why not take a little break or something?"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "日本[にほん]に来[き]たら、お寺[てら]＿＿、温泉[おんせん]とかに行[い]ってみたい。",
+          "en": "When I come to Japan, I want to visit places like temples and hot springs.",
+          "choices": [
+            "っけ",
+            "とか",
+            "なきゃ",
+            "って"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "「お土産[みやげ]、何[なに]がいいかな。」「お菓子[かし]＿＿どう？」",
+          "en": "'What would make a good souvenir?' 'How about some sweets or something?'",
+          "choices": [
+            "じゃん",
+            "っけ",
+            "とか",
+            "なきゃ"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n3-jan",
+      "title": "〜じゃない / 〜じゃん (confirming)",
+      "meaning": "(casual) isn't it ~! ; you know ~ ; see, ~! (pointing out or seeking agreement)",
+      "structure": "Plain form + じゃない / じゃん (Noun / な-adj: no だ)",
+      "explanation": "{じゃない} doesn't always mean 'is not'. Said with a **falling or exclamatory** tone after a plain form, it means 'isn't it!' / 'you know!' — pointing something out or asking the listener to agree. {じゃん} is an even more casual version.\n\n{このケーキ、おいしいじゃん！} 'Hey, this cake is good!'\n{だから言[い]ったじゃない。} 'See, I told you so!'\n\nWith a rising tone, {〜じゃない？} is a soft guess: {あれ、山田[やまだ]さんじゃない？} 'Hey, isn't that Yamada?'\n\nHow to tell it apart from a real negative: a real negative changes the word itself ({おいしくない}, {行[い]かない}), while the confirming {じゃない} is added after an unchanged plain form ({おいしいじゃない}, {言[い]ったじゃない}). With nouns both look the same ({休[やす]みじゃない}), so context and intonation tell you which it is.",
+      "examples": [
+        {
+          "jp": "このケーキ、おいしいじゃん！",
+          "en": "Hey, this cake is delicious!"
+        },
+        {
+          "jp": "だから傘[かさ]を持[も]っていってって言[い]ったじゃない。",
+          "en": "See, I told you to take an umbrella!"
+        },
+        {
+          "jp": "あれ、山田[やまだ]さんじゃない？久[ひさ]しぶり！",
+          "en": "Hey, isn't that Yamada? Long time no see!"
+        },
+        {
+          "jp": "明日[あした]休[やす]みじゃん。どこか行[い]こうよ。",
+          "en": "Tomorrow's a day off, right? Let's go somewhere."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "「ほら、見[み]て。雨[あめ]、やんだ＿＿。」",
+          "en": "'Look! The rain's stopped, see?'",
+          "choices": [
+            "じゃん",
+            "なきゃ",
+            "とか",
+            "っけ"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "「このシャツ、どう？」「いい＿＿！似合[にあ]ってるよ。」",
+          "en": "'How's this shirt?' 'Hey, it's nice! It suits you.'",
+          "choices": [
+            "じゃん",
+            "がち",
+            "っけ",
+            "なきゃ"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n3-mon",
+      "title": "〜もん / 〜もの (casual reason)",
+      "meaning": "(casual) because ~ (you see) ; it's just that ~ (often a childish or emotional excuse)",
+      "structure": "Plain form + もん / もの (often だって〜んだもん) ; Noun / な-adj + なんだもん",
+      "explanation": "At the end of a casual sentence, {もん} (or {もの}) gives a **reason or excuse**, usually in a slightly sulky or self-justifying tone. It often comes after {だって} ('but…').\n\n{「どうして食[た]べないの？」「だって、ピーマン嫌[きら]いなんだもん。」} 'Why aren't you eating?' 'But I don't like green peppers!'\n\nIt's related to {ものだから} (Unit 6), the more grown-up way to give an excuse.\n\n{もん} sounds childish or cute, so it's used with close friends, family and children — never at work or with superiors. {もの} is a little softer and is often associated with women's speech. You'll hear both a lot in anime and dramas.",
+      "examples": [
+        {
+          "jp": "「どうして食[た]べないの？」「だって、ピーマン嫌[きら]いなんだもん。」",
+          "en": "'Why aren't you eating?' 'Because I don't like green peppers!'"
+        },
+        {
+          "jp": "行[い]きたくない。疲[つか]れてるんだもん。",
+          "en": "I don't want to go. I'm tired, okay?"
+        },
+        {
+          "jp": "しょうがないよ。知[し]らなかったんだもん。",
+          "en": "It can't be helped. I didn't know!"
+        },
+        {
+          "jp": "「また遅刻[ちこく]？」「だって、電車[でんしゃ]が遅[おく]れたんだもの。」",
+          "en": "'Late again?' 'But the train was delayed!'"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "「なんで宿題[しゅくだい]やってないの？」「だって、時間[じかん]がなかったんだ＿＿。」",
+          "en": "'Why haven't you done your homework?' 'Because I didn't have time!'",
+          "choices": [
+            "っけ",
+            "もん",
+            "じゃん",
+            "とか"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "「もう寝[ね]るの？」「うん、明日[あした]朝[あさ]早[はや]いんだ＿＿。」",
+          "en": "'Going to bed already?' 'Yeah, because I have an early morning tomorrow.'",
+          "choices": [
+            "っけ",
+            "もん",
+            "っぽい",
+            "なきゃ"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

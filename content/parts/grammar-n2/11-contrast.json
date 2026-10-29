@@ -1,0 +1,146 @@
+{
+  "id": "n2-u11",
+  "title": "Contrast and concession",
+  "summary": "Results that don't match expectations ({わりに}, {にしては}), facts that don't lead where you'd expect ({ものの}, {といっても}, {とはいえ}), criticism ({くせに} vs {のに}), and \"even if\" ({にしても}, {にせよ}).",
+  "points": [
+    {
+      "id": "n2-warini",
+      "title": "〜わりに（は）",
+      "meaning": "considering; for (unexpectedly)",
+      "structure": "Plain form + わりに（は）　／　Noun + の + わりに　／　な-adj + な + わりに",
+      "explanation": "{わりに} compares a degree with a result that is **out of proportion**: \"he eats a lot considering... he doesn't get fat\", \"far from the station, yet expensive\". The result can be better or worse than expected.\n\nIt works with adjectives, verbs and with nouns of degree such as {値段[ねだん]} (price), {年齢[ねんれい]} (age), {大[おお]きさ}, {努力[どりょく]}.\n\nIt is common in everyday speech and writing. On its own, {わりと} / {わりに} as an adverb means \"fairly, relatively\" ({わりとおいしい}).",
+      "examples": [
+        { "jp": "この店[みせ]は値段[ねだん]のわりに、量[りょう]が多[おお]い。", "en": "This restaurant gives big portions for the price." },
+        { "jp": "彼[かれ]はよく食[た]べるわりに、太[ふと]らない。", "en": "He eats a lot but doesn't put on weight." },
+        { "jp": "駅[えき]から遠[とお]いわりに、家賃[やちん]が高[たか]い。", "en": "The rent is high considering how far it is from the station." },
+        { "jp": "一生懸命[いっしょうけんめい]勉強[べんきょう]したわりには、点数[てんすう]がよくなかった。", "en": "My score wasn't great, considering how hard I studied." }
+      ],
+      "quiz": [
+        { "q": "このレストランは高[たか]い＿＿、あまりおいしくない。", "en": "This restaurant isn't very good for how expensive it is.", "choices": ["にしては", "わりに", "だけあって", "からこそ"], "answer": 1 },
+        { "q": "彼[かれ]は年齢[ねんれい]の＿＿若[わか]く見[み]える。", "en": "He looks young for his age.", "choices": ["くせに", "ものの", "うえに", "わりに"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-nishitewa",
+      "title": "〜にしては",
+      "meaning": "for (a ...); considering that it's (a specific fact)",
+      "structure": "Noun + にしては　／　V-plain + にしては",
+      "explanation": "{にしては} takes a **specific fact or category** and says the result is surprising in light of it: \"for October, it's hot\", \"for a beginner, you're good\", \"for a first attempt, it's well made\".\n\n**{にしては} vs {わりに}**\n- {わりに} follows adjectives and nouns of degree ({値段[ねだん]}, {年齢[ねんれい]}): {安[やす]いわりに}, {年齢[ねんれい]のわりに}.\n- {にしては} follows a concrete noun or fact ({十月[じゅうがつ]}, {小学生[しょうがくせい]}, {初[はじ]めて作[つく]った}) and does **not** normally follow adjectives: ✗ {安[やす]いにしては}.\n\nBoth are conversational and can praise or criticise.",
+      "examples": [
+        { "jp": "十月[じゅうがつ]にしては、今日[きょう]は暑[あつ]い。", "en": "It's hot today for October." },
+        { "jp": "初[はじ]めて作[つく]ったにしては、よくできている。", "en": "For a first attempt, it's very well made." },
+        { "jp": "小学生[しょうがくせい]にしては、難[むずか]しい言葉[ことば]をよく知[し]っている。", "en": "For an elementary school kid, she knows a lot of difficult words." },
+        { "jp": "日本[にほん]に来[き]て半年[はんとし]にしては、日本語[にほんご]がうまいですね。", "en": "Your Japanese is very good for someone who's been in Japan only six months." },
+        { "jp": "プロの選手[せんしゅ]にしては、ミスが多[おお]すぎる。", "en": "For a professional player, he makes far too many mistakes." }
+      ],
+      "notes": "{だけあって} is the opposite idea: the result matches what you'd expect ({プロだけあって上手[じょうず]だ}).",
+      "quiz": [
+        { "q": "初心者[しょしんしゃ]＿＿、上手[じょうず]に滑[すべ]れていますね。", "en": "You're skiing really well for a beginner.", "choices": ["だけあって", "からには", "にしては", "ばかりに"], "answer": 2 },
+        { "q": "このかばんは値段[ねだん]が安[やす]い＿＿、丈夫[じょうぶ]だ。", "en": "This bag is sturdy considering how cheap it is.", "choices": ["にしては", "わりに", "だけに", "からこそ"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "n2-monono",
+      "title": "〜ものの",
+      "meaning": "although; even though (but the expected result doesn't follow)",
+      "structure": "Plain form + ものの　／　な-adj + な / である + ものの　／　Noun + である + ものの",
+      "explanation": "{ものの} admits a fact and then says that what you'd expect to follow **didn't happen**: \"I got my licence, but I never drive\", \"I bought it, but I don't know how to use it\".\n\nIt is more objective and written than {のに}, which carries frustration. You'll see it often in reports and news: {回復[かいふく]しつつあるものの} (\"although it is recovering\").\n\nThe second half is a fact or state, not a request or intention.",
+      "examples": [
+        { "jp": "免許[めんきょ]は取[と]ったものの、全然[ぜんぜん]運転[うんてん]していない。", "en": "I got my driving licence, but I haven't driven at all." },
+        { "jp": "新[あたら]しいパソコンを買[か]ったものの、使[つか]い方[かた]がよくわからない。", "en": "I bought a new computer, but I don't really know how to use it." },
+        { "jp": "日本語[にほんご]を勉強[べんきょう]し始[はじ]めたものの、なかなか上達[じょうたつ]しない。", "en": "I started studying Japanese, but I'm just not improving." },
+        { "jp": "景気[けいき]は回復[かいふく]しつつあるものの、生活[せいかつ]が楽[らく]になったという実感[じっかん]はない。", "en": "Although the economy is recovering, people don't feel their lives have got any easier." }
+      ],
+      "quiz": [
+        { "q": "引[ひ]き受[う]けた＿＿、自信[じしん]はまったくない。", "en": "I took it on, but I have no confidence at all.", "choices": ["ものなら", "ものの", "ものだから", "もので"], "answer": 1 },
+        { "q": "ジムに入会[にゅうかい]した＿＿、ほとんど行[い]っていない。", "en": "I joined a gym, but I hardly ever go.", "choices": ["からには", "だけあって", "うえに", "ものの"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-toittemo",
+      "title": "〜といっても",
+      "meaning": "although I say ...; even so, it's only",
+      "structure": "Plain form + といっても　／　Noun / な-adj + （だ）+ といっても",
+      "explanation": "{といっても} takes something just said (or implied) and **corrects an exaggerated impression**: \"I say I can cook, but it's only simple stuff\", \"I'm a company president, but it's a three-person company\".\n\nIt is very common in conversation, especially when being modest about yourself, and also in writing.\n\nThe second half usually limits or qualifies the first: {〜だけ}, {〜しか〜ない}, {〜くらい}, {〜ほどではない}.",
+      "examples": [
+        { "jp": "料理[りょうり]ができるといっても、簡単[かんたん]なものしか作[つく]れません。", "en": "I say I can cook, but I can only make simple things." },
+        { "jp": "休[やす]みといっても、家[いえ]で寝[ね]ているだけです。", "en": "It's a day off, but all I do is sleep at home." },
+        { "jp": "海外[かいがい]に住[す]んでいたといっても、半年[はんとし]だけです。", "en": "I did live abroad, but only for six months." },
+        { "jp": "社長[しゃちょう]といっても、社員[しゃいん]三人[さんにん]の小[ちい]さな会社[かいしゃ]です。", "en": "I'm the president, yes, but it's a small company with three employees." }
+      ],
+      "quiz": [
+        { "q": "日本語[にほんご]が話[はな]せる＿＿、日常会話[にちじょうかいわ]くらいです。", "en": "I can speak Japanese, but only at the level of everyday conversation.", "choices": ["といっても", "というより", "からには", "ばかりに"], "answer": 0 },
+        { "q": "庭[にわ]がある＿＿、とても狭[せま]いんです。", "en": "There is a garden, but it's tiny.", "choices": ["ことから", "だけあって", "といっても", "からこそ"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-kuseni",
+      "title": "〜くせに（vs のに）",
+      "meaning": "even though (with criticism or contempt)",
+      "structure": "Plain form + くせに　／　Noun + の + くせに　／　な-adj + な + くせに",
+      "explanation": "Both {くせに} and {のに} mean \"even though\", but they feel very different.\n\n{くせに} expresses **criticism, irritation or contempt** toward someone else: \"he knows, but won't tell me\", \"you're just a kid, yet you talk back\". The subject of both halves is usually the same person, and that person is **not** the speaker. It can also end a sentence: {知[し]ってたくせに！} (\"You knew all along!\").\n\n{のに} is more neutral. It expresses surprise, disappointment or regret, and can be about yourself or circumstances: {練習[れんしゅう]したのに負[ま]けた}.\n\n{くせに} is rude; never use it about a superior. {のに} is normally not followed by a command or request, whereas {くせに} can: {わからないくせに、偉[えら]そうに言[い]うな}.",
+      "examples": [
+        { "jp": "知[し]っているくせに、教[おし]えてくれない。", "en": "He knows, but he won't tell me." },
+        { "jp": "自分[じぶん]では何[なに]もしないくせに、文句[もんく]ばかり言[い]う。", "en": "He never does anything himself, yet all he does is complain." },
+        { "jp": "彼[かれ]は歌[うた]が下手[へた]なくせに、カラオケでマイクを離[はな]さない。", "en": "He's a terrible singer, but he won't let go of the mic at karaoke." },
+        { "jp": "一生懸命[いっしょうけんめい]練習[れんしゅう]したのに、負[ま]けてしまった。", "en": "I practised so hard, and still I lost. (のに: self, regret)" }
+      ],
+      "notes": "✗ {私[わたし]は練習[れんしゅう]したくせに負[ま]けた}: {くせに} is not used about yourself.",
+      "quiz": [
+        { "q": "一生懸命[いっしょうけんめい]勉強[べんきょう]した＿＿、試験[しけん]に落[お]ちてしまった。", "en": "I studied so hard, but I still failed the exam.", "choices": ["くせに", "のに", "からこそ", "だけあって"], "answer": 1 },
+        { "q": "何[なに]もわからない＿＿、偉[えら]そうなことを言[い]うな。", "en": "You don't understand a thing, so don't act like you know it all.", "choices": ["くせに", "ものの", "ことから", "からこそ"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-nishitemo",
+      "title": "〜にしても",
+      "meaning": "even if; granted that; whether ... or",
+      "structure": "Plain form + にしても　／　Noun / な-adj + （である）+ にしても　／　A にしても B にしても",
+      "explanation": "{にしても} accepts a premise (\"even granting that you're busy\") and then says something still applies: \"you could at least call\". It is often used to **gently criticise** or to say \"that's no excuse\".\n\nWith two options, {AにしてもBにしても} means \"whether A or B\": {行[い]くにしても行[い]かないにしても、返事[へんじ]をください}.\n\nIt is conversational but fine in writing. The more formal versions {にせよ} and {にしろ} follow in the next point.",
+      "examples": [
+        { "jp": "忙[いそが]しいにしても、電話[でんわ]くらいはできるでしょう。", "en": "Even if you're busy, you could at least give me a call." },
+        { "jp": "冗談[じょうだん]にしても、言[い]っていいことと悪[わる]いことがある。", "en": "Even as a joke, there are things you shouldn't say." },
+        { "jp": "遅[おく]れるにしても、連絡[れんらく]ぐらいはしてほしかった。", "en": "Even if you were going to be late, I wish you'd at least let me know." },
+        { "jp": "行[い]くにしても行[い]かないにしても、早[はや]めに返事[へんじ]をください。", "en": "Whether you go or not, please reply soon." }
+      ],
+      "quiz": [
+        { "q": "体調[たいちょう]が悪[わる]かった＿＿、無断[むだん]欠勤[けっきん]はよくない。", "en": "Even if you weren't feeling well, being absent without notice isn't acceptable.", "choices": ["にしては", "だけあって", "ばかりに", "にしても"], "answer": 3 },
+        { "q": "賛成[さんせい]するにしても反対[はんたい]する＿＿、理由[りゆう]を説明[せつめい]してください。", "en": "Whether you agree or disagree, please explain your reasons.", "choices": ["にしても", "にしては", "わりに", "くせに"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-niseyo",
+      "title": "〜にせよ / 〜にしろ",
+      "meaning": "even if; whether ... or (formal)",
+      "structure": "Plain form + にせよ / にしろ　／　Noun + （である）+ にせよ　／　A にせよ B にせよ",
+      "explanation": "{にせよ} and {にしろ} mean the same as {にしても}, but sound **firmer and more formal**. {にせよ} is the most written; {にしろ} is common in serious speech.\n\nThey often appear with question words: {どんな理由[りゆう]があるにせよ} (\"whatever the reason\"), {誰[だれ]がやるにしろ} (\"whoever does it\").\n\nSet phrases worth memorising:\n- {いずれにせよ} / {いずれにしても}: \"in any case, either way\"\n- {何[なに]にせよ}: \"at any rate\"\n\nThese are very common in meetings and business emails when wrapping up a discussion.",
+      "examples": [
+        { "jp": "どんな理由[りゆう]があるにせよ、暴力[ぼうりょく]は許[ゆる]されない。", "en": "Whatever the reason, violence is unacceptable." },
+        { "jp": "参加[さんか]するにしろしないにしろ、連絡[れんらく]はください。", "en": "Whether you participate or not, please get in touch." },
+        { "jp": "いずれにせよ、明日[あした]までに結論[けつろん]を出[だ]さなければならない。", "en": "Either way, we have to reach a conclusion by tomorrow." },
+        { "jp": "一時的[いちじてき]にせよ、売上[うりあげ]が回復[かいふく]したのはよいことだ。", "en": "Even if it's only temporary, it's good that sales have recovered." }
+      ],
+      "quiz": [
+        { "q": "いずれに＿＿、もう一度[いちど]話[はな]し合[あ]う必要[ひつよう]がある。", "en": "Either way, we need to talk it over again.", "choices": ["しては", "せよ", "つれ", "かけて"], "answer": 1 },
+        { "q": "理由[りゆう]が何[なん]である＿＿、約束[やくそく]を破[やぶ]ったことは事実[じじつ]だ。", "en": "Whatever the reason, the fact is that you broke your promise.", "choices": ["にしては", "ばかりに", "にせよ", "からこそ"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-towaie",
+      "title": "〜とはいえ",
+      "meaning": "although; that said; even though it is",
+      "structure": "Plain form + とはいえ　／　Noun / な-adj + （だ）+ とはいえ　／　とはいえ、（sentence start）",
+      "explanation": "{とはいえ} admits that something is true and then adds a point that goes against the natural conclusion: \"it's spring, but it's still cold in the mornings\". It is a slightly formal, written-style equivalent of {〜けれども} / {〜といっても}.\n\nAt the start of a sentence, {とはいえ、} means \"that said, still\", and is common in articles and business writing to add a note of caution.\n\nCompared with {といっても}, which mainly downplays an exaggeration, {とはいえ} focuses on a reservation or an unexpected reality.",
+      "examples": [
+        { "jp": "春[はる]とはいえ、まだ朝晩[あさばん]は寒[さむ]い。", "en": "It may be spring, but mornings and evenings are still cold." },
+        { "jp": "仕事[しごと]とはいえ、毎晩[まいばん]遅[おそ]くまで残業[ざんぎょう]するのはつらい。", "en": "It's work, I know, but staying late every night is hard." },
+        { "jp": "日本[にほん]に十年[じゅうねん]住[す]んでいるとはいえ、敬語[けいご]はまだ難[むずか]しい。", "en": "Even though I've lived in Japan for ten years, keigo is still hard." },
+        { "jp": "景気[けいき]は回復[かいふく]している。とはいえ、油断[ゆだん]はできない。", "en": "The economy is recovering. That said, we can't let our guard down." }
+      ],
+      "quiz": [
+        { "q": "三月[さんがつ]＿＿、北海道[ほっかいどう]はまだ雪[ゆき]が残[のこ]っている。", "en": "It's March, but there's still snow on the ground in Hokkaido.", "choices": ["からには", "とはいえ", "だけあって", "ことから"], "answer": 1 },
+        { "q": "試験[しけん]には合格[ごうかく]した。＿＿、喜[よろこ]んでばかりもいられない。", "en": "I passed the exam. That said, I can't just sit back and celebrate.", "choices": ["したがって", "そのうえ", "それで", "とはいえ"], "answer": 3 }
+      ]
+    }
+  ]
+}

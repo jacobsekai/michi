@@ -1,10 +1,11 @@
 // Shared UI pieces: audio buttons, quizzes, info blocks for words/kanji/grammar.
 import { html, raw, esc, ruby, wordRuby, prose, shuffle, isTyping } from './util.js';
-import { settings } from './store.js';
+import { S, settings, save } from './store.js';
 import { speak } from './tts.js';
-import { D, LEVELS, wordsWithKanji } from './data.js';
+import { attachIme } from './ime.js';
+import { D, LEVELS, wordsWithKanji, examplesFor } from './data.js';
 import { toRomaji, HINTS } from './kana.js';
-import { card, stage } from './srs.js';
+import { card, stage, LEECH } from './srs.js';
 
 export const furi = (s) => raw(ruby(s, settings().furigana));
 export const proseHtml = (s) => raw(prose(s, settings().furigana));
@@ -96,12 +97,62 @@ export function statusPill(id) {
   const c = card(id);
   const s = stage(c);
   const label = { new: 'Not learned', learning: 'Learning', young: 'Young', mature: 'Mature', mastered: 'Mastered' }[s];
-  return html`<span class="pill pill-${s}">${label}</span>`;
+  return html`<span class="pill pill-${s}">${label}</span>${c?.leech ? html` <span class="pill pill-leech" title="Missed ${LEECH}+ times — add a mnemonic">Leech</span>` : ''}`;
 }
+
+// ---- pitch accent ------------------------------------------------------------------
+// p = downstep position (0 = heiban/flat). Shows each mora high or low, with ꜜ where the pitch drops.
+const SMALL_KANA = /[ゃゅょぁぃぅぇぉゎャュョァィゥェォヮ]/;
+export function morae(r) {
+  const out = [];
+  for (const ch of r) {
+    if (SMALL_KANA.test(ch) && out.length) out[out.length - 1] += ch;
+    else out.push(ch);
+  }
+  return out;
+}
+export function pitchHtml(r, p) {
+  if (p == null) return '';
+  const m = morae(r);
+  const high = (i) => (p === 0 ? i > 0 : p === 1 ? i === 0 : i > 0 && i < p);
+  const name = p === 0 ? 'Heiban (flat)' : p === 1 ? 'Atamadaka (high start)' : p === m.length ? 'Odaka (drops after the word)' : 'Nakadaka (drops in the middle)';
+  const cells = m.map((x, i) => `<span class="mora ${high(i) ? 'hi' : 'lo'}${i > 0 && high(i) !== high(i - 1) ? ' turn' : ''}">${esc(x)}</span>${p === i + 1 ? '<span class="drop">ꜜ</span>' : ''}`).join('');
+  return `<span class="pitch" title="Pitch accent: ${name}">${cells}<span class="pitch-name">${name}</span></span>`;
+}
+
+// ---- example sentences (loaded lazily) ------------------------------------------------
+// <div data-examples="<word id>"> gets up to `data-n` real example sentences with the word highlighted.
+export const markTarget = (h) => h.replace(/⟦/g, '<mark>').replace(/⟧/g, '</mark>');
+export const stripMarks = (s) => s.replace(/[⟦⟧]/g, '');
+async function mountExamples(el) {
+  const id = el.dataset.examples;
+  el.removeAttribute('data-examples');
+  const v = D.index.vocab.get(id);
+  const list = (await examplesFor(v)).slice(0, +(el.dataset.n || 3));
+  if (!list.length || !el.isConnected) return;
+  el.innerHTML = `<h3>Example sentences</h3><ul class="examples">${list.map(([jp, en]) => `<li><div class="ex-jp jp">${markTarget(ruby(jp, settings().furigana))} ${audioBtn(stripMarks(jp)).s}</div><div class="ex-en">${esc(en)}</div></li>`).join('')}</ul>`;
+}
+new MutationObserver(() => document.querySelectorAll('[data-examples]').forEach(mountExamples))
+  .observe(document.documentElement, { childList: true, subtree: true });
+
+// ---- personal notes / mnemonics ------------------------------------------------------
+export function noteBox(id) {
+  const n = S().notes[id]?.text || '';
+  return html`<details class="note-box" ${n ? 'open' : ''}><summary>${n ? 'Your note' : '+ Add a note or mnemonic'}</summary>
+    <textarea data-note="${id}" rows="2" placeholder="e.g. a story that links the shape, sound and meaning">${n}</textarea></details>`;
+}
+document.addEventListener('input', (e) => {
+  const id = e.target.dataset?.note;
+  if (!id) return;
+  const text = e.target.value.trim();
+  if (text) S().notes[id] = { text, t: Date.now() };
+  else delete S().notes[id];
+  save();
+});
 
 // ---- info blocks ----------------------------------------------------------------
 
-export function wordBlock(v, { big = true } = {}) {
+export function wordBlock(v, { big = true, examples = 2, notes = true } = {}) {
   const hasKanji = v.w !== v.r;
   const kanji = [...new Set(v.w.match(/[一-鿿々]/g) || [])].map((c) => D.index.kanji.get(c)).filter(Boolean);
   return html`
@@ -110,6 +161,7 @@ export function wordBlock(v, { big = true } = {}) {
         <div>
           ${hasKanji ? html`<div class="reading jp">${v.r}</div>` : ''}
           <div class="word-text jp">${v.w}</div>
+          ${v.p != null ? html`<div class="jp">${raw(pitchHtml(v.r, v.p))}</div>` : ''}
           ${settings().romaji && !hasKanji ? html`<div class="romaji">${toRomaji(v.r)}</div>` : ''}
         </div>
         ${audioBtn(v.r)}
@@ -118,10 +170,13 @@ export function wordBlock(v, { big = true } = {}) {
       ${v.alt?.length ? html`<div class="muted small">Also written: <span class="jp">${v.alt.join('、')}</span></div>` : ''}
       ${kanji.length ? html`<div class="kanji-parts">${kanji.map((k) => html`<a class="kanji-chip" href="#/kanji-detail/${encodeURIComponent(k.c)}"><span class="jp">${k.c}</span><span>${k.m.slice(0, 2).join(', ')}</span></a>`)}</div>` : ''}
       <div class="tags"><span class="pill">${v.level}</span> ${statusPill(v.id)}</div>
+      ${examples && !v.custom ? html`<div class="ex-host" data-examples="${v.id}" data-n="${examples}"></div>` : ''}
+      ${notes ? noteBox(v.id) : ''}
     </div>`;
 }
 
-const fmtKun = (r) => r.replace('.', '・');
+// KANJIDIC marks okurigana with a dot (く.る); show it as く(る).
+export const fmtKun = (r) => r.replace(/\.(.+)$/, '($1)');
 
 export function kanjiBlock(k) {
   const words = wordsWithKanji(k.c, 5);
@@ -142,6 +197,7 @@ export function kanjiBlock(k) {
           <span class="jp">${raw(wordRuby(v.w, v.r))}</span>
           <span class="muted">${shortMeaning(v.m, 2)}</span></a></li>`)}</ul>` : ''}
       <div class="tags">${statusPill(`j:${k.c}`)}</div>
+      ${noteBox(`j:${k.c}`)}
     </div>`;
 }
 
@@ -200,29 +256,47 @@ export function runQuiz(root, questions, { title = 'Quiz', onDone } = {}) {
         <div class="progress"><div style="width:${Math.round((Math.min(i, total) / total) * 100)}%"></div></div>
         <div class="quiz-title muted small">${title} · ${Math.min(i + 1, total)}/${total}${i >= total ? ' (retry)' : ''}</div>
         <div class="quiz-prompt">${raw(String(q.prompt))} ${q.say ? audioBtn(q.say) : ''}</div>
-        <div class="choices">${q.choices.map((c, ci) => html`<button class="choice" data-i="${ci}"><span class="key">${ci + 1}</span><span>${raw(String(c))}</span></button>`)}</div>
+        ${q.input ? html`<form class="type-form wide-form"><input class="type-input" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="${q.input.label}" aria-label="${q.input.label}"><button class="btn primary">Check</button></form>`
+          : html`<div class="choices">${q.choices.map((c, ci) => html`<button class="choice" data-i="${ci}"><span class="key">${ci + 1}</span><span>${raw(String(c))}</span></button>`)}</div>`}
         <div class="feedback"></div>
       </div>`.s;
     if (q.say && q.autoSay) speak(q.say);
     root.querySelectorAll('.choice').forEach((b) => b.addEventListener('click', () => pick(+b.dataset.i)));
+    const input = root.querySelector('.type-input');
+    if (input) {
+      if (q.input.mode === 'kana') attachIme(input);
+      input.focus({ preventScroll: true });
+      root.querySelector('form').onsubmit = (e) => {
+        e.preventDefault();
+        if (!input.value.trim() || locked) return;
+        const r = q.input.check(input.value);
+        input.disabled = true;
+        input.classList.add(r.ok ? 'right' : 'wrong');
+        settle(r.ok, r.close);
+      };
+    }
   }
 
   let locked = false;
   function pick(ci) {
     if (locked) return;
-    locked = true;
     const q = queue[i];
     const ok = ci === q.answer;
     const btns = root.querySelectorAll('.choice');
     btns[q.answer].classList.add('right');
+    if (!ok) btns[ci].classList.add('wrong');
+    settle(ok);
+  }
+  function settle(ok, close = false) {
+    locked = true;
+    const q = queue[i];
     if (!ok) {
-      btns[ci].classList.add('wrong');
-      if (!missed.has(q)) queue.push(shuffleChoices(q));
+      if (!missed.has(q)) queue.push(q.input ? { ...q } : shuffleChoices(q));
       missed.add(q);
     } else if (!missed.has(q) && i < total) firstTry++;
     const fb = root.querySelector('.feedback');
     fb.innerHTML = html`
-      ${ok ? html`<div class="ok">Correct!</div>` : html`<div class="bad">Not quite — it'll come back at the end.</div>`}
+      ${ok ? html`<div class="ok">Correct!</div>` : html`<div class="bad">${close ? 'Close! Check long vowels, っ and ゛.' : 'Not quite'} — it'll come back at the end.</div>${q.input ? html`<div class="explain">Answer: <strong class="jp">${q.input.answer}</strong></div>` : ''}`}
       ${q.explain ? html`<div class="explain">${raw(String(q.explain))}</div>` : ''}
       <button class="btn primary next">Continue <span class="key">↵</span></button>`.s;
     if (ok && !q.explain) setTimeout(() => locked && advance(), 650);
@@ -249,6 +323,7 @@ export function runQuiz(root, questions, { title = 'Quiz', onDone } = {}) {
 }
 
 function shuffleChoices(q) {
+  if (q.input) return q;
   const order = shuffle(q.choices.map((_, i) => i));
   return { ...q, choices: order.map((i) => q.choices[i]), answer: order.indexOf(q.answer), orig: q.orig || q };
 }
@@ -271,4 +346,3 @@ export function levelTabs(base, current) {
   return html`<div class="tabs">${LEVELS.map((l) => html`<a class="tab ${l === current ? 'active' : ''}" href="${base}/${l}">${l}</a>`)}</div>`;
 }
 
-export { esc };

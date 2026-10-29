@@ -5,7 +5,7 @@ import { S, settings, today, streak } from '../store.js';
 import { dueCount, isLearned } from '../srs.js';
 import { nextNode } from './lesson.js';
 
-const TYPE_LABEL = { foundation: 'Lesson', kana: 'Kana', vocab: 'Vocabulary', kanji: 'Kanji', grammar: 'Grammar', reading: 'Reading' };
+const TYPE_LABEL = { foundation: 'Lesson', kana: 'Kana', vocab: 'Vocabulary', kanji: 'Kanji', grammar: 'Grammar', reading: 'Reading', exam: 'Exam' };
 
 export function homeView(root) {
   const due = dueCount();
@@ -30,7 +30,8 @@ export function homeView(root) {
       <section class="hero card">
         <h2>ようこそ! Welcome.</h2>
         <p>Start with a 5-minute intro to how Japanese works, then learn hiragana. Everything works offline.</p>
-        <a class="btn primary wide" href="#/lesson/${next.id}">Start learning</a>
+        <a class="btn primary wide" href="#/lesson/${next.id}">Start from zero</a>
+        <a class="btn wide" href="#/exams/placement" style="margin-top:8px">I already know some Japanese — placement test</a>
       </section>` : html`
       <section class="grid2">
         <a class="tile big ${due ? 'accent' : ''}" href="#/review">
@@ -61,6 +62,10 @@ export function homeView(root) {
         <a class="tile" href="#/practice/kana"><div class="tile-icon jp">あ</div><div>Kana drill</div></a>
         <a class="tile" href="#/practice/listening"><div class="tile-icon">🎧</div><div>Listening</div></a>
         <a class="tile" href="#/practice/reading"><div class="tile-icon jp">読</div><div>Kanji readings</div></a>
+        <a class="tile" href="#/practice/dictation"><div class="tile-icon">✍️</div><div>Dictation</div></a>
+        <a class="tile" href="#/practice/shadowing"><div class="tile-icon">🎙️</div><div>Shadowing</div></a>
+        <a class="tile" href="#/practice/writing"><div class="tile-icon jp">書</div><div>Write kanji</div></a>
+        <a class="tile" href="#/exams"><div class="tile-icon jp">試</div><div>Exams</div></a>
         <a class="tile" href="#/reading"><div class="tile-icon">📖</div><div>Stories</div></a>
         <a class="tile" href="#/life"><div class="tile-icon">🗾</div><div>Life in Japan</div></a>
         <a class="tile" href="#/search"><div class="tile-icon">🔍</div><div>Dictionary</div></a>

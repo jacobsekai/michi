@@ -1,0 +1,407 @@
+{
+  "id": "n1-u10",
+  "title": "Contrast, comparison and surprise",
+  "summary": "Comparing and contrasting at an advanced level: 'in contrast to' ({にひきかえ}), 'even more than' ({にもまして}), 'X of course, but also Y' ({もさることながら}), 'combined with' ({と相[あい]まって}), 'both X and Y' ({といい〜といい}), 'although' ({とはいえ}), 'contrary to expectation' ({と思[おも]いきや}) and 'ignoring' ({をよそに}).",
+  "points": [
+    {
+      "id": "n1-ni-hikikae",
+      "title": "〜にひきかえ",
+      "meaning": "in (stark) contrast to; whereas",
+      "structure": "Noun / plain form + の + にひきかえ",
+      "explanation": "{〜にひきかえ} contrasts two things and shows the speaker's evaluation: one is good, the other is bad (or at least one is more favourable). 'My older brother is outgoing, whereas my younger brother is quiet.' 'Unlike last year's heatwave, this summer is pleasant.'\n\nIt is subjective — the speaker is praising one side and often criticising the other. For a neutral, factual contrast, use {〜に対[たい]して}.\n\n**Register:** somewhat formal but heard in conversation, especially when complaining about family or colleagues.",
+      "examples": [
+        {
+          "jp": "兄[あに]が社交的[しゃこうてき]なのにひきかえ、弟[おとうと]はおとなしい。",
+          "en": "My older brother is outgoing, whereas my younger brother is quiet."
+        },
+        {
+          "jp": "去年[きょねん]の猛暑[もうしょ]にひきかえ、今年[ことし]の夏[なつ]は過[す]ごしやすい。",
+          "en": "Compared with last year's heatwave, this summer is very comfortable."
+        },
+        {
+          "jp": "働[はたら]き者[もの]の妻[つま]にひきかえ、夫[おっと]は一日中[いちにちじゅう]ごろごろしている。",
+          "en": "Unlike his hard-working wife, the husband lazes around all day."
+        },
+        {
+          "jp": "前回[ぜんかい]の失敗[しっぱい]にひきかえ、今回[こんかい]のプロジェクトは大成功[だいせいこう]だった。",
+          "en": "In contrast to last time's failure, this project was a great success."
+        }
+      ],
+      "notes": "{〜に対[たい]して} = objective contrast; {〜にひきかえ} = evaluative contrast ('one is better/worse').",
+      "quiz": [
+        {
+          "q": "真面目[まじめ]な姉[あね]＿＿、妹[いもうと]は遊[あそ]んでばかりいる。",
+          "en": "Unlike her serious older sister, the younger sister does nothing but play.",
+          "choices": [
+            "にもまして",
+            "と相[あい]まって",
+            "を皮切[かわき]りに",
+            "にひきかえ"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "都会[とかい]の慌[あわ]ただしい生活[せいかつ]＿＿、田舎[いなか]の暮[く]らしはのんびりしている。",
+          "en": "In contrast to hectic city life, life in the countryside is relaxed.",
+          "choices": [
+            "にひきかえ",
+            "にかこつけて",
+            "に即[そく]して",
+            "にもまして"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-ni-mo-mashite",
+      "title": "〜にもまして",
+      "meaning": "even more than; above all",
+      "structure": "Noun / question word + にもまして",
+      "explanation": "{増[ま]す} means 'to increase'. {X にもまして} means 'even more than X'. It compares a situation with a previous one or a normal level: {例年[れいねん]にもまして} 'even more than in a usual year', {以前[いぜん]にもまして} 'even more than before'.\n\nWith question words it means 'more than anything / anyone': {何[なに]にもまして} 'above all', {誰[だれ]にもまして} 'more than anyone'.\n\n**Register:** formal-leaning; common in news, speeches and writing. {以前[いぜん]にもまして} and {何[なに]にもまして} are also used in careful speech.",
+      "examples": [
+        {
+          "jp": "今年[ことし]の夏[なつ]は、例年[れいねん]にもまして暑[あつ]い。",
+          "en": "This summer is even hotter than usual."
+        },
+        {
+          "jp": "退院[たいいん]した彼[かれ]は、以前[いぜん]にもまして元気[げんき]になった。",
+          "en": "Since leaving hospital, he's been even livelier than before."
+        },
+        {
+          "jp": "何[なに]にもまして大切[たいせつ]なのは、家族[かぞく]の健康[けんこう]だ。",
+          "en": "More important than anything is my family's health."
+        },
+        {
+          "jp": "彼女[かのじょ]は誰[だれ]にもまして熱心[ねっしん]に練習[れんしゅう]に取[と]り組[く]んだ。",
+          "en": "She threw herself into practice more enthusiastically than anyone."
+        }
+      ],
+      "notes": "In writing you may see it in kanji: {にも増[ま]して}.",
+      "quiz": [
+        {
+          "q": "再開[さいかい]されたその店[みせ]は、以前[いぜん]＿＿多[おお]くの客[きゃく]でにぎわっている。",
+          "en": "Since reopening, the shop has been even busier than before.",
+          "choices": [
+            "にひきかえ",
+            "にもまして",
+            "を限[かぎ]りに",
+            "と相[あい]まって"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "社員[しゃいん]にとって何[なに]＿＿ありがたいのは、休[やす]みが増[ふ]えることだ。",
+          "en": "What employees appreciate more than anything is getting more days off.",
+          "choices": [
+            "にひきかえ",
+            "をおいて",
+            "にもまして",
+            "ならでは"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-mo-saru-koto-nagara",
+      "title": "〜もさることながら",
+      "meaning": "X is of course (important/good), but Y even more so",
+      "structure": "Noun + もさることながら",
+      "explanation": "{〜もさることながら} acknowledges X as obviously important or impressive, then shifts focus to Y as even more notable: 'The food here is great, of course, but the service is what really stands out.'\n\nIt's a graceful, elevated way of saying {〜はもちろんだが}. Usually positive, used in praise, reviews and analysis.\n\n**Register:** formal and written — reviews, articles, speeches, interviews. It sounds sophisticated in speech.",
+      "examples": [
+        {
+          "jp": "この店[みせ]は、料理[りょうり]の味[あじ]もさることながら、店員[てんいん]の接客[せっきゃく]が素晴[すば]らしい。",
+          "en": "The food at this restaurant is excellent, of course, but the service is truly wonderful."
+        },
+        {
+          "jp": "就職[しゅうしょく]では、学歴[がくれき]もさることながら、本人[ほんにん]のやる気[き]が重視[じゅうし]される。",
+          "en": "In job hunting, educational background matters, but motivation is valued even more."
+        },
+        {
+          "jp": "彼女[かのじょ]は、歌[うた]の上手[うま]さもさることながら、その人柄[ひとがら]で多[おお]くのファンを魅了[みりょう]している。",
+          "en": "Her singing is superb, but it's her personality that has really won over so many fans."
+        },
+        {
+          "jp": "環境[かんきょう]問題[もんだい]の解決[かいけつ]には、技術[ぎじゅつ]の開発[かいはつ]もさることながら、一人[ひとり]ひとりの意識[いしき]改革[かいかく]が欠[か]かせない。",
+          "en": "Solving environmental problems requires new technology, of course, but changing each person's mindset is essential."
+        }
+      ],
+      "notes": "Note the order: the 'of course' item comes first with {もさることながら}, and the main point second.",
+      "quiz": [
+        {
+          "q": "このホテルは、部屋[へや]からの眺[なが]め＿＿、料理[りょうり]の質[しつ]の高[たか]さで評判[ひょうばん]だ。",
+          "en": "This hotel is famous for its views from the rooms, of course, but even more for the quality of its food.",
+          "choices": [
+            "にひきかえ",
+            "をよそに",
+            "もさることながら",
+            "ときたら"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "彼[かれ]の論文[ろんぶん]は、着眼点[ちゃくがんてん]の新[あたら]しさもさること＿＿、データの正確[せいかく]さが高[たか]く評価[ひょうか]された。",
+          "en": "His paper was praised for the novelty of its approach, and even more for the accuracy of its data.",
+          "choices": [
+            "ながらに",
+            "なしに",
+            "ならでは",
+            "ながら"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-to-aimatte",
+      "title": "〜と相[あい]まって",
+      "meaning": "combined with; coupled with; together with",
+      "structure": "Noun + と相[あい]まって / Noun + も相[あい]まって",
+      "explanation": "{相[あい]まつ} means 'to work together, to combine'. {X と相[あい]まって Y} means 'X combined with (another factor) produced a stronger effect Y'. Two factors reinforce each other: good weather plus a holiday means huge crowds; talent plus hard work means success.\n\n{〜も相[あい]まって} is a common variant meaning 'with X also contributing'.\n\n**Register:** formal and written; frequent in news, reviews and analysis ({円安[えんやす]も相[あい]まって} 'helped by the weak yen').",
+      "examples": [
+        {
+          "jp": "好天[こうてん]と相[あい]まって、行楽地[こうらくち]は大勢[おおぜい]の人[ひと]でにぎわった。",
+          "en": "Helped by the fine weather, holiday spots were crowded with people."
+        },
+        {
+          "jp": "美[うつく]しい音楽[おんがく]が映像[えいぞう]と相[あい]まって、観客[かんきゃく]を感動[かんどう]させた。",
+          "en": "The beautiful music, combined with the visuals, moved the audience."
+        },
+        {
+          "jp": "彼[かれ]の才能[さいのう]は、人一倍[ひといちばい]の努力[どりょく]と相[あい]まって、ついに花開[はなひら]いた。",
+          "en": "His talent, combined with exceptional effort, finally blossomed."
+        },
+        {
+          "jp": "円安[えんやす]も相[あい]まって、訪日[ほうにち]外国人[がいこくじん]の数[かず]は過去[かこ]最高[さいこう]を記録[きろく]した。",
+          "en": "Helped also by the weak yen, the number of foreign visitors to Japan hit a record high."
+        }
+      ],
+      "notes": "The effect usually intensifies (good or bad). It's not used for simple listing — use {〜とともに} or {〜に加[くわ]えて} for that.",
+      "quiz": [
+        {
+          "q": "紅葉[こうよう]が澄[す]んだ秋空[あきぞら]＿＿、山[やま]は息[いき]をのむほど美[うつく]しかった。",
+          "en": "The autumn leaves together with the clear autumn sky made the mountains breathtakingly beautiful.",
+          "choices": [
+            "と相[あい]まって",
+            "にひきかえ",
+            "をものともせず",
+            "とばかりに"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "景気[けいき]の回復[かいふく]も＿＿、今年[ことし]の就職[しゅうしょく]率[りつ]は大幅[おおはば]に上昇[じょうしょう]した。",
+          "en": "Helped also by the economic recovery, this year's employment rate rose sharply.",
+          "choices": [
+            "相[あい]まって",
+            "相[あい]まった",
+            "相[あい]まれば",
+            "相[あい]まり"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-to-ii-to-ii",
+      "title": "〜といい〜といい",
+      "meaning": "both X and Y; whether you look at X or Y",
+      "structure": "Noun₁ + といい + Noun₂ + といい",
+      "explanation": "{X といい Y といい} picks out two aspects (or two people) as examples, and then makes one overall judgement that applies to both — and implicitly to everything else. 'Both the size and the sunlight — this room is perfect.'\n\nThe judgement can be praise or criticism. It's the speaker's personal evaluation, so it's not used for neutral facts.\n\n**Register:** neutral; used in conversation as well as writing. A useful way to sound natural when giving opinions.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は顔[かお]といい性格[せいかく]といい、父親[ちちおや]にそっくりだ。",
+          "en": "Both in looks and personality, he's just like his father."
+        },
+        {
+          "jp": "デザインといい色[いろ]といい、このバッグは私[わたし]の好[この]みにぴったりだ。",
+          "en": "The design, the colour — this bag is exactly my taste."
+        },
+        {
+          "jp": "この部屋[へや]は、広[ひろ]さといい日当[ひあ]たりといい、申[もう]し分[ぶん]ない。",
+          "en": "In both size and sunlight, this room leaves nothing to be desired."
+        },
+        {
+          "jp": "社長[しゃちょう]といい部長[ぶちょう]といい、この会社[かいしゃ]の幹部[かんぶ]は現場[げんば]を知[し]らない。",
+          "en": "The president, the department head — the executives in this company have no idea what happens on the ground."
+        }
+      ],
+      "notes": "Similar patterns: {〜にしても〜にしても} (whether X or Y), {〜も〜も}. {〜といい〜といい} always ends in an evaluation.",
+      "quiz": [
+        {
+          "q": "味[あじ]＿＿値段[ねだん]といい、この店[みせ]のランチは最高[さいこう]だ。",
+          "en": "The taste, the price — this restaurant's lunch is the best.",
+          "choices": [
+            "といえども",
+            "といったら",
+            "とあって",
+            "といい"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "彼女[かのじょ]の作品[さくひん]は、構成[こうせい]といい表現[ひょうげん]＿＿、新人[しんじん]とは思[おも]えない出来[でき]だ。",
+          "en": "In both structure and expression, her work is hard to believe as that of a newcomer.",
+          "choices": [
+            "とか",
+            "やら",
+            "といい",
+            "であれ"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-to-wa-ie",
+      "title": "〜とはいえ",
+      "meaning": "although; even though (it's true that); that said",
+      "structure": "Noun / plain form + とはいえ / Sentence。とはいえ、…",
+      "explanation": "{〜とはいえ} admits that X is true, then adds that the expected consequence doesn't fully follow: 'It's spring, but mornings are still cold.' 'It's my job, but working late every night is hard.'\n\nIt can also start a sentence on its own: {とはいえ、…} 'That said, ...' — very common in writing and presentations.\n\n**Register:** written and formal-ish, but widely used, including in careful speech. A softer, more common alternative to {といえども}.",
+      "examples": [
+        {
+          "jp": "春[はる]とはいえ、朝晩[あさばん]はまだ寒[さむ]い。",
+          "en": "It may be spring, but mornings and evenings are still cold."
+        },
+        {
+          "jp": "仕事[しごと]とはいえ、毎晩[まいばん]遅[おそ]くまで残業[ざんぎょう]するのはつらい。",
+          "en": "It's my job, I know, but working late every night is tough."
+        },
+        {
+          "jp": "自分[じぶん]で選[えら]んだ道[みち]とはいえ、迷[まよ]うこともある。",
+          "en": "Even though it's the path I chose, I sometimes have doubts."
+        },
+        {
+          "jp": "景気[けいき]は回復[かいふく]傾向[けいこう]にある。とはいえ、まだ油断[ゆだん]はできない。",
+          "en": "The economy is on a recovery trend. That said, we can't let our guard down yet."
+        }
+      ],
+      "notes": "{とはいえ} < {といえども} in formality. {とはいっても} and {といっても} are the conversational versions.",
+      "quiz": [
+        {
+          "q": "三月[さんがつ]＿＿、北海道[ほっかいどう]ではまだ雪[ゆき]が降[ふ]ることがある。",
+          "en": "Although it's March, it can still snow in Hokkaido.",
+          "choices": [
+            "とはいえ",
+            "とあって",
+            "ともなると",
+            "とあれば"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "彼[かれ]の言[い]うことにも一理[いちり]ある。＿＿、全面的[ぜんめんてき]に賛成[さんせい]するわけにはいかない。",
+          "en": "There's some truth in what he says. That said, I can't agree with him completely.",
+          "choices": [
+            "それゆえ",
+            "とはいえ",
+            "そのうえ",
+            "したがって"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n1-to-omoikiya",
+      "title": "〜と思[おも]いきや",
+      "meaning": "I thought X, but (to my surprise) actually Y",
+      "structure": "plain form (often + か) + と思[おも]いきや",
+      "explanation": "{〜と思[おも]いきや} means 'just when I thought X — surprise! — Y'. The result is the opposite of what the speaker expected. It's often used with {〜かと思[おも]いきや}.\n\nIt describes a past event, and the second half is always a real, surprising outcome.\n\n**Register:** originally literary, but now popular in a slightly humorous, lively way: blogs, TV narration, captions, manga and casual storytelling. It's one of the 'old' N1 forms you'll genuinely see online.",
+      "examples": [
+        {
+          "jp": "今日[きょう]は休[やす]みかと思[おも]いきや、店[みせ]は開[あ]いていた。",
+          "en": "I thought the shop would be closed today, but it was open."
+        },
+        {
+          "jp": "試験[しけん]は簡単[かんたん]だと思[おも]いきや、最後[さいご]の問題[もんだい]がとても難[むずか]しかった。",
+          "en": "I thought the exam was easy, but the last question turned out to be really hard."
+        },
+        {
+          "jp": "やっと仕事[しごと]が終[お]わったと思[おも]いきや、また新[あたら]しい依頼[いらい]が来[き]た。",
+          "en": "Just when I thought I'd finally finished work, another request came in."
+        },
+        {
+          "jp": "強豪[きょうごう]チームが勝[か]つと思[おも]いきや、無名[むめい]の高校[こうこう]が優勝[ゆうしょう]をさらった。",
+          "en": "Everyone expected the powerhouse team to win, but an unknown high school took the title."
+        }
+      ],
+      "notes": "Not used for the future, or for things that went as expected.",
+      "quiz": [
+        {
+          "q": "雨[あめ]が止[や]んだ＿＿、また激[はげ]しく降[ふ]り出[だ]した。",
+          "en": "I thought the rain had stopped, but it started pouring again.",
+          "choices": [
+            "かと思[おも]いきや",
+            "とばかりに",
+            "とあって",
+            "とはいえ"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "彼[かれ]のことだから遅刻[ちこく]するだろうと思[おも]い＿＿、珍[めずら]しく時間[じかん]どおりに来[き]た。",
+          "en": "Knowing him, I thought he'd be late, but for once he came on time.",
+          "choices": [
+            "がてら",
+            "かたがた",
+            "ずじまい",
+            "きや"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-wo-yoso-ni",
+      "title": "〜をよそに",
+      "meaning": "ignoring; paying no heed to; in spite of (others' concerns)",
+      "structure": "Noun + をよそに",
+      "explanation": "{よそ} means 'somewhere else, outsider'. {X をよそに} means 'treating X as if it had nothing to do with oneself' — carrying on regardless of others' worry, opposition, expectations or a surrounding situation.\n\nTypical nouns: {心配[しんぱい]}, {反対[はんたい]}, {期待[きたい]}, {批判[ひはん]}, {不安[ふあん]}, {騒[さわ]ぎ}, {不景気[ふけいき]}. There's usually a critical or ironic tone: the subject seems indifferent to what everyone else is worried about.\n\n**Register:** written and formal; very common in news ({住民[じゅうみん]の反対[はんたい]をよそに} 'despite residents' opposition').",
+      "examples": [
+        {
+          "jp": "親[おや]の心配[しんぱい]をよそに、息子[むすこ]は毎晩[まいばん]遊[あそ]び歩[ある]いている。",
+          "en": "Paying no attention to his parents' worries, the son goes out partying every night."
+        },
+        {
+          "jp": "住民[じゅうみん]の反対[はんたい]をよそに、工事[こうじ]は強行[きょうこう]された。",
+          "en": "The construction was forced through despite the residents' opposition."
+        },
+        {
+          "jp": "周囲[しゅうい]の期待[きたい]をよそに、彼[かれ]はあっさり引退[いんたい]を決[き]めた。",
+          "en": "Despite everyone's expectations, he casually decided to retire."
+        },
+        {
+          "jp": "不景気[ふけいき]をよそに、高級[こうきゅう]ブランドの売[う]り上[あ]げは伸[の]び続[つづ]けている。",
+          "en": "Despite the recession, sales of luxury brands keep growing."
+        }
+      ],
+      "notes": "Compare {〜をものともせず} (Unit 12), which is about bravely overcoming obstacles. {をよそに} is about ignoring other people's feelings or the situation.",
+      "quiz": [
+        {
+          "q": "医者[いしゃ]の忠告[ちゅうこく]＿＿、父[ちち]はタバコをやめようとしない。",
+          "en": "Ignoring the doctor's advice, my father refuses to quit smoking.",
+          "choices": [
+            "をもとに",
+            "を通[つう]じて",
+            "をおいて",
+            "をよそに"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "世間[せけん]の批判[ひはん]＿＿、政府[せいふ]は増税[ぞうぜい]に踏[ふ]み切[き]った。",
+          "en": "Ignoring public criticism, the government went ahead with the tax increase.",
+          "choices": [
+            "を皮切[かわき]りに",
+            "をよそに",
+            "を禁[きん]じ得[え]ず",
+            "を限[かぎ]りに"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

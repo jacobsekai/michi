@@ -1,0 +1,128 @@
+{
+  "id": "n2-u09",
+  "title": "Regardless, despite, and except",
+  "summary": "Saying something doesn't matter ({にかかわらず}, {を問[と]わず}), happens despite a fact ({にもかかわらず}), ignores others ({もかまわず}), sets something aside ({はともかく}), or leaves something out ({を除[のぞ]いて}, {抜[ぬ]きで}).",
+  "points": [
+    {
+      "id": "n2-nikakawarazu",
+      "title": "〜にかかわらず",
+      "meaning": "regardless of; whether or not",
+      "structure": "Noun + にかかわらず　／　V-dictionary + V-ない + にかかわらず（行[い]く行[い]かないにかかわらず）",
+      "explanation": "{にかかわらず} says that a result is the same **no matter which option or value** applies. It therefore follows words that contain a range or a pair of opposites:\n- nouns like {天候[てんこう]} (weather), {年齢[ねんれい]} (age), {有無[うむ]} (presence or absence), {大小[だいしょう]} (large or small), {好[す]き嫌[きら]い}\n- verb pairs: {参加[さんか]するしない}, {行[い]く行[い]かない}\n\nIt is formal and common in rules, notices and job ads. Hiragana {かかわらず} is standard, though {関[かか]わらず} also appears.\n\nDon't confuse it with {にもかかわらず} (\"despite\"), which reacts to **one concrete fact**.",
+      "examples": [
+        { "jp": "天候[てんこう]にかかわらず、試合[しあい]は行[おこな]われます。", "en": "The match will be held regardless of the weather." },
+        { "jp": "経験[けいけん]の有無[うむ]にかかわらず、どなたでも応募[おうぼ]できます。", "en": "Anyone can apply, with or without experience." },
+        { "jp": "参加[さんか]するしないにかかわらず、メールでお返事[へんじ]ください。", "en": "Whether or not you will attend, please reply by email." },
+        { "jp": "金額[きんがく]の大小[だいしょう]にかかわらず、領収書[りょうしゅうしょ]を提出[ていしゅつ]してください。", "en": "Please submit receipts regardless of the amount." }
+      ],
+      "quiz": [
+        { "q": "出席[しゅっせき]する・しない＿＿、来週[らいしゅう]までにご連絡[れんらく]ください。", "en": "Whether or not you'll attend, please let us know by next week.", "choices": ["にもかかわらず", "にかかわらず", "に限[かぎ]って", "に応[おう]じて"], "answer": 1 },
+        { "q": "年齢[ねんれい]＿＿、誰[だれ]でも参加[さんか]できます。", "en": "Anyone can take part, regardless of age.", "choices": ["にもかかわらず", "をはじめ", "にわたって", "にかかわらず"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-wotowazu",
+      "title": "〜を問[と]わず",
+      "meaning": "regardless of; irrespective of",
+      "structure": "Noun + を問[と]わず",
+      "explanation": "{問[と]う} means \"to ask, to question\", so {を問[と]わず} is literally \"without asking about X\": X doesn't matter. Like {にかかわらず}, it follows nouns that contain a range or pair: {年齢[ねんれい]}, {経験[けいけん]}, {国籍[こくせき]}, {男女[だんじょ]}, {昼夜[ちゅうや]} (day and night), {国内外[こくないがい]} (domestic and overseas).\n\nIt is formal and very common in **job ads, event notices and product descriptions**: {経験[けいけん]不問[ふもん]} is the short written form you'll see on recruitment posters.\n\nDifference: {を問[と]わず} only follows nouns, while {にかかわらず} can also follow verb pairs ({するしない}).",
+      "examples": [
+        { "jp": "この仕事[しごと]は年齢[ねんれい]・経験[けいけん]を問[と]わず応募[おうぼ]できます。", "en": "You can apply for this job regardless of age or experience." },
+        { "jp": "駅前[えきまえ]は昼夜[ちゅうや]を問[と]わず人[ひと]が多[おお]い。", "en": "The area in front of the station is crowded day and night." },
+        { "jp": "男女[だんじょ]を問[と]わず、多[おお]くの人[ひと]に愛[あい]されている作家[さっか]だ。", "en": "She is a writer loved by many people, men and women alike." },
+        { "jp": "このアプリは国内外[こくないがい]を問[と]わず利用[りよう]できます。", "en": "This app can be used both in Japan and overseas." }
+      ],
+      "quiz": [
+        { "q": "このイベントには、国籍[こくせき]を＿＿、誰[だれ]でも参加[さんか]できる。", "en": "Anyone can join this event, regardless of nationality.", "choices": ["除[のぞ]いて", "問[と]わず", "通[つう]じて", "もとに"], "answer": 1 },
+        { "q": "コンビニは昼夜[ちゅうや]＿＿営業[えいぎょう]している。", "en": "Convenience stores are open day and night.", "choices": ["を問[と]わず", "にもかかわらず", "をめぐって", "に反[はん]して"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-nimokakawarazu",
+      "title": "〜にもかかわらず",
+      "meaning": "despite; in spite of; although",
+      "structure": "Plain form + にもかかわらず　／　Noun / な-adj + （である）+ にもかかわらず",
+      "explanation": "{にもかかわらず} reacts to **one specific fact** and says the result is the opposite of what you'd expect: \"despite the rain, many people came\". It often carries surprise, admiration or criticism.\n\nIt is formal, so it suits news, business and writing; in conversation, {のに} is more common. Like {のに}, the second half is a fact, not a request or intention.\n\nIn business it appears in thanks: {お忙[いそが]しいにもかかわらず} / {お足元[あしもと]の悪[わる]い中[なか]} (\"despite your busy schedule / the bad weather\").\n\n**Contrast**: {にかかわらず} = whichever option (no {も}); {にもかかわらず} = despite this fact.",
+      "examples": [
+        { "jp": "雨[あめ]にもかかわらず、多[おお]くの人[ひと]が集[あつ]まった。", "en": "Despite the rain, a lot of people gathered." },
+        { "jp": "何度[なんど]も注意[ちゅうい]したにもかかわらず、彼[かれ]は同[おな]じミスを繰[く]り返[かえ]した。", "en": "Even though I warned him many times, he repeated the same mistake." },
+        { "jp": "平日[へいじつ]であるにもかかわらず、遊園地[ゆうえんち]は家族連[かぞくづ]れでにぎわっていた。", "en": "Although it was a weekday, the amusement park was bustling with families." },
+        { "jp": "お忙[いそが]しいにもかかわらず、お越[こ]しいただきありがとうございます。", "en": "Thank you for coming despite your busy schedule." }
+      ],
+      "quiz": [
+        { "q": "熱[ねつ]がある＿＿、彼[かれ]は会社[かいしゃ]に来[き]た。", "en": "Despite having a fever, he came to work.", "choices": ["にかかわらず", "を問[と]わず", "にもかかわらず", "に限[かぎ]らず"], "answer": 2 },
+        { "q": "大雪[おおゆき]＿＿、試合[しあい]は予定通[よていどお]り行[おこな]われた。", "en": "Despite the heavy snow, the match went ahead as planned.", "choices": ["にかかわらず", "にもかかわらず", "を問[と]わず", "を通[つう]じて"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "n2-mokamawazu",
+      "title": "〜もかまわず",
+      "meaning": "without caring about; heedless of",
+      "structure": "Noun + もかまわず　／　Plain form + の + もかまわず",
+      "explanation": "{かまう} means \"to mind, to care\". {Xもかまわず} describes someone acting **without paying attention to X**, where X is something people normally would care about: other people's eyes, getting dirty, the time, bothering others.\n\nIt often contains a note of criticism or surprise ({人目[ひとめ]もかまわず} \"not caring who was watching\"), but it can also describe passionate behaviour, such as running through the rain after someone.\n\nIt is used mainly to describe **other people's** actions, in storytelling and descriptions.",
+      "examples": [
+        { "jp": "彼[かれ]は人目[ひとめ]もかまわず、大声[おおごえ]で泣[な]き出[だ]した。", "en": "Not caring who was watching, he burst into loud tears." },
+        { "jp": "服[ふく]が汚[よご]れるのもかまわず、子[こ]どもたちは泥[どろ]の中[なか]で遊[あそ]んでいる。", "en": "Not caring that their clothes are getting dirty, the kids are playing in the mud." },
+        { "jp": "周[まわ]りの迷惑[めいわく]もかまわず、電車[でんしゃ]の中[なか]で電話[でんわ]している人[ひと]がいる。", "en": "There are people who talk on the phone on the train without any regard for those around them." },
+        { "jp": "雨[あめ]に濡[ぬ]れるのもかまわず、彼女[かのじょ]は彼[かれ]を追[お]いかけた。", "en": "Not minding getting soaked by the rain, she ran after him." }
+      ],
+      "quiz": [
+        { "q": "その男性[だんせい]は、周[まわ]りの迷惑[めいわく]＿＿、車内[しゃない]でタバコを吸[す]っていた。", "en": "That man was smoking on the train without any regard for the people around him.", "choices": ["を問[と]わず", "にかかわらず", "をはじめ", "もかまわず"], "answer": 3 },
+        { "q": "夜中[よなか]である＿＿、隣[となり]の人[ひと]は大音量[だいおんりょう]で音楽[おんがく]を聴[き]いている。", "en": "Without caring that it's the middle of the night, my neighbour is playing music at full volume.", "choices": ["のもかまわず", "を問[と]わず", "に限[かぎ]って", "にしては"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-wanotomokaku",
+      "title": "〜はともかく（として）",
+      "meaning": "setting aside; X aside; leaving X for now",
+      "structure": "Noun + はともかく（として）　／　Noun + ならともかく",
+      "explanation": "{はともかく} puts one topic aside as less important (or as something to discuss later) and focuses on something else: \"the taste aside, the portions are huge\". The speaker implies the first point is either questionable or not the main issue.\n\n{ならともかく} means \"if it were X, that would be one thing, but...\" and is used to criticise: {子[こ]どもならともかく、大人[おとな]が〜} (\"a child, maybe, but an adult...\").\n\nIt is common in both conversation and writing; {ともかく} on its own at the start of a sentence means \"anyway\".",
+      "examples": [
+        { "jp": "味[あじ]はともかく、この店[みせ]は量[りょう]が多[おお]い。", "en": "The taste aside, this place gives you big portions." },
+        { "jp": "結果[けっか]はともかく、最後[さいご]まで頑張[がんば]ったことが大切[たいせつ]だ。", "en": "Whatever the result, what matters is that you kept going to the end." },
+        { "jp": "値段[ねだん]はともかくとして、デザインは気[き]に入[い]った。", "en": "Leaving the price aside, I like the design." },
+        { "jp": "冗談[じょうだん]はともかく、そろそろ本題[ほんだい]に入[はい]りましょう。", "en": "Jokes aside, let's get down to business." },
+        { "jp": "学生[がくせい]ならともかく、社会人[しゃかいじん]が無断[むだん]で遅刻[ちこく]するのは問題[もんだい]だ。", "en": "A student, maybe, but for a working adult to be late without notice is a problem." }
+      ],
+      "quiz": [
+        { "q": "見[み]た目[め]＿＿、このケーキはとてもおいしい。", "en": "Looks aside, this cake is really delicious.", "choices": ["をはじめ", "はともかく", "に限[かぎ]って", "にわたって"], "answer": 1 },
+        { "q": "子[こ]ども＿＿ともかく、大人[おとな]がこんなルールも守[まも]れないなんて。", "en": "If it were a child, that'd be one thing, but an adult who can't follow even a rule like this...", "choices": ["にも", "まで", "なら", "こそ"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-wonozoite",
+      "title": "〜を除[のぞ]いて（を除[のぞ]き / を除[のぞ]く）",
+      "meaning": "except; excluding",
+      "structure": "Noun + を除[のぞ]いて・を除[のぞ]き　／　を除[のぞ]く + Noun",
+      "explanation": "{除[のぞ]く} means \"to remove, to exclude\". {Xを除[のぞ]いて} is a formal way to say \"except X\", equivalent to {X以外[いがい]}.\n\nYou'll see it all the time in **opening hours, weather forecasts and rules**: {日曜日[にちようび]を除[のぞ]いて毎日[まいにち]営業[えいぎょう]} (open every day except Sunday), {一部[いちぶ]の地域[ちいき]を除[のぞ]き} (except for some areas).\n\n{を除[のぞ]き} is the more written form, and {を除[のぞ]く} + noun modifies a noun: {土日[どにち]を除[のぞ]く平日[へいじつ]}.",
+      "examples": [
+        { "jp": "日曜日[にちようび]を除[のぞ]いて、毎日[まいにち]営業[えいぎょう]しています。", "en": "We're open every day except Sunday." },
+        { "jp": "一部[いちぶ]の地域[ちいき]を除[のぞ]き、全国的[ぜんこくてき]に晴[は]れるでしょう。", "en": "Apart from some areas, it will be sunny across the country." },
+        { "jp": "彼[かれ]を除[のぞ]いて、全員[ぜんいん]が賛成[さんせい]した。", "en": "Everyone except him agreed." },
+        { "jp": "祝日[しゅくじつ]を除[のぞ]く平日[へいじつ]の午前九時[ごぜんくじ]から午後五時[ごごごじ]まで受[う]け付[つ]けております。", "en": "We accept enquiries on weekdays from 9 a.m. to 5 p.m., excluding public holidays." }
+      ],
+      "quiz": [
+        { "q": "年末年始[ねんまつねんし]＿＿、休[やす]まず営業[えいぎょう]いたします。", "en": "Except for the New Year holidays, we are open without a break.", "choices": ["をはじめ", "を問[と]わず", "を除[のぞ]いて", "をめぐって"], "answer": 2 },
+        { "q": "一部[いちぶ]の商品[しょうひん]＿＿、全品[ぜんぴん]半額[はんがく]です。", "en": "Everything is half price, except for some items.", "choices": ["を除[のぞ]き", "をはじめ", "に限[かぎ]り", "に応[おう]じ"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-nukide",
+      "title": "〜抜[ぬ]きで / 〜抜[ぬ]きにして（は）",
+      "meaning": "without; leaving out; (cannot) without",
+      "structure": "Noun + 抜[ぬ]きで・抜[ぬ]きの + Noun　／　Noun + （は / を）抜[ぬ]きにして　／　Noun + を抜[ぬ]きにしては〜ない",
+      "explanation": "{抜[ぬ]く} means \"to pull out, to omit\". {X抜[ぬ]きで} means \"without X\", where X is something that would normally be included: {わさび抜[ぬ]き} (no wasabi), {朝[あさ]ご飯[はん]抜[ぬ]き} (skipping breakfast), {冗談[じょうだん]抜[ぬ]きで} (joking aside, seriously).\n\n{Xは抜[ぬ]きにして} means \"let's skip X\": {堅苦[かたくる]しい挨拶[あいさつ]は抜[ぬ]きにして} (\"let's skip the formalities\"), a phrase often heard at company parties.\n\n{Xを抜[ぬ]きにしては〜ない} means \"you can't ... without X\", stressing that X is essential.",
+      "examples": [
+        { "jp": "すみません、わさび抜[ぬ]きでお願[ねが]いします。", "en": "Excuse me, no wasabi, please." },
+        { "jp": "朝[あさ]ご飯[はん]抜[ぬ]きで仕事[しごと]に行[い]くと、昼[ひる]まで力[ちから]が出[で]ない。", "en": "If I go to work without breakfast, I have no energy until lunch." },
+        { "jp": "冗談[じょうだん]抜[ぬ]きで、本当[ほんとう]に困[こま]っているんだ。", "en": "Seriously, no joke, I'm really in trouble." },
+        { "jp": "堅苦[かたくる]しい挨拶[あいさつ]は抜[ぬ]きにして、さっそく乾杯[かんぱい]しましょう。", "en": "Let's skip the formal speeches and get straight to the toast." },
+        { "jp": "彼[かれ]の協力[きょうりょく]を抜[ぬ]きにしては、このプロジェクトの成功[せいこう]はあり得[え]なかった。", "en": "Without his help, this project could never have succeeded." }
+      ],
+      "quiz": [
+        { "q": "すみません、お寿司[すし]はわさび＿＿でお願[ねが]いします。", "en": "Excuse me, could I have the sushi without wasabi, please?", "choices": ["除[のぞ]き", "問[と]わず", "限[かぎ]り", "抜[ぬ]き"], "answer": 3 },
+        { "q": "地元[じもと]の人々[ひとびと]の協力[きょうりょく]を抜[ぬ]きにしては、＿＿。", "en": "Without the cooperation of local people, this festival couldn't happen.", "choices": ["このお祭[まつ]りは成[な]り立[た]たない", "このお祭[まつ]りは成功[せいこう]した", "お祭[まつ]りを楽[たの]しもう", "毎年[まいとし]開[ひら]かれる"], "answer": 0 }
+      ]
+    }
+  ]
+}

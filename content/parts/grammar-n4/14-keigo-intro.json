@@ -1,0 +1,323 @@
+{
+  "id": "n4-u14",
+  "title": "Introduction to honorific and humble speech",
+  "summary": "Meet the three layers of {敬語[けいご]}: special respectful verbs and {お〜になる} to raise others, special humble verbs and {お〜する} to lower yourself, and the very polite {ございます} you'll hear in shops and offices.",
+  "points": [
+    {
+      "id": "n4-keigo-overview",
+      "title": "Three kinds of polite language (敬語[けいご])",
+      "meaning": "polite, respectful and humble speech",
+      "structure": "丁寧語[ていねいご] (です・ます) / 尊敬語[そんけいご] (raise the other person) / 謙譲語[けんじょうご] (lower yourself)",
+      "explanation": "Japanese polite language, {敬語[けいご]}, has three layers:\n\n- **{丁寧語[ていねいご]}** — the {です} / {ます} style you already use. Polite toward the listener.\n- **{尊敬語[そんけいご]}** (respectful) — raises the **actions of someone you respect**: a customer, your boss, a teacher. {社長[しゃちょう]がいらっしゃいました} 'The president has arrived.'\n- **{謙譲語[けんじょうご]}** (humble) — lowers **your own actions** (or your group's) toward that person. {私[わたし]が参[まい]ります} 'I will go.'\n\nTwo golden rules: never use respectful forms for yourself, and when talking to **outsiders** (like customers), treat people from your own company as your group — even your boss. To a client you'd say {田中[たなか]は今[いま]、席[せき]を外[はず]しております}, without {さん}, in humble form.\n\nThe prefixes {お} / {ご} also make nouns polite: {お名前[なまえ]}, {お電話[でんわ]}, {ご住所[じゅうしょ]}, {ご家族[かぞく]}. Usually {お} goes with native words and {ご} with Chinese-origin words.",
+      "examples": [
+        {
+          "jp": "社長[しゃちょう]は今[いま]、会議室[かいぎしつ]にいらっしゃいます。",
+          "en": "The president is in the meeting room now. (respectful)"
+        },
+        {
+          "jp": "明日[あした]、私[わたし]がそちらに参[まい]ります。",
+          "en": "I will come to your office tomorrow. (humble)"
+        },
+        {
+          "jp": "お名前[なまえ]とご住所[じゅうしょ]をお願[ねが]いします。",
+          "en": "Your name and address, please."
+        },
+        {
+          "jp": "申[もう]し訳[わけ]ございません。田中[たなか]はただいま席[せき]を外[はず]しております。",
+          "en": "I'm very sorry. Tanaka is away from her desk at the moment. (to an outside caller)"
+        }
+      ],
+      "notes": "Don't panic: at N4 the goal is to **recognise** these forms and use a handful of set phrases. You'll hear {敬語[けいご]} constantly in shops, stations and offices in Japan, and you'll get comfortable with it bit by bit.",
+      "quiz": [
+        {
+          "q": "（お客様[きゃくさま]に）お名前[なまえ]と＿＿住所[じゅうしょ]を書[か]いてください。",
+          "en": "(To a customer) Please write your name and address.",
+          "choices": [
+            "おご",
+            "ご",
+            "ごお",
+            "お"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "（会社[かいしゃ]の外[そと]の人[ひと]に）すみません、田中[たなか]は今[いま]、会議中[かいぎちゅう]で＿＿。",
+          "en": "(To someone outside the company) I'm sorry, Tanaka is in a meeting right now.",
+          "choices": [
+            "おっしゃいます",
+            "なさいます",
+            "ございます",
+            "いらっしゃいます"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n4-sonkeigo-verbs",
+      "title": "Special respectful verbs (いらっしゃる, おっしゃる…)",
+      "meaning": "respectful verbs for other people's actions",
+      "structure": "いる / 行[い]く / 来[く]る → いらっしゃる, 言[い]う → おっしゃる, 食[た]べる / 飲[の]む → 召[め]し上[あ]がる, する → なさる, 見[み]る → ご覧[らん]になる, 知[し]っている → ご存[ぞん]じだ, くれる → くださる",
+      "explanation": "Some very common verbs have their own special respectful forms. Use them for the actions of customers, superiors, teachers and anyone you want to show respect to:\n\n- {いる}, {行[い]く}, {来[く]る} → {いらっしゃる}\n- {言[い]う} → {おっしゃる}\n- {食[た]べる}, {飲[の]む} → {召[め]し上[あ]がる}\n- {する} → {なさる}\n- {見[み]る} → {ご覧[らん]になる}\n- {知[し]っている} → {ご存[ぞん]じだ}\n- {くれる} → {くださる}\n\nWatch the {ます}-forms of {いらっしゃる}, {おっしゃる}, {なさる} and {くださる}: the {る} becomes {い}, not {り}. So {いらっしゃいます}, {おっしゃいます}, {なさいます}, {くださいます}.\n\nYou'll hear these in everyday phrases: {いらっしゃいませ} 'Welcome (to our shop)', {どうぞ召[め]し上[あ]がってください} 'Please, help yourself', {ご存[ぞん]じですか} 'Do you know?'",
+      "examples": [
+        {
+          "jp": "先生[せんせい]は明日[あした]、学校[がっこう]にいらっしゃいますか。",
+          "en": "Will the teacher be at school tomorrow?"
+        },
+        {
+          "jp": "社長[しゃちょう]がそうおっしゃいました。",
+          "en": "The president said so."
+        },
+        {
+          "jp": "どうぞ、たくさん召[め]し上[あ]がってください。",
+          "en": "Please, have as much as you like."
+        },
+        {
+          "jp": "この資料[しりょう]をご覧[らん]になりましたか。",
+          "en": "Have you seen these materials?"
+        },
+        {
+          "jp": "週末[しゅうまつ]は何[なに]をなさいますか。",
+          "en": "What will you be doing at the weekend?"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "部長[ぶちょう]、明日[あした]の会議[かいぎ]には＿＿か。",
+          "en": "Manager, will you be coming to tomorrow's meeting?",
+          "choices": [
+            "いらっしゃります",
+            "おります",
+            "いらっしゃいます",
+            "参[まい]ります"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "先生[せんせい]が「よく頑張[がんば]りましたね」と＿＿。",
+          "en": "The teacher said, 'You worked really hard.'",
+          "choices": [
+            "おっしゃいました",
+            "おっしゃりました",
+            "申[もう]しました",
+            "申[もう]し上[あ]げました"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-o-ni-naru",
+      "title": "お〜になる / お〜ください",
+      "meaning": "respectful form of ordinary verbs / please do ~ (respectful)",
+      "structure": "お + V-ます stem + になる / お + V-ます stem + ください (ご + する-noun + になる / ください)",
+      "explanation": "Verbs without a special respectful form can be made respectful with {お + ます-stem + になる}: {待[ま]つ} → {お待[ま]ちになる}, {帰[かえ]る} → {お帰[かえ]りになる}, {書[か]く} → {お書[か]きになる}. For {する}-verbs with Chinese-origin nouns, use {ご}: {ご利用[りよう]になる}.\n\n{社長[しゃちょう]はもうお帰[かえ]りになりました} 'The president has already gone home.'\n\nThe request version, {お + stem + ください}, is everywhere in Japan — on signs, in shops, in station announcements:\n\n- {少々[しょうしょう]お待[ま]ちください} 'Please wait a moment.'\n- {お入[はい]りください} 'Please come in.'\n- {ご利用[りよう]ください} 'Please use (this service).'\n\nThis pattern doesn't work for verbs with very short stems like {見[み]る} or {いる}; those use the special verbs from the previous point.",
+      "examples": [
+        {
+          "jp": "社長[しゃちょう]はもうお帰[かえ]りになりました。",
+          "en": "The president has already gone home."
+        },
+        {
+          "jp": "先生[せんせい]は何時[なんじ]ごろお戻[もど]りになりますか。",
+          "en": "Around what time will the professor be back?"
+        },
+        {
+          "jp": "少々[しょうしょう]お待[ま]ちください。",
+          "en": "Please wait a moment."
+        },
+        {
+          "jp": "どうぞ、こちらにお座[すわ]りください。",
+          "en": "Please, have a seat here."
+        },
+        {
+          "jp": "エレベーターをご利用[りよう]ください。",
+          "en": "Please use the elevator."
+        }
+      ],
+      "notes": "There's also a lighter respectful form that looks like the passive: {先生[せんせい]が来[こ]られる}, {部長[ぶちょう]が書[か]かれた}. It's common in business, but {お〜になる} sounds more respectful.",
+      "quiz": [
+        {
+          "q": "部長[ぶちょう]はこの本[ほん]をもうお読[よ]み＿＿か。",
+          "en": "Has the manager already read this book?",
+          "choices": [
+            "になりました",
+            "ください",
+            "なりました",
+            "しました"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "お客様[きゃくさま]、こちらで少々[しょうしょう]＿＿ください。",
+          "en": "(To a customer) Please wait here a moment.",
+          "choices": [
+            "お待[ま]つ",
+            "お待[ま]ち",
+            "ご待[ま]ち",
+            "お待[ま]って"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n4-kenjougo-verbs",
+      "title": "Special humble verbs (参[まい]る, 申[もう]す…)",
+      "meaning": "humble verbs for your own actions",
+      "structure": "行[い]く / 来[く]る → 参[まい]る, いる → おる, 言[い]う → 申[もう]す, する → いたす, 食[た]べる / もらう → いただく, 見[み]る → 拝見[はいけん]する, 訪[たず]ねる / 聞[き]く → 伺[うかが]う, 知[し]っている → 存[ぞん]じている",
+      "explanation": "Humble verbs lower **your own** actions (or your group's) to show respect to the listener. The most useful ones:\n\n- {行[い]く}, {来[く]る} → {参[まい]る}\n- {いる} → {おる}; so {〜ている} → {〜ております}\n- {言[い]う} → {申[もう]す}: {ジョンと申[もう]します} 'My name is John'\n- {する} → {いたす}\n- {食[た]べる}, {飲[の]む}, {もらう} → {いただく}\n- {見[み]る} → {拝見[はいけん]する}\n- {訪[たず]ねる} (visit), {聞[き]く} (ask) → {伺[うかが]う}\n- {知[し]っている} → {存[ぞん]じている}\n- {あげる} → {さしあげる}\n\nIn practice, {〜と申[もう]します} and {〜ております} are the ones you'll use from day one: in self-introductions, on the phone, and in work emails.\n\nNever use these for the other person's actions. {先生[せんせい]が参[まい]りました} would be a mistake; the teacher {いらっしゃいました}.",
+      "examples": [
+        {
+          "jp": "はじめまして。ジョンと申[もう]します。",
+          "en": "How do you do. My name is John."
+        },
+        {
+          "jp": "明日[あした]の十時[じゅうじ]にそちらへ参[まい]ります。",
+          "en": "I will come to your office at ten tomorrow."
+        },
+        {
+          "jp": "父[ちち]は今[いま]、大阪[おおさか]に住[す]んでおります。",
+          "en": "My father currently lives in Osaka."
+        },
+        {
+          "jp": "資料[しりょう]を拝見[はいけん]しました。",
+          "en": "I have looked at the materials."
+        },
+        {
+          "jp": "ちょっと伺[うかが]いたいことがあるんですが。",
+          "en": "There's something I'd like to ask you."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "はじめまして。マリア＿＿。よろしくお願[ねが]いいたします。",
+          "en": "How do you do. My name is Maria. I look forward to working with you.",
+          "choices": [
+            "と参[まい]ります",
+            "とおります",
+            "とおっしゃいます",
+            "と申[もう]します"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "（お客様[きゃくさま]に）後[あと]で私[わたし]がお宅[たく]に＿＿。",
+          "en": "(To a customer) I will visit your home later.",
+          "choices": [
+            "伺[うかが]います",
+            "召[め]し上[あ]がります",
+            "お越[こ]しになります",
+            "いらっしゃいます"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-o-suru",
+      "title": "お〜する / ご〜する",
+      "meaning": "humbly do (for you)",
+      "structure": "お + V-ます stem + する (いたす) / ご + する-noun + する (いたす)",
+      "explanation": "For ordinary verbs, make a humble form with {お + ます-stem + する}: {持[も]つ} → {お持[も]ちする}, {送[おく]る} → {お送[おく]りする}, {待[ま]つ} → {お待[ま]ちする}. With Chinese-origin {する}-nouns, use {ご}: {ご説明[せつめい]する}, {ご連絡[れんらく]する}, {ご案内[あんない]する}. Replace {する} with {いたす} to be even more humble: {ご連絡[れんらく]いたします}.\n\nThis form is for actions you do **for** or **toward** the other person: carrying their bag, sending them something, contacting them. {お荷物[にもつ]をお持[も]ちします} 'I'll carry your luggage.' It doesn't work for actions that have nothing to do with the listener — you can't 'humbly eat' with {お食[た]べする}.\n\nDon't confuse it with {お〜になる}: {お持[も]ちになる} = 'you (respected person) carry', {お持[も]ちする} = 'I carry (for you)'.",
+      "examples": [
+        {
+          "jp": "お荷物[にもつ]をお持[も]ちします。",
+          "en": "Let me carry your luggage."
+        },
+        {
+          "jp": "後[あと]でこちらからお電話[でんわ]します。",
+          "en": "We'll call you later."
+        },
+        {
+          "jp": "明日[あした]、資料[しりょう]をお送[おく]りします。",
+          "en": "I'll send you the materials tomorrow."
+        },
+        {
+          "jp": "新[あたら]しい計画[けいかく]についてご説明[せつめい]します。",
+          "en": "Let me explain the new plan."
+        },
+        {
+          "jp": "結果[けっか]が分[わ]かりましたら、すぐにご連絡[れんらく]いたします。",
+          "en": "As soon as we know the results, we will contact you."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "先生[せんせい]、そのかばん、私[わたし]がお＿＿。",
+          "en": "Professor, I'll carry that bag for you.",
+          "choices": [
+            "持[も]ちください",
+            "持[も]ちします",
+            "持[も]ってします",
+            "持[も]ちになります"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "会議[かいぎ]の時間[じかん]が決[き]まったら、すぐにご＿＿します。",
+          "en": "As soon as the meeting time is decided, I'll let you know.",
+          "choices": [
+            "連絡[れんらく]",
+            "連絡[れんらく]して",
+            "連絡[れんらく]に",
+            "連絡[れんらく]し"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-gozaimasu",
+      "title": "ございます / でございます",
+      "meaning": "very polite 'there is / have' and 'is'",
+      "structure": "あります → ございます / です → でございます",
+      "explanation": "{ございます} is the very polite version of {あります}, and {でございます} is the very polite version of {です}. You'll hear them from shop staff, hotel staff, and in announcements:\n\n- {お手洗[てあら]いは二階[にかい]にございます} 'The restroom is on the second floor.'\n- {こちらが本日[ほんじつ]のメニューでございます} 'This is today's menu.'\n\nYou've already been using it without noticing: {おはようございます} and {ありがとうございます} come from adjective + {ございます}.\n\nOther set phrases worth knowing for life in Japan:\n\n- {かしこまりました} 'Certainly / Understood' (staff to customer)\n- {申[もう]し訳[わけ]ございません} 'I'm terribly sorry'\n- {少々[しょうしょう]お待[ま]ちください} 'One moment, please'\n\nNote: {ございます} is about things and situations. For people, use {いらっしゃいます} (others) or {おります} (yourself).",
+      "examples": [
+        {
+          "jp": "お手洗[てあら]いは二階[にかい]にございます。",
+          "en": "The restroom is on the second floor."
+        },
+        {
+          "jp": "こちらが本日[ほんじつ]のメニューでございます。",
+          "en": "This is today's menu."
+        },
+        {
+          "jp": "申[もう]し訳[わけ]ございません。その商品[しょうひん]は今[いま]、ございません。",
+          "en": "I'm terribly sorry. We don't have that item at the moment."
+        },
+        {
+          "jp": "A：これをください。 B：かしこまりました。少々[しょうしょう]お待[ま]ちください。",
+          "en": "A: I'll take this, please. B: Certainly. One moment, please."
+        },
+        {
+          "jp": "何[なに]かご質問[しつもん]はございますか。",
+          "en": "Do you have any questions?"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "（店員[てんいん]が）エレベーターはあちらに＿＿。",
+          "en": "(A shop clerk) The elevator is over there.",
+          "choices": [
+            "おります",
+            "でございます",
+            "ございます",
+            "いらっしゃいます"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "お客様[きゃくさま]、こちらが新[あたら]しいカタログ＿＿。",
+          "en": "Here is our new catalogue, sir.",
+          "choices": [
+            "でございます",
+            "がございます",
+            "でおります",
+            "にございます"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

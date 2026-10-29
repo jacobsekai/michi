@@ -4,6 +4,8 @@
 Usage: python3 -I tools/build_data.py <downloads-dir> <michi-dir>
   <downloads-dir>/vocab/n1..n5.csv   jamsinclair/open-anki-jlpt-decks (MIT; Tanos JLPT lists, CC BY)
   <downloads-dir>/kanji/kanji.json   davidluzgouveia/kanji-data (MIT; KANJIDIC, CC BY-SA 4.0)
+  <downloads-dir>/pitch/accents.txt   kanjium pitch accents (CC BY-SA 4.0)
+Run tools/build_sentences.py afterwards: it adds example sentences and orders each level by frequency.
 """
 import csv
 import json
@@ -45,6 +47,15 @@ def clean_meaning(m):
     return re.sub(r'\s+', ' ', m).strip(' -')
 
 
+# Pitch accent (kanjium, CC BY-SA 4.0): downstep mora number, first variant.
+pitch = {}
+with open(src / 'pitch' / 'accents.txt', encoding='utf-8') as f:
+    for line in f:
+        parts = line.rstrip('\n').split('\t')
+        if len(parts) == 3 and parts[2].split(',')[0].isdigit():
+            pitch.setdefault((parts[0], parts[1]), int(parts[2].split(',')[0]))
+hira = lambda s: ''.join(chr(ord(c) - 0x60) if 'ァ' <= c <= 'ヶ' else c for c in s)
+
 seen = set()
 counts = {}
 for n in [5, 4, 3, 2, 1]:
@@ -57,9 +68,10 @@ for n in [5, 4, 3, 2, 1]:
                 continue
             seen.add(key)
             alts = [a.strip() for a in r['expression'].split(';')[1:] if a.strip()]
-            entry = [expr, reading, clean_meaning(r['meaning'])]
-            if alts:
-                entry.append(alts)
+            p = pitch.get((expr, hira(reading)), pitch.get((hira(reading), hira(reading))))
+            entry = [expr, reading, clean_meaning(r['meaning']), alts or None, p]
+            while entry[-1] is None:
+                entry.pop()
             words.append(entry)
     counts[f'N{n}'] = len(words)
     (out / f'vocab-n{n}.json').write_text(json.dumps(words, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')

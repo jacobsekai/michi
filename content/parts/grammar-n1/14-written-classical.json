@@ -1,0 +1,369 @@
+{
+  "id": "n1-u14",
+  "title": "Formal written style and classical remnants",
+  "summary": "The building blocks of serious written Japanese: the {である} style, classical negatives ({ず}, {ぬ}, {ざる}), {べし}, {ごとし}, {まい} and {んとする} — forms you'll meet every day in newspapers, essays, proverbs and literature.",
+  "points": [
+    {
+      "id": "n1-de-aru",
+      "title": "である調[ちょう]",
+      "meaning": "the formal written plain style (is / am / are)",
+      "structure": "Noun / な-adj + である・であった・であろう・ではない・ではなかろうか / Verb・い-adj + のである・であろう",
+      "explanation": "Japanese has two plain styles. {だ} is used in casual speech and diaries; {である} is the plain style of **serious writing**: academic papers, newspaper editorials, essays, reports, legal texts and much literature.\n\nKey forms:\n- {〜である} / {〜であった} — is / was\n- {〜であろう} — probably is (written {だろう}); also after verbs: {続[つづ]くであろう}\n- {〜ではなかろうか} — isn't it perhaps... (a soft written claim)\n- {〜のである} — explanatory (written {〜のだ}); very common\n- {〜であり、〜} — connective 'is X, and'\n\nNote: {である} does not attach directly to verbs or i-adjectives ({✕高[たか]いである}); use {高[たか]いのである}.\n\n**Register:** essential for reading anything serious, and for writing reports or theses in Japan. It sounds stiff in conversation, except in speeches ({〜でありまして}).",
+      "examples": [
+        {
+          "jp": "吾輩[わがはい]は猫[ねこ]である。名前[なまえ]はまだ無[な]い。",
+          "en": "I am a cat. As yet I have no name. (Natsume Sōseki)"
+        },
+        {
+          "jp": "日本[にほん]は世界[せかい]有数[ゆうすう]の長寿国[ちょうじゅこく]である。",
+          "en": "Japan is one of the countries with the longest life expectancy in the world."
+        },
+        {
+          "jp": "本研究[ほんけんきゅう]の目的[もくてき]は、若者[わかもの]の消費[しょうひ]行動[こうどう]を明[あき]らかにすることである。",
+          "en": "The aim of this study is to clarify the consumer behaviour of young people."
+        },
+        {
+          "jp": "この問題[もんだい]の解決[かいけつ]は容易[ようい]ではないであろう。",
+          "en": "Solving this problem will probably not be easy."
+        },
+        {
+          "jp": "教育[きょういく]こそが、国[くに]の未来[みらい]を左右[さゆう]する鍵[かぎ]ではなかろうか。",
+          "en": "Is it not education, above all, that holds the key to the nation's future?"
+        }
+      ],
+      "notes": "Don't mix styles: a text in {である} style shouldn't suddenly switch to {です／ます} or {だ}. When writing reports in Japan, choose one style and stick to it.",
+      "quiz": [
+        {
+          "q": "健康[けんこう]は何[なに]ものにも代[か]えがたい財産[ざいさん]＿＿。",
+          "en": "Health is an asset that nothing can replace.",
+          "choices": [
+            "であれ",
+            "である",
+            "でありて",
+            "であって"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "この傾向[けいこう]は今後[こんご]も続[つづ]く＿＿。",
+          "en": "This trend will probably continue in the future.",
+          "choices": [
+            "である",
+            "だろうである",
+            "であろう",
+            "であれ"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-zu",
+      "title": "〜ず／〜ずに (written negative)",
+      "meaning": "not; without (doing)",
+      "structure": "Verb ない-stem + ず / ずに / ず、 (する → せず, 来[く]る → 来[こ]ず)",
+      "explanation": "{ず} is the classical negative, still alive in modern Japanese:\n\n- **{〜ずに}** — 'without doing' = {〜ないで}. Common in both writing and speech: {何[なに]も言[い]わずに出[で]て行[い]った}.\n- **{〜ず、}** — 'not X, and...' as a connector in writing = {〜なくて}: {原因[げんいん]は分[わ]からず、調査[ちょうさ]が続[つづ]いている}.\n- **Sentence-final {ず}** — in **news headlines**: {首相[しゅしょう]、会見[かいけん]に応[おう]じず} 'PM refuses press conference'.\n- **Fixed phrases**: {知[し]らず知[し]らず} (without realising), {相変[あいか]わらず} (as usual), {思[おも]わず} (involuntarily), {少[すく]なからず} (not a little).\n\nRemember: {する} → {せず}, not {✕しず}.\n\n**Register:** {〜ずに} and the fixed phrases are everyday Japanese; the others are written.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は何[なに]も言[い]わずに部屋[へや]を出[で]て行[い]った。",
+          "en": "He left the room without saying anything."
+        },
+        {
+          "jp": "知[し]らず知[し]らずのうちに、日本語[にほんご]で考[かんが]えるようになっていた。",
+          "en": "Before I knew it, I had started thinking in Japanese."
+        },
+        {
+          "jp": "原因[げんいん]は今[いま]も分[わ]からず、調査[ちょうさ]が続[つづ]いている。",
+          "en": "The cause is still unknown, and the investigation continues."
+        },
+        {
+          "jp": "首相[しゅしょう]、記者[きしゃ]会見[かいけん]に応[おう]じず",
+          "en": "(Headline) PM declines to hold press conference"
+        },
+        {
+          "jp": "雨[あめ]にも負[ま]けず、風[かぜ]にも負[ま]けず。",
+          "en": "Not losing to the rain, not losing to the wind. (Miyazawa Kenji)"
+        }
+      ],
+      "notes": "Many N1 patterns are built on {ず}: {ずじまい}, {ずにはおかない}, {ずにはすまない}, {ずとも} 'even without'.",
+      "quiz": [
+        {
+          "q": "彼[かれ]は朝[あさ]ご飯[はん]も食[た]べ＿＿、急[いそ]いで家[いえ]を出[で]た。",
+          "en": "He rushed out of the house without even eating breakfast.",
+          "choices": [
+            "ずに",
+            "ぬに",
+            "まいに",
+            "ざるに"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "彼女[かのじょ]は誰[だれ]にも相談[そうだん]＿＿、留学[りゅうがく]を決[き]めた。",
+          "en": "She decided to study abroad without consulting anyone.",
+          "choices": [
+            "しず",
+            "さず",
+            "すず",
+            "せず"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-nu-zaru",
+      "title": "〜ぬ／〜ざる (classical negatives before nouns)",
+      "meaning": "not (in fixed phrases and noun modifiers)",
+      "structure": "Verb ない-stem + ぬ (+ Noun) / Verb ない-stem + ざる + Noun / ざるを得[え]ない (する → せぬ／せざる)",
+      "explanation": "Two more classical negatives survive mainly in fixed expressions:\n\n**{ぬ}** — a negative that can end a sentence or modify a noun. Found in set phrases: {見知[みし]らぬ人[ひと]} (a stranger), {思[おも]わぬ} (unexpected), {言[い]わぬが花[はな]} (some things are better left unsaid), {せぬ} (written 'does not'). In speech, its descendant {ん} lives on in {すみません}, {知[し]らん} (Kansai/older men), {分[わ]からん}.\n\n**{ざる}** — used only before nouns: {知[し]られざる} 'little-known', {見[み]えざる} 'invisible', {欠[か]くべからざる}. Also the very common N2 pattern {〜ざるを得[え]ない} 'have no choice but to'.\n\n**Register:** literary, but many set phrases are everyday Japanese. {知[し]られざる} is a favourite in documentary and book titles.",
+      "examples": [
+        {
+          "jp": "見知[みし]らぬ人[ひと]から突然[とつぜん]声[こえ]をかけられた。",
+          "en": "A stranger suddenly spoke to me."
+        },
+        {
+          "jp": "思[おも]わぬところで、昔[むかし]の恩師[おんし]に再会[さいかい]した。",
+          "en": "I ran into my old teacher in the most unexpected place."
+        },
+        {
+          "jp": "知[し]られざる歴史[れきし]の真実[しんじつ]に迫[せま]るドキュメンタリーだ。",
+          "en": "It's a documentary that explores little-known historical truths."
+        },
+        {
+          "jp": "経営[けいえい]が悪化[あっか]し、人員[じんいん]削減[さくげん]に踏[ふ]み切[き]らざるを得[え]なかった。",
+          "en": "As the business deteriorated, we had no choice but to cut staff."
+        }
+      ],
+      "notes": "Don't confuse classical negative {ぬ} with the completion {ぬ} in old poetry ({風[かぜ]立[た]ちぬ} 'the wind has risen'). Context and grammar differ, and the second is rare outside literature and titles.",
+      "quiz": [
+        {
+          "q": "＿＿人[ひと]について行[い]ってはいけないよ。",
+          "en": "You mustn't go off with strangers.",
+          "choices": [
+            "見知[みし]らず",
+            "見知[みし]らぬ",
+            "見知[みし]らざり",
+            "見知[みし]らまい"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "会社[かいしゃ]の方針[ほうしん]なので、従[したが]わ＿＿を得[え]ない。",
+          "en": "It's company policy, so I have no choice but to follow it.",
+          "choices": [
+            "ぬ",
+            "ず",
+            "ざる",
+            "ない"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-beshi",
+      "title": "〜べし／〜べき",
+      "meaning": "must; should; (べき + noun) that ought to / remarkable",
+      "structure": "Verb (dictionary form) + べし (sentence end) / べき + Noun (する → すべし／すべき)",
+      "explanation": "{べし} is the classical 'should / must'. Its forms are spread across modern Japanese:\n\n- **{べし}** (sentence end) — a strong command or rule, in old-style regulations, mottos and slogans: {期限[きげん]までに提出[ていしゅつ]すべし}. Online, {〜恐[おそ]るべし} is used jokingly: 'X is formidable!'.\n- **{べき}** (before nouns) — 'that should be': {驚[おどろ]くべきこと} 'an astonishing thing', {恐[おそ]るべき速[はや]さ} 'terrifying speed'. (You know {〜べきだ} from N2.)\n- **{べく}** — 'in order to' (Unit 11).\n- **{べからず}** — 'must not' (Unit 13).\n\n**Register:** {べし} is classical and emphatic; {べき} is everyday written Japanese.",
+      "examples": [
+        {
+          "jp": "書類[しょるい]は期限[きげん]までに提出[ていしゅつ]すべし。",
+          "en": "Documents must be submitted by the deadline."
+        },
+        {
+          "jp": "運動[うんどう]の前[まえ]には、必[かなら]ず準備[じゅんび]運動[うんどう]をすべし。",
+          "en": "Always warm up before exercising."
+        },
+        {
+          "jp": "驚[おどろ]くべきことに、彼[かれ]はたった一年[いちねん]で日本語[にほんご]を習得[しゅうとく]した。",
+          "en": "Astonishingly, he mastered Japanese in just one year."
+        },
+        {
+          "jp": "恐[おそ]るべき速[はや]さで、ウイルスは世界中[せかいじゅう]に広[ひろ]がった。",
+          "en": "The virus spread around the world at a frightening speed."
+        }
+      ],
+      "notes": "{恐[おそ]る} is the classical form of {恐[おそ]れる}; it survives in {恐[おそ]るべき} and {恐[おそ]るべし}.",
+      "quiz": [
+        {
+          "q": "集合[しゅうごう]時間[じかん]は厳守[げんしゅ]す＿＿。",
+          "en": "The meeting time must be strictly observed.",
+          "choices": [
+            "べからざる",
+            "べく",
+            "べし",
+            "まじき"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "驚[おどろ]く＿＿ことに、その小説[しょうせつ]を書[か]いたのは十二歳[じゅうにさい]の少女[しょうじょ]だった。",
+          "en": "Astonishingly, the novel was written by a twelve-year-old girl.",
+          "choices": [
+            "べき",
+            "べし",
+            "べく",
+            "べからず"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-gotoshi",
+      "title": "〜ごとし／〜ごとく／〜ごとき",
+      "meaning": "like; as; as if",
+      "structure": "Noun + の + ごとし / ごとく (+ Verb) / ごとき (+ Noun); Verb + (が)ごとし",
+      "explanation": "{ごとし} is the classical equivalent of {ようだ} 'like, as if'. It conjugates just like {ようだ}:\n\n- {〜のごとし} = {〜のようだ} (sentence end)\n- {〜のごとく} = {〜のように} (+ verb or adjective)\n- {〜のごとき} = {〜のような} (+ noun)\n\nYou'll meet it in proverbs ({光陰[こういん]矢[や]のごとし} 'time flies like an arrow'), literature, formal writing ({前述[ぜんじゅつ]のごとく} 'as stated above') and speeches.\n\n**Register:** literary/classical. In modern writing, {〜のごとく} and {〜かのごとく} ('as if') are fairly common; {ごとし} at the end of a sentence is mostly in proverbs. (For {私[わたし]ごとき} 'the likes of me', see Unit 7.)",
+      "examples": [
+        {
+          "jp": "光陰[こういん]矢[や]のごとし。",
+          "en": "Time flies like an arrow."
+        },
+        {
+          "jp": "過[す]ぎたるはなお及[およ]ばざるがごとし。",
+          "en": "Too much is as bad as too little."
+        },
+        {
+          "jp": "前述[ぜんじゅつ]のごとく、この計画[けいかく]には多[おお]くの問題[もんだい]がある。",
+          "en": "As stated above, this plan has many problems."
+        },
+        {
+          "jp": "彼[かれ]は水[みず]を得[え]た魚[さかな]のごとく、生[い]き生[い]きと働[はたら]き始[はじ]めた。",
+          "en": "Like a fish back in water, he began working with real energy."
+        },
+        {
+          "jp": "彼女[かのじょ]は何事[なにごと]もなかったかのごとく、笑顔[えがお]で現[あらわ]れた。",
+          "en": "She appeared with a smile, as if nothing had happened."
+        }
+      ],
+      "notes": "Match the form to what follows: noun → {ごとき}, verb/adjective → {ごとく}, end of sentence → {ごとし}.",
+      "quiz": [
+        {
+          "q": "彼[かれ]は風[かぜ]の＿＿速[はや]さで走[はし]り去[さ]った。",
+          "en": "He ran off with the speed of the wind.",
+          "choices": [
+            "ごとく",
+            "ごとし",
+            "ごとき",
+            "ごとくに"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "歳月[さいげつ]は矢[や]の＿＿過[す]ぎ去[さ]っていった。",
+          "en": "The years flew by like an arrow.",
+          "choices": [
+            "ごとく",
+            "ごとき",
+            "ごとし",
+            "ごとけれ"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-mai",
+      "title": "〜まい",
+      "meaning": "(1) will not (firm resolution); (2) probably not",
+      "structure": "Verb (dictionary form) + まい (Group 2: ない-stem + まい also OK; する → するまい／すまい; 来[く]る → 来[く]るまい／来[こ]まい)",
+      "explanation": "{まい} is the negative counterpart of the volitional {〜よう}. It has two meanings:\n\n**1. Negative resolution (first person):** 'I will never...' — {あんな店[みせ]には二度[にど]と行[い]くまい} 'I'll never go to that shop again'. Often with {二度[にど]と} or {決[けっ]して}.\n\n**2. Negative guess:** 'probably not' = {〜ないだろう}. {嘘[うそ]ではあるまい} 'it's probably not a lie'. The phrase {〜のではあるまいか} 'might it not be that...' is a common soft claim in essays.\n\n**Register:** written and somewhat literary; meaning 1 also appears in determined speech or inner monologue. You already know it from {〜ようが〜まいが} (Unit 13) and {〜ではあるまいし}.",
+      "examples": [
+        {
+          "jp": "あんな店[みせ]には二度[にど]と行[い]くまい。",
+          "en": "I'll never go to that shop again."
+        },
+        {
+          "jp": "彼[かれ]の言[い]うことだから、嘘[うそ]ではあるまい。",
+          "en": "Coming from him, it's probably not a lie."
+        },
+        {
+          "jp": "この雨[あめ]では、明日[あした]の試合[しあい]は行[おこな]われまい。",
+          "en": "With this rain, tomorrow's match probably won't go ahead."
+        },
+        {
+          "jp": "少子化[しょうしか]の本当[ほんとう]の原因[げんいん]は、経済的[けいざいてき]な不安[ふあん]にあるのではあるまいか。",
+          "en": "Might the real cause of the falling birth rate not lie in economic insecurity?"
+        }
+      ],
+      "notes": "In conversation, use {〜ないつもりだ／絶対[ぜったい]〜ない} for meaning 1 and {〜ないだろう} for meaning 2.",
+      "quiz": [
+        {
+          "q": "もう二度[にど]と同[おな]じ失敗[しっぱい]はする＿＿と心[こころ]に決[き]めた。",
+          "en": "I made up my mind never to make the same mistake again.",
+          "choices": [
+            "まじき",
+            "まい",
+            "ず",
+            "ぬ"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "彼[かれ]ほどの実力者[じつりょくしゃ]なら、この程度[ていど]の試験[しけん]に落[お]ちることはある＿＿。",
+          "en": "Someone as capable as him is unlikely to fail an exam at this level.",
+          "choices": [
+            "ぬ",
+            "ず",
+            "ざる",
+            "まい"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-n-to-suru",
+      "title": "〜んとする",
+      "meaning": "to be about to; to try to; to intend to",
+      "structure": "Verb ない-stem + んとする (する → せんとする)",
+      "explanation": "{〜んとする} is the classical version of {〜ようとする}: 'to be on the point of X' or 'to try / intend to X'. The {ん} is the old volitional — the same one in {んがため} and {んばかり}.\n\nTypical uses: {日[ひ]が沈[しず]まんとする頃[ころ]} 'just as the sun was about to set', {新[あたら]しい時代[じだい]が始[はじ]まらんとしている} 'a new era is about to begin'.\n\nOne very common expression even in everyday Japanese: {言[い]わんとすること} 'what (someone) is trying to say' — {彼[かれ]の言[い]わんとすることは分[わ]かる} 'I see what he's getting at'. It's also a classic exam question: {筆者[ひっしゃ]の言[い]わんとすることは何[なに]か} 'What is the author trying to say?'\n\n**Register:** literary, except for {言[い]わんとすること}.",
+      "examples": [
+        {
+          "jp": "彼[かれ]が何[なに]を言[い]わんとしているのか、私[わたし]には分[わ]からなかった。",
+          "en": "I couldn't tell what he was trying to say."
+        },
+        {
+          "jp": "日[ひ]が沈[しず]まんとする頃[ころ]、ようやく山頂[さんちょう]にたどり着[つ]いた。",
+          "en": "Just as the sun was about to set, we finally reached the summit."
+        },
+        {
+          "jp": "今[いま]まさに新[あたら]しい時代[じだい]が始[はじ]まらんとしている。",
+          "en": "A new era is about to begin at this very moment."
+        },
+        {
+          "jp": "作者[さくしゃ]がこの作品[さくひん]で伝[つた]えんとしたのは、平和[へいわ]の尊[とうと]さである。",
+          "en": "What the author sought to convey in this work is the preciousness of peace."
+        }
+      ],
+      "notes": "{ん} + {がため} (purpose), {ん} + {ばかり} (almost), {ん} + {とする} (about to) — once you recognise this {ん}, all three become easier.",
+      "quiz": [
+        {
+          "q": "筆者[ひっしゃ]がこの文章[ぶんしょう]で言[い]わ＿＿ことは何[なに]か。",
+          "en": "What is the author trying to say in this passage?",
+          "choices": [
+            "んとする",
+            "んばかりの",
+            "んがための",
+            "ずじまいの"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "長[なが]い冬[ふゆ]が終[お]わり、まさに春[はる]が訪[おとず]れ＿＿としていた。",
+          "en": "The long winter was over, and spring was just about to arrive.",
+          "choices": [
+            "ず",
+            "ぬ",
+            "まい",
+            "ん"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

@@ -202,11 +202,13 @@ const R2K = [...K2R.entries()].map(([k, r]) => [r, k]);
 R2K.unshift(['si', 'し'], ['ti', 'ち'], ['tu', 'つ'], ['hu', 'ふ'], ['zi', 'じ'], ['di', 'ぢ'], ['du', 'づ'], ['jya', 'じゃ'], ['jyu', 'じゅ'], ['jyo', 'じょ'], ['sya', 'しゃ'], ['syu', 'しゅ'], ['syo', 'しょ'], ['tya', 'ちゃ'], ['tyu', 'ちゅ'], ['tyo', 'ちょ'], ["n'", 'ん'], ['-', 'ー'], ['wo', 'を']);
 R2K.sort((a, b) => b[0].length - a[0].length);
 
-export function toKana(input) {
+// ime: leave an unfinished syllable ("k", "ky", a final "n") as latin so typing can continue.
+export function toKana(input, { ime = false } = {}) {
   let s = String(input).toLowerCase();
   let out = '';
   while (s) {
     if (s.length > 1 && s[0] === s[1] && /[bcdfghjkmpqrstvwxz]/.test(s[0])) { out += 'っ'; s = s.slice(1); continue; }
+    if (ime && /^[a-z']+$/.test(s) && R2K.some(([r]) => r.length > s.length && r.startsWith(s))) { out += s; break; }
     const hit = R2K.find(([r]) => s.startsWith(r));
     if (hit) { out += hit[1]; s = s.slice(hit[0].length); continue; }
     if (s[0] === 'n') { out += 'ん'; s = s.slice(1); continue; }

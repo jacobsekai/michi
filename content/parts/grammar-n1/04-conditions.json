@@ -1,0 +1,407 @@
+{
+  "id": "n1-u04",
+  "title": "Only with X — and without X",
+  "summary": "Expressing what something depends on: prerequisites ({あっての}, {なくしては}, {ことなしに}), 'nobody but X' ({をおいて}), 'depending on / regardless of' ({いかん}) and 'if it's for X' ({とあれば}).",
+  "points": [
+    {
+      "id": "n1-atte-no",
+      "title": "〜あっての",
+      "meaning": "Y exists only because of X; Y is unthinkable without X",
+      "structure": "Noun₁ + あっての + Noun₂",
+      "explanation": "{X あっての Y} means 'Y is possible only because X exists'. It stresses that X is the essential foundation of Y, and often carries a sense of gratitude or a reminder of priorities.\n\nThe classic example is the business motto {お客様[きゃくさま]あっての商売[しょうばい]} — 'a business only exists thanks to its customers'. You'll also hear {〜あってのことです} in speeches when thanking people: 'this was only possible thanks to ...'.\n\n**Register:** formal but genuinely used — in business, speeches, interviews and sports comments. Not difficult once you notice it.",
+      "examples": [
+        {
+          "jp": "健康[けんこう]あっての人生[じんせい]だ。無理[むり]はしないほうがいい。",
+          "en": "Without your health you have nothing. Don't overdo it."
+        },
+        {
+          "jp": "お客様[きゃくさま]あっての商売[しょうばい]だから、サービスには手[て]を抜[ぬ]けない。",
+          "en": "A business depends on its customers, so we can't cut corners on service."
+        },
+        {
+          "jp": "ファンの皆様[みなさま]の応援[おうえん]あっての優勝[ゆうしょう]でした。",
+          "en": "We could only have won the championship with the support of our fans."
+        },
+        {
+          "jp": "今日[きょう]の私[わたし]があるのは、恩師[おんし]の指導[しどう]あってのことです。",
+          "en": "I owe who I am today entirely to my teacher's guidance."
+        }
+      ],
+      "notes": "Close in meaning to {〜があってこそ}. Note the structure: {あっての} links two nouns, so the second noun (or {こと}) must follow.",
+      "quiz": [
+        {
+          "q": "選手[せんしゅ]＿＿チームだ。一人[ひとり]ひとりを大切[たいせつ]にしなければならない。",
+          "en": "A team is nothing without its players. We must value each one of them.",
+          "choices": [
+            "なりの",
+            "あっての",
+            "ならではの",
+            "ごときの"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "社員[しゃいん]の努力[どりょく]＿＿今回[こんかい]の成功[せいこう]です。",
+          "en": "This success was only possible thanks to our employees' hard work.",
+          "choices": [
+            "ならでは",
+            "をおいて",
+            "なりに",
+            "あっての"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-nakushite-wa",
+      "title": "〜なくして(は)",
+      "meaning": "without X, (Y is impossible)",
+      "structure": "Noun + なくして(は) + negative / impossible",
+      "explanation": "{〜なくして(は)} means 'without X', and the second half says something cannot happen or exist: {努力[どりょく]なくして成功[せいこう]はない} 'there is no success without effort'. It is the mirror image of {あっての}.\n\nThe noun is usually something abstract and important: support, understanding, effort, love, trust. Adding {は} strengthens the condition.\n\n**Register:** formal and written — speeches, mission statements, editorials. The fixed phrase {涙[なみだ]なくしては語[かた]れない} 'impossible to tell without tears' is common in TV and book blurbs. In conversation, {〜がなければ} is the normal way to say this.",
+      "examples": [
+        {
+          "jp": "努力[どりょく]なくして成功[せいこう]はありえない。",
+          "en": "There can be no success without effort."
+        },
+        {
+          "jp": "国民[こくみん]の理解[りかい]なくして、増税[ぞうぜい]は進[すす]められない。",
+          "en": "A tax increase cannot go ahead without the public's understanding."
+        },
+        {
+          "jp": "皆様[みなさま]のご協力[きょうりょく]なくしては、このプロジェクトは実現[じつげん]できませんでした。",
+          "en": "This project could never have happened without your cooperation."
+        },
+        {
+          "jp": "愛[あい]なくして何[なに]の人生[じんせい]か。",
+          "en": "What is life without love?"
+        }
+      ],
+      "notes": "{〜なしには} (later in this unit) is very similar and slightly less stiff. Both need a negative or 'impossible' meaning in the second half.",
+      "quiz": [
+        {
+          "q": "地域[ちいき]住民[じゅうみん]の協力[きょうりょく]＿＿、この祭[まつ]りを続[つづ]けることはできない。",
+          "en": "Without the cooperation of local residents, we could not keep this festival going.",
+          "choices": [
+            "なくしては",
+            "あっての",
+            "ならでは",
+            "にして"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "涙[なみだ]＿＿語[かた]れない感動的[かんどうてき]な物語[ものがたり]だ。",
+          "en": "It's a moving story that no one can tell without tears.",
+          "choices": [
+            "ずくめでは",
+            "まみれでは",
+            "めいては",
+            "なくしては"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-koto-nashi-ni",
+      "title": "〜ことなしに",
+      "meaning": "without doing X",
+      "structure": "Verb (dictionary form) + ことなしに(は)",
+      "explanation": "{〜ことなしに} is the verb version of {なくして}: 'without doing X'. It has two typical patterns:\n\n- **Condition:** 'without doing X, Y is impossible' ({努力[どりょく]することなしに成功[せいこう]はない}). Often with {は}.\n- **Description:** 'did Y without doing X' ({誰[だれ]にも相談[そうだん]することなしに辞[や]めた}).\n\n**Register:** written and formal — essays, speeches, academic texts. For the second (descriptive) pattern, the slightly less stiff {〜ことなく} is much more common in real writing, and in conversation people just say {〜しないで} or {〜せずに}.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は誰[だれ]にも相談[そうだん]することなしに、会社[かいしゃ]を辞[や]めてしまった。",
+          "en": "He quit the company without consulting anyone."
+        },
+        {
+          "jp": "人[ひと]は他人[たにん]と関[かか]わることなしに生[い]きていくことはできない。",
+          "en": "People cannot live without interacting with others."
+        },
+        {
+          "jp": "現場[げんば]の声[こえ]を聞[き]くことなしに、正[ただ]しい判断[はんだん]は下[くだ]せない。",
+          "en": "You can't make the right decision without listening to the people on the ground."
+        },
+        {
+          "jp": "失敗[しっぱい]を経験[けいけん]することなしには、本当[ほんとう]の成長[せいちょう]はない。",
+          "en": "Without experiencing failure, there is no real growth."
+        }
+      ],
+      "notes": "{〜ことなく} = 'without (ever) doing', used heavily in news: {休[やす]むことなく働[はたら]き続[つづ]けた}. {〜ことなしに} leans more towards the 'without X, Y is impossible' pattern.",
+      "quiz": [
+        {
+          "q": "努力[どりょく]を続[つづ]ける＿＿、夢[ゆめ]を叶[かな]えることはできない。",
+          "en": "You cannot make your dreams come true without continuing to work hard.",
+          "choices": [
+            "ことだから",
+            "ことには",
+            "ことなしに",
+            "ことか"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "彼女[かのじょ]は一度[いちど]も休[やす]む＿＿、三十年間[さんじゅうねんかん]働[はたら]き続[つづ]けた。",
+          "en": "She worked for thirty years without taking a single day off.",
+          "choices": [
+            "ことなしに",
+            "こととて",
+            "ことから",
+            "ことだし"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-nashi-ni",
+      "title": "〜なしに／〜なしには",
+      "meaning": "without (permission, notice etc.); without X, (Y is impossible)",
+      "structure": "Noun + (も)なしに / なしで / なしには + negative",
+      "explanation": "{〜なしに} attaches to a noun and means 'without X'. Typical nouns are things you would normally expect: {断[ことわ]り} (asking first), {許可[きょか]} (permission), {予約[よやく]} (a reservation), {連絡[れんらく]} (contact), {前触[まえぶ]れ} (warning). Adding {も} — {何[なん]の連絡[れんらく]もなしに} — stresses 'without even'.\n\n{〜なしには〜ない} works like {なくしては}: {涙[なみだ]なしには読[よ]めない} 'impossible to read without crying'.\n\n**Register:** neutral to formal, and far more common in real life than {なくして}. You'll see {許可[きょか]なしに} on signs and {断[ことわ]りなしに} in everyday complaints. {なしで} is the most conversational form.",
+      "examples": [
+        {
+          "jp": "断[ことわ]りなしに、人[ひと]の部屋[へや]に入[はい]らないでください。",
+          "en": "Please don't come into someone's room without asking."
+        },
+        {
+          "jp": "彼[かれ]は前触[まえぶ]れもなしに、突然[とつぜん]訪[たず]ねてきた。",
+          "en": "He turned up suddenly without any warning."
+        },
+        {
+          "jp": "許可[きょか]なしに、この区域[くいき]に立[た]ち入[い]ることは禁止[きんし]されている。",
+          "en": "Entering this area without permission is prohibited."
+        },
+        {
+          "jp": "この本[ほん]は涙[なみだ]なしには読[よ]めない。",
+          "en": "You can't read this book without crying."
+        }
+      ],
+      "notes": "{〜抜[ぬ]きで} is another way to say 'without' when something is deliberately left out: {冗談[じょうだん]抜[ぬ]きで} 'joking aside'.",
+      "quiz": [
+        {
+          "q": "彼[かれ]は何[なん]の連絡[れんらく]も＿＿、会議[かいぎ]を欠席[けっせき]した。",
+          "en": "He missed the meeting without any word whatsoever.",
+          "choices": [
+            "ならでは",
+            "なしに",
+            "なりに",
+            "ないまでも"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "予約[よやく]＿＿入[はい]れる店[みせ]は、この辺[へん]にはほとんどない。",
+          "en": "There are hardly any restaurants around here that you can get into without a reservation.",
+          "choices": [
+            "ならでは",
+            "にして",
+            "ごとき",
+            "なしで"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-wo-oite",
+      "title": "〜をおいて",
+      "meaning": "nobody / nothing but X; X is the only one",
+      "structure": "Noun + をおいて(ほかに) + ない / いない",
+      "explanation": "{〜をおいて} comes from {置[お]く} 'to put aside': 'if you put X aside, there is nobody else'. In other words, X is the one and only choice. It is always followed by a negative: {ほかにいない}, {ほかにない}, {考[かんが]えられない}.\n\nIt carries high praise or strong conviction: only this person can do the job, only this place is worth visiting, only now is the right time.\n\n**Register:** formal; used in speeches, recommendations, news commentary and business. It sounds strong and persuasive in speech.",
+      "examples": [
+        {
+          "jp": "この仕事[しごと]を任[まか]せられるのは、彼[かれ]をおいてほかにいない。",
+          "en": "There's nobody but him I could entrust this job to."
+        },
+        {
+          "jp": "日本[にほん]の伝統[でんとう]文化[ぶんか]を学[まな]ぶなら、京都[きょうと]をおいてほかにない。",
+          "en": "If you want to learn about traditional Japanese culture, there's no place like Kyoto."
+        },
+        {
+          "jp": "今[いま]をおいて、改革[かいかく]のチャンスはない。",
+          "en": "If we don't reform now, we'll never get another chance."
+        },
+        {
+          "jp": "次期[じき]社長[しゃちょう]にふさわしい人物[じんぶつ]は、田中[たなか]さんをおいて考[かんが]えられない。",
+          "en": "I can't think of anyone but Mr Tanaka who is fit to be the next president."
+        }
+      ],
+      "notes": "Don't confuse with {〜はさておき} 'setting X aside (for now)', which moves on to another topic.",
+      "quiz": [
+        {
+          "q": "世界[せかい]記録[きろく]を破[やぶ]れる選手[せんしゅ]は、彼女[かのじょ]＿＿ほかにいない。",
+          "en": "There is no athlete but her who could break the world record.",
+          "choices": [
+            "をもって",
+            "をめぐって",
+            "をおいて",
+            "を通[つう]じて"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "このプロジェクトを成功[せいこう]させられるのは、あなたをおいて＿＿。",
+          "en": "You're the only one who can make this project a success.",
+          "choices": [
+            "ほかにいない",
+            "ほかにいる",
+            "ほかでもいい",
+            "ほかにしよう"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-ikan-de",
+      "title": "〜いかんで／〜いかんだ",
+      "meaning": "depending on; is determined by",
+      "structure": "Noun (の) + いかんで / いかんによって(は) / いかんだ",
+      "explanation": "{いかん} (written {如何[いかん]}) is a classical word for 'how, what kind'. {X いかんで Y} means 'Y depends on (how) X (turns out)' — essentially a formal version of {〜次第[しだい]で} or {〜によって}.\n\n- {結果[けっか]いかんで} — depending on the results\n- {〜いかんによっては} — depending on X, (something drastic may happen)\n- {〜は X いかんだ} — 'it all depends on X'\n\n**Register:** formal and written: business documents, news, official notices, terms and conditions. In speech, {次第[しだい]} is far more natural.",
+      "examples": [
+        {
+          "jp": "試験[しけん]の結果[けっか]いかんで、進学先[しんがくさき]が決[き]まる。",
+          "en": "Which school I go on to depends on my exam results."
+        },
+        {
+          "jp": "天候[てんこう]いかんでは、大会[たいかい]を延期[えんき]することもあります。",
+          "en": "Depending on the weather, the tournament may be postponed."
+        },
+        {
+          "jp": "成功[せいこう]するかどうかは、本人[ほんにん]の努力[どりょく]いかんだ。",
+          "en": "Whether or not you succeed depends on your own efforts."
+        },
+        {
+          "jp": "今後[こんご]の交渉[こうしょう]いかんによっては、契約[けいやく]を打[う]ち切[き]る可能性[かのうせい]もある。",
+          "en": "Depending on how future negotiations go, we may terminate the contract."
+        }
+      ],
+      "notes": "{いかん} can take {の} before it ({結果[けっか]のいかんで}) — both are fine. Its opposite, 'regardless of', is the next point.",
+      "quiz": [
+        {
+          "q": "売[う]り上[あ]げ＿＿、来年度[らいねんど]のボーナスの額[がく]が決[き]まる。",
+          "en": "Next year's bonus amount will be decided depending on sales.",
+          "choices": [
+            "をおいて",
+            "いかんで",
+            "かたがた",
+            "ずくめで"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "回復[かいふく]の早[はや]さは、患者[かんじゃ]本人[ほんにん]の気力[きりょく]＿＿だ。",
+          "en": "How quickly a patient recovers depends on their own willpower.",
+          "choices": [
+            "いかんせん",
+            "ならでは",
+            "ごとき",
+            "いかん"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-ikan-ni-yorazu",
+      "title": "〜いかんによらず／〜いかんを問[と]わず",
+      "meaning": "regardless of; irrespective of",
+      "structure": "Noun + の + いかんによらず / いかんを問[と]わず / いかんにかかわらず",
+      "explanation": "Adding a negative turns {いかん} into 'regardless of how X is': {理由[りゆう]のいかんによらず} 'regardless of the reason'. Three variants mean the same thing: {いかんによらず}, {いかんを問[と]わず} ('without asking what X is') and {いかんにかかわらず}.\n\nThis is the language of rules, refund policies and job ads: no matter the reason, the nationality, the result, the circumstances.\n\n**Register:** very formal and written. You will see it on official notices, contracts and websites ('No refunds for any reason'). In conversation people say {理由[りゆう]はどうであれ} or {〜に関係[かんけい]なく}.",
+      "examples": [
+        {
+          "jp": "国籍[こくせき]のいかんを問[と]わず、誰[だれ]でも応募[おうぼ]できる。",
+          "en": "Anyone can apply, regardless of nationality."
+        },
+        {
+          "jp": "結果[けっか]のいかんにかかわらず、挑戦[ちょうせん]したことに意味[いみ]がある。",
+          "en": "Whatever the outcome, there is meaning in having tried."
+        },
+        {
+          "jp": "事情[じじょう]のいかんを問[と]わず、無断[むだん]欠席[けっせき]は認[みと]めない。",
+          "en": "Unexcused absences will not be accepted, whatever the circumstances."
+        },
+        {
+          "jp": "理由[りゆう]のいかんによらず、一度[いちど]納[おさ]めた料金[りょうきん]はお返[かえ]しできません。",
+          "en": "Once paid, fees cannot be refunded for any reason."
+        }
+      ],
+      "notes": "The everyday equivalents are {〜を問[と]わず} and {〜にかかわらず} without {いかん}: {年齢[ねんれい]を問[と]わず} 'regardless of age'.",
+      "quiz": [
+        {
+          "q": "理由[りゆう]の＿＿、遅刻[ちこく]した者[もの]は試験[しけん]を受[う]けられません。",
+          "en": "Whatever the reason, anyone who arrives late will not be allowed to sit the exam.",
+          "choices": [
+            "いかんによらず",
+            "いかにも",
+            "いかに",
+            "いかんせん"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "年齢[ねんれい]・性別[せいべつ]の＿＿を問[と]わず、どなたでも参加[さんか]できます。",
+          "en": "Anyone may participate, regardless of age or gender.",
+          "choices": [
+            "いかん",
+            "いかに",
+            "かぎり",
+            "ほど"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-to-areba",
+      "title": "〜とあれば",
+      "meaning": "if it's (for) X, then (I'd do anything / it can't be helped)",
+      "structure": "Noun / Verb (plain) + とあれば",
+      "explanation": "{〜とあれば} means 'if the situation is X'. It is used when X is a special reason that justifies doing something you normally wouldn't — or that leaves no choice: 'If it's for my children, I'll put up with anything', 'If it's the boss's order, I have to obey'.\n\nVery common with {〜のためとあれば} and {必要[ひつよう]とあれば} 'if necessary'. The second half usually shows willingness or acceptance.\n\n**Register:** somewhat formal, but used in speech too, especially {必要[ひつよう]とあれば} in business. Its sibling {とあって} (Unit 6) states a real reason rather than a hypothetical one.",
+      "examples": [
+        {
+          "jp": "必要[ひつよう]とあれば、いつでもご説明[せつめい]に伺[うかが]います。",
+          "en": "If necessary, I can come and explain at any time."
+        },
+        {
+          "jp": "子[こ]どものためとあれば、親[おや]はどんな苦労[くろう]もいとわない。",
+          "en": "When it's for their children, parents will put up with any hardship."
+        },
+        {
+          "jp": "社長[しゃちょう]の命令[めいれい]とあれば、従[したが]わないわけにはいかない。",
+          "en": "If it's an order from the president, I have no choice but to obey."
+        },
+        {
+          "jp": "大好[だいす]きな歌手[かしゅ]が来[く]るとあれば、何時間[なんじかん]でも並[なら]ぶつもりだ。",
+          "en": "If my favourite singer is coming, I'm prepared to queue for hours."
+        }
+      ],
+      "notes": "Not for neutral conditions like {✕雨[あめ]とあれば中止[ちゅうし]する}; use {雨[あめ]なら} or {雨[あめ]の場合[ばあい]は}. {とあれば} implies the condition is a strong motivation.",
+      "quiz": [
+        {
+          "q": "愛[あい]する家族[かぞく]のため＿＿、どんな仕事[しごと]でもする。",
+          "en": "If it's for my beloved family, I'll do any kind of work.",
+          "choices": [
+            "とあって",
+            "といえども",
+            "とあれば",
+            "ときたら"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "お客様[きゃくさま]のご要望[ようぼう]＿＿、できる限[かぎ]り対応[たいおう]いたします。",
+          "en": "If it is what our customers request, we will accommodate it as far as we can.",
+          "choices": [
+            "とあって",
+            "とばかりに",
+            "と思[おも]いきや",
+            "とあれば"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

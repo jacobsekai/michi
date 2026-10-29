@@ -10,14 +10,46 @@
       "structure": "Noun + ばかり ; Verb (て-form) + ばかりいる",
       "explanation": "{〜ばかり} means 'nothing but ~' or 'always ~', usually with a feeling of **criticism or complaint**: there's too much of one thing.\n\n{弟[おとうと]は毎日[まいにち]ゲームばかりしている。} 'My little brother does nothing but play games every day.'\n\nWith verbs, use {〜てばかりいる}: {寝[ね]てばかりいないで、少[すこ]しは外[そと]に出[で]なさい。} 'Stop sleeping all the time and get outside a bit.'\n\n**{ばかり} vs {だけ}:** {だけ} is a neutral 'only' (a limit). {ばかり} says something happens far too much, so it's a complaint: {野菜[やさい]だけ食[た]べる} 'eat only vegetables' (neutral, maybe a diet) vs {肉[にく]ばかり食[た]べる} 'eat nothing but meat' (that's a problem).\n\nNote that {〜たばかり} ('have just done') from N4 is a different use.",
       "examples": [
-        { "jp": "弟[おとうと]は毎日[まいにち]ゲームばかりしている。", "en": "My little brother does nothing but play games every day." },
-        { "jp": "甘[あま]いものばかり食[た]べていると、体[からだ]に悪[わる]いよ。", "en": "If you eat nothing but sweets, it's bad for your health." },
-        { "jp": "彼[かれ]は文句[もんく]を言[い]ってばかりで、何[なに]も手伝[てつだ]わない。", "en": "He does nothing but complain and never helps with anything." },
-        { "jp": "最近[さいきん]、雨[あめ]ばかり降[ふ]っていて、洗濯物[せんたくもの]が乾[かわ]かない。", "en": "It's been raining nonstop lately, and the laundry won't dry." }
+        {
+          "jp": "弟[おとうと]は毎日[まいにち]ゲームばかりしている。",
+          "en": "My little brother does nothing but play games every day."
+        },
+        {
+          "jp": "甘[あま]いものばかり食[た]べていると、体[からだ]に悪[わる]いよ。",
+          "en": "If you eat nothing but sweets, it's bad for your health."
+        },
+        {
+          "jp": "彼[かれ]は文句[もんく]を言[い]ってばかりで、何[なに]も手伝[てつだ]わない。",
+          "en": "He does nothing but complain and never helps with anything."
+        },
+        {
+          "jp": "最近[さいきん]、雨[あめ]ばかり降[ふ]っていて、洗濯物[せんたくもの]が乾[かわ]かない。",
+          "en": "It's been raining nonstop lately, and the laundry won't dry."
+        }
       ],
       "quiz": [
-        { "q": "休[やす]みの日[ひ]は、寝[ね]て＿＿いないで、少[すこ]しは運動[うんどう]したら？", "en": "On your days off, why don't you get some exercise instead of sleeping all the time?", "choices": ["ばかり", "だけで", "しか", "こそ"], "answer": 0 },
-        { "q": "うちの子[こ]は野菜[やさい]を食[た]べないで、肉[にく]＿＿食[た]べている。", "en": "My child doesn't eat vegetables — he eats nothing but meat.", "choices": ["ばかり", "さえ", "こそ", "しか"], "answer": 0 }
+        {
+          "q": "休[やす]みの日[ひ]は、寝[ね]て＿＿いないで、少[すこ]しは運動[うんどう]したら？",
+          "en": "On your days off, why don't you get some exercise instead of sleeping all the time?",
+          "choices": [
+            "しか",
+            "こそ",
+            "だけで",
+            "ばかり"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "うちの子[こ]は野菜[やさい]を食[た]べないで、肉[にく]＿＿食[た]べている。",
+          "en": "My child doesn't eat vegetables — he eats nothing but meat.",
+          "choices": [
+            "しか",
+            "ばかり",
+            "さえ",
+            "こそ"
+          ],
+          "answer": 1
+        }
       ]
     },
     {
@@ -27,14 +59,46 @@
       "structure": "Verb / い-adj (plain) + ばかりか ; な-adj + な + ばかりか ; Noun + ばかりか (… も / まで / さえ)",
       "explanation": "{〜ばかりか} means 'not only A, but even B'. B is usually **more surprising or more extreme** than A, and is marked with {も}, {まで} or {さえ}.\n\n{風邪[かぜ]をひいたばかりか、財布[さいふ]までなくしてしまった。} 'Not only did I catch a cold, I even lost my wallet.'\n\nIt can be used for good or bad things, but always with a feeling of 'on top of that!'. It's somewhat formal and written. {ばかりでなく} is a slightly milder version.\n\nBecause it's a statement of surprise, {ばかりか} is **not** used before commands, requests or invitations. For 'not only A but also do B, please', use {だけでなく} (next point).",
       "examples": [
-        { "jp": "彼[かれ]は英語[えいご]ばかりか、中国語[ちゅうごくご]も話[はな]せる。", "en": "He can speak not only English but Chinese as well." },
-        { "jp": "この店[みせ]は料理[りょうり]がまずいばかりか、店員[てんいん]の態度[たいど]も悪[わる]い。", "en": "Not only is the food bad at this restaurant, but the staff are rude too." },
-        { "jp": "風邪[かぜ]をひいたばかりか、財布[さいふ]までなくしてしまった。", "en": "Not only did I catch a cold, I even lost my wallet." },
-        { "jp": "彼女[かのじょ]は自分[じぶん]の仕事[しごと]ばかりでなく、後輩[こうはい]の仕事[しごと]まで手伝[てつだ]っている。", "en": "She helps not only with her own work but even with her juniors' work." }
+        {
+          "jp": "彼[かれ]は英語[えいご]ばかりか、中国語[ちゅうごくご]も話[はな]せる。",
+          "en": "He can speak not only English but Chinese as well."
+        },
+        {
+          "jp": "この店[みせ]は料理[りょうり]がまずいばかりか、店員[てんいん]の態度[たいど]も悪[わる]い。",
+          "en": "Not only is the food bad at this restaurant, but the staff are rude too."
+        },
+        {
+          "jp": "風邪[かぜ]をひいたばかりか、財布[さいふ]までなくしてしまった。",
+          "en": "Not only did I catch a cold, I even lost my wallet."
+        },
+        {
+          "jp": "彼女[かのじょ]は自分[じぶん]の仕事[しごと]ばかりでなく、後輩[こうはい]の仕事[しごと]まで手伝[てつだ]っている。",
+          "en": "She helps not only with her own work but even with her juniors' work."
+        }
       ],
       "quiz": [
-        { "q": "彼[かれ]は約束[やくそく]の時間[じかん]に遅[おく]れた＿＿、謝[あやま]りもしなかった。", "en": "Not only was he late for our appointment, he didn't even apologize.", "choices": ["ばかりか", "おかげで", "ついでに", "ところに"], "answer": 0 },
-        { "q": "この辺[へん]は、夏[なつ]に暑[あつ]い＿＿、冬[ふゆ]もとても寒[さむ]い。", "en": "Around here, not only is it hot in summer, it's also very cold in winter.", "choices": ["ばかりか", "おかげで", "ついでに", "とたんに"], "answer": 0 }
+        {
+          "q": "彼[かれ]は約束[やくそく]の時間[じかん]に遅[おく]れた＿＿、謝[あやま]りもしなかった。",
+          "en": "Not only was he late for our appointment, he didn't even apologize.",
+          "choices": [
+            "ついでに",
+            "ばかりか",
+            "おかげで",
+            "ところに"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "この辺[へん]は、夏[なつ]は暑[あつ]い＿＿、冬[ふゆ]もとても寒[さむ]い。",
+          "en": "Around here, not only is it hot in summer, it's also very cold in winter.",
+          "choices": [
+            "とたんに",
+            "ばかりか",
+            "おかげで",
+            "ついでに"
+          ],
+          "answer": 1
+        }
       ]
     },
     {
@@ -44,14 +108,46 @@
       "structure": "Verb / い-adj (plain) + だけでなく ; な-adj + な + だけでなく ; Noun + だけでなく (… も)",
       "explanation": "{〜だけでなく} is the everyday, neutral way to say 'not only A, but also B'. B is usually marked with {も}.\n\n{この映画[えいが]は子供[こども]だけでなく、大人[おとな]にも人気[にんき]がある。} 'This movie is popular not only with kids but with adults too.'\n\nUnlike {ばかりか}, it carries no special surprise, and it **can** be followed by requests and suggestions: {文法[ぶんぽう]だけでなく、会話[かいわ]も練習[れんしゅう]しましょう。} 'Let's practice not only grammar but conversation too.'\n\nIn casual speech: {だけじゃなくて}. In formal writing you may see {だけではなく}.",
       "examples": [
-        { "jp": "この映画[えいが]は子供[こども]だけでなく、大人[おとな]にも人気[にんき]がある。", "en": "This movie is popular not only with children but with adults as well." },
-        { "jp": "彼女[かのじょ]は歌[うた]が上手[じょうず]なだけでなく、ダンスもうまい。", "en": "She's not only a good singer, she's a great dancer too." },
-        { "jp": "日本語[にほんご]を勉強[べんきょう]するなら、文法[ぶんぽう]だけでなく、会話[かいわ]も練習[れんしゅう]しましょう。", "en": "If you're studying Japanese, practice not only grammar but conversation as well." },
-        { "jp": "新[あたら]しい部屋[へや]は駅[えき]から近[ちか]いだけでなく、家賃[やちん]も安[やす]い。", "en": "My new apartment is not only close to the station, the rent is cheap too." }
+        {
+          "jp": "この映画[えいが]は子供[こども]だけでなく、大人[おとな]にも人気[にんき]がある。",
+          "en": "This movie is popular not only with children but with adults as well."
+        },
+        {
+          "jp": "彼女[かのじょ]は歌[うた]が上手[じょうず]なだけでなく、ダンスもうまい。",
+          "en": "She's not only a good singer, she's a great dancer too."
+        },
+        {
+          "jp": "日本語[にほんご]を勉強[べんきょう]するなら、文法[ぶんぽう]だけでなく、会話[かいわ]も練習[れんしゅう]しましょう。",
+          "en": "If you're studying Japanese, practice not only grammar but conversation as well."
+        },
+        {
+          "jp": "新[あたら]しい部屋[へや]は駅[えき]から近[ちか]いだけでなく、家賃[やちん]も安[やす]い。",
+          "en": "My new apartment is not only close to the station, the rent is cheap too."
+        }
       ],
       "quiz": [
-        { "q": "漢字[かんじ]は、読[よ]み方[かた]＿＿、書[か]き方[かた]も覚[おぼ]えてください。", "en": "Please learn not only how to read the kanji but how to write them as well.", "choices": ["だけでなく", "ばかりか", "こそ", "さえ"], "answer": 0 },
-        { "q": "この仕事[しごと]は給料[きゅうりょう]がいい＿＿、休[やす]みも多[おお]い。", "en": "This job not only pays well, it also has lots of days off.", "choices": ["だけでなく", "ところに", "わりに", "くせに"], "answer": 0 }
+        {
+          "q": "漢字[かんじ]は、読[よ]み方[かた]＿＿、書[か]き方[かた]も覚[おぼ]えてください。",
+          "en": "Please learn not only how to read the kanji but how to write them as well.",
+          "choices": [
+            "さえ",
+            "だけでなく",
+            "こそ",
+            "ばかりか"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "この仕事[しごと]は給料[きゅうりょう]がいい＿＿、休[やす]みも多[おお]い。",
+          "en": "This job not only pays well, it also has lots of days off.",
+          "choices": [
+            "ところに",
+            "わりに",
+            "くせに",
+            "だけでなく"
+          ],
+          "answer": 3
+        }
       ]
     },
     {
@@ -61,14 +157,46 @@
       "structure": "Noun + はもちろん(、〜も)",
       "explanation": "{もちろん} means 'of course'. {AはもちろんBも} says 'A is obviously true, and B is too'. A is the expected, obvious case; B extends it further.\n\n{この店[みせ]は、味[あじ]はもちろん、サービスもいい。} 'This restaurant has great food, of course, and the service is good too.'\n\nIt's a natural, friendly way to list strengths or requirements. It's similar to {だけでなく}, but adds the nuance 'A is a given'.\n\nYou'll often see it in ads and job postings: {日本語[にほんご]はもちろん、英語[えいご]も話[はな]せる方[かた]} 'someone who speaks Japanese, of course, and English as well'.",
       "examples": [
-        { "jp": "この店[みせ]は、味[あじ]はもちろん、サービスもいい。", "en": "At this restaurant, the food is great of course, and the service is too." },
-        { "jp": "彼[かれ]は英語[えいご]はもちろん、フランス語[ご]も話[はな]せる。", "en": "He speaks English, of course, and French as well." },
-        { "jp": "週末[しゅうまつ]はもちろん、平日[へいじつ]もこの公園[こうえん]は人[ひと]が多[おお]い。", "en": "This park is crowded on weekdays, let alone weekends." },
-        { "jp": "日本[にほん]で働[はたら]くなら、日本語[にほんご]はもちろん、日本[にほん]のビジネスマナーも大切[たいせつ]です。", "en": "If you work in Japan, Japanese goes without saying, but Japanese business manners are important too." }
+        {
+          "jp": "この店[みせ]は、味[あじ]はもちろん、サービスもいい。",
+          "en": "At this restaurant, the food is great of course, and the service is too."
+        },
+        {
+          "jp": "彼[かれ]は英語[えいご]はもちろん、フランス語[ご]も話[はな]せる。",
+          "en": "He speaks English, of course, and French as well."
+        },
+        {
+          "jp": "週末[しゅうまつ]はもちろん、平日[へいじつ]もこの公園[こうえん]は人[ひと]が多[おお]い。",
+          "en": "This park is crowded on weekends, of course, and on weekdays too."
+        },
+        {
+          "jp": "日本[にほん]で働[はたら]くなら、日本語[にほんご]はもちろん、日本[にほん]のビジネスマナーも大切[たいせつ]です。",
+          "en": "If you work in Japan, Japanese goes without saying, but Japanese business manners are important too."
+        }
       ],
       "quiz": [
-        { "q": "この漫画[まんが]は、子供[こども]＿＿、大人[おとな]にもファンが多[おお]い。", "en": "This manga has lots of fans among adults, not to mention children.", "choices": ["はもちろん", "にとって", "ばかりで", "こそ"], "answer": 0 },
-        { "q": "新[あたら]しいスマホは、デザイン＿＿、機能[きのう]もすばらしい。", "en": "The new smartphone has a great design, of course, and its features are excellent too.", "choices": ["はもちろん", "に対[たい]して", "によって", "にとって"], "answer": 0 }
+        {
+          "q": "この漫画[まんが]は、子供[こども]＿＿、大人[おとな]にもファンが多[おお]い。",
+          "en": "This manga has lots of fans among adults, not to mention children.",
+          "choices": [
+            "ばかりで",
+            "はもちろん",
+            "にとって",
+            "こそ"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "新[あたら]しいスマホは、デザイン＿＿、機能[きのう]もすばらしい。",
+          "en": "The new smartphone has a great design, of course, and its features are excellent too.",
+          "choices": [
+            "によって",
+            "にとって",
+            "はもちろん",
+            "に対[たい]して"
+          ],
+          "answer": 2
+        }
       ]
     },
     {
@@ -78,14 +206,46 @@
       "structure": "Noun + に加[くわ]えて ; Plain form + の + に加[くわ]えて",
       "explanation": "{加[くわ]える} means 'to add'. {〜に加[くわ]えて} means 'in addition to A, (also) B'. It simply adds another item of the same kind — often both good or both bad.\n\n{雨[あめ]に加[くわ]えて、風[かぜ]も強[つよ]くなってきた。} 'On top of the rain, the wind has gotten stronger too.'\n\nIt sounds a bit formal, so it's common in news, business documents and job descriptions: {給料[きゅうりょう]に加[くわ]えて、交通費[こうつうひ]も出[で]ます。} 'In addition to your salary, transportation costs are covered.'\n\nIn conversation, {〜だけでなく} or {それに} are more common.",
       "examples": [
-        { "jp": "雨[あめ]に加[くわ]えて、風[かぜ]も強[つよ]くなってきた。", "en": "On top of the rain, the wind has picked up too." },
-        { "jp": "この仕事[しごと]には、日本語[にほんご]に加[くわ]えて英語[えいご]も必要[ひつよう]です。", "en": "This job requires English in addition to Japanese." },
-        { "jp": "給料[きゅうりょう]に加[くわ]えて、交通費[こうつうひ]も出[で]ます。", "en": "In addition to the salary, your transportation costs are paid." },
-        { "jp": "家賃[やちん]に加[くわ]えて、毎月[まいつき]管理費[かんりひ]が五千円[ごせんえん]かかる。", "en": "On top of the rent, there's a monthly maintenance fee of 5,000 yen." }
+        {
+          "jp": "雨[あめ]に加[くわ]えて、風[かぜ]も強[つよ]くなってきた。",
+          "en": "On top of the rain, the wind has picked up too."
+        },
+        {
+          "jp": "この仕事[しごと]には、日本語[にほんご]に加[くわ]えて英語[えいご]も必要[ひつよう]です。",
+          "en": "This job requires English in addition to Japanese."
+        },
+        {
+          "jp": "給料[きゅうりょう]に加[くわ]えて、交通費[こうつうひ]も出[で]ます。",
+          "en": "In addition to the salary, your transportation costs are paid."
+        },
+        {
+          "jp": "家賃[やちん]に加[くわ]えて、毎月[まいつき]管理費[かんりひ]が五千円[ごせんえん]かかる。",
+          "en": "On top of the rent, there's a monthly maintenance fee of 5,000 yen."
+        }
       ],
       "quiz": [
-        { "q": "大雨[おおあめ]＿＿、雷[かみなり]にも注意[ちゅうい]してください。", "en": "In addition to heavy rain, please watch out for lightning.", "choices": ["に加[くわ]えて", "に比[くら]べて", "によって", "にとって"], "answer": 0 },
-        { "q": "彼[かれ]は仕事[しごと]が速[はや]いの＿＿、ミスも少[すく]ない。", "en": "On top of working fast, he also makes few mistakes.", "choices": ["に加[くわ]えて", "に対[たい]して", "にとって", "について"], "answer": 0 }
+        {
+          "q": "大雨[おおあめ]＿＿、雷[かみなり]にも注意[ちゅうい]してください。",
+          "en": "In addition to heavy rain, please watch out for lightning.",
+          "choices": [
+            "にとって",
+            "に比[くら]べて",
+            "によって",
+            "に加[くわ]えて"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "彼[かれ]は仕事[しごと]が速[はや]いの＿＿、ミスも少[すく]ない。",
+          "en": "On top of working fast, he also makes few mistakes.",
+          "choices": [
+            "に対[たい]して",
+            "について",
+            "に加[くわ]えて",
+            "にとって"
+          ],
+          "answer": 2
+        }
       ]
     },
     {
@@ -95,15 +255,50 @@
       "structure": "Noun + さえ / でさえ ; Noun + particle + さえ (にさえ, とさえ) ; Verb (て-form) + さえ",
       "explanation": "{〜さえ} means 'even': it picks an **extreme example** to show how far something goes. If even X is true, then of course everything else is.\n\n{忙[いそが]しくて、昼[ひる]ご飯[はん]を食[た]べる時間[じかん]さえない。} 'I'm so busy I don't even have time to eat lunch.'\n\nWhen the noun is the subject, {でさえ} is common: {子供[こども]でさえ知[し]っている。} 'Even a child knows that.' {さえ} replaces {が} and {を}, but goes after other particles: {親[おや]にさえ} 'even to my parents'.\n\n{さえ} is similar to {も} in this meaning ({子供[こども]でも}), but sounds stronger and more emphatic. It's often used with negatives: 'not even ~'.",
       "examples": [
-        { "jp": "忙[いそが]しくて、昼[ひる]ご飯[はん]を食[た]べる時間[じかん]さえない。", "en": "I'm so busy I don't even have time to eat lunch." },
-        { "jp": "そんな簡単[かんたん]なことは、子供[こども]でさえ知[し]っている。", "en": "Even a child knows something that simple." },
-        { "jp": "日本人[にほんじん]でさえ、敬語[けいご]を間違[まちが]えることがある。", "en": "Even Japanese people sometimes get keigo wrong." },
-        { "jp": "彼[かれ]は親[おや]にさえ、何[なに]も相談[そうだん]しなかった。", "en": "He didn't talk it over with anyone — not even his parents." },
-        { "jp": "疲[つか]れすぎて、立[た]っていることさえできなかった。", "en": "I was so exhausted I couldn't even stand." }
+        {
+          "jp": "忙[いそが]しくて、昼[ひる]ご飯[はん]を食[た]べる時間[じかん]さえない。",
+          "en": "I'm so busy I don't even have time to eat lunch."
+        },
+        {
+          "jp": "そんな簡単[かんたん]なことは、子供[こども]でさえ知[し]っている。",
+          "en": "Even a child knows something that simple."
+        },
+        {
+          "jp": "日本人[にほんじん]でさえ、敬語[けいご]を間違[まちが]えることがある。",
+          "en": "Even Japanese people sometimes get keigo wrong."
+        },
+        {
+          "jp": "彼[かれ]は親[おや]にさえ、何[なに]も相談[そうだん]しなかった。",
+          "en": "He didn't talk it over with anyone — not even his parents."
+        },
+        {
+          "jp": "疲[つか]れすぎて、立[た]っていることさえできなかった。",
+          "en": "I was so exhausted I couldn't even stand."
+        }
       ],
       "quiz": [
-        { "q": "引[ひ]っ越[こ]したばかりで、まだ近所[きんじょ]のコンビニの場所[ばしょ]＿＿知[し]らない。", "en": "I've only just moved, so I don't even know where the nearest convenience store is yet.", "choices": ["さえ", "こそ", "ばかり", "はもちろん"], "answer": 0 },
-        { "q": "この漢字[かんじ]は難[むずか]しくて、先生[せんせい]＿＿読[よ]めなかった。", "en": "This kanji was so hard that even the teacher couldn't read it.", "choices": ["でさえ", "だけでなく", "ばかりか", "こそ"], "answer": 0 }
+        {
+          "q": "引[ひ]っ越[こ]したばかりで、まだ近所[きんじょ]のコンビニの場所[ばしょ]＿＿知[し]らない。",
+          "en": "I've only just moved, so I don't even know where the nearest convenience store is yet.",
+          "choices": [
+            "さえ",
+            "ばかりか",
+            "こそ",
+            "ばかり"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "この漢字[かんじ]は難[むずか]しくて、先生[せんせい]＿＿読[よ]めなかった。",
+          "en": "This kanji was so hard that even the teacher couldn't read it.",
+          "choices": [
+            "でさえ",
+            "ばかりか",
+            "だけでなく",
+            "こそ"
+          ],
+          "answer": 0
+        }
       ]
     },
     {
@@ -113,15 +308,50 @@
       "structure": "Noun + さえ + Verb / Adj (ば-form) ; Verb-ます stem + さえすれば ; Verb (て-form) + さえいれば",
       "explanation": "{〜さえ〜ば} means 'as long as A (is true), B will be fine'. A is the **only condition** needed — nothing else matters.\n\n{このボタンさえ押[お]せば、すぐにお湯[ゆ]が出[で]ます。} 'All you have to do is press this button, and hot water comes out.'\n\nPatterns:\n- Noun + {さえ} + verb in {ば}-form: {時間[じかん]さえあれば} 'if only I had time'.\n- With a verb as the condition: stem + {さえすれば}: {薬[くすり]を飲[の]みさえすれば} 'as long as you take the medicine'.\n- With adjectives: {天気[てんき]さえよければ} 'as long as the weather is good'.\n\nIt can express a wish ('if only…') or a reassurance ('that's all it takes').",
       "examples": [
-        { "jp": "このボタンさえ押[お]せば、すぐにお湯[ゆ]が出[で]ます。", "en": "Just press this button and hot water comes out right away." },
-        { "jp": "時間[じかん]さえあれば、もっと旅行[りょこう]したい。", "en": "If only I had the time, I'd travel more." },
-        { "jp": "この薬[くすり]を飲[の]みさえすれば、すぐ治[なお]りますよ。", "en": "As long as you take this medicine, you'll get better quickly." },
-        { "jp": "住所[じゅうしょ]さえわかれば、地図[ちず]のアプリで行[い]けます。", "en": "As long as you know the address, you can get there with a map app." },
-        { "jp": "天気[てんき]さえよければ、明日[あした]は富士山[ふじさん]が見[み]えるでしょう。", "en": "As long as the weather is good, you should be able to see Mt. Fuji tomorrow." }
+        {
+          "jp": "このボタンさえ押[お]せば、すぐにお湯[ゆ]が出[で]ます。",
+          "en": "Just press this button and hot water comes out right away."
+        },
+        {
+          "jp": "時間[じかん]さえあれば、もっと旅行[りょこう]したい。",
+          "en": "If only I had the time, I'd travel more."
+        },
+        {
+          "jp": "この薬[くすり]を飲[の]みさえすれば、すぐ治[なお]りますよ。",
+          "en": "As long as you take this medicine, you'll get better quickly."
+        },
+        {
+          "jp": "住所[じゅうしょ]さえわかれば、地図[ちず]のアプリで行[い]けます。",
+          "en": "As long as you know the address, you can get there with a map app."
+        },
+        {
+          "jp": "天気[てんき]さえよければ、明日[あした]は富士山[ふじさん]が見[み]えるでしょう。",
+          "en": "As long as the weather is good, you should be able to see Mt. Fuji tomorrow."
+        }
       ],
       "quiz": [
-        { "q": "道[みち]＿＿混[こ]んでいなければ、空港[くうこう]まで三十分[さんじゅっぷん]で着[つ]きます。", "en": "As long as the roads aren't crowded, we'll get to the airport in thirty minutes.", "choices": ["さえ", "こそ", "ばかり", "しか"], "answer": 0 },
-        { "q": "この書類[しょるい]にサイン＿＿すれば、手続[てつづ]きは終[お]わりです。", "en": "All you need to do is sign this document, and the procedure is complete.", "choices": ["さえ", "こそ", "しか", "ばかり"], "answer": 0 }
+        {
+          "q": "道[みち]＿＿混[こ]んでいなければ、空港[くうこう]まで三十分[さんじゅっぷん]で着[つ]きます。",
+          "en": "As long as the roads aren't crowded, we'll get to the airport in thirty minutes.",
+          "choices": [
+            "しか",
+            "こそ",
+            "さえ",
+            "ばかり"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "この書類[しょるい]にサイン＿＿すれば、手続[てつづ]きは終[お]わりです。",
+          "en": "All you need to do is sign this document, and the procedure is complete.",
+          "choices": [
+            "ばかり",
+            "しか",
+            "さえ",
+            "こそ"
+          ],
+          "answer": 2
+        }
       ]
     },
     {
@@ -131,15 +361,50 @@
       "structure": "Noun + こそ ; Verb (て-form) + こそ ; Plain form + からこそ",
       "explanation": "{〜こそ} strongly emphasizes one thing: 'this, and nothing else' / 'this time for sure'.\n\n- {今度[こんど]こそ} 'this time for sure': {今度[こんど]こそ合格[ごうかく]するぞ！} 'This time I'm definitely passing!'\n- {こちらこそ} 'no, it's me who should (thank / apologize)': the standard polite reply to {ありがとう} or {よろしく}.\n- {〜からこそ} 'precisely because': {好[す]きだからこそ、厳[きび]しく言[い]うんだ。} 'It's precisely because I care that I'm being strict.'\n- {〜てこそ} 'only by ~ (does it have value)': {続[つづ]けてこそ意味[いみ]がある。} 'It only means something if you keep it up.'\n\n{こそ} is used for positive emphasis, not usually for negative facts.",
       "examples": [
-        { "jp": "今度[こんど]こそ、試験[しけん]に合格[ごうかく]するぞ。", "en": "This time I'm going to pass the exam for sure." },
-        { "jp": "「いつもありがとうございます。」「こちらこそ、ありがとうございます。」", "en": "'Thank you for everything.' 'No, I'm the one who should thank you.'" },
-        { "jp": "失敗[しっぱい]したからこそ、学[まな]べることもある。", "en": "There are things you can learn precisely because you failed." },
-        { "jp": "毎日[まいにち]続[つづ]けてこそ、意味[いみ]がある。", "en": "It only has meaning if you keep it up every day." },
-        { "jp": "好[す]きだからこそ、厳[きび]しく言[い]うんだよ。", "en": "It's precisely because I care about you that I'm being strict." }
+        {
+          "jp": "今度[こんど]こそ、試験[しけん]に合格[ごうかく]するぞ。",
+          "en": "This time I'm going to pass the exam for sure."
+        },
+        {
+          "jp": "「いつもありがとうございます。」「こちらこそ、ありがとうございます。」",
+          "en": "'Thank you for everything.' 'No, I'm the one who should thank you.'"
+        },
+        {
+          "jp": "失敗[しっぱい]したからこそ、学[まな]べることもある。",
+          "en": "There are things you can learn precisely because you failed."
+        },
+        {
+          "jp": "毎日[まいにち]続[つづ]けてこそ、意味[いみ]がある。",
+          "en": "It only has meaning if you keep it up every day."
+        },
+        {
+          "jp": "好[す]きだからこそ、厳[きび]しく言[い]うんだよ。",
+          "en": "It's precisely because I care about you that I'm being strict."
+        }
       ],
       "quiz": [
-        { "q": "去年[きょねん]は失敗[しっぱい]したけど、今年[ことし]＿＿N3に合格[ごうかく]したい。", "en": "I failed last year, but this year I want to pass N3 for sure.", "choices": ["こそ", "さえ", "ばかり", "しか"], "answer": 0 },
-        { "q": "「お世話[せわ]になりました。」「いえいえ、こちら＿＿、ありがとうございました。」", "en": "'Thank you for all your help.' 'Oh no, I'm the one who should be thanking you.'", "choices": ["こそ", "さえ", "ばかり", "まで"], "answer": 0 }
+        {
+          "q": "去年[きょねん]は失敗[しっぱい]したけど、今年[ことし]＿＿N3に合格[ごうかく]したい。",
+          "en": "I failed last year, but this year I want to pass N3 for sure.",
+          "choices": [
+            "しか",
+            "ばかり",
+            "さえ",
+            "こそ"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "「お世話[せわ]になりました。」「いえいえ、こちら＿＿、ありがとうございました。」",
+          "en": "'Thank you for all your help.' 'Oh no, I'm the one who should be thanking you.'",
+          "choices": [
+            "まで",
+            "こそ",
+            "さえ",
+            "ばかり"
+          ],
+          "answer": 1
+        }
       ]
     }
   ]

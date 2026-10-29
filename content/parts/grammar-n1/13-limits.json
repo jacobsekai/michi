@@ -1,0 +1,407 @@
+{
+  "id": "n1-u13",
+  "title": "Extremes, limits and prohibitions",
+  "summary": "Reaching an extreme stage ({に至[いた]って}, {に至[いた]るまで}), 'only' ({ただ〜のみ}), moral and formal prohibitions ({まじき}, {べからず}), 'whether or not' ({〜うが〜まいが}), 'want to but can't' ({〜うにも〜ない}) and 'it's not as if' ({ではあるまいし}).",
+  "points": [
+    {
+      "id": "n1-ni-itatte",
+      "title": "〜に至[いた]って／〜に至[いた]っては",
+      "meaning": "only when (things) reached X; as for X (the most extreme case)",
+      "structure": "Verb (dictionary form) / Noun + に至[いた]って(は／も)",
+      "explanation": "{至[いた]る} means 'to reach, to arrive at'. Three related forms:\n\n- **{〜に至[いた]って}** — 'only when things reached the stage of X (did something finally happen)'. Usually criticises a late reaction: {死者[ししゃ]が出[で]るに至[いた]って、ようやく…} 'only once people had died did they finally...'.\n- **{〜に至[いた]っても}** — 'even when it reached X, still (no change)'.\n- **{〜に至[いた]っては}** — after listing examples, introduces the most extreme one: 'as for X, it's even worse'. {父[ちち]に至[いた]っては口[くち]もきいてくれない} 'and my father — he won't even speak to me'.\n\n**Register:** formal and written; common in news, editorials and reports.",
+      "examples": [
+        {
+          "jp": "事態[じたい]が深刻[しんこく]になるに至[いた]って、政府[せいふ]はようやく対策[たいさく]に乗[の]り出[だ]した。",
+          "en": "Only when the situation became serious did the government finally take action."
+        },
+        {
+          "jp": "死者[ししゃ]が出[で]るに至[いた]っても、会社[かいしゃ]は責任[せきにん]を認[みと]めなかった。",
+          "en": "Even after people had died, the company still didn't admit responsibility."
+        },
+        {
+          "jp": "家族[かぞく]は全員[ぜんいん]反対[はんたい]した。父[ちち]に至[いた]っては、口[くち]もきいてくれない。",
+          "en": "My whole family was against it. My father won't even speak to me."
+        },
+        {
+          "jp": "今年[ことし]は不作[ふさく]で米[こめ]の値段[ねだん]が上[あ]がった。野菜[やさい]に至[いた]っては、去年[きょねん]の倍[ばい]だ。",
+          "en": "Because of the poor harvest, rice prices went up this year. As for vegetables, they're double last year's price."
+        }
+      ],
+      "notes": "Also the set phrase {〜に至[いた]った} 'it came to the point of X' in formal statements: {辞任[じにん]するに至[いた]った}.",
+      "quiz": [
+        {
+          "q": "工場[こうじょう]の排水[はいすい]で住民[じゅうみん]に健康[けんこう]被害[ひがい]が出[で]る＿＿、ようやく調査[ちょうさ]が始[はじ]まった。",
+          "en": "Only when the factory's wastewater began causing health problems for residents did an investigation finally begin.",
+          "choices": [
+            "に即[そく]して",
+            "に至[いた]って",
+            "にかこつけて",
+            "にひきかえ"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "社員[しゃいん]の多[おお]くが残業[ざんぎょう]に不満[ふまん]を持[も]っている。営業部[えいぎょうぶ]＿＿、月[つき]百時間[ひゃくじかん]を超[こ]える人[ひと]もいる。",
+          "en": "Many employees are unhappy about overtime. In the sales department, some people even exceed a hundred hours a month.",
+          "choices": [
+            "にひきかえ",
+            "をよそに",
+            "をおいて",
+            "に至[いた]っては"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-ni-itaru-made",
+      "title": "〜に至[いた]るまで",
+      "meaning": "(all the way) to; down to; even",
+      "structure": "Noun + に至[いた]るまで / Noun₁ + から + Noun₂ + に至[いた]るまで",
+      "explanation": "{〜に至[いた]るまで} stresses that a range extends all the way to an extreme or surprising point: {食器[しょっき]から家具[かぐ]に至[いた]るまで} 'everything from tableware right down to furniture'. It's typically paired with {〜から}, and the last item is the most unexpected or detailed.\n\nWith time words, {現在[げんざい]に至[いた]るまで} means 'right up to the present'.\n\n**Register:** formal; common in writing, advertising, news and formal speech. A more emphatic version of {〜まで}.",
+      "examples": [
+        {
+          "jp": "この店[みせ]では、食器[しょっき]から家具[かぐ]に至[いた]るまで、すべて手作[てづく]りだ。",
+          "en": "Everything in this shop, from the tableware to the furniture, is handmade."
+        },
+        {
+          "jp": "彼[かれ]の小説[しょうせつ]は、子[こ]どもから高齢者[こうれいしゃ]に至[いた]るまで、幅広[はばひろ]く読[よ]まれている。",
+          "en": "His novels are widely read by everyone from children to the elderly."
+        },
+        {
+          "jp": "校則[こうそく]は、髪型[かみがた]から靴下[くつした]の色[いろ]に至[いた]るまで細[こま]かく決[き]められている。",
+          "en": "The school rules specify everything in detail, from hairstyles right down to the colour of your socks."
+        },
+        {
+          "jp": "事故[じこ]の原因[げんいん]については、現在[げんざい]に至[いた]るまで明[あき]らかになっていない。",
+          "en": "The cause of the accident remains unclear to this day."
+        }
+      ],
+      "notes": "Emphasises completeness ('everything, even the smallest details'). Compare {〜にわたって} 'over (a period / area)'.",
+      "quiz": [
+        {
+          "q": "彼[かれ]の部屋[へや]は、本棚[ほんだな]から机[つくえ]の引[ひ]き出[だ]しの中[なか]＿＿、きちんと整理[せいり]されている。",
+          "en": "His room is neatly organised, from the bookshelves all the way down to the inside of the desk drawers.",
+          "choices": [
+            "に至[いた]るまで",
+            "に至[いた]っては",
+            "をもって",
+            "にして"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "この問題[もんだい]は、発生[はっせい]から十年[じゅうねん]たった今日[こんにち]に＿＿解決[かいけつ]されていない。",
+          "en": "Even today, ten years after it arose, this problem has still not been solved.",
+          "choices": [
+            "至[いた]って",
+            "かこつけて",
+            "至[いた]るまで",
+            "即[そく]して"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-tada-nomi",
+      "title": "ただ〜のみ",
+      "meaning": "only; solely; nothing but",
+      "structure": "ただ + Noun / Verb (dictionary form) + のみ",
+      "explanation": "{のみ} is the formal, written equivalent of {だけ} 'only'. Adding {ただ} in front strengthens it: 'nothing but X'. A very common use is at the end of a sentence: {あとはただ結果[けっか]を待[ま]つのみだ} 'all that's left is to wait for the results' — expressing resignation, determination or prayer.\n\n{ただ〜のみならず} means 'not only... but also' (formal {だけでなく}).\n\n**Register:** formal and written — speeches, statements, news, essays. {〜を祈[いの]るのみです} is common in formal condolences and messages of support.",
+      "examples": [
+        {
+          "jp": "ここまで来[き]たら、あとはただ結果[けっか]を待[ま]つのみだ。",
+          "en": "Now that it's come this far, all we can do is wait for the result."
+        },
+        {
+          "jp": "今[いま]はただ、皆様[みなさま]のご無事[ぶじ]を祈[いの]るのみです。",
+          "en": "All I can do now is pray for everyone's safety."
+        },
+        {
+          "jp": "彼[かれ]はただ自分[じぶん]の利益[りえき]のみを考[かんが]えている。",
+          "en": "He thinks only of his own interests."
+        },
+        {
+          "jp": "津波[つなみ]の後[あと]、海岸[かいがん]に残[のこ]ったのは、ただ一本[いっぽん]の松[まつ]のみだった。",
+          "en": "After the tsunami, all that was left on the shore was a single pine tree."
+        }
+      ],
+      "notes": "{ただ} here is the adverb 'only, merely', not {ただ} 'free (of charge)' or {ただし} 'however'.",
+      "quiz": [
+        {
+          "q": "やるべきことは全[すべ]てやった。あとはただ天[てん]に任[まか]せる＿＿だ。",
+          "en": "I've done everything I should. All that's left is to leave it to fate.",
+          "choices": [
+            "のみ",
+            "ほど",
+            "こそ",
+            "さえ"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "＿＿利益[りえき]のみを追求[ついきゅう]する企業[きぎょう]は、長続[ながつづ]きしない。",
+          "en": "Companies that pursue nothing but profit don't last long.",
+          "choices": [
+            "ただし",
+            "たとえ",
+            "たとい",
+            "ただ"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-majiki",
+      "title": "〜まじき",
+      "meaning": "unbecoming of; that (someone in that position) should never do",
+      "structure": "Noun + に／として + あるまじき + Noun / Verb (dictionary form) + まじき + Noun",
+      "explanation": "{まじき} is the attributive form of the classical {まじ} 'must not / should not'. It's almost always used in {〜にあるまじき} or {〜としてあるまじき}: 'behaviour that should never exist in someone who is X'. It's a strong moral condemnation of people who betray the standards of their role: teachers, doctors, police, politicians, civil servants.\n\nWith other verbs: {許[ゆる]すまじき} 'unforgivable'.\n\n**Register:** formal and written; frequent in news reports and editorials about scandals. It's the negative counterpart of {〜たる者[もの]} (Unit 6).",
+      "examples": [
+        {
+          "jp": "それは教師[きょうし]にあるまじき行為[こうい]だ。",
+          "en": "That's conduct unbecoming of a teacher."
+        },
+        {
+          "jp": "生徒[せいと]に暴力[ぼうりょく]をふるうなど、教育者[きょういくしゃ]にあるまじきことだ。",
+          "en": "Using violence against students is unforgivable for an educator."
+        },
+        {
+          "jp": "患者[かんじゃ]の個人[こじん]情報[じょうほう]を漏[も]らすのは、医師[いし]としてあるまじき行為[こうい]だ。",
+          "en": "Leaking patients' personal information is something a doctor should never do."
+        },
+        {
+          "jp": "子[こ]どもの命[いのち]を奪[うば]うなど、許[ゆる]すまじき犯罪[はんざい]だ。",
+          "en": "Taking a child's life is an unforgivable crime."
+        }
+      ],
+      "notes": "Must be followed by a noun ({行為[こうい]}, {発言[はつげん]}, {こと}, {態度[たいど]}).",
+      "quiz": [
+        {
+          "q": "客[きゃく]の悪口[わるぐち]をSNSに書[か]き込[こ]むなど、店員[てんいん]＿＿行為[こうい]だ。",
+          "en": "Posting insults about customers on social media is behaviour unbecoming of shop staff.",
+          "choices": [
+            "にかたくない",
+            "に足[た]る",
+            "にあるまじき",
+            "をおいて"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "賄賂[わいろ]を受[う]け取[と]るなど、公務員[こうむいん]としてある＿＿ことだ。",
+          "en": "Accepting bribes is something a public servant should never do.",
+          "choices": [
+            "まじく",
+            "べからず",
+            "まい",
+            "まじき"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-bekarazu",
+      "title": "〜べからず／〜べからざる",
+      "meaning": "must not (prohibition); indispensable / unforgivable",
+      "structure": "Verb (dictionary form) + べからず (する → すべからず) / Verb + べからざる + Noun",
+      "explanation": "{べからず} is the classical negative of {べし} 'should'. It means 'must not' and appears in old-style signs, proverbs and rules — think 'Keep off the grass'.\n\n{べからざる} is its noun-modifying form: {欠[か]くべからざる} 'indispensable (that must not be lacking)', {許[ゆる]すべからざる} 'unforgivable'.\n\nFamous phrases: {初心[しょしん]忘[わす]るべからず} 'never forget your beginner's spirit' (uses classical {忘[わす]る}), {働[はたら]かざる者[もの]食[く]うべからず} 'he who does not work shall not eat'.\n\n**Register:** classical and written. You'll see {べからず} on temple signs, retro notices and in proverbs; {欠[か]くべからざる} in formal writing. Not used in conversation, except jokingly.",
+      "examples": [
+        {
+          "jp": "芝生[しばふ]に入[はい]るべからず。",
+          "en": "Keep off the grass."
+        },
+        {
+          "jp": "初心[しょしん]忘[わす]るべからず。",
+          "en": "Never forget the spirit you started with."
+        },
+        {
+          "jp": "働[はたら]かざる者[もの]、食[く]うべからず。",
+          "en": "He who does not work, neither shall he eat."
+        },
+        {
+          "jp": "水[みず]は人間[にんげん]の生活[せいかつ]に欠[か]くべからざるものだ。",
+          "en": "Water is indispensable to human life."
+        }
+      ],
+      "notes": "{べからず} ends a sentence; {べからざる} must be followed by a noun. Compare {〜べきではない} 'should not', the modern equivalent.",
+      "quiz": [
+        {
+          "q": "「ここにゴミを捨[す]てる＿＿」という看板[かんばん]が立[た]っている。",
+          "en": "There's a sign saying 'Do not dump rubbish here'.",
+          "choices": [
+            "べからざる",
+            "べからず",
+            "まじき",
+            "べく"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "彼[かれ]は今[いま]やこのチームにとって欠[か]く＿＿存在[そんざい]だ。",
+          "en": "He has now become indispensable to this team.",
+          "choices": [
+            "べからざる",
+            "べからず",
+            "べく",
+            "べし"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-you-ga-mai-ga",
+      "title": "〜(よ)うが〜まいが",
+      "meaning": "whether or not; regardless of whether",
+      "structure": "Verb volitional + が + Verb (dictionary form / ない-stem) + まいが / Verb volitional + と + Verb + まいと",
+      "explanation": "{まい} is a classical negative volitional ('won't, not intend to'). Pairing a verb's volitional form with its {まい} form gives 'whether X happens or not': {降[ふ]ろうが降[ふ]るまいが} 'whether it rains or not'. The conclusion (unchanged) follows. {〜ようと〜まいと} is a variant with the same meaning.\n\n{まい} forms: Group 1 — dictionary form + {まい} ({行[い]くまい}); Group 2 — {食[た]べまい} or {食[た]べるまい}; {する} → {するまい／しまい／すまい}; {来[く]る} → {来[く]るまい／来[こ]まい}.\n\n**Register:** fairly formal but used in emphatic speech too ({信[しん]じようが信[しん]じまいが}). A stronger version of {〜ても〜なくても}.",
+      "examples": [
+        {
+          "jp": "雨[あめ]が降[ふ]ろうが降[ふ]るまいが、試合[しあい]は行[おこな]われる。",
+          "en": "Whether it rains or not, the match will go ahead."
+        },
+        {
+          "jp": "信[しん]じようが信[しん]じまいが、これは本当[ほんとう]にあった話[はなし]だ。",
+          "en": "Believe it or not, this really happened."
+        },
+        {
+          "jp": "君[きみ]が賛成[さんせい]しようがしまいが、私[わたし]の気持[きも]ちは変[か]わらない。",
+          "en": "Whether you agree or not, my feelings won't change."
+        },
+        {
+          "jp": "彼[かれ]が来[こ]ようが来[く]るまいが、会議[かいぎ]は予定[よてい]どおり始[はじ]める。",
+          "en": "Whether he comes or not, we'll start the meeting as scheduled."
+        }
+      ],
+      "notes": "{〜まい} alone also means 'probably not' or 'I won't': {二度[にど]と行[い]くまい} 'I'll never go again' (see Unit 14).",
+      "quiz": [
+        {
+          "q": "君[きみ]が行[い]こうが行[い]く＿＿、私[わたし]は一人[ひとり]で行[い]く。",
+          "en": "Whether you go or not, I'm going on my own.",
+          "choices": [
+            "まいが",
+            "ずが",
+            "ぬが",
+            "べきが"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "彼[かれ]が＿＿しまいが、私[わたし]には関係[かんけい]ない。",
+          "en": "Whether he gets married or not has nothing to do with me.",
+          "choices": [
+            "結婚[けっこん]するが",
+            "結婚[けっこん]すれば",
+            "結婚[けっこん]しようが",
+            "結婚[けっこん]しても"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-you-ni-mo-nai",
+      "title": "〜(よ)うにも〜ない",
+      "meaning": "(even if I) want to (X), I can't",
+      "structure": "Verb volitional + にも + same verb (potential, negative)",
+      "explanation": "{〜(よ)うにも〜ない} means 'I'd like to do X / I try to do X, but circumstances make it impossible'. The same verb is repeated: {買[か]おうにも買[か]えない} 'I want to buy it but can't', {帰[かえ]ろうにも帰[かえ]れない} 'I want to go home but can't'.\n\nThe reason is usually stated first: no money, no trains, a fever, not knowing someone's number.\n\n**Register:** neutral; used in conversation as well as writing. A natural, practical pattern.",
+      "examples": [
+        {
+          "jp": "財布[さいふ]を忘[わす]れたので、買[か]おうにも買[か]えなかった。",
+          "en": "I'd forgotten my wallet, so I couldn't buy it even though I wanted to."
+        },
+        {
+          "jp": "熱[ねつ]が高[たか]くて、起[お]きようにも起[お]きられない。",
+          "en": "My fever is so high I can't get up, however much I try."
+        },
+        {
+          "jp": "終電[しゅうでん]が出[で]てしまい、帰[かえ]ろうにも帰[かえ]れなくなった。",
+          "en": "The last train had gone, so I couldn't get home."
+        },
+        {
+          "jp": "彼[かれ]の連絡先[れんらくさき]が分[わ]からないので、謝[あやま]ろうにも謝[あやま]れない。",
+          "en": "I don't know how to contact him, so I can't apologise even though I want to."
+        }
+      ],
+      "notes": "The second verb is in potential negative form ({〜られない}, {〜えない}). With {する}-verbs: {連絡[れんらく]しようにもできない}.",
+      "quiz": [
+        {
+          "q": "電話[でんわ]番号[ばんごう]を知[し]らないので、連絡[れんらく]しよう＿＿できない。",
+          "en": "I don't know her phone number, so I can't contact her even if I want to.",
+          "choices": [
+            "から",
+            "では",
+            "にも",
+            "なら"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "足[あし]をけがしているので、逃[に]げようにも＿＿。",
+          "en": "I've hurt my leg, so I can't run away even if I want to.",
+          "choices": [
+            "逃[に]げられない",
+            "逃[に]げない",
+            "逃[に]げた",
+            "逃[に]げよう"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-de-wa-arumaishi",
+      "title": "〜ではあるまいし／〜じゃあるまいし",
+      "meaning": "it's not as if (you're X), so ...",
+      "structure": "Noun + ではあるまいし / じゃあるまいし",
+      "explanation": "{〜ではあるまいし} means 'you're not X, so (obviously)...'. It dismisses a situation as unnecessary or ridiculous by pointing out that the person isn't a child, a god, a beginner, etc. The second half is usually advice, criticism or a statement of the obvious: {子[こ]どもじゃあるまいし、一人[ひとり]で行[い]けるでしょう} 'You're not a child — you can go by yourself.'\n\n**Register:** {じゃあるまいし} is conversational and very common in real speech — often used to tease or scold. Not for formal writing or for speaking to superiors.",
+      "examples": [
+        {
+          "jp": "子[こ]どもじゃあるまいし、一人[ひとり]で病院[びょういん]ぐらい行[い]けるでしょう。",
+          "en": "You're not a child — you can at least go to the hospital on your own."
+        },
+        {
+          "jp": "初[はじ]めてじゃあるまいし、そんなに緊張[きんちょう]することはないよ。",
+          "en": "It's not your first time — no need to be so nervous."
+        },
+        {
+          "jp": "神様[かみさま]ではあるまいし、未来[みらい]のことなんて分[わ]かるはずがない。",
+          "en": "I'm not God — how could I possibly know the future?"
+        },
+        {
+          "jp": "一生[いっしょう]会[あ]えないわけではあるまいし、そんなに泣[な]かないで。",
+          "en": "It's not as if we'll never see each other again, so don't cry like that."
+        }
+      ],
+      "notes": "Similar to {〜ではないのだから}, but more emotional and dismissive.",
+      "quiz": [
+        {
+          "q": "子[こ]ども＿＿、そんなことで泣[な]くなよ。",
+          "en": "You're not a kid — don't cry over something like that.",
+          "choices": [
+            "ならでは",
+            "なりに",
+            "じゃあるまいし",
+            "とあって"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "超能力者[ちょうのうりょくしゃ]で＿＿、人[ひと]の心[こころ]なんて読[よ]めるわけがない。",
+          "en": "I'm not a psychic — there's no way I can read people's minds.",
+          "choices": [
+            "はあるべく",
+            "もあろうに",
+            "はあるべからず",
+            "はあるまいし"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

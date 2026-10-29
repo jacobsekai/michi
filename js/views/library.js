@@ -1,7 +1,8 @@
 // Library: kana chart, word/kanji/grammar browsers, dictionary search, reading, Life & Work in Japan.
 import { html, raw, wordRuby } from '../util.js';
 import { D, LEVELS } from '../data.js';
-import { S, markDone } from '../store.js';
+import { S, markDone, save, newId, settings } from '../store.js';
+import { attachIme, finishKana } from '../ime.js';
 import { introduce, isLearned } from '../srs.js';
 import { CHART, toKata, toKana, toHira, HINTS } from '../kana.js';
 import { backBar, furi, proseHtml, audioBtn, wordBlock, kanjiBlock, grammarBlock, levelTabs, shortMeaning, runQuiz, statusPill } from '../ui.js';
@@ -19,6 +20,8 @@ export function libraryView(root) {
       ${tile('#/vocab/N5', '語', 'Vocabulary', `${counts.v.toLocaleString()} words, N5–N1`)}
       ${tile('#/kanji/N5', '漢', 'Kanji', `${D.kanji.length.toLocaleString()} kanji, N5–N1`)}
       ${tile('#/reading', '読', 'Reading', `${D.reading.length} graded stories & articles`)}
+      ${tile('#/mine', '✎', 'My words', 'Save words you meet in shows, games and life — they join your reviews')}
+      ${tile('#/exams', '試', 'Exams', 'JLPT mock exams N5–N1 and a placement test')}
       ${tile('#/life', '🗾', 'Life & Work in Japan', `${D.life.length} practical units: housing, ward office, jobs, keigo…`)}
     </div>`.s;
 }
@@ -241,3 +244,39 @@ function results(q) {
     ${none ? html`<p class="muted">No matches for “${q}”.</p>` : ''}`;
 }
 
+
+// ---- my words (sentence mining) ------------------------------------------------------------
+export function mineView(root) {
+  const list = Object.entries(S().custom).sort((a, b) => b[1].t - a[1].t);
+  root.innerHTML = html`
+    ${backBar('#/library', 'My words')}
+    <p class="muted small">Met a word in a show, game, song or conversation? Add it here and it joins your reviews. Learning words you've actually met is one of the most effective ways to grow vocabulary.</p>
+    <form class="card form mine-form">
+      <label>Japanese <input name="w" required placeholder="e.g. 推し" lang="ja"></label>
+      <label>Reading <input name="r" required placeholder="romaji or kana, e.g. oshi" data-ime></label>
+      <label>Meaning <input name="m" required placeholder="e.g. favourite (idol, character)"></label>
+      <label>Note <input name="note" placeholder="where you heard it, example sentence…"></label>
+      <button class="btn primary">Add to my reviews</button>
+    </form>
+    ${list.length ? html`<ul class="list card">${list.map(([id, c]) => html`<li class="row"><span class="jp">${c.w}</span><span class="jp muted">${c.r}</span><span class="muted">${c.m}</span><button class="icon-btn" data-del="${id}" aria-label="Delete">✕</button></li>`)}</ul>` : ''}`.s;
+  const form = root.querySelector('form');
+  attachIme(form.querySelector('[data-ime]'));
+  form.onsubmit = (e) => {
+    e.preventDefault();
+    const f = new FormData(form);
+    const id = newId();
+    S().custom[id] = { w: f.get('w').trim(), r: finishKana(f.get('r')), m: f.get('m').trim(), note: f.get('note').trim(), t: Date.now() };
+    introduce([`c:${id}`, ...(settings().reverseVocab ? [`x:${id}`] : [])]);
+    mineView(root);
+  };
+  root.querySelectorAll('[data-del]').forEach((b) => (b.onclick = () => {
+    if (!confirm('Delete this word and its reviews?')) return;
+    const id = b.dataset.del;
+    delete S().custom[id];
+    delete S().srs[`c:${id}`];
+    delete S().srs[`x:${id}`];
+    S().deleted = { ...(S().deleted || {}), [`c:${id}`]: Date.now(), [`x:${id}`]: Date.now(), [`custom:${id}`]: Date.now() };
+    save();
+    mineView(root);
+  }));
+}

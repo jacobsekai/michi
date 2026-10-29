@@ -1,0 +1,420 @@
+{
+  "id": "n4-u12",
+  "title": "Too much, easy to, just did: degree, timing and experience",
+  "summary": "Talk about excess ({すぎる}), ease and difficulty ({やすい}/{にくい}), ways of doing things ({方[かた]}), 'nothing but' ({ばかり}), what you've just done ({たばかり}, {ところ}), and experiences and occasional events ({たことがある}, {ことがある}).",
+  "points": [
+    {
+      "id": "n4-sugiru",
+      "title": "〜すぎる",
+      "meaning": "too (much) / overly",
+      "structure": "V-ます stem + すぎる / い-adj (drop い) + すぎる / な-adj + すぎる (いい → よすぎる)",
+      "explanation": "{すぎる} means 'to go past', so attached to a verb or adjective it means 'too much / too ~'.\n\n- Verbs: {ます}-stem + {すぎる}: {食[た]べすぎる} 'overeat', {飲[の]みすぎる} 'drink too much', {働[はたら]きすぎる}\n- {い}-adjectives: drop {い}: {高[たか]すぎる} 'too expensive', {大[おお]きすぎる}\n- {な}-adjectives: stem + {すぎる}: {静[しず]かすぎる}, {簡単[かんたん]すぎる}\n- Irregular: {いい} → {よすぎる}; {ない} → {なさすぎる}\n\n{すぎる} is a {る}-verb, so it conjugates normally: {食[た]べすぎた}, {高[たか]すぎます}, {多[おお]すぎて}. The stem {すぎ} works as a noun: {飲[の]みすぎに注意[ちゅうい]} 'beware of drinking too much'.\n\nIt usually implies something negative — 'more than is good'.",
+      "examples": [
+        {
+          "jp": "昨日[きのう]は飲[の]みすぎて、頭[あたま]が痛[いた]いです。",
+          "en": "I drank too much yesterday, and now I have a headache."
+        },
+        {
+          "jp": "この服[ふく]は私[わたし]には大[おお]きすぎる。",
+          "en": "These clothes are too big for me."
+        },
+        {
+          "jp": "この問題[もんだい]は簡単[かんたん]すぎて、つまらない。",
+          "en": "This problem is too easy — it's boring."
+        },
+        {
+          "jp": "仕事[しごと]が多[おお]すぎて、休[やす]む時間[じかん]がありません。",
+          "en": "I have too much work and no time to rest."
+        },
+        {
+          "jp": "スマホの使[つか]いすぎは目[め]に悪[わる]いですよ。",
+          "en": "Using your phone too much is bad for your eyes."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "このカレーは＿＿、食[た]べられません。",
+          "en": "This curry is too spicy; I can't eat it.",
+          "choices": [
+            "辛[から]すぎて",
+            "辛[から]くすぎて",
+            "辛[から]いすぎて",
+            "辛[から]さすぎて"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "ゆうべ、テレビを＿＿すぎて、寝[ね]るのが遅[おそ]くなった。",
+          "en": "Last night I watched too much TV, so I went to bed late.",
+          "choices": [
+            "見[み]",
+            "見[み]た",
+            "見[み]る",
+            "見[み]て"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-yasui-nikui",
+      "title": "〜やすい / 〜にくい",
+      "meaning": "easy to ~ / hard to ~",
+      "structure": "V-ます stem + やすい / にくい",
+      "explanation": "Attach {やすい} ('easy') or {にくい} ('hard') to a verb's {ます}-stem to say how easy something is to do: {読[よ]みやすい} 'easy to read', {分[わ]かりにくい} 'hard to understand', {使[つか]いやすい} 'easy to use', {歩[ある]きにくい} 'hard to walk in'.\n\nThe result is an {い}-adjective, so it conjugates like one: {使[つか]いやすかった}, {読[よ]みにくくて}, {分[わ]かりやすい説明[せつめい]} 'an easy-to-understand explanation'.\n\nIt can also describe a tendency — how easily something happens: {このコップは割[わ]れやすい} 'This glass breaks easily', {私[わたし]は風邪[かぜ]をひきやすい} 'I catch colds easily.'\n\nDon't confuse this {やすい} with {安[やす]い} 'cheap' — same sound, different word.",
+      "examples": [
+        {
+          "jp": "この辞書[じしょ]は字[じ]が大[おお]きくて見[み]やすいです。",
+          "en": "This dictionary has big print and is easy to read."
+        },
+        {
+          "jp": "先生[せんせい]の説明[せつめい]はとても分[わ]かりやすい。",
+          "en": "The teacher's explanations are very easy to understand."
+        },
+        {
+          "jp": "この靴[くつ]は歩[ある]きにくいので、あまり履[は]きません。",
+          "en": "These shoes are hard to walk in, so I don't wear them much."
+        },
+        {
+          "jp": "ガラスのコップは割[わ]れやすいから、気[き]をつけてね。",
+          "en": "Glass cups break easily, so be careful."
+        },
+        {
+          "jp": "この薬[くすり]は苦[にが]くて飲[の]みにくい。",
+          "en": "This medicine is bitter and hard to swallow."
+        }
+      ],
+      "notes": "{〜づらい} is similar to {にくい} but stresses that something is physically or emotionally uncomfortable to do: {言[い]いづらい} 'hard (awkward) to say'. You'll meet it at N3.",
+      "quiz": [
+        {
+          "q": "このペンは軽[かる]くて、とても＿＿です。",
+          "en": "This pen is light and very easy to write with.",
+          "choices": [
+            "書[か]けやすい",
+            "書[か]きやすい",
+            "書[か]くやすい",
+            "書[か]きにくい"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "彼[かれ]の字[じ]は小[ちい]さくて読[よ]み＿＿。",
+          "en": "His handwriting is small and hard to read.",
+          "choices": [
+            "たい",
+            "すぎる",
+            "やすい",
+            "にくい"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n4-kata",
+      "title": "〜方[かた]",
+      "meaning": "way of ~ing / how to ~",
+      "structure": "V-ます stem + 方[かた] (object: Noun + の + V-stem + 方[かた])",
+      "explanation": "Add {方[かた]} to a verb's {ます}-stem to make a noun meaning 'the way of doing it': {使[つか]い方[かた]} 'how to use', {読[よ]み方[かた]} 'how to read', {作[つく]り方[かた]} 'how to make', {行[い]き方[かた]} 'how to get there'.\n\nBecause the result is a **noun**, the object particle changes from {を} to {の}: {漢字[かんじ]を読[よ]む} → {漢字[かんじ]の読[よ]み方[かた]} 'how to read the kanji'. Other particles can stay, with {の} added: {駅[えき]までの行[い]き方[かた]} 'the way to the station'.\n\nFor {する}-verbs, use {仕方[しかた]}: {勉強[べんきょう]の仕方[しかた]} 'how to study' (not {勉強[べんきょう]し方[かた]}).\n\nA handy request: {〜の〜方[かた]を教[おし]えていただけませんか} 'Could you show me how to ~?'",
+      "examples": [
+        {
+          "jp": "この機械[きかい]の使[つか]い方[かた]を教[おし]えてください。",
+          "en": "Please show me how to use this machine."
+        },
+        {
+          "jp": "駅[えき]までの行[い]き方[かた]が分[わ]かりません。",
+          "en": "I don't know how to get to the station."
+        },
+        {
+          "jp": "母[はは]にカレーの作[つく]り方[かた]を習[なら]いました。",
+          "en": "I learned how to make curry from my mother."
+        },
+        {
+          "jp": "この漢字[かんじ]の読[よ]み方[かた]は難[むずか]しいです。",
+          "en": "The reading of this kanji is difficult."
+        },
+        {
+          "jp": "日本語[にほんご]の勉強[べんきょう]の仕方[しかた]を変[か]えてみました。",
+          "en": "I tried changing the way I study Japanese."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "すみません、この券売機[けんばいき]の＿＿を教[おし]えていただけませんか。",
+          "en": "Excuse me, could you show me how to use this ticket machine?",
+          "choices": [
+            "使[つか]って方[かた]",
+            "使[つか]いの方[かた]",
+            "使[つか]い方[かた]",
+            "使[つか]う方[かた]"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "おにぎり＿＿作[つく]り方[かた]を知[し]っていますか。",
+          "en": "Do you know how to make onigiri?",
+          "choices": [
+            "が",
+            "に",
+            "の",
+            "を"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n4-bakari",
+      "title": "〜ばかり (nothing but)",
+      "meaning": "only / nothing but / always ~ing",
+      "structure": "Noun + ばかり / V-て + ばかりいる",
+      "explanation": "{ばかり} means 'nothing but ~', and it often carries a complaint: there's too much of one thing.\n\n- **Noun + {ばかり}**: {肉[にく]ばかり食[た]べる} 'eat nothing but meat'. {ばかり} replaces {を} or {が}; other particles stay in front: {友[とも]だちとばかり遊[あそ]ぶ} 'only play with friends'.\n- **{V-て + ばかりいる}**: 'do nothing but ~ / always be ~ing': {遊[あそ]んでばかりいる} 'does nothing but play', {寝[ね]てばかりいた} 'did nothing but sleep'.\n\nCompare {だけ} 'only', which is neutral and just sets a limit: {肉[にく]だけ食[た]べた} 'I ate only meat (nothing else)'. {ばかり} adds 'way too much of it'.\n\nDon't mix it up with {たばかり} 'just did' (next point).",
+      "examples": [
+        {
+          "jp": "弟[おとうと]は肉[にく]ばかり食[た]べて、野菜[やさい]を食[た]べません。",
+          "en": "My little brother eats nothing but meat and doesn't eat vegetables."
+        },
+        {
+          "jp": "毎日[まいにち]雨[あめ]ばかりで、いやになります。",
+          "en": "It's been nothing but rain every day — I'm sick of it."
+        },
+        {
+          "jp": "うちの子[こ]はゲームをしてばかりいる。",
+          "en": "My kid does nothing but play video games."
+        },
+        {
+          "jp": "文句[もんく]ばかり言[い]わないで、手伝[てつだ]ってよ。",
+          "en": "Stop complaining all the time and help me."
+        },
+        {
+          "jp": "彼[かれ]は寝[ね]てばかりいて、全然[ぜんぜん]勉強[べんきょう]しない。",
+          "en": "He does nothing but sleep and never studies."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "週末[しゅうまつ]は寝[ね]て＿＿いて、どこにも行[い]かなかった。",
+          "en": "At the weekend I did nothing but sleep and didn't go anywhere.",
+          "choices": [
+            "まで",
+            "ばかり",
+            "だけ",
+            "しか"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "子[こ]どもがお菓子[かし]＿＿食[た]べて、ご飯[はん]を食[た]べない。",
+          "en": "The kids eat nothing but sweets and won't eat their meals.",
+          "choices": [
+            "ほど",
+            "ばかり",
+            "しか",
+            "ずつ"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n4-ta-bakari",
+      "title": "〜たばかり",
+      "meaning": "have just ~ (it feels recent)",
+      "structure": "V-た + ばかり (だ / なのに / の + Noun)",
+      "explanation": "{V-た + ばかり} means you **just** did something — it feels recent to you. {日本[にほん]に来[き]たばかりです} 'I've only just come to Japan.'\n\nThe key word is 'feels'. The actual time can be minutes or months; what matters is that the speaker sees it as recent. Someone who arrived three months ago can still say {来[き]たばかり}.\n\nUseful forms:\n\n- {〜たばかりなので} 'because I've only just ~': a polite excuse for not knowing things yet.\n- {〜たばかりなのに} 'even though I only just ~': {買[か]ったばかりなのに壊[こわ]れた} 'It broke even though I'd just bought it.'\n- {〜たばかりの + noun}: {買[か]ったばかりの傘[かさ]} 'an umbrella I'd just bought'.\n\nAt work, {入[はい]ったばかりです} is a great way to say you're new.",
+      "examples": [
+        {
+          "jp": "日本[にほん]に来[き]たばかりなので、まだ日本語[にほんご]がよく分[わ]かりません。",
+          "en": "I've only just come to Japan, so I don't understand Japanese well yet."
+        },
+        {
+          "jp": "さっき食[た]べたばかりなのに、もうお腹[なか]がすいた。",
+          "en": "I only just ate, but I'm already hungry."
+        },
+        {
+          "jp": "買[か]ったばかりの傘[かさ]をなくしてしまった。",
+          "en": "I lost the umbrella I'd just bought."
+        },
+        {
+          "jp": "この会社[かいしゃ]に入[はい]ったばかりです。よろしくお願[ねが]いします。",
+          "en": "I've just joined this company. I look forward to working with you."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "先月[せんげつ]この町[まち]に＿＿ばかりなので、まだ友[とも]だちがいません。",
+          "en": "I only moved to this town last month, so I don't have any friends yet.",
+          "choices": [
+            "引[ひ]っ越[こ]して",
+            "引[ひ]っ越[こ]す",
+            "引[ひ]っ越[こ]した",
+            "引[ひ]っ越[こ]そう"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "これは昨日[きのう]買[か]ったばかり＿＿パソコンです。",
+          "en": "This is a computer I just bought yesterday.",
+          "choices": [
+            "の",
+            "に",
+            "だ",
+            "な"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-tokoro",
+      "title": "〜ところだ",
+      "meaning": "be about to / be in the middle of / have just ~",
+      "structure": "V-dictionary + ところ / V-ている + ところ / V-た + ところ",
+      "explanation": "{ところ} means 'place', but here it marks a **point in time** within an action. The verb form before it tells you which point:\n\n- **Dictionary form + {ところ}**: about to. {これから出[で]かけるところです} 'I'm just about to go out.'\n- **{ている} + {ところ}**: right in the middle of it. {今[いま]、ご飯[はん]を作[つく]っているところです} 'I'm in the middle of cooking.'\n- **{た} + {ところ}**: just finished, moments ago. {今[いま]、駅[えき]に着[つ]いたところです} 'I've just this moment arrived at the station.'\n\nCompare {たところ} with {たばかり}: {たところ} is literally a moment ago (objective), while {たばかり} can stretch to weeks or months if it feels recent.\n\nTime words that often appear with it: {これから}, {今[いま]}, {ちょうど}, {たった今[いま]}.",
+      "examples": [
+        {
+          "jp": "これから出[で]かけるところです。",
+          "en": "I'm just about to head out."
+        },
+        {
+          "jp": "今[いま]、晩[ばん]ご飯[はん]を作[つく]っているところだから、ちょっと待[ま]って。",
+          "en": "I'm in the middle of making dinner, so hang on a moment."
+        },
+        {
+          "jp": "ちょうど今[いま]、駅[えき]に着[つ]いたところです。",
+          "en": "I've just this moment arrived at the station."
+        },
+        {
+          "jp": "A：もう宿題[しゅくだい]終[お]わった？ B：うん、今[いま]終[お]わったところ。",
+          "en": "A: Have you finished your homework yet? B: Yeah, I just finished."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "A：もう出[で]かけましたか。 B：いいえ、これから＿＿ところです。",
+          "en": "A: Have you left already? B: No, I'm just about to leave.",
+          "choices": [
+            "出[で]かけている",
+            "出[で]かける",
+            "出[で]かけよう",
+            "出[で]かけた"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A：もう着[つ]きましたか。 B：はい、たった今[いま]＿＿ところです。",
+          "en": "A: Have you arrived yet? B: Yes, I've just this moment arrived.",
+          "choices": [
+            "着[つ]いている",
+            "着[つ]こう",
+            "着[つ]く",
+            "着[つ]いた"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n4-ta-koto-ga-aru",
+      "title": "〜たことがある",
+      "meaning": "have (ever) done ~ (experience)",
+      "structure": "V-た + ことがある / V-た + ことがない",
+      "explanation": "{V-た + ことがある} talks about **life experience**: 'I have (at some point) done ~'. {富士山[ふじさん]に登[のぼ]ったことがある} 'I've climbed Mt. Fuji.' The negative {〜たことがない} means 'I've never ~'.\n\nAsk with {〜たことがありますか} 'Have you ever ~?' and answer simply {はい、あります} or {いいえ、ありません}. Add frequency words for detail: {一度[いちど]}, {二回[にかい]}, {何度[なんど]も} 'many times', {一度[いちど]も〜ない} 'never once'.\n\nIt's only for experiences that are notable over your lifetime — not for routine things you did recently. Saying {今朝[けさ]コーヒーを飲[の]んだことがある} would sound very strange; just say {今朝[けさ]コーヒーを飲[の]んだ}.",
+      "examples": [
+        {
+          "jp": "私[わたし]は富士山[ふじさん]に登[のぼ]ったことがあります。",
+          "en": "I've climbed Mt. Fuji."
+        },
+        {
+          "jp": "馬[うま]に乗[の]ったことがありますか。",
+          "en": "Have you ever ridden a horse?"
+        },
+        {
+          "jp": "すしは食[た]べたことがありますが、てんぷらはまだ食[た]べたことがありません。",
+          "en": "I've eaten sushi, but I've never had tempura yet."
+        },
+        {
+          "jp": "日本[にほん]には一度[いちど]も行[い]ったことがない。",
+          "en": "I've never once been to Japan."
+        },
+        {
+          "jp": "この映画[えいが]は何度[なんど]も見[み]たことがある。",
+          "en": "I've seen this movie many times."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "日本[にほん]の温泉[おんせん]に＿＿ことがありますか。",
+          "en": "Have you ever been in a Japanese hot spring?",
+          "choices": [
+            "入[はい]って",
+            "入[はい]り",
+            "入[はい]ろう",
+            "入[はい]った"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "私[わたし]は一度[いちど]も飛行機[ひこうき]に乗[の]った＿＿。",
+          "en": "I have never once been on a plane.",
+          "choices": [
+            "ことがありません",
+            "ことがあります",
+            "ことにしました",
+            "ところです"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-koto-ga-aru",
+      "title": "〜ことがある (sometimes)",
+      "meaning": "sometimes / there are times when ~",
+      "structure": "V-dictionary / V-ない + ことがある",
+      "explanation": "With the **dictionary** form instead of the {た}-form, {ことがある} means something happens **occasionally**: 'there are times when ~'. {忙[いそが]しいときは、昼[ひる]ご飯[はん]を食[た]べないことがある} 'When I'm busy, there are times I skip lunch.'\n\nIt often appears with {時々[ときどき]} 'sometimes' or {たまに} 'once in a while'.\n\nCompare carefully:\n\n- {日本[にほん]に行[い]ったことがある} 'I have been to Japan (once in my life).' — experience\n- {日本[にほん]に行[い]くことがある} 'I sometimes go to Japan.' — occasional event\n\nIt's also handy for warnings in notices: {この電車[でんしゃ]は遅[おく]れることがあります} 'This train is sometimes delayed.'",
+      "examples": [
+        {
+          "jp": "忙[いそが]しいときは、昼[ひる]ご飯[はん]を食[た]べないことがあります。",
+          "en": "When I'm busy, I sometimes skip lunch."
+        },
+        {
+          "jp": "私[わたし]は時々[ときどき]、会社[かいしゃ]まで歩[ある]いて行[い]くことがある。",
+          "en": "I sometimes walk to the office."
+        },
+        {
+          "jp": "この電車[でんしゃ]は、雪[ゆき]の日[ひ]に遅[おく]れることがあります。",
+          "en": "This train is sometimes delayed on snowy days."
+        },
+        {
+          "jp": "たまに、日本語[にほんご]で夢[ゆめ]を見[み]ることがあります。",
+          "en": "Once in a while, I dream in Japanese."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "忙[いそが]しいときは、朝[あさ]ご飯[はん]を＿＿ことがあります。",
+          "en": "When I'm busy, I sometimes don't eat breakfast.",
+          "choices": [
+            "食[た]べないで",
+            "食[た]べない",
+            "食[た]べなくて",
+            "食[た]べず"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "疲[つか]れているときは、電車[でんしゃ]の中[なか]で寝[ね]て＿＿ことがあります。",
+          "en": "When I'm tired, I sometimes end up falling asleep on the train.",
+          "choices": [
+            "しまい",
+            "しまえ",
+            "しまお",
+            "しまう"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

@@ -10,25 +10,50 @@
       "structure": "る-verb: drop る + られる (褒[ほ]める → 褒[ほ]められる) / う-verb: a-sound + れる (呼[よ]ぶ → 呼[よ]ばれる) / する → される, 来[く]る → 来[こ]られる",
       "explanation": "The passive puts the person who **receives** an action in the subject position. {先生[せんせい]が私[わたし]を褒[ほ]めた} 'The teacher praised me' → {私[わたし]は先生[せんせい]に褒[ほ]められた} 'I was praised by the teacher.' The doer is marked with {に}.\n\nHow to make it:\n\n- {る}-verbs: drop {る}, add {られる}: {食[た]べられる}, {見[み]られる} (same as the potential)\n- {う}-verbs: last sound to the a-row + {れる}: {書[か]かれる}, {呼[よ]ばれる}, {読[よ]まれる}, {待[ま]たれる}; for verbs ending in {う}, use {わ}: {言[い]う} → {言[い]われる}\n- {する} → {される}, {来[く]る} → {来[こ]られる}\n\nThe result conjugates as a {る}-verb: {褒[ほ]められました}, {叱[しか]られない}.\n\nJapanese uses the passive a lot to keep the sentence about 'me' when things happen to you.",
       "examples": [
-        { "jp": "私[わたし]は先生[せんせい]に褒[ほ]められました。", "en": "I was praised by the teacher." },
-        { "jp": "弟[おとうと]は母[はは]に叱[しか]られた。", "en": "My little brother got scolded by our mother." },
-        { "jp": "友[とも]だちにパーティーに誘[さそ]われました。", "en": "I was invited to a party by a friend." },
-        { "jp": "駅[えき]で知[し]らない人[ひと]に道[みち]を聞[き]かれました。", "en": "At the station, a stranger asked me for directions." },
-        { "jp": "子[こ]どものとき、よく犬[いぬ]にかまれた。", "en": "When I was a child, I often got bitten by dogs." }
+        {
+          "jp": "私[わたし]は先生[せんせい]に褒[ほ]められました。",
+          "en": "I was praised by the teacher."
+        },
+        {
+          "jp": "弟[おとうと]は母[はは]に叱[しか]られた。",
+          "en": "My little brother got scolded by our mother."
+        },
+        {
+          "jp": "友[とも]だちにパーティーに誘[さそ]われました。",
+          "en": "I was invited to a party by a friend."
+        },
+        {
+          "jp": "駅[えき]で知[し]らない人[ひと]に道[みち]を聞[き]かれました。",
+          "en": "At the station, a stranger asked me for directions."
+        },
+        {
+          "jp": "子[こ]どものとき、よく犬[いぬ]にかまれた。",
+          "en": "When I was a child, I often got bitten by dogs."
+        }
       ],
       "notes": "For {る}-verbs the passive and potential look identical ({食[た]べられる} = 'can eat' or 'be eaten'). The {ら}-dropped form {食[た]べれる} is only ever potential, never passive.",
       "quiz": [
         {
           "q": "教室[きょうしつ]で先生[せんせい]に名前[なまえ]を＿＿。",
           "en": "In the classroom, my name was called by the teacher.",
-          "choices": ["呼[よ]ばれました", "呼[よ]まれました", "呼[よ]べました", "呼[よ]びられました"],
+          "choices": [
+            "呼[よ]ばれました",
+            "呼[よ]べました",
+            "呼[よ]まれました",
+            "呼[よ]びられました"
+          ],
           "answer": 0
         },
         {
           "q": "私[わたし]は母[はは]に＿＿。",
           "en": "I was scolded by my mother.",
-          "choices": ["叱[しか]られた", "叱[しか]れた", "叱[しか]らせた", "叱[しか]った"],
-          "answer": 0
+          "choices": [
+            "叱[しか]らせた",
+            "叱[しか]った",
+            "叱[しか]れた",
+            "叱[しか]られた"
+          ],
+          "answer": 3
         }
       ]
     },
@@ -39,23 +64,48 @@
       "structure": "私[わたし]は + Doer に + My thing を + passive verb",
       "explanation": "When someone does something to your belongings or your body, Japanese makes **you** the subject and keeps the thing with {を}: {私[わたし]は電車[でんしゃ]で足[あし]を踏[ふ]まれた} 'I had my foot stepped on on the train.'\n\nEnglish would say 'My foot was stepped on', but the Japanese {私[わたし]の足[あし]が踏[ふ]まれた} sounds unnatural. The point is that **you** were affected.\n\nThis pattern usually carries a feeling of annoyance or damage — something stolen, read, eaten, broken. But it can be positive too: {先生[せんせい]に作文[さくぶん]を褒[ほ]められた} 'I had my essay praised by the teacher.'\n\nThe {私[わたし]は} is often left out when it's obvious.",
       "examples": [
-        { "jp": "電車[でんしゃ]の中[なか]で、隣[となり]の人[ひと]に足[あし]を踏[ふ]まれました。", "en": "On the train, the person next to me stepped on my foot." },
-        { "jp": "昨日[きのう]、駅[えき]で財布[さいふ]を盗[ぬす]まれた。", "en": "I had my wallet stolen at the station yesterday." },
-        { "jp": "弟[おとうと]に私[わたし]のケーキを食[た]べられた。", "en": "My little brother ate my cake (and I'm annoyed)." },
-        { "jp": "先生[せんせい]に作文[さくぶん]を褒[ほ]められて、うれしかったです。", "en": "I was happy that the teacher praised my essay." },
-        { "jp": "母[はは]に日記[にっき]を読[よ]まれてしまった。", "en": "My mother read my diary (oh no)." }
+        {
+          "jp": "電車[でんしゃ]の中[なか]で、隣[となり]の人[ひと]に足[あし]を踏[ふ]まれました。",
+          "en": "On the train, the person next to me stepped on my foot."
+        },
+        {
+          "jp": "昨日[きのう]、駅[えき]で財布[さいふ]を盗[ぬす]まれた。",
+          "en": "I had my wallet stolen at the station yesterday."
+        },
+        {
+          "jp": "弟[おとうと]に私[わたし]のケーキを食[た]べられた。",
+          "en": "My little brother ate my cake (and I'm annoyed)."
+        },
+        {
+          "jp": "先生[せんせい]に作文[さくぶん]を褒[ほ]められて、うれしかったです。",
+          "en": "I was happy that the teacher praised my essay."
+        },
+        {
+          "jp": "母[はは]に日記[にっき]を読[よ]まれてしまった。",
+          "en": "My mother read my diary (oh no)."
+        }
       ],
       "quiz": [
         {
           "q": "私[わたし]は泥棒[どろぼう]に自転車[じてんしゃ]＿＿盗[ぬす]まれました。",
           "en": "I had my bicycle stolen by a thief.",
-          "choices": ["を", "が", "に", "で"],
-          "answer": 0
+          "choices": [
+            "に",
+            "で",
+            "が",
+            "を"
+          ],
+          "answer": 3
         },
         {
           "q": "妹[いもうと]に私[わたし]のシャツを勝手[かって]に＿＿。",
           "en": "My little sister wore my shirt without asking (and I'm annoyed).",
-          "choices": ["着[き]られた", "着[き]た", "着[き]させた", "着[き]れた"],
+          "choices": [
+            "着[き]られた",
+            "着[き]させた",
+            "着[き]た",
+            "着[き]れた"
+          ],
           "answer": 0
         }
       ]
@@ -65,25 +115,47 @@
       "title": "Suffering passive (雨[あめ]に降[ふ]られた)",
       "meaning": "be (negatively) affected by something happening",
       "structure": "私[わたし]は + Cause に + passive verb (even intransitive verbs)",
-      "explanation": "Japanese can even make passives from **intransitive** verbs — verbs with no object, like 'rain', 'cry', 'come' or 'quit'. The meaning is: 'this happened, and I was troubled by it.'\n\n- {雨[あめ]に降[ふ]られた} 'I got rained on.'\n- {赤[あか]ちゃんに泣[な]かれた} 'The baby cried (and I had a hard time).'\n- {友[とも]だちに来[こ]られて、勉強[べんきょう]できなかった} 'A friend came over, and I couldn't study.'\n\nEnglish has no direct equivalent; it's like adding 'on me' ('the baby cried on me'). Compare {雨[あめ]が降[ふ]った} 'It rained' — just a fact — with {雨[あめ]に降[ふ]られた} 'I got caught in the rain' — it happened to me, and it was a nuisance.",
+      "explanation": "Japanese can even make passives from **intransitive** verbs — verbs with no object, like 'rain', 'cry' or 'come'. The meaning is: 'this happened, and I was troubled by it.' (Transitive verbs can carry the same feeling too: {隣[となり]の人[ひと]にたばこを吸[す]われた}.)\n\n- {雨[あめ]に降[ふ]られた} 'I got rained on.'\n- {赤[あか]ちゃんに泣[な]かれた} 'The baby cried (and I had a hard time).'\n- {友[とも]だちに来[こ]られて、勉強[べんきょう]できなかった} 'A friend came over, and I couldn't study.'\n\nEnglish has no direct equivalent; it's like adding 'on me' ('the baby cried on me'). Compare {雨[あめ]が降[ふ]った} 'It rained' — just a fact — with {雨[あめ]に降[ふ]られた} 'I got caught in the rain' — it happened to me, and it was a nuisance.",
       "examples": [
-        { "jp": "帰[かえ]りに雨[あめ]に降[ふ]られて、服[ふく]がぬれてしまった。", "en": "I got caught in the rain on the way home, and my clothes got soaked." },
-        { "jp": "夜中[よなか]に赤[あか]ちゃんに泣[な]かれて、よく眠[ねむ]れなかった。", "en": "The baby cried in the middle of the night, so I couldn't sleep well." },
-        { "jp": "試験[しけん]の前[まえ]の日[ひ]に友[とも]だちに来[こ]られて、勉強[べんきょう]できなかった。", "en": "A friend came over the day before the exam, so I couldn't study." },
-        { "jp": "隣[となり]の人[ひと]に夜遅[よるおそ]くまで騒[さわ]がれて、困[こま]っています。", "en": "The neighbours make noise until late at night, and it's a real problem for me." }
+        {
+          "jp": "帰[かえ]りに雨[あめ]に降[ふ]られて、服[ふく]がぬれてしまった。",
+          "en": "I got caught in the rain on the way home, and my clothes got soaked."
+        },
+        {
+          "jp": "夜中[よなか]に赤[あか]ちゃんに泣[な]かれて、よく眠[ねむ]れなかった。",
+          "en": "The baby cried in the middle of the night, so I couldn't sleep well."
+        },
+        {
+          "jp": "試験[しけん]の前[まえ]の日[ひ]に友[とも]だちに来[こ]られて、勉強[べんきょう]できなかった。",
+          "en": "A friend came over the day before the exam, so I couldn't study."
+        },
+        {
+          "jp": "隣[となり]の人[ひと]に夜遅[よるおそ]くまで騒[さわ]がれて、困[こま]っています。",
+          "en": "The neighbours make noise until late at night, and it's a real problem for me."
+        }
       ],
       "quiz": [
         {
           "q": "出[で]かけたら、急[きゅう]に雨[あめ]に＿＿。",
           "en": "When I went out, I suddenly got caught in the rain.",
-          "choices": ["降[ふ]られた", "降[ふ]った", "降[ふ]らせた", "降[ふ]れた"],
+          "choices": [
+            "降[ふ]られた",
+            "降[ふ]った",
+            "降[ふ]らせた",
+            "降[ふ]れた"
+          ],
           "answer": 0
         },
         {
           "q": "レストランで隣[となり]の人[ひと]にたばこを＿＿、嫌[いや]だった。",
           "en": "At the restaurant, the person next to me smoked, and I hated it.",
-          "choices": ["吸[す]われて", "吸[す]って", "吸[す]わせて", "吸[す]えて"],
-          "answer": 0
+          "choices": [
+            "吸[す]って",
+            "吸[す]えて",
+            "吸[す]われて",
+            "吸[す]わせて"
+          ],
+          "answer": 2
         }
       ]
     },
@@ -94,24 +166,49 @@
       "structure": "Thing は/が + passive verb / Creator + によって + passive verb",
       "explanation": "The passive is also used for neutral facts about **things**, where who did it doesn't matter: history, products, events, news. {このお寺[てら]は五百年前[ごひゃくねんまえ]に建[た]てられた} 'This temple was built 500 years ago.' {日本語[にほんご]は日本[にほん]で話[はな]されている} 'Japanese is spoken in Japan.'\n\nWhen you do name the creator of a work — a book, a building, an invention — use {によって} rather than {に}: {この本[ほん]は有名[ゆうめい]な作家[さっか]によって書[か]かれた}.\n\nFor what something is made from, use {から} (when the material is transformed) or {で} (when you can still see it): {お酒[さけ]は米[こめ]から作[つく]られる}, {この家[いえ]は木[き]で作[つく]られている}.",
       "examples": [
-        { "jp": "このお寺[てら]は五百年前[ごひゃくねんまえ]に建[た]てられました。", "en": "This temple was built five hundred years ago." },
-        { "jp": "日本語[にほんご]は主[おも]に日本[にほん]で話[はな]されています。", "en": "Japanese is spoken mainly in Japan." },
-        { "jp": "このお酒[さけ]は米[こめ]から作[つく]られています。", "en": "This sake is made from rice." },
-        { "jp": "オリンピックは四年[よねん]に一度[いちど]開[ひら]かれます。", "en": "The Olympics are held once every four years." },
-        { "jp": "電話[でんわ]はベルによって発明[はつめい]されました。", "en": "The telephone was invented by Bell." }
+        {
+          "jp": "このお寺[てら]は五百年前[ごひゃくねんまえ]に建[た]てられました。",
+          "en": "This temple was built five hundred years ago."
+        },
+        {
+          "jp": "日本語[にほんご]は主[おも]に日本[にほん]で話[はな]されています。",
+          "en": "Japanese is spoken mainly in Japan."
+        },
+        {
+          "jp": "このお酒[さけ]は米[こめ]から作[つく]られています。",
+          "en": "This sake is made from rice."
+        },
+        {
+          "jp": "オリンピックは四年[よねん]に一度[いちど]開[ひら]かれます。",
+          "en": "The Olympics are held once every four years."
+        },
+        {
+          "jp": "電話[でんわ]はベルによって発明[はつめい]されました。",
+          "en": "The telephone was invented by Bell."
+        }
       ],
       "quiz": [
         {
           "q": "この歌[うた]は世界中[せかいじゅう]で＿＿います。",
           "en": "This song is sung all over the world.",
-          "choices": ["歌[うた]われて", "歌[うた]って", "歌[うた]わせて", "歌[うた]えて"],
+          "choices": [
+            "歌[うた]われて",
+            "歌[うた]えて",
+            "歌[うた]って",
+            "歌[うた]わせて"
+          ],
           "answer": 0
         },
         {
           "q": "『源氏物語[げんじものがたり]』は紫式部[むらさきしきぶ]＿＿書[か]かれました。",
           "en": "The Tale of Genji was written by Murasaki Shikibu.",
-          "choices": ["によって", "にとって", "について", "によると"],
-          "answer": 0
+          "choices": [
+            "にとって",
+            "によって",
+            "によると",
+            "について"
+          ],
+          "answer": 1
         }
       ]
     },
@@ -122,24 +219,49 @@
       "structure": "る-verb: drop る + させる (食[た]べさせる) / う-verb: a-sound + せる (書[か]かせる) / する → させる, 来[く]る → 来[こ]させる",
       "explanation": "The causative means someone **makes** (or lets) another person do something. The causer is the subject.\n\nHow to make it:\n\n- {る}-verbs: drop {る}, add {させる}: {食[た]べさせる}, {見[み]させる}\n- {う}-verbs: last sound to the a-row + {せる}: {書[か]かせる}, {待[ま]たせる}, {飲[の]ませる}, {帰[かえ]らせる}; {言[い]う} → {言[い]わせる}\n- {する} → {させる}, {来[く]る} → {来[こ]させる}\n\nParticles for the person who is made to act:\n\n- If the verb already has an object with {を}, the person takes {に}: {子[こ]どもに野菜[やさい]を食[た]べさせる} 'make the child eat vegetables.'\n- With intransitive verbs, the person usually takes {を}: {部下[ぶか]を出張[しゅっちょう]させる} 'send a subordinate on a business trip.'\n\nIt also covers causing emotions: {母[はは]を心配[しんぱい]させる} 'make my mother worry'. And the everyday apology {お待[ま]たせしました} / {待[ま]たせてごめん} 'Sorry to keep you waiting' uses it too.",
       "examples": [
-        { "jp": "母[はは]は子[こ]どもに野菜[やさい]を食[た]べさせました。", "en": "The mother made her child eat vegetables." },
-        { "jp": "先生[せんせい]は学生[がくせい]に作文[さくぶん]を書[か]かせました。", "en": "The teacher had the students write an essay." },
-        { "jp": "部長[ぶちょう]は田中[たなか]さんを大阪[おおさか]へ出張[しゅっちょう]させた。", "en": "The manager sent Tanaka-san on a business trip to Osaka." },
-        { "jp": "弟[おとうと]はいつも母[はは]を心配[しんぱい]させる。", "en": "My little brother is always making our mother worry." },
-        { "jp": "待[ま]たせてすみません。", "en": "Sorry to keep you waiting." }
+        {
+          "jp": "母[はは]は子[こ]どもに野菜[やさい]を食[た]べさせました。",
+          "en": "The mother made her child eat vegetables."
+        },
+        {
+          "jp": "先生[せんせい]は学生[がくせい]に作文[さくぶん]を書[か]かせました。",
+          "en": "The teacher had the students write an essay."
+        },
+        {
+          "jp": "部長[ぶちょう]は田中[たなか]さんを大阪[おおさか]へ出張[しゅっちょう]させた。",
+          "en": "The manager sent Tanaka-san on a business trip to Osaka."
+        },
+        {
+          "jp": "弟[おとうと]はいつも母[はは]を心配[しんぱい]させる。",
+          "en": "My little brother is always making our mother worry."
+        },
+        {
+          "jp": "待[ま]たせてすみません。",
+          "en": "Sorry to keep you waiting."
+        }
       ],
       "quiz": [
         {
           "q": "先生[せんせい]は学生[がくせい]に教科書[きょうかしょ]を＿＿。",
           "en": "The teacher made the students read the textbook.",
-          "choices": ["読[よ]ませました", "読[よ]まれました", "読[よ]めました", "読[よ]ませられました"],
-          "answer": 0
+          "choices": [
+            "読[よ]ませられました",
+            "読[よ]めました",
+            "読[よ]まれました",
+            "読[よ]ませました"
+          ],
+          "answer": 3
         },
         {
           "q": "遅[おく]れてごめん。ずいぶん＿＿ね。",
           "en": "Sorry I'm late. I kept you waiting a long time, didn't I?",
-          "choices": ["待[ま]たせた", "待[ま]った", "待[ま]たれた", "待[ま]てた"],
-          "answer": 0
+          "choices": [
+            "待[ま]たれた",
+            "待[ま]たせた",
+            "待[ま]てた",
+            "待[ま]った"
+          ],
+          "answer": 1
         }
       ]
     },
@@ -150,23 +272,48 @@
       "structure": "Causative-て + あげる / くれる / もらう",
       "explanation": "The same causative form can mean **let** (allow) instead of **make**. Context decides: {子[こ]どもたちを公園[こうえん]で遊[あそ]ばせた} is naturally 'I let the kids play in the park.'\n\nTo make the 'let' meaning clear and friendly, combine the causative with the giving verbs from Unit 4:\n\n- {〜させてあげる}: I let someone do it (as a kindness). {子[こ]どもにゲームをさせてあげた}.\n- {〜させてくれる}: someone lets me do it. {父[ちち]は私[わたし]に車[くるま]を運転[うんてん]させてくれた} 'My father let me drive his car.'\n- {〜させてもらう}: I get permission to do it. {一日[いちにち]休[やす]ませてもらった} 'I was allowed to take a day off.'\n\nWith these, the causative feels warm, not forceful.",
       "examples": [
-        { "jp": "子[こ]どもたちを公園[こうえん]で自由[じゆう]に遊[あそ]ばせました。", "en": "I let the children play freely in the park." },
-        { "jp": "父[ちち]は私[わたし]に車[くるま]を運転[うんてん]させてくれた。", "en": "My father let me drive his car." },
-        { "jp": "疲[つか]れているみたいだから、少[すこ]し寝[ね]かせてあげよう。", "en": "He seems tired, so let's let him sleep a little." },
-        { "jp": "娘[むすめ]が行[い]きたいと言[い]ったので、アメリカに留学[りゅうがく]させました。", "en": "My daughter said she wanted to go, so we let her study abroad in America." },
-        { "jp": "体調[たいちょう]が悪[わる]かったので、会社[かいしゃ]を休[やす]ませてもらいました。", "en": "I wasn't feeling well, so I was allowed to take time off work." }
+        {
+          "jp": "子[こ]どもたちを公園[こうえん]で自由[じゆう]に遊[あそ]ばせました。",
+          "en": "I let the children play freely in the park."
+        },
+        {
+          "jp": "父[ちち]は私[わたし]に車[くるま]を運転[うんてん]させてくれた。",
+          "en": "My father let me drive his car."
+        },
+        {
+          "jp": "疲[つか]れているみたいだから、少[すこ]し寝[ね]かせてあげよう。",
+          "en": "He seems tired, so let's let him sleep a little."
+        },
+        {
+          "jp": "娘[むすめ]が行[い]きたいと言[い]ったので、アメリカに留学[りゅうがく]させました。",
+          "en": "My daughter said she wanted to go, so we let her study abroad in America."
+        },
+        {
+          "jp": "体調[たいちょう]が悪[わる]かったので、会社[かいしゃ]を休[やす]ませてもらいました。",
+          "en": "I wasn't feeling well, so I was allowed to take time off work."
+        }
       ],
       "quiz": [
         {
           "q": "母[はは]は、私[わたし]が子[こ]どものとき、夜遅[よるおそ]くまでテレビを見[み]＿＿くれませんでした。",
           "en": "When I was a child, my mother didn't let me watch TV until late at night.",
-          "choices": ["させて", "られて", "させられて", "たくて"],
-          "answer": 0
+          "choices": [
+            "られて",
+            "たくて",
+            "させられて",
+            "させて"
+          ],
+          "answer": 3
         },
         {
           "q": "父[ちち]は私[わたし]に一人[ひとり]で旅行[りょこう]＿＿くれました。",
           "en": "My father let me travel on my own.",
-          "choices": ["させて", "されて", "して", "させられて"],
+          "choices": [
+            "させて",
+            "して",
+            "されて",
+            "させられて"
+          ],
           "answer": 0
         }
       ]
@@ -178,24 +325,49 @@
       "structure": "Causative-て + ください / もらえませんか / いただけませんか / いただきます",
       "explanation": "Causative + {てください} literally means 'please let me ~'. It's how you volunteer or ask permission politely: {その仕事[しごと]、私[わたし]にやらせてください} 'Please let me do that job.' {少[すこ]し考[かんが]えさせてください} 'Let me think about it a little.'\n\nMore polite versions: {〜させてもらえませんか}, {〜させていただけませんか} 'Would you allow me to ~?' — ideal for asking a boss for time off.\n\nIn business Japanese you'll hear {〜させていただきます} everywhere. It humbly announces what you're going to do, as if you'd been given permission: {それでは、始[はじ]めさせていただきます} 'Well then, allow me to begin.' {本日[ほんじつ]は休[やす]ませていただきます} 'We are closed today.'\n\nWatch the {う}-verb form: {置[お]く} → {置[お]かせて}, not {置[お]かさせて}.",
       "examples": [
-        { "jp": "その仕事[しごと]、ぜひ私[わたし]にやらせてください。", "en": "Please let me do that job." },
-        { "jp": "少[すこ]し考[かんが]えさせてください。", "en": "Let me think about it a little." },
-        { "jp": "体調[たいちょう]が悪[わる]いので、今日[きょう]は早[はや]く帰[かえ]らせていただけませんか。", "en": "I'm not feeling well. Would you allow me to go home early today?" },
-        { "jp": "それでは、会議[かいぎ]を始[はじ]めさせていただきます。", "en": "Well then, allow me to start the meeting." },
-        { "jp": "写真[しゃしん]を撮[と]らせてもらえませんか。", "en": "Would you let me take a photo?" }
+        {
+          "jp": "その仕事[しごと]、ぜひ私[わたし]にやらせてください。",
+          "en": "Please let me do that job."
+        },
+        {
+          "jp": "少[すこ]し考[かんが]えさせてください。",
+          "en": "Let me think about it a little."
+        },
+        {
+          "jp": "体調[たいちょう]が悪[わる]いので、今日[きょう]は早[はや]く帰[かえ]らせていただけませんか。",
+          "en": "I'm not feeling well. Would you allow me to go home early today?"
+        },
+        {
+          "jp": "それでは、会議[かいぎ]を始[はじ]めさせていただきます。",
+          "en": "Well then, allow me to start the meeting."
+        },
+        {
+          "jp": "写真[しゃしん]を撮[と]らせてもらえませんか。",
+          "en": "Would you let me take a photo?"
+        }
       ],
       "quiz": [
         {
           "q": "すみません、ここに荷物[にもつ]を置[お]か＿＿ください。",
           "en": "Excuse me, please let me leave my bags here.",
-          "choices": ["せて", "させて", "れて", "て"],
-          "answer": 0
+          "choices": [
+            "て",
+            "れて",
+            "させて",
+            "せて"
+          ],
+          "answer": 3
         },
         {
           "q": "熱[ねつ]があるので、今日[きょう]は＿＿いただけませんか。",
           "en": "I have a fever. Could you let me take today off?",
-          "choices": ["休[やす]ませて", "休[やす]まれて", "休[やす]んで", "休[やす]めて"],
-          "answer": 0
+          "choices": [
+            "休[やす]まれて",
+            "休[やす]ませて",
+            "休[やす]めて",
+            "休[やす]んで"
+          ],
+          "answer": 1
         }
       ]
     },
@@ -206,24 +378,49 @@
       "structure": "る-verb: 〜させられる (食[た]べさせられる) / う-verb: a-sound + される (飲[の]まされる) / させられる, 来[こ]させられる",
       "explanation": "Combine causative and passive and you get 'be made to do': {私[わたし]は母[はは]に野菜[やさい]を食[た]べさせられた} 'I was made to eat vegetables by my mother.' The subject is the person who had to do it, and the one who forced them is marked with {に}. It always carries a feeling of reluctance.\n\nHow to make it: take the causative ({させる}) and make it passive ({させられる}).\n\n- {る}-verbs: {食[た]べさせられる}, {覚[おぼ]えさせられる}\n- {う}-verbs: the full form is {書[か]かせられる}, but the short form {書[か]かされる} is far more common: {飲[の]まされる}, {待[ま]たされる}, {行[い]かされる}. Exception: verbs ending in {す} only use the long form: {話[はな]させられる}.\n- {する} → {させられる}, {来[く]る} → {来[こ]させられる}\n\nYou'll hear this a lot when people complain about school, parents and work.",
       "examples": [
-        { "jp": "子[こ]どものとき、母[はは]に毎日[まいにち]ピアノを練習[れんしゅう]させられました。", "en": "As a child, my mother made me practise the piano every day." },
-        { "jp": "飲[の]み会[かい]で先輩[せんぱい]にお酒[さけ]をたくさん飲[の]まされた。", "en": "At the drinking party, my senior colleagues made me drink a lot." },
-        { "jp": "先生[せんせい]に教室[きょうしつ]の掃除[そうじ]をさせられた。", "en": "The teacher made me clean the classroom." },
-        { "jp": "駅[えき]で一時間[いちじかん]も待[ま]たされました。", "en": "I was kept waiting at the station for a whole hour." },
-        { "jp": "会議[かいぎ]で急[きゅう]に意見[いけん]を言[い]わされて、困[こま]った。", "en": "I was suddenly made to give my opinion in the meeting, and I didn't know what to do." }
+        {
+          "jp": "子[こ]どものとき、母[はは]に毎日[まいにち]ピアノを練習[れんしゅう]させられました。",
+          "en": "As a child, my mother made me practise the piano every day."
+        },
+        {
+          "jp": "飲[の]み会[かい]で先輩[せんぱい]にお酒[さけ]をたくさん飲[の]まされた。",
+          "en": "At the drinking party, my senior colleagues made me drink a lot."
+        },
+        {
+          "jp": "先生[せんせい]に教室[きょうしつ]の掃除[そうじ]をさせられた。",
+          "en": "The teacher made me clean the classroom."
+        },
+        {
+          "jp": "駅[えき]で一時間[いちじかん]も待[ま]たされました。",
+          "en": "I was kept waiting at the station for a whole hour."
+        },
+        {
+          "jp": "会議[かいぎ]で急[きゅう]に意見[いけん]を言[い]わされて、困[こま]った。",
+          "en": "I was suddenly made to give my opinion in the meeting, and I didn't know what to do."
+        }
       ],
       "quiz": [
         {
           "q": "小学生[しょうがくせい]のとき、嫌[きら]いな野菜[やさい]を＿＿。",
           "en": "When I was in elementary school, I was made to eat vegetables I hated.",
-          "choices": ["食[た]べさせられた", "食[た]べさせた", "食[た]べられた", "食[た]べさせれた"],
-          "answer": 0
+          "choices": [
+            "食[た]べられた",
+            "食[た]べさせられた",
+            "食[た]べさせれた",
+            "食[た]べさせた"
+          ],
+          "answer": 1
         },
         {
           "q": "彼女[かのじょ]はいつも遅[おく]れてくるので、私[わたし]はいつも＿＿。",
           "en": "She's always late, so I'm always kept waiting.",
-          "choices": ["待[ま]たされる", "待[ま]たせる", "待[ま]たれる", "待[ま]てる"],
-          "answer": 0
+          "choices": [
+            "待[ま]てる",
+            "待[ま]たされる",
+            "待[ま]たせる",
+            "待[ま]たれる"
+          ],
+          "answer": 1
         }
       ]
     }

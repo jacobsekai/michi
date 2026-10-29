@@ -1,0 +1,126 @@
+{
+  "id": "n2-u15",
+  "title": "No choice, no need, no way",
+  "summary": "Having no choice ({ざるを得[え]ない}, {ほかない}), strong certainty ({に決[き]まっている}), escaping something ({ずに済[す]む}), impossibility ({ようがない}), needlessness ({までもない}), and negative resolve or guesses ({まい}).",
+  "points": [
+    {
+      "id": "n2-zaruwoenai",
+      "title": "〜ざるを得[え]ない",
+      "meaning": "have no choice but to; cannot help but (reluctantly)",
+      "structure": "V-ない stem + ざるを得[え]ない（する → せざるを得[え]ない、来[く]る → 来[こ]ざるを得[え]ない）",
+      "explanation": "{ざる} is a classical negative, so the pattern literally means \"cannot obtain not doing\": you're **forced by circumstances** to do something you'd rather not. Typical reasons: orders, bad weather, evidence, economic pressure.\n\nIt is formal and common in news, business and serious conversation: {値上[ねあ]げせざるを得[え]ない} (\"we have no choice but to raise prices\").\n\nBe careful with the form: {する → せざるを得[え]ない}, not ✗ {しざる}. Compare {ずにはいられない} (Unit 4), which is an inner impulse, while {ざるを得[え]ない} is outside pressure.",
+      "examples": [
+        { "jp": "上司[じょうし]の命令[めいれい]なので、従[したが]わざるを得[え]ない。", "en": "It's an order from my boss, so I have no choice but to follow it." },
+        { "jp": "台風[たいふう]が近[ちか]づいているので、旅行[りょこう]は中止[ちゅうし]せざるを得[え]ない。", "en": "A typhoon is approaching, so we have no choice but to cancel the trip." },
+        { "jp": "これだけ証拠[しょうこ]がそろえば、彼[かれ]の主張[しゅちょう]を認[みと]めざるを得[え]ない。", "en": "With this much evidence, we have to accept his claim." },
+        { "jp": "原材料費[げんざいりょうひ]の高騰[こうとう]により、多[おお]くの企業[きぎょう]が値上[ねあ]げせざるを得[え]ない状況[じょうきょう]だ。", "en": "Due to soaring raw material costs, many companies are being forced to raise prices." }
+      ],
+      "quiz": [
+        { "q": "部長[ぶちょう]の指示[しじ]なので、やら＿＿。", "en": "It's the department manager's instruction, so I have no choice but to do it.", "choices": ["ずにはいられない", "ざるを得[え]ない", "ないことには", "っこない"], "answer": 1 },
+        { "q": "大雨[おおあめ]のため、試合[しあい]を中止[ちゅうし]＿＿。", "en": "Due to heavy rain, they had no choice but to cancel the match.", "choices": ["しざるを得[え]なかった", "さざるを得[え]なかった", "せざるを得[え]なかった", "するざるを得[え]なかった"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-hokanai",
+      "title": "〜ほかない / 〜しかない",
+      "meaning": "there's nothing to do but; have no option other than",
+      "structure": "V-dictionary + ほかない / よりほかない / ほかはない / しかない",
+      "explanation": "{ほか} means \"other\", so {〜ほかない} says there is **no other option**. The tone is resignation: the speaker has accepted the situation. {よりほかない} and {ほかはない} are slightly stronger versions.\n\n{しかない} means the same and is the everyday conversational choice. {ほかない} sounds more written.\n\n**vs {ざるを得[え]ない}**: {ざるを得[え]ない} stresses being forced against your will; {ほかない} stresses that the alternatives have run out.",
+      "examples": [
+        { "jp": "終電[しゅうでん]を逃[のが]してしまったので、タクシーで帰[かえ]るほかない。", "en": "I've missed the last train, so I have no choice but to take a taxi home." },
+        { "jp": "誰[だれ]も手伝[てつだ]ってくれないなら、自分[じぶん]でやるしかない。", "en": "If nobody will help me, I'll just have to do it myself." },
+        { "jp": "ここまで来[き]たら、もう頑張[がんば]るよりほかない。", "en": "Now that we've come this far, there's nothing left but to keep at it." },
+        { "jp": "薬[くすり]が効[き]かない以上[いじょう]、手術[しゅじゅつ]を受[う]けるほかないそうだ。", "en": "Since the medicine isn't working, apparently there's no option but surgery." }
+      ],
+      "quiz": [
+        { "q": "バスもタクシーもないので、歩[ある]いて帰[かえ]る＿＿。", "en": "There are no buses or taxis, so I'll have to walk home.", "choices": ["ほかならない", "ことはない", "わけがない", "ほかない"], "answer": 3 },
+        { "q": "自分[じぶん]で決[き]めたことだから、最後[さいご]までやる＿＿。", "en": "I decided this myself, so I just have to see it through.", "choices": ["しかない", "しかならない", "ことか", "っこない"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-nikimatteiru",
+      "title": "〜に決[き]まっている",
+      "meaning": "surely; definitely; it's obvious that",
+      "structure": "Plain form + に決[き]まっている　／　Noun / な-adj stem + に決[き]まっている",
+      "explanation": "{に決[き]まっている} expresses the speaker's **strong personal conviction**: \"it's obviously a lie\", \"of course he'll win\". It is conversational and often shortened to {決[き]まってる}.\n\nBecause it is subjective and emphatic, it can sound pushy or opinionated, so it's best kept to casual conversation.\n\n**vs {に違[ちが]いない}**: {に違[ちが]いない} is a conclusion based on evidence and fits writing; {に決[き]まっている} is a gut-level certainty in speech.",
+      "examples": [
+        { "jp": "そんなうまい話[はなし]、嘘[うそ]に決[き]まっている。", "en": "A deal that good is obviously a lie." },
+        { "jp": "毎日[まいにち]練習[れんしゅう]している彼[かれ]が勝[か]つに決[き]まっている。", "en": "He practises every day, so of course he'll win." },
+        { "jp": "一人[ひとり]で全部[ぜんぶ]やるなんて、無理[むり]に決[き]まってるよ。", "en": "Doing it all on your own? That's obviously impossible." },
+        { "jp": "子[こ]どもにそんな言[い]い方[かた]をしたら、泣[な]くに決[き]まっている。", "en": "If you talk to a child like that, they're bound to cry." }
+      ],
+      "quiz": [
+        { "q": "こんな高[たか]い店[みせ]、おいしい＿＿よ。", "en": "A place this expensive is bound to be good.", "choices": ["に過[す]ぎない", "に決[き]まってる", "にしては", "どころではない"], "answer": 1 },
+        { "q": "全然[ぜんぜん]勉強[べんきょう]していないんだから、不合格[ふごうかく]＿＿。", "en": "You haven't studied at all, so of course you'll fail.", "choices": ["に限[かぎ]る", "に応[おう]じる", "に沿[そ]う", "に決[き]まっている"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-zunisumu",
+      "title": "〜ずに済[す]む / 〜ないで済[す]む / 〜で済[す]む",
+      "meaning": "get by without (having to); get off with just",
+      "structure": "V-ない stem + ずに済[す]む（する → せずに済[す]む）　／　V-ない + で済[す]む　／　Noun + で済[す]む",
+      "explanation": "{済[す]む} means \"to be settled, to be over\". {〜ずに済[す]む} says you **managed to avoid** doing something unpleasant, often thanks to luck or someone's help: \"thanks to my colleague, I didn't have to work overtime\". It expresses relief.\n\n{〜ないで済[す]む} is the same, slightly more casual. {Noun + で済[す]む} means \"to get off with only X\": {軽[かる]いけがで済[す]んだ} (\"escaped with only a minor injury\"), {一万円[いちまんえん]で済[す]んだ} (\"it only cost 10,000 yen\").\n\nAll forms are common in everyday speech.",
+      "examples": [
+        { "jp": "近[ちか]くに住[す]んでいるので、満員電車[まんいんでんしゃ]に乗[の]らずに済[す]む。", "en": "I live nearby, so I don't have to ride packed trains." },
+        { "jp": "友達[ともだち]が車[くるま]で送[おく]ってくれたので、タクシー代[だい]を払[はら]わずに済[す]んだ。", "en": "A friend gave me a lift, so I didn't have to pay for a taxi." },
+        { "jp": "早[はや]めに気[き]づいたおかげで、大[おお]きな問題[もんだい]にならないで済[す]んだ。", "en": "Because we noticed early, it didn't turn into a big problem." },
+        { "jp": "事故[じこ]にあったが、幸[さいわ]い軽[かる]いけがで済[す]んだ。", "en": "I was in an accident, but luckily I got off with only a minor injury." }
+      ],
+      "quiz": [
+        { "q": "先輩[せんぱい]が手伝[てつだ]ってくれたので、残業[ざんぎょう]せ＿＿。", "en": "A senior colleague helped me, so I didn't have to work overtime.", "choices": ["ずに済[す]んだ", "ざるを得[え]なかった", "ずにはいられなかった", "っこなかった"], "answer": 0 },
+        { "q": "保険[ほけん]に入[はい]っていたので、修理代[しゅうりだい]は一万円[いちまんえん]＿＿。", "en": "I had insurance, so the repair only cost me 10,000 yen.", "choices": ["に済[す]んだ", "で済[す]んだ", "を済[す]んだ", "が済[す]んだ"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "n2-youganai",
+      "title": "〜ようがない（ようもない）",
+      "meaning": "there's no way to; it's impossible to",
+      "structure": "V-ます stem + ようがない / ようもない（する → しようがない）",
+      "explanation": "{よう} here means \"way, method\". {〜ようがない} says there is **no means** of doing something, usually because information or tools are missing: no address, so no way to send a letter; too badly broken, so no way to fix it.\n\nThe {する} form {しようがない} overlaps with {しょうがない} (\"it can't be helped\"); context tells you which is meant.\n\nWith {する}-nouns, {の} often links the noun: {連絡[れんらく]のしようがない}, {説明[せつめい]のしようがない}. {〜ようもない} adds emphasis. It is common in both speech and writing.",
+      "examples": [
+        { "jp": "連絡先[れんらくさき]がわからないので、連絡[れんらく]のしようがない。", "en": "I don't have their contact details, so there's no way to reach them." },
+        { "jp": "こんなに壊[こわ]れていては、直[なお]しようがない。", "en": "When it's this badly broken, there's no way to fix it." },
+        { "jp": "道[みち]が一本[いっぽん]しかないから、迷[まよ]いようがない。", "en": "There's only one road, so you can't possibly get lost." },
+        { "jp": "そのときの気持[きも]ちは、言葉[ことば]では表[あらわ]しようがない。", "en": "There's no way to put how I felt at that moment into words." }
+      ],
+      "quiz": [
+        { "q": "住所[じゅうしょ]がわからないので、手紙[てがみ]の送[おく]り＿＿。", "en": "I don't know the address, so there's no way to send the letter.", "choices": ["かねない", "っぱなしだ", "ようがない", "気味[ぎみ]だ"], "answer": 2 },
+        { "q": "証拠[しょうこ]が何[なに]もないので、確[たし]かめ＿＿。", "en": "There's no evidence at all, so there's no way to verify it.", "choices": ["かけだ", "きった", "がちだ", "ようがない"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-mademonai",
+      "title": "〜までもない（までもなく）",
+      "meaning": "there's no need to (go as far as); it goes without saying",
+      "structure": "V-dictionary + までもない / までもなく",
+      "explanation": "{までもない} says something is so obvious or simple that doing X is **unnecessary**: no need to check, no need to call a professional, no need to even look.\n\nThe most famous use is {言[い]うまでもなく} / {言[い]うまでもない} (\"needless to say\"), very common in speeches, essays and news commentary.\n\nIt is a little formal. In casual speech, {〜なくてもいい} or {〜ことはない} is more common.",
+      "examples": [
+        { "jp": "言[い]うまでもなく、健康[けんこう]は何[なに]よりも大切[たいせつ]だ。", "en": "Needless to say, health matters more than anything." },
+        { "jp": "そのくらいのことなら、わざわざ確認[かくにん]するまでもない。", "en": "For something that minor, there's no need to go out of your way to check." },
+        { "jp": "簡単[かんたん]な修理[しゅうり]なので、業者[ぎょうしゃ]を呼[よ]ぶまでもない。", "en": "It's a simple repair, so there's no need to call in a contractor." },
+        { "jp": "結果[けっか]は見[み]るまでもなく明[あき]らかだった。", "en": "The result was obvious without even looking." }
+      ],
+      "quiz": [
+        { "q": "彼[かれ]が優秀[ゆうしゅう]なのは、言[い]う＿＿。", "en": "It goes without saying that he's outstanding.", "choices": ["までもない", "ほかない", "ようがない", "かねない"], "answer": 0 },
+        { "q": "こんな簡単[かんたん]な作業[さぎょう]は、専門家[せんもんか]に頼[たの]む＿＿。", "en": "There's no need to ask an expert for such a simple task.", "choices": ["ほかない", "までもない", "ざるを得[え]ない", "に決[き]まっている"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "n2-mai",
+      "title": "〜まい",
+      "meaning": "will not (resolve); probably not (guess)",
+      "structure": "Godan V-dictionary + まい（行[い]くまい）　／　Ichidan V-ない stem or dictionary + まい（食[た]べまい / 食[た]べるまい）　／　するまい・すまい、来[く]るまい・来[こ]まい",
+      "explanation": "{まい} is a literary negative with two meanings.\n\n**1. Negative resolve**: \"I will never...\": {二度[にど]と行[い]くまい} (\"I'll never go there again\"). Often with {二度[にど]と} or {〜まいと決[き]める / 思[おも]う}.\n\n**2. Negative guess**: \"probably not\" = {〜ないだろう}: {この雨[あめ]では彼[かれ]も来[く]るまい}. {〜ことはあるまい} (\"surely not\") is common in writing.\n\nAlso useful: {〜ようが〜まいが} / {〜ようと〜まいと} means \"whether or not\": {行[い]こうが行[い]くまいが私[わたし]の自由[じゆう]だ}.\n\nIt is mainly found in writing, speeches and older-style speech.",
+      "examples": [
+        { "jp": "もう二度[にど]とあの店[みせ]には行[い]くまいと決[き]めた。", "en": "I made up my mind never to go to that shop again." },
+        { "jp": "こんな失敗[しっぱい]は、二度[にど]と繰[く]り返[かえ]すまい。", "en": "I will never repeat a mistake like this." },
+        { "jp": "この雨[あめ]では、彼[かれ]も来[く]るまい。", "en": "In this rain, he probably won't come." },
+        { "jp": "行[い]こうが行[い]くまいが、私[わたし]の自由[じゆう]だ。", "en": "Whether I go or not is up to me." }
+      ],
+      "quiz": [
+        { "q": "あんな恥[は]ずかしい思[おも]いは、もう二度[にど]とする＿＿。", "en": "I'll never go through such an embarrassing experience again.", "choices": ["べき", "まい", "ほかない", "までもない"], "answer": 1 },
+        { "q": "雨[あめ]が降[ふ]ろうが降[ふ]る＿＿が、試合[しあい]は行[おこな]われる。", "en": "Whether it rains or not, the match will go ahead.", "choices": ["ない", "ものか", "べき", "まい"], "answer": 3 }
+      ]
+    }
+  ]
+}

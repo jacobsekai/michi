@@ -1,0 +1,411 @@
+{
+  "id": "n1-u15",
+  "title": "Advanced keigo for business and formal letters",
+  "summary": "The top tier of polite Japanese that you'll need when working in Japan: {申[もう]し上[あ]げる}, {存[ぞん]じる}, {賜[たまわ]る}, the {拝[はい]〜} verbs, {におかれましては}, polite email requests, the right and wrong uses of {させていただく}, and set phrases for formal letters.",
+  "points": [
+    {
+      "id": "n1-moushiageru",
+      "title": "お／ご〜申[もう]し上[あ]げる",
+      "meaning": "(I) humbly do (for you) — the most formal humble form",
+      "structure": "お + Verb ます-stem + 申[もう]し上[あ]げる / ご + する-noun + 申[もう]し上[あ]げる",
+      "explanation": "You know the humble pattern {お〜する} and {ご〜いたす}. {お〜申[もう]し上[あ]げる} is one step higher: the most formal way to describe your own action directed at someone you respect. It is used for the 'big' speech acts of business and ceremony — apologising, thanking, requesting, reporting, congratulating.\n\nFixed expressions you'll use constantly:\n- {心[こころ]よりお詫[わ]び申[もう]し上[あ]げます} — I sincerely apologise\n- {よろしくお願[ねが]い申[もう]し上[あ]げます} — I humbly ask for your kind consideration\n- {厚[あつ]く御礼[おんれい]申[もう]し上[あ]げます} — I express my deep thanks\n- {お待[ま]ち申[もう]し上[あ]げております} — we look forward to your visit\n\n**Register:** formal emails, letters, speeches, press conferences and announcements. Overkill for everyday office chat with colleagues.",
+      "examples": [
+        {
+          "jp": "今後[こんご]ともよろしくお願[ねが]い申[もう]し上[あ]げます。",
+          "en": "We look forward to your continued support."
+        },
+        {
+          "jp": "調査[ちょうさ]の結果[けっか]をご報告[ほうこく]申[もう]し上[あ]げます。",
+          "en": "I would like to report the results of the investigation."
+        },
+        {
+          "jp": "心[こころ]よりお詫[わ]び申[もう]し上[あ]げます。",
+          "en": "We offer our sincerest apologies."
+        },
+        {
+          "jp": "皆様[みなさま]のご来場[らいじょう]を心[こころ]よりお待[ま]ち申[もう]し上[あ]げております。",
+          "en": "We sincerely look forward to welcoming you all."
+        }
+      ],
+      "notes": "{申[もう]し上[あ]げる} on its own is the humble form of {言[い]う} ({一言[ひとこと]申[もう]し上[あ]げます} 'allow me to say a few words'). Don't use it for actions that don't involve the other person: {✕お散歩[さんぽ]申[もう]し上[あ]げる}.",
+      "quiz": [
+        {
+          "q": "このたびはご迷惑[めいわく]をおかけし、深[ふか]くお詫[わ]び＿＿。",
+          "en": "We deeply apologise for the inconvenience caused on this occasion.",
+          "choices": [
+            "差[さ]し上[あ]げます",
+            "申[もう]し上[あ]げます",
+            "召[め]し上[あ]がります",
+            "おっしゃいます"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "皆様[みなさま]のご参加[さんか]を心[こころ]よりお待[ま]ち＿＿おります。",
+          "en": "We sincerely look forward to your participation.",
+          "choices": [
+            "くださって",
+            "なさって",
+            "いらっしゃって",
+            "申[もう]し上[あ]げて"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-zonjiru",
+      "title": "存[ぞん]じる／存[ぞん]じ上[あ]げる",
+      "meaning": "(humble) to think; to know (a thing / a person)",
+      "structure": "〜と存[ぞん]じます (think) / 存[ぞん]じております (know a fact) / 存[ぞん]じ上[あ]げております (know a person) / Verb ます-stem + たく存[ぞん]じます (wish to)",
+      "explanation": "{存[ぞん]じる} is the humble verb for both {思[おも]う} 'think' and {知[し]る} 'know'.\n\n- **Think:** {〜と存[ぞん]じます} — a very polite 'I believe'. Also {恐縮[きょうしゅく]に存[ぞん]じます} (I'm very sorry / obliged), {幸[さいわ]いに存[ぞん]じます}.\n- **Know a fact:** {存[ぞん]じております} / {存[ぞん]じません} — the polite way to say 'I know / I don't know'. {存[ぞん]じません} is far more polite than {知[し]りません}.\n- **Know a person:** {存[ぞん]じ上[あ]げております} — used when the person known is someone you respect: {お名前[なまえ]はかねがね存[ぞん]じ上[あ]げております} 'I've heard a great deal about you'.\n- **Wish:** {〜たく存[ぞん]じます} — very formal 'I would like to'.\n\nDon't confuse with {ご存[ぞん]じ} — the **honorific** for the *other person's* knowing: {ご存[ぞん]じですか} 'do you know?'.\n\n**Register:** business and formal speech; essential in customer-facing jobs.",
+      "examples": [
+        {
+          "jp": "申[もう]し訳[わけ]ございません、その件[けん]については存[ぞん]じません。",
+          "en": "I'm terribly sorry, but I don't know about that matter."
+        },
+        {
+          "jp": "お名前[なまえ]はかねがね存[ぞん]じ上[あ]げております。",
+          "en": "I have heard a great deal about you."
+        },
+        {
+          "jp": "ご多忙[たぼう]のところ恐縮[きょうしゅく]に存[ぞん]じますが、ご確認[かくにん]をお願[ねが]いいたします。",
+          "en": "I'm sorry to trouble you when you're so busy, but I'd be grateful if you could check this."
+        },
+        {
+          "jp": "一度[いちど]お目[め]にかかりたく存[ぞん]じます。",
+          "en": "I would very much like to meet you in person."
+        }
+      ],
+      "notes": "Common learner mistake: asking a client {✕存[ぞん]じていますか}. Use {ご存[ぞん]じですか} for others and {存[ぞん]じております} for yourself.",
+      "quiz": [
+        {
+          "q": "田中[たなか]先生[せんせい]のことは、学生[がくせい]時代[じだい]から存[ぞん]じ＿＿おります。",
+          "en": "I have known Professor Tanaka since my student days.",
+          "choices": [
+            "くださって",
+            "なさって",
+            "上[あ]げて",
+            "召[め]して"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "近[ちか]いうちに一度[いちど]ご挨拶[あいさつ]に伺[うかが]いたく＿＿。",
+          "en": "I would like to come and pay my respects in person soon.",
+          "choices": [
+            "存[ぞん]じます",
+            "ご存[ぞん]じです",
+            "おっしゃいます",
+            "拝見[はいけん]します"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-tamawaru",
+      "title": "〜を賜[たまわ]る",
+      "meaning": "to (humbly) receive (favour, support, words) from a superior",
+      "structure": "Noun (ご支援[しえん]・ご愛顧[あいこ] etc.) + を賜[たまわ]る / を賜[たまわ]りますよう(お願[ねが]い申[もう]し上[あ]げます)",
+      "explanation": "{賜[たまわ]る} is an extremely respectful verb meaning 'to receive something from someone above you' (like {いただく}, but even more formal). It appears constantly in business letters, emails, speeches and company announcements, almost always with abstract nouns:\n\n- {ご愛顧[あいこ]を賜[たまわ]り} — (thank you for) your patronage\n- {ご高配[こうはい]を賜[たまわ]り} — (thank you for) your kind consideration\n- {ご指導[しどう]ご鞭撻[べんたつ]を賜[たまわ]りますよう} — (please continue to give) guidance and encouragement\n- {温[あたた]かいお言葉[ことば]を賜[たまわ]り} — (thank you for) your kind words\n\n{〜を賜[たまわ]りますよう、お願[ねが]い申[もう]し上[あ]げます} is the standard super-polite way to close a request.\n\n**Register:** written business and ceremonial language. You'll read it far more than you say it — but you will need to write it.",
+      "examples": [
+        {
+          "jp": "平素[へいそ]は格別[かくべつ]のご愛顧[あいこ]を賜[たまわ]り、誠[まこと]にありがとうございます。",
+          "en": "Thank you very much for your continued patronage."
+        },
+        {
+          "jp": "社長[しゃちょう]より貴重[きちょう]なご意見[いけん]を賜[たまわ]りました。",
+          "en": "We received valuable feedback from the president."
+        },
+        {
+          "jp": "皆様[みなさま]から温[あたた]かいお言葉[ことば]を賜[たまわ]り、心[こころ]より感謝[かんしゃ]申[もう]し上[あ]げます。",
+          "en": "I am deeply grateful for the kind words I have received from you all."
+        },
+        {
+          "jp": "今後[こんご]とも変[か]わらぬご支援[しえん]を賜[たまわ]りますよう、お願[ねが]い申[もう]し上[あ]げます。",
+          "en": "We humbly ask for your continued support."
+        }
+      ],
+      "notes": "{平素[へいそ]は〜を賜[たまわ]り、〜} ('We are always grateful for your...') is the classic first line of a Japanese business email to clients.",
+      "quiz": [
+        {
+          "q": "平素[へいそ]より格別[かくべつ]のお引[ひ]き立[た]てを＿＿、厚[あつ]く御礼[おんれい]申[もう]し上[あ]げます。",
+          "en": "We are deeply grateful for your continued special patronage.",
+          "choices": [
+            "差[さ]し上[あ]げ",
+            "召[め]し上[あ]がり",
+            "賜[たまわ]り",
+            "申[もう]し上[あ]げ"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "引[ひ]き続[つづ]きご指導[しどう]を賜[たまわ]ります＿＿、よろしくお願[ねが]い申[もう]し上[あ]げます。",
+          "en": "We humbly ask that you continue to give us your guidance.",
+          "choices": [
+            "よう",
+            "ため",
+            "ので",
+            "のに"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-hai-verbs",
+      "title": "拝[はい]〜する (拝見[はいけん]・拝読[はいどく]・拝聴[はいちょう]…)",
+      "meaning": "humble verbs: (respectfully) see, read, listen, receive, borrow, infer",
+      "structure": "拝[はい] + Sino-Japanese noun + する／いたす",
+      "explanation": "{拝[はい]} means 'to bow, to worship'. Prefixed to certain verbs, it makes a humble form for actions directed at something belonging to a respected person:\n\n- {拝見[はいけん]する} — to see / look at (your documents, your work)\n- {拝読[はいどく]する} — to read (your letter, your book)\n- {拝聴[はいちょう]する} — to listen to (your talk)\n- {拝受[はいじゅ]する} — to receive (your email, your document) — business email staple\n- {拝借[はいしゃく]する} — to borrow (your pen, your wisdom)\n- {拝察[はいさつ]する} — to infer, to imagine (your feelings)\n\n**Register:** {拝見[はいけん]} is everyday business keigo; the others are more formal and mostly written. In an email, {メールを拝受[はいじゅ]いたしました} is a crisp way to acknowledge receipt.",
+      "examples": [
+        {
+          "jp": "資料[しりょう]を拝見[はいけん]しました。",
+          "en": "I have looked at the materials."
+        },
+        {
+          "jp": "先生[せんせい]のご著書[ちょしょ]を拝読[はいどく]いたしました。",
+          "en": "I have read your book, Professor."
+        },
+        {
+          "jp": "メールを拝受[はいじゅ]いたしました。",
+          "en": "I have received your email."
+        },
+        {
+          "jp": "少々[しょうしょう]お知恵[ちえ]を拝借[はいしゃく]できますでしょうか。",
+          "en": "Might I borrow a little of your wisdom?"
+        },
+        {
+          "jp": "ご心労[しんろう]のほど拝察[はいさつ]いたします。",
+          "en": "I can only imagine how worried you must be."
+        }
+      ],
+      "notes": "{拝見[はいけん]させていただきます} is extremely common but technically double humble; many style guides prefer {拝見[はいけん]します／いたします}. You will hear both.",
+      "quiz": [
+        {
+          "q": "先生[せんせい]の論文[ろんぶん]を＿＿いたしました。大変[たいへん]勉強[べんきょう]になりました。",
+          "en": "I read your paper, Professor. I learned a great deal from it.",
+          "choices": [
+            "拝聴[はいちょう]",
+            "拝啓[はいけい]",
+            "拝察[はいさつ]",
+            "拝読[はいどく]"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "昨日[さくじつ]の部長[ぶちょう]のご講演[こうえん]を＿＿し、大変[たいへん]感銘[かんめい]を受[う]けました。",
+          "en": "I listened to your lecture yesterday and was deeply impressed.",
+          "choices": [
+            "拝聴[はいちょう]",
+            "拝読[はいどく]",
+            "拝借[はいしゃく]",
+            "拝受[はいじゅ]"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-ni-okaremashite-wa",
+      "title": "〜におかれましては",
+      "meaning": "(as for) you / your company (highly respectful topic marker)",
+      "structure": "Noun (person / organisation addressed) + におかれましては",
+      "explanation": "{〜におかれましては} is an ultra-respectful replacement for {〜は} when the topic is the respected person or organisation you are addressing. It mostly introduces wishes about their health or prosperity:\n\n{皆様[みなさま]におかれましては、ますますご清栄[せいえい]のこととお慶[よろこ]び申[もう]し上[あ]げます} 'I trust that you are all in good health and prospering.'\n\nTypical subjects: {皆様[みなさま]}, {貴社[きしゃ]} (your company, written), {先生[せんせい]}, {〇〇様[さま]}.\n\n**Register:** formal letters, speeches and ceremonial greetings. Not for the speaker's own side, and not for everyday emails between colleagues. It's often overused in TV and politics; use it only in genuinely formal contexts.",
+      "examples": [
+        {
+          "jp": "先生[せんせい]におかれましては、お元気[げんき]でお過[す]ごしのことと存[ぞん]じます。",
+          "en": "I trust you are keeping well, Professor."
+        },
+        {
+          "jp": "皆様[みなさま]におかれましては、ますますご清栄[せいえい]のこととお慶[よろこ]び申[もう]し上[あ]げます。",
+          "en": "I trust that you are all in good health and prospering."
+        },
+        {
+          "jp": "貴社[きしゃ]におかれましては、益々[ますます]ご発展[はってん]のこととお喜[よろこ]び申[もう]し上[あ]げます。",
+          "en": "We are delighted to know that your company continues to flourish."
+        },
+        {
+          "jp": "寒[さむ]さ厳[きび]しき折[おり]、皆様[みなさま]におかれましては、くれぐれもご自愛[じあい]ください。",
+          "en": "As the cold is severe at this time of year, please take good care of yourselves."
+        }
+      ],
+      "notes": "Notice {厳[きび]しき} in the last example — the classical adjective ending {〜き} (= {厳[きび]しい}) survives in seasonal letter greetings.",
+      "quiz": [
+        {
+          "q": "貴社[きしゃ]＿＿、ますますご清栄[せいえい]のこととお喜[よろこ]び申[もう]し上[あ]げます。",
+          "en": "We are delighted to know that your company continues to prosper.",
+          "choices": [
+            "にあたりましては",
+            "におかれましては",
+            "にひきかえ",
+            "をもちまして"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "先生[せんせい]におかれ＿＿、お変[か]わりなくお過[す]ごしのことと存[ぞん]じます。",
+          "en": "I trust that you are keeping well as always, Professor.",
+          "choices": [
+            "ませんで",
+            "ますから",
+            "ましては",
+            "ましたら"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-sachi-desu",
+      "title": "〜いただけますと幸[さいわ]いです／幸甚[こうじん]に存[ぞん]じます",
+      "meaning": "I would be grateful if you could ... (polite written request)",
+      "structure": "ご／お + Verb + いただけますと／いただけましたら／いただければ + 幸[さいわ]いです／幸甚[こうじん]に存[ぞん]じます",
+      "explanation": "In Japanese business emails, direct requests ({〜てください}) can feel pushy. The standard polite alternative is: 'If you could do X, I would be happy' — {〜いただけますと幸[さいわ]いです}.\n\nLevels of formality:\n- {〜いただけると助[たす]かります} — polite but friendly (colleagues)\n- {〜いただけますと幸[さいわ]いです} — standard business email\n- {〜いただけましたら幸甚[こうじん]に存[ぞん]じます} — very formal ({幸甚[こうじん]} = 'the greatest happiness')\n- {〜くださいますよう、お願[ねが]い申[もう]し上[あ]げます} — formal written request\n\nOften preceded by cushion words: {お手数[てすう]ですが} (sorry for the trouble), {恐[おそ]れ入[い]りますが}, {ご多忙[たぼう]のところ恐縮[きょうしゅく]ですが}.\n\n**Register:** written business Japanese. You'll write {幸[さいわ]いです} almost daily if you work in a Japanese office.",
+      "examples": [
+        {
+          "jp": "お手数[てすう]ですが、ご確認[かくにん]いただけますと幸[さいわ]いです。",
+          "en": "Sorry for the trouble, but I'd be grateful if you could check this."
+        },
+        {
+          "jp": "ご不明[ふめい]な点[てん]がございましたら、お気軽[きがる]にお問[と]い合[あ]わせいただければ幸[さいわ]いです。",
+          "en": "If you have any questions, please feel free to contact us."
+        },
+        {
+          "jp": "ご検討[けんとう]いただけましたら幸甚[こうじん]に存[ぞん]じます。",
+          "en": "I would be most grateful if you would consider this."
+        },
+        {
+          "jp": "何卒[なにとぞ]ご理解[りかい]くださいますよう、お願[ねが]い申[もう]し上[あ]げます。",
+          "en": "We humbly ask for your understanding."
+        }
+      ],
+      "notes": "Read {幸[さいわ]い} here, not {しあわせ}. {幸[しあわ]せです} in an email request would sound oddly emotional.",
+      "quiz": [
+        {
+          "q": "お忙[いそが]しいところ恐縮[きょうしゅく]ですが、ご返信[へんしん]いただけますと＿＿です。",
+          "en": "I'm sorry to bother you when you're busy, but I'd be grateful for a reply.",
+          "choices": [
+            "幸[さいわ]い",
+            "恐[おそ]れ入[い]り",
+            "結構[けっこう]",
+            "存[ぞん]じ"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "ご検討[けんとう]いただけましたら＿＿に存[ぞん]じます。",
+          "en": "I would be most grateful if you would consider this.",
+          "choices": [
+            "拝見[はいけん]",
+            "賜[たまわ]り",
+            "申[もう]し上[あ]げ",
+            "幸甚[こうじん]"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-sasete-itadaku",
+      "title": "〜させていただく (correct use and overuse)",
+      "meaning": "(with your permission) I will humbly do ...",
+      "structure": "Verb causative て-form (させて) + いただく / いただきます",
+      "explanation": "{〜させていただく} literally means 'I receive (your) letting me do X'. Its core use is when you act **with the other person's permission or for their benefit**, and you want to show gratitude for that:\n\n- Asking permission: {休[やす]ませていただけないでしょうか} 'Might I take the day off?'\n- Announcing an action on behalf of others: {会議[かいぎ]を始[はじ]めさせていただきます} 'Let us begin the meeting.'\n- Shop/business notices: {休業[きゅうぎょう]させていただきます} 'We will be closed (we ask your understanding)'.\n\n**Overuse:** It has spread into situations where no permission is involved, such as {お送[おく]りさせていただきます} for simply sending something, or {拝見[はいけん]させていただきます} (double humble). These are extremely common, but many Japanese people find heavy overuse grating. When no permission is involved, prefer {〜いたします}: {お送[おく]りいたします}.\n\n**Register:** standard business keigo — use it, but use it deliberately.",
+      "examples": [
+        {
+          "jp": "それでは、会議[かいぎ]を始[はじ]めさせていただきます。",
+          "en": "Well then, let us begin the meeting."
+        },
+        {
+          "jp": "本日[ほんじつ]は体調[たいちょう]不良[ふりょう]のため、休[やす]ませていただけないでしょうか。",
+          "en": "I'm unwell today; might I take the day off?"
+        },
+        {
+          "jp": "誠[まこと]に勝手[かって]ながら、八月[はちがつ]十三日[じゅうさんにち]から十六日[じゅうろくにち]まで休業[きゅうぎょう]させていただきます。",
+          "en": "We apologise for any inconvenience, but we will be closed from August 13 to 16."
+        },
+        {
+          "jp": "先日[せんじつ]はご自宅[じたく]にお招[まね]きいただき、楽[たの]しい時間[じかん]を過[す]ごさせていただきました。",
+          "en": "Thank you for inviting me to your home the other day; I had a wonderful time."
+        }
+      ],
+      "notes": "Group 1 verbs take {〜せていただく} ({休[やす]ませて}, {読[よ]ませて}); a common error is the extra {さ}: {✕読[よ]まさせていただく} ('sa-insertion'), which many people consider incorrect.",
+      "quiz": [
+        {
+          "q": "恐[おそ]れ入[い]りますが、こちらの資料[しりょう]をコピー＿＿いただいてもよろしいでしょうか。",
+          "en": "Excuse me, but may I make a copy of this document?",
+          "choices": [
+            "されて",
+            "しまして",
+            "させて",
+            "なさって"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "誠[まこと]に勝手[かって]ながら、年末[ねんまつ]年始[ねんし]は休業[きゅうぎょう]＿＿いただきます。",
+          "en": "We apologise for any inconvenience, but we will be closed over the New Year holidays.",
+          "choices": [
+            "させて",
+            "しまして",
+            "されて",
+            "なさって"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-letter-phrases",
+      "title": "拝啓[はいけい]〜敬具[けいぐ] (formal letter framework)",
+      "meaning": "set openings and closings for formal letters and emails",
+      "structure": "拝啓[はいけい] + seasonal greeting + 平素[へいそ]は〜 ... 末筆[まっぴつ]ながら〜 + 敬具[けいぐ]",
+      "explanation": "Formal Japanese letters (and very formal emails) follow a fixed framework, and each piece is its own little grammar of set phrases:\n\n- **Opening word:** {拝啓[はいけい]} ('respectfully'), closed with {敬具[けいぐ]}. More formal: {謹啓[きんけい]} ... {謹白[きんぱく]}. Informal/urgent: {前略[ぜんりゃく]} ('omitting preliminaries') ... {草々[そうそう]}.\n- **Seasonal/health greeting:** {時下[じか]ますますご清栄[せいえい]のこととお慶[よろこ]び申[もう]し上[あ]げます} (all-season, for companies).\n- **Thanks for ongoing relationship:** {平素[へいそ]は格別[かくべつ]のご高配[こうはい]を賜[たまわ]り、厚[あつ]く御礼[おんれい]申[もう]し上[あ]げます}.\n- **Closing wish:** {末筆[まっぴつ]ながら} ('last but not least') + wishes for health or prosperity.\n- **Closing formula:** {まずは略儀[りゃくぎ]ながら書中[しょちゅう]にてご挨拶[あいさつ]申[もう]し上[あ]げます}.\n\n**Register:** paper letters, formal notices and some corporate emails. Everyday business emails usually skip {拝啓[はいけい]} and start with {いつもお世話[せわ]になっております}.",
+      "examples": [
+        {
+          "jp": "拝啓[はいけい]　時下[じか]ますますご清栄[せいえい]のこととお慶[よろこ]び申[もう]し上[あ]げます。",
+          "en": "Dear Sir/Madam, I trust this letter finds you in good health and prosperity."
+        },
+        {
+          "jp": "平素[へいそ]は格別[かくべつ]のご高配[こうはい]を賜[たまわ]り、厚[あつ]く御礼[おんれい]申[もう]し上[あ]げます。",
+          "en": "We are deeply grateful for your continued kind support."
+        },
+        {
+          "jp": "末筆[まっぴつ]ながら、皆様[みなさま]のますますのご健勝[けんしょう]をお祈[いの]り申[もう]し上[あ]げます。",
+          "en": "Finally, I wish you all continued good health."
+        },
+        {
+          "jp": "まずは略儀[りゃくぎ]ながら書中[しょちゅう]にてご挨拶[あいさつ]申[もう]し上[あ]げます。　敬具[けいぐ]",
+          "en": "Please accept this letter as my greeting, informal though it may be. Yours sincerely."
+        }
+      ],
+      "notes": "Pairs must match: {拝啓[はいけい]}→{敬具[けいぐ]}, {謹啓[きんけい]}→{謹白[きんぱく]}／{敬白[けいはく]}, {前略[ぜんりゃく]}→{草々[そうそう]}. Mixing them is a classic mistake.",
+      "quiz": [
+        {
+          "q": "手紙[てがみ]を「拝啓[はいけい]」で始[はじ]めたら、「＿＿」で結[むす]ぶ。",
+          "en": "If you begin a letter with 'Haikei', you close it with ___.",
+          "choices": [
+            "草々[そうそう]",
+            "前略[ぜんりゃく]",
+            "敬具[けいぐ]",
+            "謹啓[きんけい]"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "＿＿ながら、貴社[きしゃ]のますますのご発展[はってん]をお祈[いの]り申[もう]し上[あ]げます。",
+          "en": "Finally, we wish your company continued prosperity.",
+          "choices": [
+            "末筆[まっぴつ]",
+            "平素[へいそ]",
+            "時下[じか]",
+            "拝啓[はいけい]"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

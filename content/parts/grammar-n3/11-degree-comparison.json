@@ -1,0 +1,313 @@
+{
+  "id": "n3-u11",
+  "title": "Degree, comparison & expectations",
+  "summary": "Expressing extent ({ほど} / {くらい}), 'not as… as' ({ほど〜ない}), 'the more… the more' ({ば〜ほど}), comparisons ({に比[くら]べて}), and results that differ from expectations ({にしては}, {わりに}).",
+  "points": [
+    {
+      "id": "n3-hodo-kurai",
+      "title": "〜ほど / 〜くらい (extent)",
+      "meaning": "to the extent that ~ ; so ~ that ~ ; (くらい) at least ~ / something as small as ~",
+      "structure": "Verb / い-adj (plain) + ほど / くらい ; な-adj + な + ほど / くらい ; Noun + ほど / くらい",
+      "explanation": "{ほど} and {くらい} ({ぐらい}) both mean 'about' with numbers. At N3, they also show **how extreme** a state is by giving an example: 'so tired that I couldn't walk'.\n\n{足[あし]が痛[いた]くて、もう歩[ある]けないほど疲[つか]れた。} 'My legs hurt, and I was so tired I couldn't walk any more.'\n{泣[な]きたいくらい恥[は]ずかしかった。} 'I was so embarrassed I wanted to cry.'\n\nIn this use they're mostly interchangeable; {ほど} sounds a little stronger and more formal.\n\n{くらい} has one extra use that {ほど} doesn't: pointing to something **small or minimal** — 'at least this much': {自分[じぶん]の部屋[へや]くらい、自分[じぶん]で掃除[そうじ]しなさい。} 'At least clean your own room by yourself.'",
+      "examples": [
+        {
+          "jp": "足[あし]が痛[いた]くて、もう歩[ある]けないほど疲[つか]れた。",
+          "en": "My legs hurt — I was so tired I couldn't walk any more."
+        },
+        {
+          "jp": "泣[な]きたいくらい恥[は]ずかしかった。",
+          "en": "I was so embarrassed I wanted to cry."
+        },
+        {
+          "jp": "今日[きょう]は死[し]ぬほど忙[いそが]しかった。",
+          "en": "I was insanely busy today."
+        },
+        {
+          "jp": "驚[おどろ]くほど安[やす]い店[みせ]を見[み]つけた。",
+          "en": "I found a shop that's amazingly cheap."
+        },
+        {
+          "jp": "自分[じぶん]の部屋[へや]くらい、自分[じぶん]で掃除[そうじ]しなさい。",
+          "en": "At least clean your own room yourself."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "昨日[きのう]は、立[た]っていられない＿＿頭[あたま]が痛[いた]かった。",
+          "en": "Yesterday my head hurt so much I couldn't stand up.",
+          "choices": [
+            "さえ",
+            "ほど",
+            "こそ",
+            "ばかり"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "簡単[かんたん]なメール＿＿、一人[ひとり]で書[か]けるようになりたい。",
+          "en": "I want to be able to write at least simple emails by myself.",
+          "choices": [
+            "ほど",
+            "ばかり",
+            "くらい",
+            "について"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n3-hodo-nai",
+      "title": "〜ほど〜ない / 〜ほど〜はない",
+      "meaning": "not as ~ as ~ ; (ほど〜はない) nothing / no one is as ~ as ~",
+      "structure": "A は B + ほど + negative ; Noun + ほど + Adj + ものはない / 人[ひと]はいない",
+      "explanation": "{ほど} with a negative makes a comparison: 'A is not as ~ as B'.\n\n{今年[ことし]の夏[なつ]は、去年[きょねん]ほど暑[あつ]くない。} 'This summer isn't as hot as last year.'\n\nA very useful version is {思[おも]ったほど〜ない} 'not as ~ as I expected': {試験[しけん]は思[おも]ったほど難[むずか]しくなかった。}\n\nWith {ものはない} / {人[ひと]はいない}, it becomes a superlative: 'nothing is as ~ as X' = X is the most ~.\n{母[はは]の料理[りょうり]ほどおいしいものはない。} 'Nothing is as delicious as my mother's cooking.'\n\nNote: {ほど} is only used in **negative** comparisons. For positive ones, use {より}: {去年[きょねん]より暑[あつ]い} 'hotter than last year'.",
+      "examples": [
+        {
+          "jp": "今年[ことし]の夏[なつ]は、去年[きょねん]ほど暑[あつ]くない。",
+          "en": "This summer isn't as hot as last year."
+        },
+        {
+          "jp": "大阪[おおさか]は東京[とうきょう]ほど人[ひと]が多[おお]くない。",
+          "en": "Osaka isn't as crowded as Tokyo."
+        },
+        {
+          "jp": "試験[しけん]は思[おも]ったほど難[むずか]しくなかった。",
+          "en": "The exam wasn't as hard as I thought it would be."
+        },
+        {
+          "jp": "母[はは]の料理[りょうり]ほどおいしいものはない。",
+          "en": "Nothing is as delicious as my mother's cooking."
+        },
+        {
+          "jp": "彼[かれ]ほど真面目[まじめ]な人[ひと]はいない。",
+          "en": "There's no one as diligent as him."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "この映画[えいが]は、前[まえ]の作品[さくひん]＿＿面白[おもしろ]くなかった。",
+          "en": "This movie wasn't as interesting as the previous one.",
+          "choices": [
+            "について",
+            "として",
+            "ばかりか",
+            "ほど"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "家族[かぞく]＿＿大切[たいせつ]なものはない。",
+          "en": "Nothing is as important as family.",
+          "choices": [
+            "こそ",
+            "ばかり",
+            "ほど",
+            "さえ"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n3-ba-hodo",
+      "title": "〜ば〜ほど",
+      "meaning": "the more ~ , the more ~",
+      "structure": "Verb (ば-form) + same Verb (dictionary) + ほど ; い-adj (ければ) + same い-adj + ほど ; な-adj + なら + same な-adj + な + ほど",
+      "explanation": "{AばAほどB} means 'the more A, the more B'. You repeat the same word twice: first in the {ば}-form, then in the plain form + {ほど}.\n\n{日本語[にほんご]は勉強[べんきょう]すればするほど面白[おもしろ]くなる。} 'The more you study Japanese, the more interesting it gets.'\n\nForms:\n- Verb: {食[た]べれば食[た]べるほど}\n- {い}-adjective: {新[あたら]しければ新[あたら]しいほど}\n- {な}-adjective: {簡単[かんたん]なら簡単[かんたん]なほど}\n\nYou can also drop the {ば} part and just use {〜ほど}: {練習[れんしゅう]するほど上手[じょうず]になる} 'The more you practice, the better you get.'",
+      "examples": [
+        {
+          "jp": "日本語[にほんご]は勉強[べんきょう]すればするほど面白[おもしろ]くなる。",
+          "en": "The more you study Japanese, the more interesting it becomes."
+        },
+        {
+          "jp": "野菜[やさい]は新[あたら]しければ新[あたら]しいほどおいしい。",
+          "en": "The fresher vegetables are, the better they taste."
+        },
+        {
+          "jp": "考[かんが]えれば考[かんが]えるほど、わからなくなった。",
+          "en": "The more I thought about it, the less I understood."
+        },
+        {
+          "jp": "部屋[へや]は駅[えき]に近[ちか]ければ近[ちか]いほど、家賃[やちん]が高[たか]い。",
+          "en": "The closer an apartment is to the station, the higher the rent."
+        },
+        {
+          "jp": "説明[せつめい]は簡単[かんたん]なら簡単[かんたん]なほどいい。",
+          "en": "The simpler the explanation, the better."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "このワインは、古[ふる]けれ＿＿古[ふる]いほど値段[ねだん]が高[たか]くなる。",
+          "en": "The older this wine is, the more expensive it gets.",
+          "choices": [
+            "たら",
+            "ても",
+            "ば",
+            "なら"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "漢字[かんじ]は、書[か]けば書[か]く＿＿覚[おぼ]えられます。",
+          "en": "The more you write kanji, the better you can remember them.",
+          "choices": [
+            "ついでに",
+            "ほど",
+            "ばかり",
+            "くせに"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n3-ni-kurabete",
+      "title": "〜に比[くら]べて",
+      "meaning": "compared to ~ ; in comparison with ~",
+      "structure": "Noun + に比[くら]べ(て) / に比[くら]べると ; Plain form + の + に比[くら]べて",
+      "explanation": "{比[くら]べる} means 'to compare'. {〜に比[くら]べて} sets up a comparison: 'compared to A, B is ~'.\n\n{東京[とうきょう]に比[くら]べて、大阪[おおさか]は物価[ぶっか]が少[すこ]し安[やす]い。} 'Compared to Tokyo, prices in Osaka are a bit lower.'\n\nIt's a little more formal than {より}, and is especially common with changes over time ({去年[きょねん]に比[くら]べて} 'compared to last year') and in reports with numbers.\n\n{に比[くら]べると} ('when compared to') is a common variant in speech. In writing, {に比[くら]べ} (without {て}) is also used.",
+      "examples": [
+        {
+          "jp": "東京[とうきょう]に比[くら]べて、大阪[おおさか]は物価[ぶっか]が少[すこ]し安[やす]い。",
+          "en": "Compared to Tokyo, the cost of living in Osaka is a little lower."
+        },
+        {
+          "jp": "去年[きょねん]に比[くら]べて、今年[ことし]は雨[あめ]が多[おお]い。",
+          "en": "Compared to last year, there's been more rain this year."
+        },
+        {
+          "jp": "十年前[じゅうねんまえ]に比[くら]べると、外国人[がいこくじん]観光客[かんこうきゃく]がずいぶん増[ふ]えた。",
+          "en": "Compared to ten years ago, there are many more foreign tourists."
+        },
+        {
+          "jp": "兄[あに]に比[くら]べて、弟[おとうと]はおとなしい性格[せいかく]だ。",
+          "en": "Compared to his older brother, the younger one is quiet by nature."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "都会[とかい]＿＿、田舎[いなか]は家賃[やちん]がずっと安[やす]い。",
+          "en": "Compared to the city, rent in the countryside is much cheaper.",
+          "choices": [
+            "をはじめ",
+            "にとって",
+            "について",
+            "に比[くら]べて"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "先月[せんげつ]＿＿、今月[こんげつ]の売[う]り上[あ]げは二割[にわり]増[ふ]えた。",
+          "en": "Compared to last month, this month's sales rose by 20%.",
+          "choices": [
+            "にとって",
+            "として",
+            "によって",
+            "に比[くら]べて"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n3-ni-shite-wa",
+      "title": "〜にしては",
+      "meaning": "for ~ ; considering (that it's) ~ (the result is surprisingly different)",
+      "structure": "Noun + にしては ; Verb (plain) + にしては",
+      "explanation": "{〜にしては} means 'for something that is ~, it's surprisingly…'. You start from a specific fact, which creates an expectation, and the result **doesn't match** that expectation.\n\n{初[はじ]めてにしては、上手[じょうず]にできましたね。} 'For your first time, you did really well.' (You'd expect a first attempt to be worse.)\n{十月[じゅうがつ]にしては、今日[きょう]は暑[あつ]いですね。} 'It's hot today for October.'\n\nThe result can be better or worse than expected. The premise is a definite fact — a noun or a verb clause. {にしては} is not normally used directly after {い}-adjectives (use {わりに} for those — next point).",
+      "examples": [
+        {
+          "jp": "初[はじ]めてにしては、上手[じょうず]にできましたね。",
+          "en": "You did that very well for your first time."
+        },
+        {
+          "jp": "十月[じゅうがつ]にしては、今日[きょう]は暑[あつ]いですね。",
+          "en": "It's hot today for October, isn't it?"
+        },
+        {
+          "jp": "このレストランは駅前[えきまえ]にしては静[しず]かだ。",
+          "en": "This restaurant is quiet, considering it's right by the station."
+        },
+        {
+          "jp": "三年[さんねん]も日本[にほん]に住[す]んでいたにしては、日本語[にほんご]があまり話[はな]せない。",
+          "en": "For someone who lived in Japan for three years, he can't speak much Japanese."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "子供[こども]が描[か]いた＿＿、とても上手[じょうず]な絵[え]だ。",
+          "en": "For a picture drawn by a child, it's very good.",
+          "choices": [
+            "せいで",
+            "おかげで",
+            "くせに",
+            "にしては"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "十一月[じゅういちがつ]＿＿、今日[きょう]はずいぶん暖[あたた]かい。",
+          "en": "It's very warm today for November.",
+          "choices": [
+            "にとって",
+            "について",
+            "にしては",
+            "をはじめ"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n3-wari-ni",
+      "title": "〜わりに(は)",
+      "meaning": "considering ~ ; for ~ (relative to the degree you'd expect)",
+      "structure": "Verb / い-adj (plain) + わりに ; な-adj + な + わりに ; Noun + の + わりに",
+      "explanation": "{〜わりに} means 'considering how ~ it is'. It compares a result against what you'd expect **from the degree** of something.\n\n{この店[みせ]は値段[ねだん]のわりに、量[りょう]が多[おお]い。} 'For the price, this restaurant gives you a lot of food.'\n{祖父[そふ]は年[とし]のわりに元気[げんき]だ。} 'My grandfather is energetic for his age.'\n\n**{わりに} vs {にしては}:** they overlap a lot. Differences:\n- {わりに} works freely with {い}-adjectives and words of degree like {値段[ねだん]}, {年[とし]}, {大[おお]きさ}: {高[たか]いわりに}, {年[とし]のわりに}.\n- {にしては} needs a specific fact as the premise ({子供[こども]にしては}, {初[はじ]めてにしては}) and is rarely used after {い}-adjectives.\n\nOn its own, {わりと} / {わりに} is also an adverb meaning 'relatively, fairly'.",
+      "examples": [
+        {
+          "jp": "この店[みせ]は値段[ねだん]のわりに、量[りょう]が多[おお]い。",
+          "en": "This restaurant gives you a lot of food for the price."
+        },
+        {
+          "jp": "祖父[そふ]は年[とし]のわりに元気[げんき]だ。",
+          "en": "My grandfather is lively for his age."
+        },
+        {
+          "jp": "この仕事[しごと]は大変[たいへん]なわりに、給料[きゅうりょう]が安[やす]い。",
+          "en": "Considering how hard this job is, the pay is low."
+        },
+        {
+          "jp": "一生懸命[いっしょうけんめい]練習[れんしゅう]したわりには、上手[じょうず]にならなかった。",
+          "en": "Considering how hard I practiced, I didn't get much better."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "このホテルは高[たか]い＿＿、サービスがよくない。",
+          "en": "Considering how expensive this hotel is, the service isn't good.",
+          "choices": [
+            "わりに",
+            "からこそ",
+            "おかげで",
+            "にしては"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "母[はは]は六十歳[ろくじゅっさい]の＿＿、若[わか]く見[み]える。",
+          "en": "My mother looks young for sixty.",
+          "choices": [
+            "わりに",
+            "にしては",
+            "せいで",
+            "くせに"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "id": "n2-u14",
+  "title": "Business keigo: humble forms and polite requests",
+  "summary": "The patterns you'll use every day at a Japanese workplace: {おります} / {まいります}, {お〜いたします}, {させていただきます}, {ございます}, requests with {願[ねが]います}, {いただけますでしょうか} and {幸[さいわ]いです}, and passing on messages with {とのことです}.",
+  "points": [
+    {
+      "id": "n2-teorimasu",
+      "title": "〜ております / 〜てまいります",
+      "meaning": "humble forms of ている and ていく / てくる",
+      "structure": "V-て + おります（＝ています）　／　V-て + まいります（＝ていきます / てきます）",
+      "explanation": "In business, {〜ています} becomes {〜ております} when talking about yourself or your company. You'll use it in almost every email: {いつもお世話[せわ]になっております} (\"thank you for your continued support\"), {お待[ま]ちしております} (\"we look forward to...\").\n\n{〜てまいります} is the humble form of both {〜ていきます} and {〜てきます}. It is used for promises about the future ({努力[どりょく]してまいります} \"we will keep working hard\") and for gradual change in letters ({寒[さむ]くなってまいりました} \"it has grown colder\").\n\nWhen talking to an outside person about a colleague, even your boss, use {おります}: {田中[たなか]はただいま席[せき]を外[はず]しております}. For the customer's actions, use respectful {いらっしゃる}.",
+      "examples": [
+        { "jp": "いつもお世話[せわ]になっております。", "en": "Thank you for your continued support. (standard email/phone opening)" },
+        { "jp": "ご連絡[れんらく]をお待[ま]ちしております。", "en": "We look forward to hearing from you." },
+        { "jp": "担当者[たんとうしゃ]は、ただいま席[せき]を外[はず]しております。", "en": "The person in charge is away from their desk at the moment." },
+        { "jp": "今後[こんご]とも、より良[よ]いサービスを目指[めざ]してまいります。", "en": "We will continue striving to provide better service." },
+        { "jp": "寒[さむ]くなってまいりましたが、いかがお過[す]ごしでしょうか。", "en": "It has grown cold; how have you been keeping?" }
+      ],
+      "quiz": [
+        { "q": "申[もう]し訳[わけ]ございません。田中[たなか]はただいま外出[がいしゅつ]して＿＿。", "en": "I'm very sorry. Tanaka is out of the office at the moment.", "choices": ["いらっしゃいます", "おります", "ございます", "なさいます"], "answer": 1 },
+        { "q": "皆様[みなさま]のご期待[きたい]にこたえられるよう、努力[どりょく]して＿＿。", "en": "We will keep working hard to live up to your expectations.", "choices": ["いらっしゃいます", "くださいます", "なさいます", "まいります"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-goitashimasu",
+      "title": "お〜いたします / ご〜いたします",
+      "meaning": "I (humbly) do ... for you",
+      "structure": "お + V-ます stem + いたします　／　ご + する-noun + いたします",
+      "explanation": "This is the standard humble pattern for **your own action that affects the other person**: sending, contacting, guiding, explaining. {いたします} is the humble form of {します}, so {お〜いたします} is a step more humble than {お〜します}.\n\n- {お}: mostly with native Japanese verbs: {お送[おく]りいたします}, {お持[も]ちいたします}, {お預[あず]かりいたします}\n- {ご}: mostly with Sino-Japanese {する} nouns: {ご連絡[れんらく]いたします}, {ご案内[あんない]いたします}, {ご説明[せつめい]いたします}\n- Common exceptions: {お電話[でんわ]いたします}, {お返事[へんじ]いたします}\n\nDon't use it for actions that don't involve the listener (✗ {お食[た]べいたします}), and don't confuse it with respectful {ご〜ください} / {お〜になる}, which describe the **other person's** actions.",
+      "examples": [
+        { "jp": "資料[しりょう]は、後[のち]ほどメールでお送[おく]りいたします。", "en": "I'll send you the materials by email later." },
+        { "jp": "会議室[かいぎしつ]までご案内[あんない]いたします。", "en": "I'll show you to the meeting room." },
+        { "jp": "結果[けっか]が出[で]ましたら、すぐにご連絡[れんらく]いたします。", "en": "We will contact you as soon as we have the results." },
+        { "jp": "お荷物[にもつ]をお預[あず]かりいたします。", "en": "Let me take your luggage." }
+      ],
+      "quiz": [
+        { "q": "担当[たんとう]の者[もの]から、折[お]り返[かえ]しご連絡[れんらく]＿＿。", "en": "The person in charge will get back to you.", "choices": ["なさいます", "になります", "いたします", "くださいます"], "answer": 2 },
+        { "q": "お客様[きゃくさま]、お席[せき]まで＿＿いたします。", "en": "Sir / Madam, I'll show you to your seat.", "choices": ["ご案内[あんない]", "お案内[あんない]", "ご案内[あんない]して", "案内[あんない]に"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-saseteitadaku",
+      "title": "〜させていただきます",
+      "meaning": "(with your permission) I will ...",
+      "structure": "V-causative て-form + いただきます（読[よ]ませて・始[はじ]めさせて・させて）",
+      "explanation": "Literally \"I will receive your letting me do X\". It presents your action as something done **with the listener's permission or for their benefit**. It is everywhere in business Japanese:\n- {司会[しかい]を務[つと]めさせていただきます} (\"I'll be serving as MC\")\n- {本日[ほんじつ]はお休[やす]みさせていただきます} (\"I'll be taking today off\")\n- {休業[きゅうぎょう]させていただきます} (\"we will be closed\", on shop notices)\n\nForm it from the causative: {読[よ]む → 読[よ]ませて}, {始[はじ]める → 始[はじ]めさせて}, {する → させて}. Avoid the common error of adding an extra {さ} to godan verbs: ✗ {読[よ]まさせて}.\n\nMany Japanese people feel it is **overused**. If there is no sense of permission, simple humble forms like {いたします} are often better.",
+      "examples": [
+        { "jp": "本日[ほんじつ]の司会[しかい]を務[つと]めさせていただきます、田中[たなか]と申[もう]します。", "en": "My name is Tanaka, and I'll be your MC today." },
+        { "jp": "体調不良[たいちょうふりょう]のため、本日[ほんじつ]はお休[やす]みさせていただきます。", "en": "I'm not feeling well, so I'll be taking today off." },
+        { "jp": "いただいた資料[しりょう]を確認[かくにん]させていただきました。", "en": "I've checked the materials you sent." },
+        { "jp": "誠[まこと]に勝手[かって]ながら、八月[はちがつ]十三日[じゅうさんにち]から十六日[じゅうろくにち]まで休業[きゅうぎょう]させていただきます。", "en": "We apologise for the inconvenience, but we will be closed from 13 to 16 August." }
+      ],
+      "quiz": [
+        { "q": "それでは、会議[かいぎ]を始[はじ]め＿＿いただきます。", "en": "Well then, let us begin the meeting.", "choices": ["られて", "させて", "されて", "して"], "answer": 1 },
+        { "q": "来週[らいしゅう]の月曜日[げつようび]に、資料[しりょう]を送[おく]＿＿いただきます。", "en": "I'll send you the materials next Monday.", "choices": ["らさせて", "られて", "りさせて", "らせて"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-gozaimasu",
+      "title": "〜でございます / 〜にございます",
+      "meaning": "very polite です / あります (about yourself or things)",
+      "structure": "Noun + でございます（＝です）　／　Place + にございます（＝にあります）",
+      "explanation": "{ございます} is the super-polite form of {あります}, and {でございます} is the super-polite form of {です}. They are standard in **customer service, phone calls and formal announcements**:\n- answering the phone: {はい、山田商事[やまだしょうじ]でございます}\n- giving directions: {お手洗[てあら]いは二階[にかい]にございます}\n- in emails: {ご不明[ふめい]な点[てん]がございましたら} (\"if you have any questions\")\n\n{でございます} is used for yourself, your company and things, **not for the customer**. To ask \"Are you Mr Yamada?\", use the respectful {山田様[やまださま]でいらっしゃいますか}; ✗ {山田様[やまださま]でございますか}.",
+      "examples": [
+        { "jp": "はい、山田商事[やまだしょうじ]営業部[えいぎょうぶ]でございます。", "en": "Hello, Yamada Trading, Sales Department." },
+        { "jp": "こちらが新商品[しんしょうひん]でございます。", "en": "This is our new product." },
+        { "jp": "お手洗[てあら]いは二階[にかい]にございます。", "en": "The restrooms are on the second floor." },
+        { "jp": "ご不明[ふめい]な点[てん]がございましたら、お気軽[きがる]にお問[と]い合[あ]わせください。", "en": "If you have any questions, please feel free to contact us." }
+      ],
+      "quiz": [
+        { "q": "エレベーターは、あちら＿＿。", "en": "The elevators are over there.", "choices": ["にいらっしゃいます", "におられます", "にございます", "にまいります"], "answer": 2 },
+        { "q": "失礼[しつれい]ですが、山田様[やまださま]＿＿か。", "en": "Excuse me, but are you Mr Yamada?", "choices": ["でいらっしゃいます", "でございます", "でおります", "でまいります"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-onegaimasu",
+      "title": "お〜願[ねが]います / ご〜願[ねが]います",
+      "meaning": "please (do) (formal request in notices and announcements)",
+      "structure": "お + V-ます stem + 願[ねが]います　／　ご + する-noun + 願[ねが]います",
+      "explanation": "{お〜願[ねが]います} is a formal, somewhat impersonal way to ask people to do something. You'll hear it in **station announcements, building notices and official instructions**: {黄色[きいろ]い線[せん]の内側[うちがわ]までお下[さ]がり願[ねが]います}, {ご遠慮[えんりょ]願[ねが]います} (\"please refrain\").\n\nIt is polite but firm, so it suits rules addressed to the public. When asking an individual customer or a superior a favour, softer forms like {お〜ください}, {〜ていただけますか} or {〜ていただけますでしょうか} sound friendlier.\n\nA related fixed expression is {ご理解[りかい]とご協力[きょうりょく]をお願[ねが]いいたします} (\"we ask for your understanding and cooperation\").",
+      "examples": [
+        { "jp": "館内[かんない]では、携帯電話[けいたいでんわ]の電源[でんげん]をお切[き]り願[ねが]います。", "en": "Please switch off your mobile phones inside the building." },
+        { "jp": "危[あぶ]ないですから、黄色[きいろ]い線[せん]の内側[うちがわ]までお下[さ]がり願[ねが]います。", "en": "For your safety, please stand behind the yellow line." },
+        { "jp": "工事[こうじ]期間中[きかんちゅう]は、ご理解[りかい]とご協力[きょうりょく]をお願[ねが]いいたします。", "en": "We ask for your understanding and cooperation during the construction period." },
+        { "jp": "お問[と]い合[あ]わせの際[さい]は、会員番号[かいいんばんごう]をご用意[ようい]願[ねが]います。", "en": "When contacting us, please have your membership number ready." }
+      ],
+      "quiz": [
+        { "q": "館内[かんない]は禁煙[きんえん]です。おタバコはご遠慮[えんりょ]＿＿。", "en": "This building is non-smoking. Please refrain from smoking.", "choices": ["いたします", "願[ねが]います", "になります", "まいります"], "answer": 1 },
+        { "q": "電車[でんしゃ]が参[まい]ります。危[あぶ]ないですから、黄色[きいろ]い線[せん]の内側[うちがわ]までお下[さ]がり＿＿。", "en": "A train is approaching. For your safety, please stand behind the yellow line.", "choices": ["いたします", "させていただきます", "申[もう]し上[あ]げます", "願[ねが]います"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-teitadakemasudeshouka",
+      "title": "〜ていただけますでしょうか / 〜ていただけないでしょうか",
+      "meaning": "could you possibly ...? (very polite request)",
+      "structure": "V-て + いただけますでしょうか / いただけないでしょうか　／　お・ご〜いただけますでしょうか",
+      "explanation": "These are among the most polite ways to ask a favour. A rough ladder of politeness:\n- {〜てください} (instruction-like)\n- {〜てくださいますか} / {〜ていただけますか}\n- {〜ていただけませんか}\n- {〜ていただけますでしょうか} / {〜ていただけないでしょうか} (very polite)\n\nThe negative question {いただけないでしょうか} sounds more humble, because it leaves the listener room to refuse. Combining with {お〜} / {ご〜} ({ご記入[きにゅう]いただけますでしょうか}) adds even more politeness.\n\nCushion words ({クッション言葉[ことば]}) usually come first: {恐[おそ]れ入[い]りますが}, {お手数[てすう]ですが}, {申[もう]し訳[わけ]ございませんが}. Strictly speaking {ますでしょうか} stacks two polite forms, but it is widely accepted in business.",
+      "examples": [
+        { "jp": "申[もう]し訳[わけ]ございませんが、少々[しょうしょう]お待[ま]ちいただけますでしょうか。", "en": "I'm terribly sorry, but could you wait a moment, please?" },
+        { "jp": "恐[おそ]れ入[い]りますが、お名前[なまえ]とご連絡先[れんらくさき]を教[おし]えていただけますでしょうか。", "en": "Excuse me, but could you tell me your name and contact details?" },
+        { "jp": "お手数[てすう]ですが、こちらの書類[しょるい]にご記入[きにゅう]いただけますでしょうか。", "en": "Sorry for the trouble, but could you fill in this form, please?" },
+        { "jp": "大変[たいへん]恐縮[きょうしゅく]ですが、会議[かいぎ]の日程[にってい]を変更[へんこう]していただけないでしょうか。", "en": "I'm very sorry to ask, but would it be possible to reschedule the meeting?" }
+      ],
+      "quiz": [
+        { "q": "恐[おそ]れ入[い]りますが、もう少[すこ]しゆっくり話[はな]して＿＿。", "en": "Excuse me, but could you speak a little more slowly, please?", "choices": ["くださいでしょうか", "いただけますでしょうか", "いただきますでしょうか", "さしあげますでしょうか"], "answer": 1 },
+        { "q": "お手数[てすう]ですが、こちらにご記入[きにゅう]＿＿。", "en": "Sorry for the trouble, but could you possibly fill this in?", "choices": ["してさしあげます", "いたします", "いたしてください", "いただけないでしょうか"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-saiwaidesu",
+      "title": "〜ていただけると幸[さいわ]いです",
+      "meaning": "I would be grateful if you could ...",
+      "structure": "V-て / お・ご〜 + いただけると / いただければ / いただけますと + 幸[さいわ]いです",
+      "explanation": "{幸[さいわ]い} means \"fortunate\". This pattern frames a request as \"it would make me happy if...\", which is soft and indirect. It is a staple of **business emails**, especially at the end: {ご確認[かくにん]いただけますと幸[さいわ]いです} (\"I'd appreciate it if you could check this\").\n\nVariants: {いただけると}, {いただければ} and {いただけますと} (the most polite) are all common. Note that here {幸[さいわ]い} is read {さいわい}, not {しあわせ}.\n\nIn speech, a less formal equivalent is {〜ていただけると助[たす]かります} (\"it would help me a lot if...\").",
+      "examples": [
+        { "jp": "添付[てんぷ]の資料[しりょう]をご確認[かくにん]いただけますと幸[さいわ]いです。", "en": "I would appreciate it if you could check the attached document." },
+        { "jp": "お忙[いそが]しいところ恐縮[きょうしゅく]ですが、金曜日[きんようび]までにご返信[へんしん]いただければ幸[さいわ]いです。", "en": "I'm sorry to trouble you when you're busy, but I'd be grateful for a reply by Friday." },
+        { "jp": "ご意見[いけん]をお聞[き]かせいただけると幸[さいわ]いです。", "en": "I'd be glad to hear your thoughts." },
+        { "jp": "明日[あした]までに見積[みつ]もりを送[おく]っていただけると助[たす]かります。", "en": "It would be a big help if you could send the estimate by tomorrow." }
+      ],
+      "quiz": [
+        { "q": "資料[しりょう]をお送[おく]りしましたので、ご確認[かくにん]いただけますと＿＿です。", "en": "I've sent the materials, so I'd be grateful if you could check them.", "choices": ["幸[さいわ]い", "幸[しあわ]せ", "結構[けっこう]", "大切[たいせつ]"], "answer": 0 },
+        { "q": "日程[にってい]についてご検討[けんとう]＿＿幸[さいわ]いです。", "en": "I would be grateful if you could consider the schedule.", "choices": ["いたせば", "させれば", "いただければ", "もらえば"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-tonokoto",
+      "title": "〜とのことです",
+      "meaning": "I was told that; the message is that",
+      "structure": "Plain form + とのことです（とのことでした）　／　Noun + とのことです",
+      "explanation": "{とのことです} relays a **specific message or piece of information** from someone else. It is the standard way to pass on messages at work: \"Mr Tanaka called; he says he'll be a little late.\"\n\nCompared with {〜そうです} (general hearsay), it is more formal and sounds like an accurate report of what was said. The past {とのことでした} is common when reporting a conversation that already happened.\n\nIn letters and emails it also introduces news about the reader: {ご結婚[けっこん]なさったとのこと、おめでとうございます} (\"I hear you got married; congratulations\").",
+      "examples": [
+        { "jp": "田中[たなか]さんから電話[でんわ]があって、少[すこ]し遅[おく]れるとのことです。", "en": "Mr Tanaka called. He says he'll be a little late." },
+        { "jp": "部長[ぶちょう]は、本日[ほんじつ]は外出先[がいしゅつさき]から直接[ちょくせつ]帰宅[きたく]されるとのことです。", "en": "The department head says he'll go straight home from his appointment today." },
+        { "jp": "先方[せんぽう]は、来週[らいしゅう]なら都合[つごう]がいいとのことでした。", "en": "The client said next week would suit them." },
+        { "jp": "ご結婚[けっこん]なさったとのこと、心[こころ]よりお祝[いわ]い申[もう]し上[あ]げます。", "en": "I hear you've got married. My heartfelt congratulations." }
+      ],
+      "quiz": [
+        { "q": "鈴木[すずき]さんから連絡[れんらく]があり、会議[かいぎ]に十分[じゅっぷん]ほど遅[おく]れる＿＿。", "en": "Ms Suzuki got in touch; she says she'll be about ten minutes late for the meeting.", "choices": ["ことにします", "とのことです", "ものです", "次第[しだい]です"], "answer": 1 },
+        { "q": "先方[せんぽう]からのお返事[へんじ]によると、来週[らいしゅう]の火曜日[かようび]なら大丈夫[だいじょうぶ]＿＿。", "en": "According to the client's reply, next Tuesday would be fine.", "choices": ["に過[す]ぎませんでした", "ところでした", "かのようでした", "とのことでした"], "answer": 3 }
+      ]
+    }
+  ]
+}

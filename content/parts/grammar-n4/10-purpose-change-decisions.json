@@ -1,0 +1,314 @@
+{
+  "id": "n4-u10",
+  "title": "Purpose, effort, change and decisions",
+  "summary": "Say why you do things ({ために}, {ように}), what you make an effort to do ({ようにする}), how things have changed ({ようになる}), and who made a decision ({ことにする} vs {ことになる}).",
+  "points": [
+    {
+      "id": "n4-tame-ni",
+      "title": "〜ために (purpose)",
+      "meaning": "in order to / for (the sake of)",
+      "structure": "V-dictionary + ために / Noun + の + ために",
+      "explanation": "{ために} expresses a purpose: 'in order to ~'. {日本[にほん]で働[はたら]くために、日本語[にほんご]を勉強[べんきょう]している} 'I'm studying Japanese in order to work in Japan.'\n\nTwo conditions for the verb version:\n\n- The verb before {ために} is a **deliberate action** — something you can choose to do ({働[はたら]く}, {買[か]う}, {留学[りゅうがく]する}).\n- The person doing both parts is usually the **same**.\n\nWith things you can't directly control — abilities, potential verbs, {分[わ]かる}, natural changes — use {ように} instead (next point).\n\nWith nouns, {Noun + のために} means 'for the sake of / for the benefit of': {家族[かぞく]のために} 'for my family', {健康[けんこう]のために} 'for my health'.",
+      "examples": [
+        {
+          "jp": "日本[にほん]で働[はたら]くために、毎日[まいにち]日本語[にほんご]を勉強[べんきょう]しています。",
+          "en": "I study Japanese every day in order to work in Japan."
+        },
+        {
+          "jp": "家[いえ]を買[か]うために、お金[かね]を貯[た]めています。",
+          "en": "I'm saving money to buy a house."
+        },
+        {
+          "jp": "健康[けんこう]のために、毎朝[まいあさ]歩[ある]いています。",
+          "en": "I walk every morning for my health."
+        },
+        {
+          "jp": "子[こ]どものために、父[ちち]は遅[おそ]くまで働[はたら]いている。",
+          "en": "My father works late for the sake of his children."
+        }
+      ],
+      "notes": "Related: {V + のに} can mean 'for (the purpose of)' when talking about usefulness: {このはさみは花[はな]を切[き]るのに使[つか]います} 'These scissors are used for cutting flowers.' At N3 you'll also meet {ため} meaning 'because of': {雨[あめ]のため中止[ちゅうし]} 'cancelled due to rain'.",
+      "quiz": [
+        {
+          "q": "留学[りゅうがく]する＿＿、アルバイトをしてお金[かね]を貯[た]めています。",
+          "en": "I'm working part-time and saving money in order to study abroad.",
+          "choices": [
+            "のが",
+            "ことに",
+            "ための",
+            "ために"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "家族[かぞく]＿＿ために、一生懸命[いっしょうけんめい]働[はたら]きます。",
+          "en": "I work hard for my family.",
+          "choices": [
+            "の",
+            "が",
+            "な",
+            "に"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-you-ni-purpose",
+      "title": "〜ように (so that)",
+      "meaning": "so that ~ / so as not to ~",
+      "structure": "V-dictionary / V-ない / potential verb + ように",
+      "explanation": "{ように} also expresses purpose, but for a **result you can't directly control**: something becoming possible, something not happening, or someone else being able to do something. 'Do A so that B (will be the case).'\n\n- With potential verbs: {よく見[み]えるように前[まえ]に座[すわ]った} 'I sat at the front so that I could see well.'\n- With negatives: {忘[わす]れないようにメモする} 'I'll make a note so I don't forget.'\n- With others' actions: {子[こ]どもでも分[わ]かるように説明[せつめい]した} 'I explained so that even a child could understand.'\n\nQuick test: {ために} + an action you **do**; {ように} + a state or result you **hope for**. Compare {日本語[にほんご]を話[はな]すために} (to speak, as an action) with {日本語[にほんご]が話[はな]せるように} (so that I'll be able to speak).",
+      "examples": [
+        {
+          "jp": "後[うし]ろの人[ひと]にも聞[き]こえるように、大[おお]きい声[こえ]で話[はな]してください。",
+          "en": "Please speak loudly so that the people at the back can hear too."
+        },
+        {
+          "jp": "忘[わす]れないように、手帳[てちょう]に書[か]いておきます。",
+          "en": "I'll write it in my planner so I don't forget."
+        },
+        {
+          "jp": "風邪[かぜ]をひかないように、暖[あたた]かくして寝[ね]てください。",
+          "en": "Keep warm when you sleep so you don't catch a cold."
+        },
+        {
+          "jp": "日本語[にほんご]の新聞[しんぶん]が読[よ]めるように、毎日[まいにち]漢字[かんじ]を勉強[べんきょう]しています。",
+          "en": "I study kanji every day so that I'll be able to read Japanese newspapers."
+        },
+        {
+          "jp": "子[こ]どもでも分[わ]かるように、簡単[かんたん]な言葉[ことば]で説明[せつめい]した。",
+          "en": "I explained it in simple words so that even a child could understand."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "遅刻[ちこく]し＿＿、早[はや]く家[いえ]を出[で]ました。",
+          "en": "I left home early so as not to be late.",
+          "choices": [
+            "なかった",
+            "なさそうに",
+            "なければ",
+            "ないように"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "黒板[こくばん]の字[じ]がよく＿＿ように、前[まえ]の席[せき]に座[すわ]りました。",
+          "en": "I sat in a front seat so that I could see the writing on the board well.",
+          "choices": [
+            "見[み]る",
+            "見[み]せる",
+            "見[み]える",
+            "見[み]た"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n4-you-ni-suru",
+      "title": "〜ようにする",
+      "meaning": "try to / make a point of / make sure to",
+      "structure": "V-dictionary / V-ない + ようにする (ようにしている = ongoing habit)",
+      "explanation": "{〜ようにする} means making a conscious effort so that something happens: 'try to / make sure to'. It's about building habits and being careful, not about a one-time attempt.\n\n- {ようにしている}: a habit you keep up. {毎日[まいにち]野菜[やさい]を食[た]べるようにしている} 'I make a point of eating vegetables every day.'\n- {ようにする}: a resolution. {明日[あした]から早[はや]く起[お]きるようにします} 'From tomorrow I'll try to get up early.'\n- {〜ないようにする}: 'try not to ~'. {夜[よる]は甘[あま]いものを食[た]べないようにしている}.\n- {〜ようにしてください}: a polite instruction, 'please make sure to ~'. Very common at work: {遅[おく]れないようにしてください}.\n\nCompare {〜てみる} 'try (it out once)': {納豆[なっとう]を食[た]べてみた} 'I tried natto.'",
+      "examples": [
+        {
+          "jp": "健康[けんこう]のために、毎日[まいにち]野菜[やさい]を食[た]べるようにしています。",
+          "en": "For my health, I make a point of eating vegetables every day."
+        },
+        {
+          "jp": "夜[よる]は甘[あま]いものを食[た]べないようにしています。",
+          "en": "I try not to eat sweets at night."
+        },
+        {
+          "jp": "明日[あした]からは、もっと早[はや]く起[お]きるようにします。",
+          "en": "From tomorrow, I'll try to get up earlier."
+        },
+        {
+          "jp": "会議[かいぎ]には遅[おく]れないようにしてください。",
+          "en": "Please make sure you're not late for the meeting."
+        },
+        {
+          "jp": "毎晩[まいばん]、日本語[にほんご]で日記[にっき]を書[か]くようにしている。",
+          "en": "I make a habit of writing a diary in Japanese every night."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "寝[ね]る前[まえ]は、スマホを＿＿ようにしています。",
+          "en": "I try not to use my smartphone before bed.",
+          "choices": [
+            "使[つか]わない",
+            "使[つか]わなく",
+            "使[つか]わなかった",
+            "使[つか]わず"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "大事[だいじ]なことはメモを取[と]る＿＿してください。",
+          "en": "Please make sure to take notes on important things.",
+          "choices": [
+            "のに",
+            "ために",
+            "そうに",
+            "ように"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n4-you-ni-naru",
+      "title": "〜ようになる",
+      "meaning": "come to (be able to) ~ / start ~ing (gradual change)",
+      "structure": "V-dictionary / potential verb + ようになる / V-ない → 〜なくなる",
+      "explanation": "{〜ようになる} describes a change that came about over time: a new ability, or a new habit.\n\n- Ability: potential verb + {ようになる}. {練習[れんしゅう]して、泳[およ]げるようになった} 'With practice, I became able to swim.'\n- Habit: dictionary form + {ようになる}. {日本[にほん]に来[き]てから、魚[さかな]をよく食[た]べるようになった} 'Since coming to Japan, I've started eating fish a lot.'\n\nFor a change to **not** doing something, {〜なくなる} is the natural choice: {あまり料理[りょうり]をしなくなった} 'I've stopped cooking much.'\n\nCompare: {ようにする} is the effort you make; {ようになる} is the change that results. {早[はや]く起[お]きるようにしたら、早[はや]く起[お]きられるようになった} 'When I made an effort to get up early, I became able to.'",
+      "examples": [
+        {
+          "jp": "練習[れんしゅう]して、泳[およ]げるようになりました。",
+          "en": "After practising, I became able to swim."
+        },
+        {
+          "jp": "日本[にほん]に来[き]てから、納豆[なっとう]が食[た]べられるようになった。",
+          "en": "Since coming to Japan, I've become able to eat natto."
+        },
+        {
+          "jp": "最近[さいきん]、子[こ]どもが一人[ひとり]で学校[がっこう]に行[い]くようになりました。",
+          "en": "Recently my child has started going to school alone."
+        },
+        {
+          "jp": "眼鏡[めがね]をかけたら、よく見[み]えるようになった。",
+          "en": "When I put on glasses, I could see well."
+        },
+        {
+          "jp": "引[ひ]っ越[こ]してから、あまり料理[りょうり]をしなくなりました。",
+          "en": "Since I moved, I've stopped cooking much."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "一年[いちねん]勉強[べんきょう]して、日本語[にほんご]のニュースが少[すこ]し＿＿ようになりました。",
+          "en": "After a year of study, I've become able to understand Japanese news a little.",
+          "choices": [
+            "分[わ]かって",
+            "分[わ]かる",
+            "分[わ]かれる",
+            "分[わ]かった"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "子[こ]どものときは嫌[きら]いだったけど、大人[おとな]になってから、コーヒーを＿＿ようになった。",
+          "en": "I hated it as a child, but since becoming an adult I've started drinking coffee.",
+          "choices": [
+            "飲[の]んで",
+            "飲[の]もう",
+            "飲[の]む",
+            "飲[の]んだ"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n4-koto-ni-suru",
+      "title": "〜ことにする",
+      "meaning": "decide to ~",
+      "structure": "V-dictionary / V-ない + ことにする (ことにしている = personal rule)",
+      "explanation": "{〜ことにする} means **you** decide to do something. Usually it appears in the past, {ことにした}: {日本[にほん]に留学[りゅうがく]することにした} 'I've decided to study in Japan.' For a negative decision: {今日[きょう]は出[で]かけないことにした} 'I've decided not to go out today.'\n\n{〜ことにしている} describes a rule you set for yourself and keep: {週末[しゅうまつ]は仕事[しごと]をしないことにしている} 'I make it a rule not to work at weekends.'\n\nThis is different from {〜ようにする} ('make an effort to'). {ことにする} is the decision; {ようにする} is the ongoing effort.\n\nYou already know the noun version: {Noun + にする} 'I'll have / I'll go with ~': {コーヒーにします}.",
+      "examples": [
+        {
+          "jp": "来年[らいねん]、日本[にほん]に留学[りゅうがく]することにしました。",
+          "en": "I've decided to study in Japan next year."
+        },
+        {
+          "jp": "今日[きょう]は雨[あめ]なので、出[で]かけないことにします。",
+          "en": "It's raining today, so I've made up my mind not to go out."
+        },
+        {
+          "jp": "毎晩[まいばん]、寝[ね]る前[まえ]に本[ほん]を読[よ]むことにしています。",
+          "en": "I make it a rule to read a book every night before bed."
+        },
+        {
+          "jp": "色々[いろいろ]考[かんが]えて、その会社[かいしゃ]で働[はたら]くことにした。",
+          "en": "After a lot of thought, I decided to work at that company."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "体[からだ]のために、今日[きょう]からたばこを＿＿ことにしました。",
+          "en": "For my health, I've decided to quit smoking from today.",
+          "choices": [
+            "やめる",
+            "やめて",
+            "やめよう",
+            "やめた"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "いろいろ考[かんが]えて、新[あたら]しい車[くるま]は買[か]わない＿＿。",
+          "en": "After thinking it over, I've decided not to buy a new car.",
+          "choices": [
+            "はずでした",
+            "ようになりました",
+            "ことにしました",
+            "ようでした"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n4-koto-ni-naru",
+      "title": "〜ことになる",
+      "meaning": "it's been decided that ~ / it turns out that ~",
+      "structure": "V-dictionary / V-ない + ことになる (ことになっている = rule / arrangement)",
+      "explanation": "{〜ことになる} means a decision was made by **someone else** or by circumstances — not by you personally. {来月[らいげつ]から大阪[おおさか]で働[はたら]くことになった} 'It's been decided that I'll work in Osaka from next month' (probably the company decided).\n\nJapanese people also use {ことになりました} to announce their own big news, because it sounds modest — less 'I decided' and more 'it has come about': {この度[たび]、結婚[けっこん]することになりました} 'I'm getting married.'\n\n{〜ことになっている} describes an existing rule or arrangement: {この寮[りょう]では、十一時[じゅういちじ]までに帰[かえ]ることになっている} 'In this dorm, you're supposed to be back by eleven.'\n\nRemember the pair: {する} = I decided; {なる} = it was decided.",
+      "examples": [
+        {
+          "jp": "来月[らいげつ]から大阪[おおさか]の支店[してん]で働[はたら]くことになりました。",
+          "en": "It's been decided that I'll work at the Osaka branch from next month."
+        },
+        {
+          "jp": "雨[あめ]が降[ふ]ったので、試合[しあい]は中止[ちゅうし]することになった。",
+          "en": "Because of the rain, it was decided to cancel the match."
+        },
+        {
+          "jp": "この寮[りょう]では、夜[よる]十一時[じゅういちじ]までに帰[かえ]ることになっています。",
+          "en": "In this dorm, you're supposed to be back by 11 p.m."
+        },
+        {
+          "jp": "来年[らいねん]の春[はる]、結婚[けっこん]することになりました。",
+          "en": "I'm going to get married next spring."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "会社[かいしゃ]の命令[めいれい]で、来年[らいねん]アメリカへ＿＿。",
+          "en": "On company orders, it's been decided that I'll go to America next year.",
+          "choices": [
+            "行[い]くようにしました",
+            "行[い]くことにしました",
+            "行[い]くことになりました",
+            "行[い]くつもりでした"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "この会社[かいしゃ]では、毎週[まいしゅう]月曜日[げつようび]に会議[かいぎ]をする＿＿。",
+          "en": "At this company, the rule is that we have a meeting every Monday.",
+          "choices": [
+            "はずがありません",
+            "ことがあります",
+            "ところです",
+            "ことになっています"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

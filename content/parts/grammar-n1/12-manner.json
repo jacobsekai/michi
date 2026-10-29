@@ -1,0 +1,407 @@
+{
+  "id": "n1-u12",
+  "title": "Attitude, manner and standards",
+  "summary": "Describing how people act and what they act according to: 'as if to say' ({とばかりに}, {んばかり}), complaining about someone ({ときたら}), defying obstacles ({をものともせず}), 'in one's own way' ({なりに}), 'in line with' ({に即[そく]して}), saying things boldly ({てはばからない}) and doing things absent-mindedly ({ともなく}).",
+  "points": [
+    {
+      "id": "n1-to-bakari-ni",
+      "title": "〜とばかりに",
+      "meaning": "as if to say; as though (X)",
+      "structure": "Quotation / plain form (often a command or volitional) + とばかりに",
+      "explanation": "{〜とばかりに} describes an action that silently communicates a message: someone doesn't actually say X, but their behaviour all but says it. 'He turned his back on me as if to say \"Go home\".'\n\nThe X is often a short quote, command or exclamation: {早[はや]く帰[かえ]れ}, {待[ま]ってました}, {いい加減[かげん]にしろ}. The fixed phrase {ここぞとばかりに} means 'seizing the moment, as if to say \"this is it!\"'.\n\nIt describes other people's actions, not your own.\n\n**Register:** written and narrative, but also common in vivid storytelling and TV narration.",
+      "examples": [
+        {
+          "jp": "待[ま]ってましたとばかりに、子[こ]どもたちはプールに飛[と]び込[こ]んだ。",
+          "en": "As if they'd been waiting for that moment, the children leapt into the pool."
+        },
+        {
+          "jp": "彼[かれ]は「もう帰[かえ]れ」とばかりに、私[わたし]に背[せ]を向[む]けた。",
+          "en": "He turned his back on me as if to say, 'Go home.'"
+        },
+        {
+          "jp": "店員[てんいん]は早[はや]く出[で]て行[い]けとばかりに、閉店[へいてん]の準備[じゅんび]を始[はじ]めた。",
+          "en": "The shop staff started getting ready to close, as if to say 'Hurry up and leave.'"
+        },
+        {
+          "jp": "ここぞとばかりに、彼[かれ]は日頃[ひごろ]の不満[ふまん]をぶちまけた。",
+          "en": "Seizing his chance, he poured out all his usual complaints."
+        }
+      ],
+      "notes": "Compare {〜んばかり} (next point): {とばかりに} follows a quote; {んばかり} follows a verb stem and means 'almost doing'. {言[い]わんばかりに} and {とばかりに} are often interchangeable.",
+      "quiz": [
+        {
+          "q": "母[はは]は「いい加減[かげん]にしなさい」＿＿、テレビを消[け]した。",
+          "en": "My mother switched off the TV as if to say, 'That's enough!'",
+          "choices": [
+            "とばかりに",
+            "といえども",
+            "とあって",
+            "ときたら"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "セールが始[はじ]まると、客[きゃく]たちはここぞ＿＿売[う]り場[ば]に殺到[さっとう]した。",
+          "en": "When the sale began, the customers seized their moment and rushed to the counters.",
+          "choices": [
+            "とあれば",
+            "とはいえ",
+            "と相[あい]まって",
+            "とばかりに"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-n-bakari",
+      "title": "〜んばかり",
+      "meaning": "almost; as if about to; on the verge of",
+      "structure": "Verb ない-stem + んばかり(に／の／だ) (する → せんばかり)",
+      "explanation": "{〜んばかり} combines classical volitional {ん} with {ばかり}: 'just about to do X'. It describes something so intense it seems to be on the verge of X, though X doesn't actually happen: {泣[な]き出[だ]さんばかり} 'on the verge of tears', {割[わ]れんばかりの拍手[はくしゅ]} 'thunderous applause (as if the hall would split)'.\n\n{言[い]わんばかりに} 'as if to say' is extremely common: {帰[かえ]れと言[い]わんばかりに}.\n\n**Register:** literary and descriptive — novels, news, sports commentary. {割[わ]れんばかりの拍手[はくしゅ]} and {言[い]わんばかり} are set phrases worth learning.",
+      "examples": [
+        {
+          "jp": "彼女[かのじょ]は泣[な]き出[だ]さんばかりの顔[かお]で、私[わたし]を見[み]つめた。",
+          "en": "She stared at me, looking as if she was about to burst into tears."
+        },
+        {
+          "jp": "優勝[ゆうしょう]が決[き]まった瞬間[しゅんかん]、会場[かいじょう]は割[わ]れんばかりの拍手[はくしゅ]に包[つつ]まれた。",
+          "en": "The moment the victory was decided, the venue erupted in thunderous applause."
+        },
+        {
+          "jp": "店主[てんしゅ]は、二度[にど]と来[く]るなと言[い]わんばかりに、私[わたし]たちをにらんだ。",
+          "en": "The shop owner glared at us as if to say 'Never come back.'"
+        },
+        {
+          "jp": "彼[かれ]は今[いま]にも殴[なぐ]りかからんばかりの勢[いきお]いで怒鳴[どな]った。",
+          "en": "He yelled as though he were about to throw a punch at any moment."
+        }
+      ],
+      "notes": "Forms: {〜んばかりに} + verb, {〜んばかりの} + noun, {〜んばかりだ} at the end of a sentence.",
+      "quiz": [
+        {
+          "q": "コンサートの最後[さいご]に、会場[かいじょう]は割[わ]れ＿＿拍手[はくしゅ]に包[つつ]まれた。",
+          "en": "At the end of the concert, the hall was filled with thunderous applause.",
+          "choices": [
+            "んがための",
+            "んばかりの",
+            "ずじまいの",
+            "ないまでもの"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "彼[かれ]は「お前[まえ]が悪[わる]い」と言[い]わ＿＿、私[わたし]をにらみつけた。",
+          "en": "He glared at me as if to say 'It's your fault.'",
+          "choices": [
+            "なりに",
+            "ずくめに",
+            "んばかりに",
+            "ずにはおかず"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-to-kitara",
+      "title": "〜ときたら",
+      "meaning": "speaking of X (exasperated); when it comes to X (complaint)",
+      "structure": "Noun + ときたら",
+      "explanation": "{〜ときたら} raises a topic in order to complain about it. The topic is usually someone close (husband, kids, boss) or something annoying (the weather, an old computer), and what follows is a criticism or expression of frustration.\n\nIt's very subjective and emotional: 'My husband, honestly — he just sleeps all day on his days off.'\n\n**Register:** conversational! Unlike most N1 grammar, you'll genuinely hear this in everyday chat, especially among friends and in TV dramas. It's not used in formal writing. It also has a less common positive use with food and drink ({夏[なつ]のビールときたら最高[さいこう]だ}).",
+      "examples": [
+        {
+          "jp": "この古[ふる]いパソコンときたら、すぐ固[かた]まるんだから。",
+          "en": "This old computer, honestly — it freezes all the time."
+        },
+        {
+          "jp": "うちの夫[おっと]ときたら、休[やす]みの日[ひ]は一日中[いちにちじゅう]寝[ね]てばかりいる。",
+          "en": "My husband, I tell you — on his days off he just sleeps all day."
+        },
+        {
+          "jp": "あの店[みせ]の店員[てんいん]ときたら、客[きゃく]が来[き]ても挨拶[あいさつ]一[ひと]つしない。",
+          "en": "The staff at that shop don't even say hello when customers come in."
+        },
+        {
+          "jp": "最近[さいきん]の天気[てんき]ときたら、暑[あつ]かったり寒[さむ]かったりで本当[ほんとう]に困[こま]る。",
+          "en": "The weather lately — hot one day, cold the next. It's really annoying."
+        }
+      ],
+      "notes": "Not for yourself, and not for neutral topics. For a neutral 'speaking of', use {〜といえば}.",
+      "quiz": [
+        {
+          "q": "うちの息子[むすこ]＿＿、ゲームばかりして全然[ぜんぜん]勉強[べんきょう]しない。",
+          "en": "My son, honestly — he does nothing but play games and never studies.",
+          "choices": [
+            "とあって",
+            "とあれば",
+            "ときたら",
+            "といえども"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "あの政治家[せいじか]＿＿、言[い]うことがころころ変[か]わる。",
+          "en": "That politician, honestly — what he says changes all the time.",
+          "choices": [
+            "ときたら",
+            "とばかりに",
+            "とはいえ",
+            "と相[あい]まって"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-wo-monotomo-sezu",
+      "title": "〜をものともせず(に)",
+      "meaning": "undaunted by; in defiance of; making light of",
+      "structure": "Noun (obstacle) + をものともせず(に)",
+      "explanation": "{〜をものともせず} means 'not treating X as anything to worry about' — bravely pushing through difficulties: injury, storms, opposition, danger. It expresses admiration for the person's courage or determination.\n\nIt describes others (or a group) from an observer's point of view, so it's not used to describe yourself.\n\n**Register:** written and formal; very common in news and sports reporting ({けがをものともせず} 'shrugging off an injury').",
+      "examples": [
+        {
+          "jp": "彼[かれ]は足[あし]のけがをものともせず、最後[さいご]まで走[はし]り抜[ぬ]いた。",
+          "en": "Undaunted by his leg injury, he ran all the way to the finish."
+        },
+        {
+          "jp": "周囲[しゅうい]の反対[はんたい]をものともせずに、彼女[かのじょ]は起業[きぎょう]した。",
+          "en": "Brushing aside the opposition of those around her, she started her own business."
+        },
+        {
+          "jp": "救助隊[きゅうじょたい]は激[はげ]しい雨[あめ]をものともせず、行方[ゆくえ]不明者[ふめいしゃ]の捜索[そうさく]を続[つづ]けた。",
+          "en": "Undeterred by the heavy rain, the rescue team continued searching for the missing."
+        },
+        {
+          "jp": "数々[かずかず]の困難[こんなん]をものともせず、二人[ふたり]は夢[ゆめ]を実現[じつげん]させた。",
+          "en": "Overcoming countless difficulties, the two of them made their dream come true."
+        }
+      ],
+      "notes": "{をものともせず} = admirable courage against obstacles; {をよそに} (Unit 10) = ignoring other people's worries, often critical.",
+      "quiz": [
+        {
+          "q": "その登山家[とざんか]は、零下[れいか]三十度[さんじゅうど]の寒[さむ]さ＿＿、頂上[ちょうじょう]を目指[めざ]した。",
+          "en": "Undaunted by the cold of minus thirty degrees, the climber pushed on toward the summit.",
+          "choices": [
+            "を皮切[かわき]りに",
+            "をもって",
+            "をものともせず",
+            "を余儀[よぎ]なくされ"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "選手[せんしゅ]たちは強風[きょうふう]をものとも＿＿、全力[ぜんりょく]でプレーした。",
+          "en": "Undeterred by the strong wind, the players gave it their all.",
+          "choices": [
+            "せず",
+            "させず",
+            "されず",
+            "すれば"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-nari-ni",
+      "title": "〜なりに／〜なりの",
+      "meaning": "in one's own way; as best one can (given one's limits)",
+      "structure": "Noun / plain form + なりに (+ Verb) / なりの (+ Noun)",
+      "explanation": "{〜なりに} means 'in a way that suits X, within X's limits'. It acknowledges that X isn't perfect or fully capable, but still makes an effort or has a valid perspective: {子[こ]どもは子[こ]どもなりに} 'kids, in their own way', {私[わたし]なりに考[かんが]えた} 'I thought about it as best I could'.\n\nRepeating the noun ({子[こ]どもは子[こ]どもなりに}) is very common. {〜なりの} modifies a noun: {彼[かれ]なりの理由[りゆう]} 'his own reasons'.\n\n**Register:** neutral and very common in everyday conversation and business. {私[わたし]なりに} is a humble, useful phrase for meetings: 'here's my take'.",
+      "examples": [
+        {
+          "jp": "私[わたし]なりに考[かんが]えてみたのですが、この案[あん]はどうでしょうか。",
+          "en": "I've given it some thought in my own way — how about this idea?"
+        },
+        {
+          "jp": "彼[かれ]には彼[かれ]なりの事情[じじょう]があるのだろう。",
+          "en": "He probably has his own reasons."
+        },
+        {
+          "jp": "子[こ]どもは子[こ]どもなりに、親[おや]のことを心配[しんぱい]しているものだ。",
+          "en": "Children worry about their parents in their own way."
+        },
+        {
+          "jp": "給料[きゅうりょう]は少[すく]ないが、少[すく]ないなりに工夫[くふう]して生活[せいかつ]している。",
+          "en": "My salary is small, but I get by with a bit of ingenuity."
+        }
+      ],
+      "notes": "Don't confuse with {ならでは} 'unique to' (Unit 6) — {ならでは} is high praise; {なりに} admits limitations. Also different from {なり} 'as soon as' (Unit 1).",
+      "quiz": [
+        {
+          "q": "新人[しんじん]は新人[しんじん]＿＿、精一杯[せいいっぱい]頑張[がんば]っている。",
+          "en": "The newcomers are doing their best in their own way.",
+          "choices": [
+            "ならでは",
+            "なりに",
+            "なくして",
+            "ながらに"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "結果[けっか]は出[で]なかったが、自分[じぶん]＿＿努力[どりょく]はしたつもりだ。",
+          "en": "I didn't get results, but I believe I made an effort in my own way.",
+          "choices": [
+            "なくしての",
+            "ずくめの",
+            "まみれの",
+            "なりの"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-ni-soku-shite",
+      "title": "〜に即[そく]して／〜に即[そく]した",
+      "meaning": "in line with; in accordance with (facts, reality, rules)",
+      "structure": "Noun + に即[そく]して (+ Verb) / に即[そく]した (+ Noun)",
+      "explanation": "{即[そく]する} means 'to conform to, to be based on'. {X に即[そく]して} means 'closely following X' — where X is facts, reality, actual conditions, experience or rules: {事実[じじつ]に即[そく]して} 'based on the facts', {実情[じつじょう]に即[そく]した政策[せいさく]} 'policy suited to actual conditions'.\n\nThe idea is matching a plan or explanation to concrete reality, rather than theory.\n\n**Register:** formal; very common in business, government and academic writing. Also written {則[そく]して} when the standard is a rule or law.",
+      "examples": [
+        {
+          "jp": "事実[じじつ]に即[そく]して、事故[じこ]の経緯[けいい]を説明[せつめい]してください。",
+          "en": "Please explain how the accident happened, sticking to the facts."
+        },
+        {
+          "jp": "実情[じつじょう]に即[そく]した政策[せいさく]が求[もと]められている。",
+          "en": "Policies that reflect the actual situation are needed."
+        },
+        {
+          "jp": "規則[きそく]に即[そく]して処理[しょり]しなければならない。",
+          "en": "This must be handled in accordance with the rules."
+        },
+        {
+          "jp": "学生[がくせい]のレベルに即[そく]した教材[きょうざい]を使[つか]うべきだ。",
+          "en": "We should use teaching materials suited to the students' level."
+        }
+      ],
+      "notes": "Similar: {〜に沿[そ]って} (along the lines of) and {〜に基[もと]づいて} (based on). {に即[そく]して} stresses close fit with reality.",
+      "quiz": [
+        {
+          "q": "法律[ほうりつ]は、時代[じだい]の変化[へんか]＿＿見直[みなお]されるべきだ。",
+          "en": "Laws should be revised in line with the changing times.",
+          "choices": [
+            "にかこつけて",
+            "にひきかえ",
+            "をよそに",
+            "に即[そく]して"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "机上[きじょう]の空論[くうろん]ではなく、現場[げんば]の実態[じったい]に＿＿対策[たいさく]が必要[ひつよう]だ。",
+          "en": "We need measures that match the reality on the ground, not armchair theories.",
+          "choices": [
+            "即[そく]した",
+            "即[そく]して",
+            "至[いた]って",
+            "足[た]りる"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-te-habakaranai",
+      "title": "〜てはばからない",
+      "meaning": "to not hesitate to (say); to boldly / shamelessly (declare)",
+      "structure": "Verb て-form (言[い]う・公言[こうげん]する etc.) + はばからない",
+      "explanation": "{はばかる} means 'to hold back out of consideration or fear'. {〜てはばからない} means 'to say or do X openly, without any hesitation' — even though others might find it bold, arrogant or controversial.\n\nIt mostly combines with verbs of speaking: {言[い]う}, {公言[こうげん]する} (declare publicly), {断言[だんげん]する} (assert), {口[くち]にする}. Depending on context, it can sound admiring (confident) or critical (shameless).\n\n**Register:** written and formal — news, profiles, criticism.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は「自分[じぶん]は天才[てんさい]だ」と公言[こうげん]してはばからない。",
+          "en": "He openly declares that he's a genius."
+        },
+        {
+          "jp": "彼女[かのじょ]は、仕事[しごと]より家族[かぞく]が大事[だいじ]だと言[い]ってはばからない。",
+          "en": "She doesn't hesitate to say that her family matters more than her work."
+        },
+        {
+          "jp": "社長[しゃちょう]は「失敗[しっぱい]を恐[おそ]れるな」と口[くち]にしてはばからない。",
+          "en": "The president never hesitates to say, 'Don't be afraid of failure.'"
+        },
+        {
+          "jp": "その政治家[せいじか]は、差別的[さべつてき]な発言[はつげん]を繰[く]り返[かえ]してはばからない。",
+          "en": "That politician shamelessly keeps making discriminatory remarks."
+        }
+      ],
+      "notes": "Related: {人目[ひとめ]をはばからず} 'without caring who's watching' ({人目[ひとめ]をはばからず泣[な]いた} 'cried openly in front of everyone').",
+      "quiz": [
+        {
+          "q": "彼[かれ]は自分[じぶん]こそが次[つぎ]の社長[しゃちょう]にふさわしいと言[い]って＿＿。",
+          "en": "He openly says that he's the one best suited to be the next president.",
+          "choices": [
+            "やまない",
+            "ならない",
+            "はばからない",
+            "たまらない"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "その評論家[ひょうろんか]は、日本[にほん]映画[えいが]は世界一[せかいいち]だと公言[こうげん]して＿＿。",
+          "en": "The critic openly declares that Japanese cinema is the best in the world.",
+          "choices": [
+            "かなわない",
+            "おかない",
+            "やまない",
+            "はばからない"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-tomo-naku",
+      "title": "〜ともなく／〜ともなしに",
+      "meaning": "without really meaning to; absent-mindedly; from somewhere (unknown)",
+      "structure": "Verb (dictionary form) + ともなく + same verb / Question word (+ particle) + ともなく",
+      "explanation": "{〜ともなく} has two uses:\n\n**1. Verb + {ともなく} + same verb:** doing something without any particular intention, absent-mindedly: {見[み]るともなく見[み]ていた} 'was half-watching', {聞[き]くともなしに聞[き]いていた} 'overheard without really listening'. Usually with perception verbs (see, hear, think).\n\n**2. Question word + {ともなく}:** the source is unclear: {どこからともなく} 'from somewhere or other', {誰[だれ]からともなく} 'without anyone in particular starting it', {いつからともなく} 'at some point'.\n\n**Register:** literary and descriptive — novels, essays. {どこからともなく} is common in storytelling generally.",
+      "examples": [
+        {
+          "jp": "どこからともなく、いい匂[にお]いが漂[ただよ]ってきた。",
+          "en": "A lovely smell came drifting from somewhere."
+        },
+        {
+          "jp": "見[み]るともなくテレビを見[み]ていたら、昔[むかし]の友人[ゆうじん]が映[うつ]っていた。",
+          "en": "I was half-watching TV when an old friend appeared on the screen."
+        },
+        {
+          "jp": "聞[き]くともなしに隣[となり]の席[せき]の会話[かいわ]を聞[き]いていた。",
+          "en": "Without really meaning to, I was listening to the conversation at the next table."
+        },
+        {
+          "jp": "誰[だれ]からともなく拍手[はくしゅ]が起[お]こり、やがて会場[かいじょう]全体[ぜんたい]に広[ひろ]がった。",
+          "en": "Applause started from no one in particular and soon spread through the whole hall."
+        }
+      ],
+      "notes": "Don't confuse with {ともなると} 'when it comes to' (Unit 6).",
+      "quiz": [
+        {
+          "q": "窓[まど]の外[そと]を眺[なが]める＿＿眺[なが]めていると、一羽[いちわ]の鳥[とり]が飛[と]んできた。",
+          "en": "As I was absent-mindedly gazing out of the window, a bird flew over.",
+          "choices": [
+            "ともなく",
+            "ともなると",
+            "ともあれ",
+            "とも限[かぎ]らず"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "どこから＿＿、子[こ]どもたちの歌声[うたごえ]が聞[き]こえてきた。",
+          "en": "From somewhere, the sound of children singing reached us.",
+          "choices": [
+            "ともなると",
+            "とはいえ",
+            "ときたら",
+            "ともなく"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

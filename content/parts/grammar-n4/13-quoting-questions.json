@@ -1,0 +1,321 @@
+{
+  "id": "n4-u13",
+  "title": "Quoting, naming and embedded questions",
+  "summary": "Report what people said ({と言[い]う}), name things ({という}), quote casually ({って}), tuck questions inside sentences ({か}, {かどうか}), and pass on instructions ({ように言[い]う}).",
+  "points": [
+    {
+      "id": "n4-to-iu-quote",
+      "title": "〜と言[い]う (quoting)",
+      "meaning": "say (that) ~",
+      "structure": "「Direct quote」+ と言[い]う / Plain form + と言[い]う",
+      "explanation": "The particle {と} marks the content of what someone says (or thinks, writes, asks).\n\n- **Direct quote**: the exact words in Japanese quotation marks {「 」}, then {と言[い]う}: {先生[せんせい]は「明日[あした]テストをします」と言[い]いました}. The words inside can be polite.\n- **Indirect quote**: the content in **plain** form, no quotation marks: {田中[たなか]さんは明日[あした]来[こ]ないと言[い]いました} 'Tanaka-san said he isn't coming tomorrow.'\n\nWhen passing on a message, {〜と言[い]っていました} ('was saying') sounds more natural than {言[い]いました}: {部長[ぶちょう]は少[すこ]し遅[おく]れると言[い]っていました}.\n\nTo ask what someone said: {何[なん]と言[い]いましたか}. The same {と} works with {思[おも]う}, {聞[き]く}, {書[か]いてある}: {ここに「禁煙[きんえん]」と書[か]いてある} 'It says No Smoking here.'",
+      "examples": [
+        {
+          "jp": "先生[せんせい]は「明日[あした]、テストをします」と言[い]いました。",
+          "en": "The teacher said, 'We'll have a test tomorrow.'"
+        },
+        {
+          "jp": "田中[たなか]さんは今日[きょう]は来[こ]られないと言[い]っていました。",
+          "en": "Tanaka-san said he can't come today."
+        },
+        {
+          "jp": "日本[にほん]では、食事[しょくじ]の前[まえ]に「いただきます」と言[い]います。",
+          "en": "In Japan, people say 'Itadakimasu' before a meal."
+        },
+        {
+          "jp": "すみません、今[いま]、何[なん]と言[い]いましたか。",
+          "en": "Sorry, what did you just say?"
+        },
+        {
+          "jp": "母[はは]は、東京[とうきょう]は物価[ぶっか]が高[たか]いと言[い]っています。",
+          "en": "My mother says prices in Tokyo are high."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "山田[やまだ]さんは、明日[あした]のパーティーには行[い]かない＿＿言[い]っていました。",
+          "en": "Yamada-san said he isn't going to tomorrow's party.",
+          "choices": [
+            "が",
+            "を",
+            "に",
+            "と"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "部長[ぶちょう]は、会議[かいぎ]は三時[さんじ]から＿＿と言[い]っていました。",
+          "en": "The manager said the meeting is from three o'clock.",
+          "choices": [
+            "だ",
+            "に",
+            "の",
+            "な"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-to-iu-called",
+      "title": "〜という (called ~)",
+      "meaning": "called ~ / named ~",
+      "structure": "Noun A + という + Noun B",
+      "explanation": "{A + という + B} means 'a B called A'. It introduces something the listener may not know: {「さくら」という店[みせ]} 'a shop called Sakura', {田中[たなか]さんという人[ひと]} 'a person named Tanaka'.\n\nTo ask the name of something: {これは何[なん]という花[はな]ですか} 'What is this flower called?' To ask how to say a word: {これは日本語[にほんご]で何[なん]と言[い]いますか}.\n\nIt's also how you talk about words and expressions: {「もったいない」という言葉[ことば]} 'the word mottainai'.\n\n{という} can link a whole sentence to a noun to describe its content: {彼[かれ]が会社[かいしゃ]をやめるという話[はなし]} 'the story that he's quitting the company'. In casual speech, {という} becomes {っていう} (next point).",
+      "examples": [
+        {
+          "jp": "「さくら」という喫茶店[きっさてん]を知[し]っていますか。",
+          "en": "Do you know a café called Sakura?"
+        },
+        {
+          "jp": "これは何[なん]という魚[さかな]ですか。",
+          "en": "What is this fish called?"
+        },
+        {
+          "jp": "昨日[きのう]、山田[やまだ]さんという人[ひと]から電話[でんわ]がありました。",
+          "en": "Yesterday there was a call from someone named Yamada."
+        },
+        {
+          "jp": "「もったいない」という言葉[ことば]は英語[えいご]に訳[やく]しにくい。",
+          "en": "The word 'mottainai' is hard to translate into English."
+        },
+        {
+          "jp": "彼[かれ]が会社[かいしゃ]をやめるという話[はなし]を聞[き]きました。",
+          "en": "I heard that he's quitting the company."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "これは日本語[にほんご]で何[なん]＿＿食[た]べ物[もの]ですか。",
+          "en": "What is this food called in Japanese?",
+          "choices": [
+            "という",
+            "と言[い]って",
+            "にいう",
+            "とする"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "「ハチ公[こう]」＿＿犬[いぬ]の話[はなし]を聞[き]いたことがありますか。",
+          "en": "Have you ever heard the story of a dog called Hachiko?",
+          "choices": [
+            "とする",
+            "と言[い]って",
+            "と思[おも]う",
+            "という"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n4-tte",
+      "title": "〜って (casual quoting and topics)",
+      "meaning": "(someone) said / I heard; called; speaking of ~",
+      "structure": "Plain form + って / Noun + って / Noun + っていう + Noun",
+      "explanation": "In casual conversation, {って} replaces several longer forms:\n\n- **Quoting** ({と言[い]う} / {そうだ}): {田中[たなか]さん、今日[きょう]来[こ]られないって} 'Tanaka says she can't come today.' {明日[あした]は雨[あめ]だって} 'They say it'll rain tomorrow.'\n- **Naming** ({という}): {ポチっていう犬[いぬ]} 'a dog called Pochi'.\n- **Topic** ({は}), often with curiosity or surprise: {京都[きょうと]って、どんなところ？} 'What's Kyoto like?'\n\nAlso in questions about words: {「よろしく」って英語[えいご]で何[なん]て言[い]うの？} 'How do you say yoroshiku in English?' (Here {何[なん]と} has become {何[なん]て}.)\n\nUse {って} with friends and family. In polite or written Japanese, go back to the full forms.",
+      "examples": [
+        {
+          "jp": "田中[たなか]さん、今日[きょう]は来[こ]られないって。",
+          "en": "Tanaka-san says she can't come today."
+        },
+        {
+          "jp": "明日[あした]は雨[あめ]だって。",
+          "en": "They say it'll rain tomorrow."
+        },
+        {
+          "jp": "「よろしく」って英語[えいご]で何[なん]て言[い]うの？",
+          "en": "How do you say 'yoroshiku' in English?"
+        },
+        {
+          "jp": "北海道[ほっかいどう]って、冬[ふゆ]はすごく寒[さむ]いんでしょう？",
+          "en": "Hokkaido gets really cold in winter, right?"
+        },
+        {
+          "jp": "「ハナ」っていう猫[ねこ]を飼[か]っています。",
+          "en": "I have a cat called Hana."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "A：山田[やまだ]さん、何[なん]て言[い]ってた？ B：少[すこ]し遅[おく]れる＿＿。",
+          "en": "A: What did Yamada-san say? B: He said he'll be a bit late.",
+          "choices": [
+            "って",
+            "ては",
+            "とって",
+            "っと"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "日本[にほん]の夏[なつ]＿＿、そんなに暑[あつ]いの？",
+          "en": "Is summer in Japan really that hot?",
+          "choices": [
+            "ので",
+            "って",
+            "って言[い]う",
+            "といって"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n4-embedded-question",
+      "title": "Embedded questions (Question word + 〜か)",
+      "meaning": "(know / tell me / don't know) what / where / when ~",
+      "structure": "Question word + plain form + か + 知[し]っている / 分[わ]からない / 教[おし]えてください",
+      "explanation": "To put a question inside a larger sentence — 'Do you know **where he went**?' — use a question word + **plain form** + {か}: {彼[かれ]がどこに行[い]ったか知[し]っていますか}.\n\nCommon main verbs: {知[し]っている}, {分[わ]からない}, {教[おし]えてください}, {覚[おぼ]えている}, {聞[き]いてみる}, {考[かんが]える}.\n\nForms inside:\n\n- Verbs and {い}-adjectives: plain forms: {何時[なんじ]に始[はじ]まるか}, {いくらだったか}\n- Nouns and {な}-adjectives: drop {だ}: {誰[だれ]の傘[かさ]か}, {どれが一番[いちばん]便利[べんり]か}\n\nYou'll also hear {〜のか} in speech, which feels a bit more like 'wondering about the reason': {どうして怒[おこ]っているのか分[わ]からない}.\n\nDon't use polite forms inside: {どこへ行[い]きますか知[し]っていますか} is wrong.",
+      "examples": [
+        {
+          "jp": "会議[かいぎ]が何時[なんじ]に始[はじ]まるか知[し]っていますか。",
+          "en": "Do you know what time the meeting starts?"
+        },
+        {
+          "jp": "郵便局[ゆうびんきょく]がどこにあるか教[おし]えてください。",
+          "en": "Please tell me where the post office is."
+        },
+        {
+          "jp": "誰[だれ]が窓[まど]を割[わ]ったか分[わ]かりません。",
+          "en": "I don't know who broke the window."
+        },
+        {
+          "jp": "昨日[きのう]何[なに]を食[た]べたか、もう覚[おぼ]えていない。",
+          "en": "I don't remember anymore what I ate yesterday."
+        },
+        {
+          "jp": "彼[かれ]がどうして怒[おこ]っているのか、分[わ]からない。",
+          "en": "I don't understand why he's angry."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "すみません、このバスがどこへ＿＿か知[し]っていますか。",
+          "en": "Excuse me, do you know where this bus goes?",
+          "choices": [
+            "行[い]って",
+            "行[い]こう",
+            "行[い]く",
+            "行[い]きます"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "パーティーに何人[なんにん]＿＿か、まだ分[わ]かりません。",
+          "en": "I don't know yet how many people will come to the party.",
+          "choices": [
+            "来[き]て",
+            "来[こ]よう",
+            "来[き]ます",
+            "来[く]る"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n4-kadouka",
+      "title": "〜かどうか",
+      "meaning": "whether (or not) ~",
+      "structure": "Plain form + かどうか (Noun, な-adj: no だ)",
+      "explanation": "For a **yes/no** question inside a sentence (no question word), use {〜かどうか} 'whether or not': {明日[あした]晴[は]れるかどうか分[わ]からない} 'I don't know whether it'll be sunny tomorrow.'\n\nForms are the same as for embedded questions: plain forms of verbs and {い}-adjectives ({来[く]るかどうか}, {おいしいかどうか}); nouns and {な}-adjectives drop {だ} ({本当[ほんとう]かどうか}, {大丈夫[だいじょうぶ]かどうか}).\n\nAn alternative is to give both options: {来[く]るか来[こ]ないか} 'whether he'll come or not'.\n\nVery useful combinations: {〜かどうか確認[かくにん]してください} 'Please check whether ~', {〜かどうか聞[き]いてみます} 'I'll ask whether ~'.",
+      "examples": [
+        {
+          "jp": "明日[あした]、晴[は]れるかどうか分[わ]かりません。",
+          "en": "I don't know whether it'll be sunny tomorrow."
+        },
+        {
+          "jp": "その話[はなし]が本当[ほんとう]かどうか、田中[たなか]さんに聞[き]いてみます。",
+          "en": "I'll ask Tanaka-san whether that story is true."
+        },
+        {
+          "jp": "間違[まちが]いがないかどうか、もう一度[いちど]確認[かくにん]してください。",
+          "en": "Please check once more whether there are any mistakes."
+        },
+        {
+          "jp": "この店[みせ]がおいしいかどうか、一度[いちど]行[い]ってみましょう。",
+          "en": "Let's go once and see whether this place is any good."
+        },
+        {
+          "jp": "彼[かれ]が来[く]るか来[こ]ないか、まだ分[わ]からない。",
+          "en": "I still don't know whether he's coming or not."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "山田[やまだ]さんがパーティーに来[く]る＿＿、まだ分[わ]かりません。",
+          "en": "I don't know yet whether Yamada-san is coming to the party.",
+          "choices": [
+            "かどうか",
+            "どうか",
+            "かどうが",
+            "かどう"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "このサイズで大丈夫[だいじょうぶ]＿＿、着[き]てみてもいいですか。",
+          "en": "May I try it on to see whether this size is OK?",
+          "choices": [
+            "だかどうか",
+            "のかどうか",
+            "かどうか",
+            "なかどうか"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n4-you-ni-iu",
+      "title": "〜ように言[い]う (tell someone to)",
+      "meaning": "tell / ask someone to ~ (reported instruction)",
+      "structure": "Person に + V-dictionary / V-ない + ように言[い]う (頼[たの]む / 伝[つた]える / 注意[ちゅうい]する)",
+      "explanation": "To report an instruction or request — 'She told me **to** come early' — use {ように} + {言[い]う}: {母[はは]は私[わたし]に早[はや]く帰[かえ]るように言[い]った}. The person told is marked with {に}. For 'told not to', use the {ない}-form: {飲[の]まないように言[い]われた} 'I was told not to drink.'\n\nOther verbs fit the same slot: {頼[たの]む} 'ask (as a favour)', {伝[つた]える} 'pass on', {注意[ちゅうい]する} 'warn'.\n\nCompare a direct quote of the actual command: {母[はは]は「早[はや]く帰[かえ]りなさい」と言[い]った}. The {ように} version is smoother and more common when reporting.\n\nIn the office, a common message is {〜に、〜ように伝[つた]えてください} 'Please tell ~ to ~': {田中[たなか]さんに、あとで電話[でんわ]するように伝[つた]えてください}.",
+      "examples": [
+        {
+          "jp": "医者[いしゃ]に、お酒[さけ]を飲[の]まないように言[い]われました。",
+          "en": "The doctor told me not to drink alcohol."
+        },
+        {
+          "jp": "母[はは]は私[わたし]に早[はや]く帰[かえ]ってくるように言[い]った。",
+          "en": "My mother told me to come home early."
+        },
+        {
+          "jp": "先生[せんせい]は学生[がくせい]に、教室[きょうしつ]で騒[さわ]がないように注意[ちゅうい]しました。",
+          "en": "The teacher warned the students not to make noise in the classroom."
+        },
+        {
+          "jp": "田中[たなか]さんに、会議室[かいぎしつ]に来[く]るように伝[つた]えてください。",
+          "en": "Please tell Tanaka-san to come to the meeting room."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "部長[ぶちょう]に、明日[あした]までに報告書[ほうこくしょ]を出[だ]す＿＿言[い]われました。",
+          "en": "I was told by the manager to submit the report by tomorrow.",
+          "choices": [
+            "ために",
+            "ように",
+            "ことに",
+            "そうに"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "医者[いしゃ]は父[ちち]に、たばこを＿＿ように言[い]いました。",
+          "en": "The doctor told my father not to smoke.",
+          "choices": [
+            "吸[す]う",
+            "吸[す]わない",
+            "吸[す]わず",
+            "吸[す]わなかった"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

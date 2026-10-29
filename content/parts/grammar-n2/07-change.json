@@ -1,0 +1,129 @@
+{
+  "id": "n2-u07",
+  "title": "Change, correlation, and matching",
+  "summary": "Describing change that goes along with other change ({につれて}, {にしたがって}, {に伴[ともな]って}), change in progress ({つつある}, {一方[いっぽう]だ}), doing two things at once ({つつ}), and adjusting to circumstances ({に応[おう]じて}).",
+  "points": [
+    {
+      "id": "n2-nitsurete",
+      "title": "〜につれて（につれ）",
+      "meaning": "as (one thing changes, another changes too)",
+      "structure": "Noun / V-dictionary + につれて・につれ",
+      "explanation": "{につれて} links two **gradual changes**: as X changes, Y changes along with it. Both halves describe change, often with verbs like {〜ていく}, {〜てくる}, {〜くなる}, {増[ふ]える}, {変[か]わる}.\n\nThe first half is a change verb ({年[とし]をとる}, {近[ちか]づく}, {上達[じょうたつ]する}) or a noun of change ({時代[じだい]の変化[へんか]}, {経済[けいざい]の発展[はってん]}).\n\nThe second half is a natural development, so it is **not** used with the speaker's will, requests or commands. ✗ {年[とし]をとるにつれて、運動[うんどう]しなさい}.",
+      "examples": [
+        { "jp": "台風[たいふう]が近[ちか]づくにつれて、風[かぜ]が強[つよ]くなってきた。", "en": "As the typhoon approached, the wind grew stronger." },
+        { "jp": "年[とし]をとるにつれて、涙[なみだ]もろくなった。", "en": "As I've got older, I've become more easily moved to tears." },
+        { "jp": "時間[じかん]がたつにつれて、町[まち]の様子[ようす]も変[か]わっていった。", "en": "As time went by, the town changed too." },
+        { "jp": "日本語[にほんご]が上達[じょうたつ]するにつれて、日本[にほん]での生活[せいかつ]が楽[たの]しくなってきた。", "en": "As my Japanese improved, life in Japan became more enjoyable." }
+      ],
+      "quiz": [
+        { "q": "夜[よる]が更[ふ]ける＿＿、気温[きおん]が下[さ]がってきた。", "en": "As the night wore on, the temperature dropped.", "choices": ["にあたって", "につれて", "に先立[さきだ]って", "をきっかけに"], "answer": 1 },
+        { "q": "経済[けいざい]の発展[はってん]＿＿、人々[ひとびと]の生活[せいかつ]も豊[ゆた]かになった。", "en": "As the economy developed, people's lives became more prosperous.", "choices": ["に反[はん]して", "に限[かぎ]って", "を問[と]わず", "につれて"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-nishitagatte",
+      "title": "〜にしたがって（に従[したが]って）",
+      "meaning": "as ...; in accordance with, following",
+      "structure": "Noun / V-dictionary + に従[したが]って・に従[したが]い",
+      "explanation": "{に従[したが]って} has two meanings.\n\n**1. \"As X changes, Y changes\"**: nearly the same as {につれて}: {山[やま]を登[のぼ]るに従[したが]って、空気[くうき]が薄[うす]くなる}.\n\n**2. \"In accordance with, following\"** a rule, instruction, sign or plan: {指示[しじ]に従[したが]ってください}. {につれて} has **no** such meaning, so ✗ {指示[しじ]につれて}.\n\nAlso, because meaning 2 involves deliberately following something, {に従[したが]って} can take requests and intentions in the second half. {に従[したが]い} is the formal written form used in notices.",
+      "examples": [
+        { "jp": "山[やま]を登[のぼ]るに従[したが]って、空気[くうき]が薄[うす]くなる。", "en": "The higher you climb the mountain, the thinner the air gets." },
+        { "jp": "係員[かかりいん]の指示[しじ]に従[したが]って、避難[ひなん]してください。", "en": "Please evacuate following the staff's instructions." },
+        { "jp": "矢印[やじるし]に従[したが]って進[すす]んでください。", "en": "Please proceed following the arrows." },
+        { "jp": "法律[ほうりつ]に従[したが]い、個人情報[こじんじょうほう]は適切[てきせつ]に管理[かんり]いたします。", "en": "In accordance with the law, we will manage personal information appropriately." }
+      ],
+      "notes": "Change + change: {につれて} or {にしたがって}. Following a rule or instruction: only {にしたがって}.",
+      "quiz": [
+        { "q": "先生[せんせい]の指示[しじ]＿＿、実験[じっけん]を進[すす]めてください。", "en": "Please carry out the experiment following your teacher's instructions.", "choices": ["につれて", "に伴[ともな]って", "に従[したが]って", "とともに"], "answer": 2 },
+        { "q": "学年[がくねん]が上[あ]がる＿＿、授業[じゅぎょう]の内容[ないよう]も難[むずか]しくなる。", "en": "As students move up a year, the lessons get harder too.", "choices": ["にしたがって", "にあたって", "に先立[さきだ]って", "に限[かぎ]って"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-nitomonatte",
+      "title": "〜に伴[ともな]って（に伴[ともな]い）",
+      "meaning": "along with; as a result of; accompanying",
+      "structure": "Noun / V-dictionary + こと + に伴[ともな]って・に伴[ともな]い　／　Noun + に伴[ともな]う + Noun",
+      "explanation": "{に伴[ともな]って} says that one change brings another with it. It is **formal** and appears constantly in news, official notices and business documents.\n\nUnlike {につれて}, it does not require gradual, proportional change. It is also used when a single event causes a change: {本社[ほんしゃ]の移転[いてん]に伴[ともな]い、電話番号[でんわばんごう]が変[か]わります} (\"with the head office relocation, the phone number will change\").\n\n{に伴[ともな]う} + noun is common in headlines: {台風[たいふう]に伴[ともな]う大雨[おおあめ]} (\"heavy rain associated with the typhoon\").",
+      "examples": [
+        { "jp": "人口[じんこう]の減少[げんしょう]に伴[ともな]って、空[あ]き家[や]が増[ふ]えている。", "en": "With the decline in population, vacant houses are increasing." },
+        { "jp": "本社[ほんしゃ]の移転[いてん]に伴[ともな]い、電話番号[でんわばんごう]が変更[へんこう]になります。", "en": "Due to the relocation of our head office, our phone number will change." },
+        { "jp": "気温[きおん]の上昇[じょうしょう]に伴[ともな]って、熱中症[ねっちゅうしょう]で運[はこ]ばれる人[ひと]が増[ふ]えている。", "en": "As temperatures rise, more people are being taken to hospital with heatstroke." },
+        { "jp": "円安[えんやす]に伴[ともな]い、輸入品[ゆにゅうひん]の価格[かかく]が上[あ]がった。", "en": "With the weaker yen, the prices of imported goods have gone up." }
+      ],
+      "quiz": [
+        { "q": "システムの変更[へんこう]＿＿、一時的[いちじてき]にサービスを停止[ていし]いたします。", "en": "Due to a system change, we will temporarily suspend the service.", "choices": ["につれ", "に伴[ともな]い", "を問[と]わず", "に反[はん]し"], "answer": 1 },
+        { "q": "少子化[しょうしか]に＿＿、廃校[はいこう]になる学校[がっこう]が増[ふ]えている。", "en": "With the falling birth rate, more and more schools are closing.", "choices": ["沿[そ]って", "基[もと]づいて", "応[おう]じて", "伴[ともな]って"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-tsutsuaru",
+      "title": "〜つつある",
+      "meaning": "be in the process of; be gradually (changing)",
+      "structure": "V-ます stem + つつある",
+      "explanation": "{つつある} describes a change that is **currently in progress** and moving in one direction: recovering, spreading, disappearing, approaching. It is a formal, written expression found in news, reports and essays.\n\nIt is clearer than {〜ている}, which can mean either \"in progress\" or \"already completed\": {景気[けいき]は回復[かいふく]している} could mean it has recovered, while {回復[かいふく]しつつある} means it is still on the way.\n\nUse it only with verbs of change. ✗ {ご飯[はん]を食[た]べつつある}.",
+      "examples": [
+        { "jp": "景気[けいき]は回復[かいふく]しつつある。", "en": "The economy is gradually recovering." },
+        { "jp": "地球[ちきゅう]の気温[きおん]は年々[ねんねん]上昇[じょうしょう]しつつある。", "en": "Global temperatures are rising year by year." },
+        { "jp": "この地域[ちいき]の伝統[でんとう]は失[うしな]われつつある。", "en": "This region's traditions are slowly being lost." },
+        { "jp": "日本[にほん]でもキャッシュレス決済[けっさい]が広[ひろ]がりつつある。", "en": "Cashless payment is spreading in Japan too." }
+      ],
+      "quiz": [
+        { "q": "台風[たいふう]は今[いま]、日本列島[にほんれっとう]に近[ちか]づき＿＿。", "en": "The typhoon is now approaching the Japanese archipelago.", "choices": ["かけない", "っぱなしだ", "きれない", "つつある"], "answer": 3 },
+        { "q": "若者[わかもの]の新聞離[しんぶんばな]れが進[すす]み＿＿。", "en": "Young people are increasingly moving away from newspapers.", "choices": ["つつある", "がたい", "かねる", "気味[ぎみ]だ"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-tsutsu",
+      "title": "〜つつ / 〜つつも",
+      "meaning": "while (doing); although, even while",
+      "structure": "V-ます stem + つつ / つつも",
+      "explanation": "{つつ} is a formal equivalent of {ながら}, with two uses.\n\n**1. Simultaneous actions** (same subject): {景色[けしき]を楽[たの]しみつつ歩[ある]いた} (\"walked while enjoying the scenery\"). In business it is common in phrases like {ご意見[いけん]を伺[うかが]いつつ進[すす]めます} (\"we will proceed while hearing your views\").\n\n**2. Contradiction, \"although\"** (usually {つつも}): the speaker knows or thinks one thing but does another. Typical verbs: {知[し]りつつ}, {思[おも]いつつ}, {わかっていつつ}. This use often expresses regret or a guilty conscience.\n\nIn casual speech, {ながら} / {ながらも} or {のに} would be more natural.",
+      "examples": [
+        { "jp": "景色[けしき]を楽[たの]しみつつ、ゆっくり山道[やまみち]を歩[ある]いた。", "en": "I walked slowly along the mountain path, enjoying the scenery." },
+        { "jp": "体[からだ]に悪[わる]いと知[し]りつつ、タバコをやめられない。", "en": "Even though I know it's bad for me, I can't quit smoking." },
+        { "jp": "早[はや]く返事[へんじ]をしなければと思[おも]いつつも、つい遅[おそ]くなってしまった。", "en": "Although I kept thinking I had to reply soon, I ended up replying late." },
+        { "jp": "地域[ちいき]の皆様[みなさま]のご意見[いけん]を伺[うかが]いつつ、計画[けいかく]を進[すす]めてまいります。", "en": "We will move the plan forward while listening to the views of local residents." }
+      ],
+      "notes": "Don't confuse {つつ} (while / although) with {つつある} (in the process of changing).",
+      "quiz": [
+        { "q": "いけないと思[おも]い＿＿、また夜中[よなか]にラーメンを食[た]べてしまった。", "en": "Even though I knew I shouldn't, I ate ramen in the middle of the night again.", "choices": ["つつある", "つつも", "きりで", "かけて"], "answer": 1 },
+        { "q": "両国[りょうこく]は協力[きょうりょく]し＿＿、問題[もんだい]の解決[かいけつ]を目指[めざ]している。", "en": "The two countries are aiming to solve the problem while cooperating with each other.", "choices": ["つつある", "っぱなし", "つつ", "次第[しだい]"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-ippouda",
+      "title": "〜一方[いっぽう]だ",
+      "meaning": "keep on (getting more / worse); only increasingly",
+      "structure": "V-dictionary + 一方[いっぽう]だ",
+      "explanation": "{一方[いっぽう]} literally means \"one direction\". {〜一方[いっぽう]だ} says a trend **keeps going in one direction** with no sign of stopping. It is mostly used for worrying trends: rising prices, worsening illness, increasing workload.\n\nThe verb is a change verb in the dictionary form: {増[ふ]える}, {減[へ]る}, {悪[わる]くなる}, {上[あ]がる}, {進[すす]む}.\n\nDon't confuse it with {一方[いっぽう]（で）} meaning \"on the other hand / while\": {都会[とかい]は便利[べんり]な一方[いっぽう]、家賃[やちん]が高[たか]い}.",
+      "examples": [
+        { "jp": "物価[ぶっか]は上[あ]がる一方[いっぽう]だ。", "en": "Prices just keep going up." },
+        { "jp": "父[ちち]の病状[びょうじょう]は悪[わる]くなる一方[いっぽう]だった。", "en": "My father's condition only kept getting worse." },
+        { "jp": "大都市[だいとし]の人口[じんこう]は増[ふ]える一方[いっぽう]で、地方[ちほう]は減[へ]り続[つづ]けている。", "en": "The population of big cities keeps growing, while rural areas keep shrinking." },
+        { "jp": "円安[えんやす]が進[すす]み、海外旅行[かいがいりょこう]の費用[ひよう]は高[たか]くなる一方[いっぽう]だ。", "en": "With the weakening yen, overseas travel just keeps getting more expensive." }
+      ],
+      "quiz": [
+        { "q": "新[あたら]しい駅[えき]ができてから、この町[まち]の人口[じんこう]は増[ふ]える＿＿だ。", "en": "Since the new station opened, this town's population has kept growing.", "choices": ["一方[いっぽう]", "次第[しだい]", "末[すえ]", "以上[いじょう]"], "answer": 0 },
+        { "q": "雨[あめ]は強[つよ]くなる＿＿で、なかなか止[や]みそうにない。", "en": "The rain just keeps getting heavier and doesn't look like it'll stop any time soon.", "choices": ["次第[しだい]", "末[すえ]", "際[さい]", "一方[いっぽう]"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-nioujite",
+      "title": "〜に応[おう]じて",
+      "meaning": "according to; depending on; in response to",
+      "structure": "Noun + に応[おう]じて・に応[おう]じ　／　Noun + に応[おう]じた + Noun",
+      "explanation": "{応[おう]じる} means \"to respond, to match\". {Xに応[おう]じて} says something is **adjusted to fit X**: budget, age, ability, season, demand, a customer's request. Whatever X turns out to be, Y changes to match it.\n\nIt is common in business, services and official explanations: {ご予算[よさん]に応[おう]じて} (\"to suit your budget\"), {売上[うりあげ]に応[おう]じて} (\"in line with sales\").\n\n{に応[おう]じた} + noun is used to modify a noun: {レベルに応[おう]じた練習[れんしゅう]} (\"practice suited to your level\").",
+      "examples": [
+        { "jp": "ご予算[よさん]に応[おう]じて、プランをお選[えら]びいただけます。", "en": "You can choose a plan to suit your budget." },
+        { "jp": "年齢[ねんれい]や体力[たいりょく]に応[おう]じて、運動[うんどう]の量[りょう]を調整[ちょうせい]しましょう。", "en": "Let's adjust the amount of exercise according to your age and fitness." },
+        { "jp": "売上[うりあげ]に応[おう]じてボーナスが支給[しきゅう]される。", "en": "Bonuses are paid in line with sales." },
+        { "jp": "季節[きせつ]に応[おう]じた服装[ふくそう]を選[えら]ぶことが大切[たいせつ]だ。", "en": "It's important to choose clothing suited to the season." }
+      ],
+      "notes": "Compare {に沿[そ]って} (in line with a plan or policy, Unit 10) and {次第[しだい]で} (\"depending on\", Unit 13).",
+      "quiz": [
+        { "q": "給料[きゅうりょう]は、経験[けいけん]や能力[のうりょく]に＿＿決[き]めます。", "en": "Salary is set according to experience and ability.", "choices": ["先立[さきだ]って", "応[おう]じて", "伴[ともな]って", "加[くわ]えて"], "answer": 1 },
+        { "q": "参加者[さんかしゃ]の人数[にんずう]＿＿、会場[かいじょう]の広[ひろ]さを決[き]めます。", "en": "We'll decide on the size of the venue according to the number of participants.", "choices": ["に反[はん]して", "にわたって", "に応[おう]じて", "をめぐって"], "answer": 2 }
+      ]
+    }
+  ]
+}

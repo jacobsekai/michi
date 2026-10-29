@@ -1,0 +1,357 @@
+{
+  "id": "n1-u08",
+  "title": "Bad endings, bad habits",
+  "summary": "Patterns for things going wrong: deplorable outcomes ({始末[しまつ]だ}), bad tendencies ({きらいがある}), things never done ({ずじまい}), 'that's the end of it' ({ばそれまでだ}), regret ({ものを}), points of no return ({が最後[さいご]}) and 'this is going too far' ({にもほどがある}).",
+  "points": [
+    {
+      "id": "n1-shimatsu-da",
+      "title": "〜始末[しまつ]だ",
+      "meaning": "(and) ended up (doing something deplorable); it's come to the point where",
+      "structure": "Verb (dictionary form) + 始末[しまつ]だ",
+      "explanation": "{始末[しまつ]} can mean 'outcome' or 'mess'. {〜始末[しまつ]だ} comes at the end of a story about a chain of bad behaviour or worsening problems, introducing the final, worst result: 'He kept drinking, and in the end he got arrested.'\n\nThe speaker is critical or exasperated. Typical lead-ins are {ついには}, {とうとう}, {挙[あ]げ句[く]の果[は]てに}, or a list of earlier bad things.\n\n**Register:** neutral to slightly formal; you'll hear it in complaints and gossip as well as read it in essays. Related phrase: {この始末[しまつ]だ} 'and look at this mess'.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は酒[さけ]に酔[よ]って暴[あば]れ、警察[けいさつ]を呼[よ]ばれる始末[しまつ]だった。",
+          "en": "He got drunk and violent, and it came to the point where the police were called."
+        },
+        {
+          "jp": "部下[ぶか]はミスを認[みと]めないどころか、私[わたし]のせいにする始末[しまつ]だ。",
+          "en": "Far from admitting his mistake, my subordinate has even started blaming me."
+        },
+        {
+          "jp": "何度[なんど]注意[ちゅうい]しても遅刻[ちこく]を繰[く]り返[かえ]し、この前[まえ]は無断[むだん]で休[やす]む始末[しまつ]だ。",
+          "en": "No matter how often I warn him he keeps coming in late, and the other day he even took the day off without telling anyone."
+        },
+        {
+          "jp": "息子[むすこ]は遊[あそ]んでばかりで、ついには大学[だいがく]を退学[たいがく]させられる始末[しまつ]だ。",
+          "en": "My son did nothing but play, and in the end he got expelled from university."
+        }
+      ],
+      "notes": "Only for bad results. For a neutral outcome, use {〜ことになった} or {結局[けっきょく]〜}.",
+      "quiz": [
+        {
+          "q": "夫[おっと]は毎晩[まいばん]飲[の]み歩[ある]き、とうとう体[からだ]を壊[こわ]して入院[にゅういん]する＿＿。",
+          "en": "My husband went out drinking every night, and in the end he ruined his health and ended up in hospital.",
+          "choices": [
+            "始末[しまつ]だ",
+            "限[かぎ]りだ",
+            "までもない",
+            "に越[こ]したことはない"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "あの子[こ]は宿題[しゅくだい]をしないばかりか、先生[せんせい]に嘘[うそ]をつく＿＿だ。",
+          "en": "Not only does that child not do his homework, he's even started lying to his teacher.",
+          "choices": [
+            "限[かぎ]り",
+            "最中[さいちゅう]",
+            "矢先[やさき]",
+            "始末[しまつ]"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-kirai-ga-aru",
+      "title": "〜きらいがある",
+      "meaning": "to have a (bad) tendency to",
+      "structure": "Verb (dictionary / ない-form) + きらいがある / Noun + の + きらいがある",
+      "explanation": "{きらい} here is written {嫌[きら]い} but it doesn't mean 'dislike'; it means a regrettable inclination. {〜きらいがある} says someone or something tends to do X, and the speaker sees it as a flaw: tends to take on too much, tends to jump to conclusions, tends to put problems off.\n\nIt's usually used to criticise others or groups in a measured, analytical way, rarely about oneself.\n\n**Register:** formal and written — essays, editorials, performance reviews, critiques. In conversation, {〜がちだ} or {〜傾向[けいこう]がある} are more common.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は何[なん]でも一人[ひとり]で抱[かか]え込[こ]むきらいがある。",
+          "en": "He has a tendency to take everything on by himself."
+        },
+        {
+          "jp": "最近[さいきん]の若者[わかもの]は、すぐに結論[けつろん]を求[もと]めるきらいがある。",
+          "en": "Young people these days tend to want answers right away."
+        },
+        {
+          "jp": "この国[くに]の政治家[せいじか]は、問題[もんだい]を先送[さきおく]りにするきらいがある。",
+          "en": "This country's politicians have a habit of putting off problems."
+        },
+        {
+          "jp": "彼女[かのじょ]の文章[ぶんしょう]は、やや説明[せつめい]過剰[かじょう]のきらいがある。",
+          "en": "Her writing tends to be somewhat over-explained."
+        }
+      ],
+      "notes": "Not for positive tendencies: {✕彼[かれ]は親切[しんせつ]にするきらいがある}. Note that it is about nature or habit, not a one-off action.",
+      "quiz": [
+        {
+          "q": "部長[ぶちょう]は人[ひと]の話[はなし]を最後[さいご]まで聞[き]かずに判断[はんだん]する＿＿。",
+          "en": "The department head has a tendency to make decisions without hearing people out.",
+          "choices": [
+            "きりがない",
+            "にかたくない",
+            "きらいがある",
+            "に足[た]る"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "日本人[にほんじん]は自分[じぶん]の意見[いけん]をはっきり言[い]わない＿＿があると言[い]われる。",
+          "en": "It is said that Japanese people tend not to state their opinions clearly.",
+          "choices": [
+            "きり",
+            "きらい",
+            "はず",
+            "べき"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n1-zujimai",
+      "title": "〜ずじまい",
+      "meaning": "ended up never doing (to one's regret)",
+      "structure": "Verb ない-stem + ずじまい (だ／で) — する → せずじまい",
+      "explanation": "{〜ずじまい} combines classical negative {ず} with {しまい} 'the end': 'it ended without X ever happening'. You intended or wanted to do something, the chance passed, and now it's too late. There's a feeling of regret or disappointment.\n\nOften with {結局[けっきょく]}, {とうとう}, {一度[いちど]も}. Remember the irregular forms: {する} → {せずじまい}, {来[く]る} → {来[こ]ずじまい}.\n\n**Register:** neutral; genuinely common in conversation and writing. One of the most practical points in this unit.",
+      "examples": [
+        {
+          "jp": "忙[いそが]しくて、結局[けっきょく]その映画[えいが]は見[み]ずじまいだった。",
+          "en": "I was so busy that in the end I never got to see that film."
+        },
+        {
+          "jp": "旅行[りょこう]中[ちゅう]ずっと雨[あめ]で、富士山[ふじさん]は見[み]えずじまいだった。",
+          "en": "It rained the whole trip, so we never got to see Mount Fuji."
+        },
+        {
+          "jp": "祖父[そふ]には、とうとう本当[ほんとう]の気持[きも]ちを言[い]えずじまいだった。",
+          "en": "In the end, I never managed to tell my grandfather how I really felt."
+        },
+        {
+          "jp": "せっかく買[か]った参考書[さんこうしょ]も、一度[いちど]も開[ひら]かずじまいで試験[しけん]の日[ひ]を迎[むか]えた。",
+          "en": "The exam day came, and I'd never once opened the study guide I'd bought."
+        }
+      ],
+      "notes": "It describes a past period that is over. For an ongoing situation, use {まだ〜ていない}.",
+      "quiz": [
+        {
+          "q": "彼女[かのじょ]の連絡先[れんらくさき]を聞[き]こうと思[おも]ったが、結局[けっきょく]聞[き]け＿＿だった。",
+          "en": "I meant to ask for her contact details, but in the end I never managed to.",
+          "choices": [
+            "ずじまい",
+            "ずにはいられない",
+            "ないまでも",
+            "ずくめ"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "京都[きょうと]に三年[さんねん]住[す]んでいたのに、金閣寺[きんかくじ]には一度[いちど]も＿＿じまいだった。",
+          "en": "Even though I lived in Kyoto for three years, I never once went to Kinkaku-ji.",
+          "choices": [
+            "行[い]かない",
+            "行[い]かなくて",
+            "行[い]けない",
+            "行[い]かず"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-ba-sore-made-da",
+      "title": "〜ばそれまでだ",
+      "meaning": "if X, that's the end of it; it's all for nothing if X",
+      "structure": "Verb ば-form + それまでだ / Verb たら + それまでだ",
+      "explanation": "{〜ばそれまでだ} means 'if X happens, everything stops there — all previous effort is wasted'. However good, expensive or carefully prepared something is, one simple failure (forgetting, dying, not using it) makes it meaningless.\n\nA second, very common use: {〜と言[い]ってしまえばそれまでだが} 'you could just say X and leave it at that, but...' — used to reject an easy explanation and dig deeper.\n\n**Register:** neutral; common in conversation, essays and opinion pieces.",
+      "examples": [
+        {
+          "jp": "どんなに高[たか]い薬[くすり]も、飲[の]み忘[わす]れればそれまでだ。",
+          "en": "However expensive the medicine, it's useless if you forget to take it."
+        },
+        {
+          "jp": "いくら貯金[ちょきん]しても、死[し]んでしまえばそれまでだ。",
+          "en": "No matter how much you save, it's all over when you die."
+        },
+        {
+          "jp": "せっかくのチャンスも、生[い]かさなければそれまでだ。",
+          "en": "Even a great opportunity is worthless if you don't make use of it."
+        },
+        {
+          "jp": "「才能[さいのう]がない」と言[い]ってしまえばそれまでだが、努力[どりょく]が足[た]りなかったのも事実[じじつ]だ。",
+          "en": "You could just say 'I had no talent' and leave it at that, but the truth is I also didn't work hard enough."
+        }
+      ],
+      "notes": "Often paired with {せっかく}, {どんなに}, {いくら} in the first half to emphasise wasted effort.",
+      "quiz": [
+        {
+          "q": "どんなに準備[じゅんび]をしても、当日[とうじつ]寝坊[ねぼう]すれば＿＿。",
+          "en": "However well you prepare, it's all for nothing if you oversleep on the day.",
+          "choices": [
+            "それまでだ",
+            "それどころではない",
+            "それにしても",
+            "それはそれとして"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "運[うん]が悪[わる]かったと言[い]ってしまえば＿＿が、原因[げんいん]はほかにもあったはずだ。",
+          "en": "You could just put it down to bad luck, but there must have been other causes too.",
+          "choices": [
+            "それまでもない",
+            "それどころだ",
+            "それまでだ",
+            "それほどだ"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-mono-wo",
+      "title": "〜ものを",
+      "meaning": "if only ...; (X would have happened), but",
+      "structure": "Verb / Adjective (plain form, often with ば／たら) + ものを",
+      "explanation": "{〜ものを} expresses regret, complaint or reproach about something that could have been but wasn't. 'If you'd asked me, I would have helped — (but you didn't)'. The first half is usually a hypothetical with {〜ば／〜たら}, and {ものを} implies a 'but' — the actual result was disappointing.\n\nIt can end the sentence (leaving the regret hanging) or continue into what actually happened.\n\n**Register:** somewhat literary and slightly old-fashioned, but still used in speech for complaints: {言[い]ってくれれば手伝[てつだ]ったものを}. Similar to {〜のに}, but stronger in reproach.",
+      "examples": [
+        {
+          "jp": "一言[ひとこと]相談[そうだん]してくれれば手伝[てつだ]ったものを。",
+          "en": "If only you'd said something, I would have helped."
+        },
+        {
+          "jp": "黙[だま]っていればいいものを、余計[よけい]なことを言[い]って怒[おこ]らせてしまった。",
+          "en": "He should have just kept quiet, but he said something unnecessary and made her angry."
+        },
+        {
+          "jp": "早[はや]く病院[びょういん]に行[い]けば治[なお]ったものを、彼[かれ]は我慢[がまん]し続[つづ]けた。",
+          "en": "It would have healed if he'd gone to the hospital early, but he kept putting up with it."
+        },
+        {
+          "jp": "素直[すなお]に謝[あやま]れば許[ゆる]してもらえたものを、彼[かれ]は最後[さいご]まで言[い]い訳[わけ]をした。",
+          "en": "He would have been forgiven if he'd simply apologised, but he made excuses to the end."
+        }
+      ],
+      "notes": "Don't confuse with {〜ものの} 'although' or {〜ものか} 'as if I would!'.",
+      "quiz": [
+        {
+          "q": "言[い]ってくれれば、駅[えき]まで迎[むか]えに行[い]った＿＿。",
+          "en": "If you'd told me, I would have come to pick you up at the station.",
+          "choices": [
+            "ものの",
+            "ものか",
+            "ものを",
+            "ものだから"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "最初[さいしょ]から本当[ほんとう]のことを話[はな]せばいい＿＿、嘘[うそ]をついたせいで問題[もんだい]が大[おお]きくなった。",
+          "en": "She should have just told the truth from the start, but because she lied, the problem got bigger.",
+          "choices": [
+            "ものを",
+            "ものなら",
+            "ものか",
+            "もので"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-ga-saigo",
+      "title": "〜が最後[さいご]／〜たら最後[さいご]",
+      "meaning": "once X happens, (there's no going back / something bad always follows)",
+      "structure": "Verb (た-form) + が最後[さいご] / たら最後[さいご]",
+      "explanation": "{〜が最後[さいご]} means 'once X happens, that's it' — the moment X occurs, an unstoppable or irreversible (usually bad) situation follows. Once you tell her a secret, the whole office knows; once he starts gaming, he won't stop for hours; once trust is lost, it's hard to get back.\n\nIt often describes habits or general truths, so the second half is commonly in the present tense.\n\n**Register:** {が最後[さいご]} is more written; {たら最後[さいご]} is more conversational and genuinely used in speech.",
+      "examples": [
+        {
+          "jp": "彼[かれ]はゲームを始[はじ]めたら最後[さいご]、何時間[なんじかん]でもやめない。",
+          "en": "Once he starts playing a game, he won't stop for hours."
+        },
+        {
+          "jp": "このソファは、一度[いちど]座[すわ]ったが最後[さいご]、なかなか立[た]ち上[あ]がれない。",
+          "en": "Once you sit on this sofa, it's really hard to get up again."
+        },
+        {
+          "jp": "あの人[ひと]に話[はな]したが最後[さいご]、翌日[よくじつ]には会社中[かいしゃじゅう]に広[ひろ]まってしまう。",
+          "en": "Once you tell that person something, the whole company knows about it by the next day."
+        },
+        {
+          "jp": "信用[しんよう]は一度[いちど]失[うしな]ったが最後[さいご]、取[と]り戻[もど]すのは難[むずか]しい。",
+          "en": "Once you lose people's trust, it's hard to win it back."
+        }
+      ],
+      "notes": "{一度[いちど]} often appears in the first half. Unlike {〜たとたん}, the focus is on the irreversible consequence rather than timing.",
+      "quiz": [
+        {
+          "q": "父[ちち]は一度[いちど]怒[おこ]り出[だ]した＿＿、誰[だれ]にも止[と]められない。",
+          "en": "Once my father starts getting angry, nobody can stop him.",
+          "choices": [
+            "が早[はや]いか",
+            "ところで",
+            "や否[いな]や",
+            "が最後[さいご]"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "この森[もり]は、一度[いちど]迷[まよ]い込[こ]んだ＿＿、二度[にど]と出[で]られないと言[い]われている。",
+          "en": "They say that once you get lost in this forest, you can never get out again.",
+          "choices": [
+            "がてら",
+            "が最後[さいご]",
+            "かたわら",
+            "そばから"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n1-ni-mo-hodo-ga-aru",
+      "title": "〜にもほどがある",
+      "meaning": "there's a limit to (how X); this is too X",
+      "structure": "Noun / な-adj stem / Verb・い-adj (plain) + にもほどがある",
+      "explanation": "{ほど} means 'limit, degree'. {〜にもほどがある} literally says 'even X has its limits' — i.e. 'this is going way too far'. It's a strong criticism of someone being excessively rude, careless, reckless or silly.\n\nCommon combinations: {冗談[じょうだん]にもほどがある} 'that's not funny anymore', {非常識[ひじょうしき]にもほどがある}, {無責任[むせきにん]にもほどがある}, {わがままにもほどがある}, {失礼[しつれい]にもほどがある}.\n\n**Register:** conversational and emotional — you'll hear it from irritated people in real life, in dramas and on social media. It's strong, so use it with care.",
+      "examples": [
+        {
+          "jp": "冗談[じょうだん]にもほどがある。",
+          "en": "A joke's a joke, but this is going too far."
+        },
+        {
+          "jp": "三時間[さんじかん]も遅刻[ちこく]するなんて、非常識[ひじょうしき]にもほどがある。",
+          "en": "Being three hours late is outrageously inconsiderate."
+        },
+        {
+          "jp": "一人[ひとり]で冬山[ふゆやま]に登[のぼ]るなんて、無謀[むぼう]にもほどがある。",
+          "en": "Climbing a mountain alone in winter is way too reckless."
+        },
+        {
+          "jp": "人[ひと]の好意[こうい]をそこまで疑[うたが]うとは、ひねくれているにもほどがある。",
+          "en": "Being that suspicious of other people's kindness is just too twisted."
+        }
+      ],
+      "notes": "Often preceded by {〜なんて} or {〜とは}, which introduce the shocking behaviour.",
+      "quiz": [
+        {
+          "q": "約束[やくそく]を三回[さんかい]も破[やぶ]るなんて、いい加減[かげん]＿＿。",
+          "en": "Breaking your promise three times — there's a limit to how unreliable you can be.",
+          "choices": [
+            "にもほどがある",
+            "を禁[きん]じ得[え]ない",
+            "をおいてない",
+            "にかたくない"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "いくら疲[つか]れているからといって、会議中[かいぎちゅう]に寝[ね]るなんて、失礼[しつれい]にも＿＿がある。",
+          "en": "I know you're tired, but falling asleep during a meeting is far too rude.",
+          "choices": [
+            "きり",
+            "わけ",
+            "はず",
+            "ほど"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "id": "n3-u15",
+  "title": "Keigo in depth",
+  "summary": "Building on N4 keigo: special {尊敬語[そんけいご]} and {謙譲語[けんじょうご]} verbs, the patterns {お〜になる}, {れる・られる}, {お〜する}, {お〜ください}, extra-polite {丁寧語[ていねいご]} ({ございます}), and the ever-present {させていただく}.",
+  "points": [
+    {
+      "id": "n3-sonkeigo-verbs",
+      "title": "尊敬語[そんけいご]: special honorific verbs",
+      "meaning": "honorific verbs that raise the actions of the person you respect",
+      "structure": "いる・行[い]く・来[く]る → いらっしゃる ; 言[い]う → おっしゃる ; 食[た]べる・飲[の]む → 召[め]し上[あ]がる ; 見[み]る → ご覧[らん]になる ; する → なさる ; くれる → くださる ; 知[し]っている → ご存[ぞん]じだ",
+      "explanation": "{尊敬語[そんけいご]} (respectful language) is used for the actions of someone **above you or outside your group** — a customer, a client, your boss, a teacher. It raises them up.\n\nThe most common verbs have special replacement forms that you simply have to memorize:\n- {いる} / {行[い]く} / {来[く]る} → {いらっしゃる}\n- {言[い]う} → {おっしゃる}\n- {食[た]べる} / {飲[の]む} → {召[め]し上[あ]がる}\n- {見[み]る} → {ご覧[らん]になる}\n- {する} → {なさる}\n- {くれる} → {くださる}\n- {知[し]っている} → {ご存[ぞん]じだ}\n\n**Watch the {ます}-form:** {いらっしゃる}, {おっしゃる}, {なさる}, {くださる} become {いらっしゃいます}, {おっしゃいます}, {なさいます}, {くださいます} — with {い}, not {り}.\n\nNever use {尊敬語[そんけいご]} for your own actions.",
+      "examples": [
+        {
+          "jp": "社長[しゃちょう]は今[いま]、会議室[かいぎしつ]にいらっしゃいます。",
+          "en": "The president is in the meeting room now."
+        },
+        {
+          "jp": "先生[せんせい]がおっしゃったとおりにしました。",
+          "en": "I did it just as you (the teacher) said."
+        },
+        {
+          "jp": "どうぞ、温[あたた]かいうちに召[め]し上[あ]がってください。",
+          "en": "Please enjoy it while it's warm."
+        },
+        {
+          "jp": "この資料[しりょう]、もうご覧[らん]になりましたか。",
+          "en": "Have you already looked at these materials?"
+        },
+        {
+          "jp": "部長[ぶちょう]は、田中[たなか]さんのことをご存[ぞん]じですか。",
+          "en": "Do you know Mr. Tanaka, sir?"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "お客様[きゃくさま]が受付[うけつけ]で待[ま]って＿＿。",
+          "en": "A customer is waiting at reception.",
+          "choices": [
+            "おります",
+            "いたします",
+            "まいります",
+            "いらっしゃいます"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "部長[ぶちょう]は、明日[あした]の会議[かいぎ]には何時[なんじ]に＿＿か。",
+          "en": "What time will the manager be coming to tomorrow's meeting?",
+          "choices": [
+            "参[まい]ります",
+            "伺[うかが]います",
+            "いらっしゃいます",
+            "いたします"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n3-o-ni-naru",
+      "title": "お〜になる / ご〜になる",
+      "meaning": "(honorific pattern) the respected person does ~",
+      "structure": "お + Verb-ます stem + になる ; ご + する-noun + になる",
+      "explanation": "For verbs without a special honorific form, you can build one with the pattern {お + stem + になる}.\n\n{帰[かえ]る} → {お帰[かえ]りになる}\n{書[か]く} → {お書[か]きになる}\n{待[ま]つ} → {お待[ま]ちになる}\n\nFor {する}-nouns, mostly words of Chinese origin, use {ご}: {利用[りよう]する} → {ご利用[りよう]になる}, {出席[しゅっせき]する} → {ご出席[しゅっせき]になる}.\n\nThis is a high level of respect, very common in business when talking about the actions of clients, executives and customers.\n\n**Don't use it for verbs that have special forms:** say {ご覧[らん]になる} (not {お見[み]になる}), {いらっしゃる} (not {お行[い]きになる}). Many verbs with a one-syllable stem, like {見[み]る}, {寝[ね]る}, {いる}, don't take this pattern.",
+      "examples": [
+        {
+          "jp": "部長[ぶちょう]はもうお帰[かえ]りになりました。",
+          "en": "The manager has already gone home."
+        },
+        {
+          "jp": "先生[せんせい]は何時[なんじ]ごろお戻[もど]りになりますか。",
+          "en": "About what time will the professor be back?"
+        },
+        {
+          "jp": "社長[しゃちょう]がお書[か]きになった本[ほん]を読[よ]みました。",
+          "en": "I read the book that our president wrote."
+        },
+        {
+          "jp": "新[あたら]しいシステムは、もうご利用[りよう]になりましたか。",
+          "en": "Have you used the new system yet?"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "課長[かちょう]は三時[さんじ]ごろお戻[もど]り＿＿予定[よてい]です。",
+          "en": "The section chief is expected to return around three.",
+          "choices": [
+            "いたす",
+            "させる",
+            "する",
+            "になる"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "この本[ほん]は、先生[せんせい]がお書[か]き＿＿ものです。",
+          "en": "This book is one that the professor wrote.",
+          "choices": [
+            "申[もう]した",
+            "になった",
+            "した",
+            "いたした"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n3-rareru-honorific",
+      "title": "〜れる / 〜られる (honorific)",
+      "meaning": "(lighter honorific) the respected person does ~",
+      "structure": "Same form as the passive: 行[い]かれる, 書[か]かれる, 読[よ]まれる, 来[こ]られる, される",
+      "explanation": "The passive form doubles as a **lighter honorific**. It's a little less formal than {お〜になる}, easy to make, and very common in offices and the news.\n\n{部長[ぶちょう]は明日[あした]、大阪[おおさか]へ行[い]かれます。} 'The manager will be going to Osaka tomorrow.'\n\nForm: exactly the same as the passive — group 1: {行[い]かれる}, {読[よ]まれる}; group 2: {始[はじ]められる}; {来[く]る} → {来[こ]られる}; {する} → {される}. {出張[しゅっちょう]される}, {説明[せつめい]される}.\n\nBecause the form is the same as the passive (and sometimes the potential), context tells you which meaning it is. {何時[なんじ]に来[こ]られますか} can mean 'What time will you come? (honorific)' or 'What time can you come? (potential)'. To avoid confusion, many people prefer the special verbs ({いらっしゃる}) when they exist.",
+      "examples": [
+        {
+          "jp": "部長[ぶちょう]は明日[あした]、大阪[おおさか]へ行[い]かれます。",
+          "en": "The manager will be going to Osaka tomorrow."
+        },
+        {
+          "jp": "先生[せんせい]は毎朝[まいあさ]、英語[えいご]の新聞[しんぶん]を読[よ]まれるそうです。",
+          "en": "I hear the professor reads an English newspaper every morning."
+        },
+        {
+          "jp": "社長[しゃちょう]は来月[らいげつ]、アメリカに出張[しゅっちょう]されます。",
+          "en": "The president will be going on a business trip to America next month."
+        },
+        {
+          "jp": "田中[たなか]様[さま]は、いつ日本[にほん]に来[こ]られたんですか。",
+          "en": "When did you come to Japan, Mr. Tanaka?"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "「部長[ぶちょう]、この本[ほん]、もう＿＿か。」",
+          "en": "'Sir, have you already read this book?'",
+          "choices": [
+            "読[よ]ませていただきました",
+            "読[よ]まれました",
+            "拝見[はいけん]しました",
+            "お読[よ]みしました"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "（社内[しゃない]で）社長[しゃちょう]は来週[らいしゅう]、ニューヨークへ出張[しゅっちょう]＿＿。",
+          "en": "(Speaking within the company) The president will go on a business trip to New York next week.",
+          "choices": [
+            "いたします",
+            "されます",
+            "させていただきます",
+            "申[もう]します"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n3-kenjougo-verbs",
+      "title": "謙譲語[けんじょうご]: special humble verbs",
+      "meaning": "humble verbs that lower your own (or your group's) actions",
+      "structure": "行[い]く・来[く]る → 参[まい]る・伺[うかが]う ; いる → おる ; 言[い]う → 申[もう]す・申[もう]し上[あ]げる ; する → いたす ; 食[た]べる・飲[の]む・もらう → いただく ; 見[み]る → 拝見[はいけん]する ; 知[し]っている → 存[ぞん]じている ; 会[あ]う → お目[め]にかかる",
+      "explanation": "{謙譲語[けんじょうご]} (humble language) is used for **your own actions** (and those of your group) in order to show respect to the listener by lowering yourself.\n\nThe key special verbs:\n- {行[い]く} / {来[く]る} → {参[まい]る}; visiting someone → {伺[うかが]う}\n- {いる} → {おる}\n- {言[い]う} → {申[もう]す} / {申[もう]し上[あ]げる}\n- {する} → {いたす}\n- {食[た]べる} / {飲[の]む} / {もらう} → {いただく}\n- {見[み]る} → {拝見[はいけん]する}\n- {知[し]っている} → {存[ぞん]じている}\n- {会[あ]う} → {お目[め]にかかる}\n\n**Very important in Japanese companies:** when speaking to someone **outside** your company, your own boss counts as part of your group. So you use humble forms for your boss and drop {さん}: {田中[たなか]はただいま席[せき]を外[はず]しております。} 'Tanaka is away from his desk at the moment.'",
+      "examples": [
+        {
+          "jp": "明日[あした]の十時[じゅうじ]に、御社[おんしゃ]に伺[うかが]います。",
+          "en": "I'll visit your company at ten tomorrow."
+        },
+        {
+          "jp": "初[はじ]めまして、ジョンと申[もう]します。",
+          "en": "How do you do? My name is John."
+        },
+        {
+          "jp": "お送[おく]りいただいた資料[しりょう]を拝見[はいけん]しました。",
+          "en": "I've looked over the materials you sent."
+        },
+        {
+          "jp": "申[もう]し訳[わけ]ございません。田中[たなか]は、ただいま席[せき]を外[はず]しております。",
+          "en": "I'm very sorry. Tanaka is away from his desk at the moment."
+        },
+        {
+          "jp": "先生[せんせい]のお名前[なまえ]は、以前[いぜん]から存[ぞん]じております。",
+          "en": "I've known your name for some time, sir."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "（お客様[きゃくさま]に）では、明日[あした]三時[さんじ]にそちらへ＿＿。",
+          "en": "(To a client) Then I'll come to your office at three tomorrow.",
+          "choices": [
+            "お越[こ]しになります",
+            "伺[うかが]います",
+            "行[い]かれます",
+            "いらっしゃいます"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "（取引先[とりひきさき]からの電話[でんわ]で）「申[もう]し訳[わけ]ございません。部長[ぶちょう]の田中[たなか]はただいま外出[がいしゅつ]して＿＿。」",
+          "en": "(On a call from a client) 'I'm very sorry. Our manager, Tanaka, is out of the office at the moment.'",
+          "choices": [
+            "なさいます",
+            "おります",
+            "いらっしゃいます",
+            "おいでになります"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n3-o-suru",
+      "title": "お〜する / ご〜する / お〜いたす",
+      "meaning": "(humble pattern) I (humbly) do ~ (for you / toward you)",
+      "structure": "お + Verb-ます stem + する / いたす ; ご + する-noun + する / いたす",
+      "explanation": "The general humble pattern is {お + stem + する}. Use it for **your own** action when it affects or is done for the respected person.\n\n{持[も]つ} → {お持[も]ちする}: {お持[も]ちしましょうか。} 'Shall I carry that for you?'\n{送[おく]る} → {お送[おく]りする}\n{連絡[れんらく]する} → {ご連絡[れんらく]する}\n{案内[あんない]する} → {ご案内[あんない]する}\n\nReplacing {する} with {いたす} makes it even more humble: {ご連絡[れんらく]いたします}. This is standard in business emails.\n\n**Two common mistakes:**\n- The action must involve the other person. You can't say {×お食[た]べする} for eating your own lunch.\n- Never use it for the other person's actions. {×お客様[きゃくさま]がお待[ま]ちしています} is wrong; say {お待[ま]ちになっています} (honorific).",
+      "examples": [
+        {
+          "jp": "重[おも]そうですね。お持[も]ちしましょうか。",
+          "en": "That looks heavy. Shall I carry it for you?"
+        },
+        {
+          "jp": "資料[しりょう]は、後[あと]でメールでお送[おく]りします。",
+          "en": "I'll send you the materials by email later."
+        },
+        {
+          "jp": "会議室[かいぎしつ]までご案内[あんない]します。",
+          "en": "I'll show you to the meeting room."
+        },
+        {
+          "jp": "結果[けっか]が出[で]ましたら、すぐにご連絡[れんらく]いたします。",
+          "en": "As soon as we have the results, we'll contact you."
+        },
+        {
+          "jp": "大変[たいへん]お待[ま]たせいたしました。",
+          "en": "I'm very sorry to have kept you waiting."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "部長[ぶちょう]、そのかばん、私[わたし]がお持[も]ち＿＿。",
+          "en": "Sir, I'll carry that bag for you.",
+          "choices": [
+            "なさいます",
+            "くださいます",
+            "します",
+            "になります"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "詳[くわ]しいことは、後[あと]ほど私[わたし]からメールでご連絡[れんらく]＿＿。",
+          "en": "I will contact you by email later with the details.",
+          "choices": [
+            "なさいます",
+            "いたします",
+            "いらっしゃいます",
+            "になります"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n3-o-kudasai",
+      "title": "お〜ください / ご〜ください",
+      "meaning": "please (do ~) — a polite request to customers or superiors",
+      "structure": "お + Verb-ます stem + ください ; ご + する-noun + ください",
+      "explanation": "{お〜ください} is a more polite version of {〜てください}. You'll see and hear it everywhere in Japan: signs, announcements, shops, forms, and business emails.\n\n{こちらにお名前[なまえ]をお書[か]きください。} 'Please write your name here.'\n{少々[しょうしょう]お待[ま]ちください。} 'Please wait a moment.'\n\nFor {する}-nouns, use {ご}: {ご注意[ちゅうい]ください} 'Please be careful', {ご連絡[れんらく]ください} 'Please contact us'.\n\nAs with {お〜になる}, verbs with special honorific forms use those instead:\n- {見[み]る} → {ご覧[らん]ください} (not {お見[み]ください})\n- {来[く]る} → {お越[こ]しください} / {いらしてください}\n- {食[た]べる} → {召[め]し上[あ]がってください}",
+      "examples": [
+        {
+          "jp": "こちらにお名前[なまえ]をお書[か]きください。",
+          "en": "Please write your name here."
+        },
+        {
+          "jp": "少々[しょうしょう]お待[ま]ちください。",
+          "en": "Please wait a moment."
+        },
+        {
+          "jp": "ご自由[じゆう]にお取[と]りください。",
+          "en": "Please help yourself. (sign on free items)"
+        },
+        {
+          "jp": "足元[あしもと]にご注意[ちゅうい]ください。",
+          "en": "Please watch your step."
+        },
+        {
+          "jp": "ご不明[ふめい]な点[てん]がございましたら、お気軽[きがる]にご連絡[れんらく]ください。",
+          "en": "If anything is unclear, please feel free to contact us."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "駅[えき]のアナウンス：「白[しろ]い線[せん]の内側[うちがわ]までお下[さ]がり＿＿。」",
+          "en": "Station announcement: 'Please stand back behind the white line.'",
+          "choices": [
+            "まいります",
+            "いたします",
+            "します",
+            "ください"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "新[あたら]しいカタログができましたので、ぜひ＿＿ください。",
+          "en": "Our new catalog is ready, so please do take a look.",
+          "choices": [
+            "拝見[はいけん]",
+            "ご覧[らん]",
+            "お見[み]",
+            "見[み]られ"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n3-teineigo",
+      "title": "丁寧語[ていねいご]: ございます / でございます",
+      "meaning": "extra-polite neutral forms ('there is' / 'is') used in service and business",
+      "structure": "ある → ございます ; です → でございます ; いい → よろしい ; ちょっと → 少々[しょうしょう] ; こっち → こちら ; 今日[きょう] → 本日[ほんじつ]",
+      "explanation": "{丁寧語[ていねいご]} (polite language) makes your speech more polite **without** raising or lowering anyone. Beyond the basic {です} / {ます}, there's a top tier used by shop staff, hotel staff, and in formal business:\n\n- {あります} → {ございます}: {ご質問[しつもん]はございますか。}\n- {です} → {でございます}: {お手洗[てあら]いはあちらでございます。}\n- {いいですか} → {よろしいでしょうか}\n- {ちょっと} → {少々[しょうしょう]}; {今日[きょう]} → {本日[ほんじつ]}; {こっち} → {こちら}\n\n**Careful:** {でございます} is for things and for yourself. When asking about the other **person**, use the honorific {でいらっしゃいます}: {山田[やまだ]様[さま]でいらっしゃいますか。} 'Are you Mr. Yamada?' Saying {山田[やまだ]様[さま]でございますか} is heard sometimes, but it's considered incorrect.",
+      "examples": [
+        {
+          "jp": "お手洗[てあら]いはあちらでございます。",
+          "en": "The restroom is over there."
+        },
+        {
+          "jp": "何[なに]かご質問[しつもん]はございますか。",
+          "en": "Do you have any questions?"
+        },
+        {
+          "jp": "こちらでよろしいでしょうか。",
+          "en": "Will this one be all right?"
+        },
+        {
+          "jp": "本日[ほんじつ]はご来店[らいてん]いただき、誠[まこと]にありがとうございます。",
+          "en": "Thank you very much for visiting our store today."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "（店員[てんいん]が）お客様[きゃくさま]、こちらが新[あたら]しいメニュー＿＿。",
+          "en": "(Shop staff) Here is our new menu.",
+          "choices": [
+            "でおります",
+            "でいらっしゃいます",
+            "でなさいます",
+            "でございます"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "（電話[でんわ]で）失礼[しつれい]ですが、山田[やまだ]様[さま]＿＿か。",
+          "en": "(On the phone) Excuse me, but would you be Mr. Yamada?",
+          "choices": [
+            "でございます",
+            "でいらっしゃいます",
+            "でいたします",
+            "でおります"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n3-sasete-itadaku",
+      "title": "〜させていただく",
+      "meaning": "(humble) I will (humbly) do ~ (with your permission) ; allow me to ~",
+      "structure": "Verb (causative て-form) + いただく : 帰[かえ]らせていただく ; 休[やす]ませていただく ; 始[はじ]めさせていただく ; させていただく",
+      "explanation": "{〜させていただく} literally means 'to humbly receive (your) letting me do ~'. It presents your own action as something you do **with the listener's permission or thanks to them**. It is one of the most common phrases in Japanese business.\n\n{では、会議[かいぎ]を始[はじ]めさせていただきます。} 'Well then, allow me to begin the meeting.'\n{体調[たいちょう]が悪[わる]いので、早[はや]めに帰[かえ]らせていただきます。} 'I'm not feeling well, so I'll leave early, if you'll allow me.'\n\n**Form:** causative {て}-form + {いただく}.\n- Group 1: {帰[かえ]る} → {帰[かえ]らせて}, {読[よ]む} → {読[よ]ませて}\n- Group 2: {始[はじ]める} → {始[はじ]めさせて}\n- {する} → {させて}; {来[く]る} → {来[こ]させて}\n\nA common error is adding an extra {さ} to group 1 verbs: {×読[よ]まさせていただく} → {読[よ]ませていただく}. Some people also overuse this phrase where no permission is involved, which can sound stiff.",
+      "examples": [
+        {
+          "jp": "では、会議[かいぎ]を始[はじ]めさせていただきます。",
+          "en": "Well then, allow me to start the meeting."
+        },
+        {
+          "jp": "体調[たいちょう]が悪[わる]いので、今日[きょう]は早[はや]めに帰[かえ]らせていただきます。",
+          "en": "I'm not feeling well, so if you'll allow me, I'll leave early today."
+        },
+        {
+          "jp": "こちらの資料[しりょう]をコピーさせていただいてもよろしいですか。",
+          "en": "Would it be all right if I made a copy of this document?"
+        },
+        {
+          "jp": "来月[らいげつ]末[まつ]で退職[たいしょく]させていただくことになりました。",
+          "en": "I'll be leaving the company at the end of next month."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "本日[ほんじつ]は、お先[さき]に帰[かえ]＿＿いただきます。",
+          "en": "If you'll excuse me, I'll be leaving ahead of everyone today.",
+          "choices": [
+            "らさせて",
+            "りさせて",
+            "させて",
+            "らせて"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "会議[かいぎ]の前[まえ]に、資料[しりょう]を読[よ]ま＿＿いただきました。",
+          "en": "I had the chance to read the materials before the meeting.",
+          "choices": [
+            "させて",
+            "さされて",
+            "されて",
+            "せて"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

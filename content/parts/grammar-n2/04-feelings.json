@@ -1,0 +1,150 @@
+{
+  "id": "n2-u04",
+  "title": "Strong feelings and how things look",
+  "summary": "Expressing feelings you can't control ({てしょうがない}, {てたまらない}, {てならない}, {ずにはいられない}), exclamations ({ことか}), strong impressions ({ものがある}), and how someone appears ({げ}, {気味[ぎみ]}).",
+  "points": [
+    {
+      "id": "n2-teshouganai",
+      "title": "〜てしょうがない / 〜て仕方[しかた]がない",
+      "meaning": "so ... I can't stand it; extremely",
+      "structure": "V-て / い-adj くて / な-adj で + しょうがない（仕方[しかた]がない・仕方[しかた]ない）",
+      "explanation": "Literally \"there is no way (to deal with it)\", this pattern says a feeling or sensation is so strong the speaker can't control it. It is the **most casual and most flexible** of the three \"unbearably\" patterns in this unit.\n\nIt works with emotions ({うれしくて}), physical sensations ({痛[いた]くて}), desires ({〜たくて}) and also with things that just keep bothering you ({気[き]になってしょうがない}, {眠[ねむ]くてしょうがない}).\n\n{しょうがない} is the spoken form of {仕方[しかた]がない}. Normally it describes the speaker's own feelings; for other people add {〜ようだ} or {〜らしい}.",
+      "examples": [
+        { "jp": "試験[しけん]の結果[けっか]が気[き]になってしょうがない。", "en": "I can't stop worrying about my exam results." },
+        { "jp": "昨日[きのう]から歯[は]が痛[いた]くてしょうがない。", "en": "My tooth has been killing me since yesterday." },
+        { "jp": "来週[らいしゅう]の旅行[りょこう]が楽[たの]しみでしょうがない。", "en": "I'm so excited about next week's trip I can hardly stand it." },
+        { "jp": "うちの子犬[こいぬ]がかわいくて仕方[しかた]がない。", "en": "Our puppy is just unbearably cute." }
+      ],
+      "notes": "Don't confuse with {〜てもしょうがない} (\"there's no point in...\"): {今[いま]さら悔[く]やんでもしょうがない} = \"there's no use regretting it now\".",
+      "quiz": [
+        { "q": "冷房[れいぼう]が壊[こわ]れて、暑[あつ]く＿＿。", "en": "The air conditioner broke and it's unbearably hot.", "choices": ["てはいられない", "てしょうがない", "ないことには", "ずにはいられない"], "answer": 1 },
+        { "q": "何度[なんど]も同[おな]じミスをする自分[じぶん]が情[なさ]けなく＿＿。", "en": "I feel so pathetic for making the same mistake again and again.", "choices": ["ても仕方[しかた]がない", "てはならない", "っこない", "て仕方[しかた]がない"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-tetamaranai",
+      "title": "〜てたまらない",
+      "meaning": "unbearably; dying to",
+      "structure": "V-て / い-adj くて / な-adj で + たまらない",
+      "explanation": "{たまらない} comes from {堪[たま]る} (\"to endure\"), so the pattern means \"so ... that I can't endure it\". It expresses an intense, often physical or emotional state: loneliness, joy, thirst, itchiness, a desire to see someone.\n\nCompared with {てしょうがない}, it focuses more strongly on the **intensity of a feeling or bodily sensation**, and is slightly less casual. It is less natural with neutral states like {気[き]になる}.\n\nIt is very common with {〜たくてたまらない} (\"dying to...\").",
+      "examples": [
+        { "jp": "喉[のど]が渇[かわ]いてたまらない。", "en": "I'm desperately thirsty." },
+        { "jp": "合格[ごうかく]の知[し]らせを聞[き]いて、うれしくてたまらなかった。", "en": "When I heard I'd passed, I was overjoyed." },
+        { "jp": "一人暮[ひとりぐ]らしを始[はじ]めたばかりの頃[ころ]は、寂[さび]しくてたまらなかった。", "en": "When I'd just started living alone, I was unbearably lonely." },
+        { "jp": "早[はや]く国[くに]の家族[かぞく]に会[あ]いたくてたまらない。", "en": "I'm dying to see my family back home." }
+      ],
+      "notes": "{たまらない} on its own can also mean \"irresistible\": {この香[かお]り、たまらない！} (\"This smell is amazing!\").",
+      "quiz": [
+        { "q": "一日中[いちにちじゅう]何[なに]も食[た]べていないので、おなかがすいて＿＿。", "en": "I haven't eaten anything all day, so I'm starving.", "choices": ["いられない", "はいけない", "たまらない", "ほしい"], "answer": 2 },
+        { "q": "彼女[かのじょ]に会[あ]い＿＿たまらない。", "en": "I'm dying to see her.", "choices": ["たくて", "たくても", "たいので", "たがって"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-tenaranai",
+      "title": "〜てならない",
+      "meaning": "can't help feeling; terribly (spontaneous feeling)",
+      "structure": "V-て / い-adj くて / な-adj で + ならない",
+      "explanation": "{てならない} describes a feeling that **wells up by itself** and won't go away. It is more formal and written than the other two patterns, and it is used mainly with:\n- verbs of spontaneous perception: {気[き]がしてならない}, {思[おも]えてならない}, {感[かん]じられてならない}\n- emotional adjectives: {心配[しんぱい]でならない}, {残念[ざんねん]でならない}, {不安[ふあん]でならない}\n\nIt is **not** normally used for physical sensations such as hunger or heat; use {てたまらない} or {てしょうがない} for those.\n\nSummary of the three:\n- {しょうがない}: casual, widest range\n- {たまらない}: intense emotions and bodily sensations\n- {ならない}: written, spontaneous feelings and impressions",
+      "examples": [
+        { "jp": "将来[しょうらい]のことが心配[しんぱい]でならない。", "en": "I'm terribly worried about the future." },
+        { "jp": "何[なに]か大切[たいせつ]なことを忘[わす]れているような気[き]がしてならない。", "en": "I can't shake the feeling that I've forgotten something important." },
+        { "jp": "彼[かれ]が嘘[うそ]をついているように思[おも]えてならない。", "en": "I can't help thinking that he's lying." },
+        { "jp": "恩師[おんし]が亡[な]くなったと聞[き]き、残念[ざんねん]でならない。", "en": "I heard that my old teacher has passed away, and I am deeply saddened." }
+      ],
+      "notes": "Different from {〜てはならない} (\"must not\"): {嘘[うそ]をついてはならない} = \"you must not lie\".",
+      "quiz": [
+        { "q": "あの日[ひ]、もっと早[はや]く連絡[れんらく]していれば助[たす]けられたような気[き]がして＿＿。", "en": "I can't shake the feeling that I could have helped if I'd contacted them sooner that day.", "choices": ["はいけない", "ならない", "もいい", "いられない"], "answer": 1 },
+        { "q": "事故[じこ]で亡[な]くなった方々[かたがた]のことを思[おも]うと、残念[ざんねん]＿＿。", "en": "When I think of the people who died in the accident, I feel deep regret.", "choices": ["にならない", "ではならない", "でならない", "でもならない"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-zuniwairarenai",
+      "title": "〜ずにはいられない",
+      "meaning": "can't help doing; can't stop oneself from",
+      "structure": "V-ない stem + ずにはいられない（する → せずにはいられない）",
+      "explanation": "{ず} is the classical form of {ない}, so this means \"can't stay without doing\": the speaker is compelled to act or react, often against their will. Common verbs: {笑[わら]う}, {泣[な]く}, {言[い]う}, {考[かんが]える}, {感[かん]じる}.\n\nThe spoken variant {〜ないではいられない} has the same meaning. Both are mainly used for the speaker's own reactions.\n\nIrregular form: {する} becomes {せず}: {感動[かんどう]せずにはいられない}.",
+      "examples": [
+        { "jp": "その映画[えいが]のラストシーンでは、泣[な]かずにはいられなかった。", "en": "I couldn't help crying at the final scene of that film." },
+        { "jp": "彼[かれ]の話[はなし]があまりにおかしくて、笑[わら]わずにはいられなかった。", "en": "His story was so funny I couldn't stop myself from laughing." },
+        { "jp": "困[こま]っている人[ひと]を見[み]ると、声[こえ]をかけずにはいられない。", "en": "When I see someone in trouble, I can't help speaking to them." },
+        { "jp": "新[あたら]しいゲームが出[で]ると、買[か]わないではいられない。", "en": "Whenever a new game comes out, I just have to buy it." },
+        { "jp": "この記事[きじ]を読[よ]むと、政府[せいふ]の対応[たいおう]に疑問[ぎもん]を感[かん]じずにはいられない。", "en": "Reading this article, one can't help questioning the government's response." }
+      ],
+      "notes": "Don't confuse with {〜ずにすむ} (\"get away without doing\") or {〜ざるを得[え]ない} (\"have no choice but to\", an outside obligation rather than an inner impulse).",
+      "quiz": [
+        { "q": "あまりに理不尽[りふじん]な話[はなし]で、抗議[こうぎ]せ＿＿。", "en": "It was so unreasonable that I couldn't help protesting.", "choices": ["ないことには", "ずにはいられなかった", "ないことはない", "たまらなかった"], "answer": 1 },
+        { "q": "人[ひと]が困[こま]っているのを見[み]ると、助[たす]け＿＿いられない。", "en": "When I see someone in trouble, I can't help but help them.", "choices": ["たくて", "ように", "ずには", "ないので"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-kotoka",
+      "title": "〜ことか",
+      "meaning": "how (much) ...!; so very",
+      "structure": "どんなに / どれほど / 何度[なんど] ... + Plain form + ことか　（な-adj: な / である）",
+      "explanation": "{ことか} turns a statement into an emotional exclamation about degree: \"how happy I was!\", \"how long I waited!\". It usually pairs with a question word of degree: {どんなに}, {どれほど}, {どれだけ}, {何度[なんど]}, {何回[なんかい]}.\n\nIt sounds heartfelt and a little literary, so you will find it in letters, speeches, essays and dramatic dialogue. In casual talk people would more often say {すごく〜た}.\n\nDon't confuse it with {ものか}, which is a strong denial (\"as if I would!\").",
+      "examples": [
+        { "jp": "合格[ごうかく]の知[し]らせを聞[き]いて、どんなにうれしかったことか。", "en": "How happy I was to hear I'd passed!" },
+        { "jp": "君[きみ]からの連絡[れんらく]を、どれほど待[ま]っていたことか。", "en": "You have no idea how long I waited to hear from you." },
+        { "jp": "この仕事[しごと]を辞[や]めたいと思[おも]ったことが、何度[なんど]あったことか。", "en": "I can't count how many times I've wanted to quit this job." },
+        { "jp": "日本[にほん]に来[き]たばかりの頃[ころ]、同僚[どうりょう]の親切[しんせつ]にどれだけ助[たす]けられたことか。", "en": "When I'd just arrived in Japan, my colleagues' kindness helped me more than I can say." }
+      ],
+      "quiz": [
+        { "q": "一人[ひとり]で外国[がいこく]に住[す]み始[はじ]めた頃[ころ]は、どんなに心細[こころぼそ]かった＿＿。", "en": "When I first started living abroad alone, how lonely and uneasy I felt!", "choices": ["ものか", "ことだ", "ものだ", "ことか"], "answer": 3 },
+        { "q": "あなたが無事[ぶじ]だと聞[き]いて、＿＿安心[あんしん]したことか。", "en": "You can't imagine how relieved I was to hear you were safe.", "choices": ["どれほど", "いくら", "なかなか", "かなり"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-monogaaru",
+      "title": "〜ものがある",
+      "meaning": "there is something (moving / impressive / hard) about it",
+      "structure": "Plain form (V / い-adj / な-adj な) + ものがある",
+      "explanation": "{ものがある} expresses the speaker's strong impression that something has a certain quality, without pointing to one exact feature: \"there's something touching about it\", \"it is pretty tough\".\n\nIt often combines with verbs of emotion or evaluation: {心[こころ]を打[う]つものがある}, {胸[むね]に迫[せま]るものがある}, {光[ひか]るものがある} (shows promise), {驚[おどろ]くべきものがある}, or with adjectives like {つらい}, {厳[きび]しい}.\n\nIt is used in reviews, commentary and thoughtful conversation. It sounds measured and adult.",
+      "examples": [
+        { "jp": "彼[かれ]の演奏[えんそう]には、人[ひと]の心[こころ]を動[うご]かすものがある。", "en": "There's something about his playing that moves people." },
+        { "jp": "毎日[まいにち]満員電車[まんいんでんしゃ]で通勤[つうきん]するのは、つらいものがある。", "en": "Commuting on a packed train every day is pretty rough." },
+        { "jp": "この町[まち]の変化[へんか]の速[はや]さには、驚[おどろ]くべきものがある。", "en": "The speed at which this town is changing is quite astonishing." },
+        { "jp": "新人[しんじん]ながら、彼女[かのじょ]の企画力[きかくりょく]には光[ひか]るものがある。", "en": "Although she's new, her planning skills really stand out." }
+      ],
+      "quiz": [
+        { "q": "この写真[しゃしん]には、見[み]る人[ひと]の胸[むね]に迫[せま]る＿＿がある。", "en": "There's something about this photo that deeply moves the viewer.", "choices": ["わけ", "はず", "もの", "まま"], "answer": 2 },
+        { "q": "四十代[よんじゅうだい]で一[いち]から転職[てんしょく]するのは、正直[しょうじき]厳[きび]しい＿＿。", "en": "Honestly, changing careers from scratch in your forties is pretty tough.", "choices": ["ものがある", "ことにする", "おそれがある", "ものなら"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-ge",
+      "title": "〜げ",
+      "meaning": "-looking; seeming (from someone's appearance)",
+      "structure": "い-adj stem / な-adj stem / V-たい stem + げ（な / に / だ）",
+      "explanation": "{げ} describes how a feeling or state **shows on the outside**: {悲[かな]しげな顔[かお]} (a sad-looking face), {楽[たの]しげに笑[わら]う} (laugh happily). It behaves like a {な}-adjective.\n\nIt is mostly literary or written and is used for other people's visible emotions. Common words: {寂[さび]しげ}, {楽[たの]しげ}, {不安[ふあん]げ}, {得意[とくい]げ}, {意味[いみ]ありげ} (meaningful-looking), {言[い]いたげ} (looking as if wanting to say something).\n\nIn modern slang {よさげ} (\"looks good\") is common online.",
+      "examples": [
+        { "jp": "子[こ]どもたちが公園[こうえん]で楽[たの]しげに遊[あそ]んでいる。", "en": "The children are playing happily in the park." },
+        { "jp": "少女[しょうじょ]は寂[さび]しげな目[め]で窓[まど]の外[そと]を見[み]ていた。", "en": "The girl was gazing out the window with lonely eyes." },
+        { "jp": "面接[めんせつ]を待[ま]つ学生[がくせい]たちは、みんな不安[ふあん]げだった。", "en": "The students waiting for their interviews all looked anxious." },
+        { "jp": "彼[かれ]は何[なに]か言[い]いたげな顔[かお]をしていたが、結局[けっきょく]何[なに]も言[い]わなかった。", "en": "He looked as if he wanted to say something, but in the end he said nothing." }
+      ],
+      "notes": "{そう} is the everyday equivalent and also predicts events ({雨[あめ]が降[ふ]りそう}). {げ} cannot predict events: ✗ {雨[あめ]が降[ふ]りげ}.",
+      "quiz": [
+        { "q": "母[はは]は駅[えき]で、寂[さび]し＿＿に手[て]を振[ふ]っていた。", "en": "At the station, my mother waved with a lonely look.", "choices": ["がち", "げ", "っぽい", "ぎみ"], "answer": 1 },
+        { "q": "彼女[かのじょ]は何[なに]か言[い]いた＿＿な様子[ようす]だった。", "en": "She looked as though she wanted to say something.", "choices": ["がり", "っこ", "ぎみ", "げ"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-gimi",
+      "title": "〜気味[ぎみ]",
+      "meaning": "a touch of; slightly; tending toward (something negative)",
+      "structure": "V-ます stem / Noun + 気味[ぎみ]（だ / の）",
+      "explanation": "{気味[ぎみ]} says that a person or thing is **slightly** in some (usually undesirable) state right now: a touch of a cold, a bit tired, running a little behind. It softens the statement, which makes it very useful at work: {少[すこ]し遅[おく]れ気味[ぎみ]です} sounds less alarming than {遅[おく]れています}.\n\nCommon combinations: {風邪[かぜ]気味[ぎみ]}, {疲[つか]れ気味[ぎみ]}, {太[ふと]り気味[ぎみ]}, {遅[おく]れ気味[ぎみ]}, {緊張[きんちょう]気味[ぎみ]}, {不足[ふそく]気味[ぎみ]}.\n\nIt works as a noun: {気味[ぎみ]だ}, {気味[ぎみ]の}, {気味[ぎみ]で}.",
+      "examples": [
+        { "jp": "今日[きょう]は少[すこ]し風邪[かぜ]気味[ぎみ]なので、早[はや]めに帰[かえ]ります。", "en": "I've got a touch of a cold today, so I'll head home early." },
+        { "jp": "最近[さいきん]、仕事[しごと]が忙[いそが]しくて疲[つか]れ気味[ぎみ]だ。", "en": "Work has been busy lately and I'm a bit worn out." },
+        { "jp": "初[はじ]めてのプレゼンで、彼[かれ]は少[すこ]し緊張[きんちょう]気味[ぎみ]だった。", "en": "It was his first presentation, and he seemed a little nervous." },
+        { "jp": "工事[こうじ]の進[すす]み具合[ぐあい]がやや遅[おく]れ気味[ぎみ]です。", "en": "Construction is running slightly behind schedule." }
+      ],
+      "notes": "{気味[ぎみ]} = a slight degree of a state now ({風邪[かぜ]気味[ぎみ]}). {がち} = something tends to happen often ({休[やす]みがち}, often absent). {っぽい} = has the feel of ({子[こ]どもっぽい}).",
+      "quiz": [
+        { "q": "寝不足[ねぶそく]が続[つづ]いて、ちょっと疲[つか]れ＿＿だ。", "en": "I haven't been sleeping enough, so I'm a bit tired.", "choices": ["気味[ぎみ]", "げ", "っこない", "得[う]る"], "answer": 0 },
+        { "q": "作業[さぎょう]が予定[よてい]より遅[おく]れ＿＿なので、来週[らいしゅう]から人[ひと]を増[ふ]やします。", "en": "The work is running a little behind schedule, so we'll add more people from next week.", "choices": ["がたい", "かねる", "気味[ぎみ]", "げ"], "answer": 2 }
+      ]
+    }
+  ]
+}

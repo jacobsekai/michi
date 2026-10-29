@@ -10,14 +10,46 @@
       "structure": "Noun + について + Verb ; Noun + についての + Noun",
       "explanation": "{〜について} marks the **topic** of talking, thinking, writing, researching and so on: 'about ~'.\n\n{日本[にほん]の歴史[れきし]について調[しら]べています。} 'I'm researching Japanese history.'\n\nTo describe a noun, use {についての}: {環境問題[かんきょうもんだい]についての本[ほん]} 'a book about environmental issues'.\n\nAdding {は} gives {については}, which presents the topic contrastively: 'as for ~': {その件[けん]については、後[あと]で話[はな]しましょう。} 'As for that matter, let's talk later.'\n\nTypical verbs that follow: {話[はな]す}, {聞[き]く}, {考[かんが]える}, {調[しら]べる}, {説明[せつめい]する}, {書[か]く}, {知[し]っている}.",
       "examples": [
-        { "jp": "日本[にほん]の歴史[れきし]について調[しら]べています。", "en": "I'm researching Japanese history." },
-        { "jp": "新[あたら]しい商品[しょうひん]について、ご説明[せつめい]します。", "en": "Let me explain our new product." },
-        { "jp": "環境問題[かんきょうもんだい]についての本[ほん]を読[よ]んだ。", "en": "I read a book about environmental issues." },
-        { "jp": "その件[けん]については、後[あと]で詳[くわ]しく話[はな]しましょう。", "en": "As for that matter, let's discuss it in detail later." }
+        {
+          "jp": "日本[にほん]の歴史[れきし]について調[しら]べています。",
+          "en": "I'm researching Japanese history."
+        },
+        {
+          "jp": "新[あたら]しい商品[しょうひん]について、ご説明[せつめい]します。",
+          "en": "Let me explain our new product."
+        },
+        {
+          "jp": "環境問題[かんきょうもんだい]についての本[ほん]を読[よ]んだ。",
+          "en": "I read a book about environmental issues."
+        },
+        {
+          "jp": "その件[けん]については、後[あと]で詳[くわ]しく話[はな]しましょう。",
+          "en": "As for that matter, let's discuss it in detail later."
+        }
       ],
       "quiz": [
-        { "q": "今日[きょう]の会議[かいぎ]では、来年[らいねん]の予算[よさん]＿＿話[はな]し合[あ]います。", "en": "In today's meeting, we'll discuss next year's budget.", "choices": ["について", "にとって", "によって", "として"], "answer": 0 },
-        { "q": "日本[にほん]の祭[まつ]り＿＿レポートは、来週[らいしゅう]までに出[だ]してください。", "en": "Please hand in your report on Japanese festivals by next week.", "choices": ["についての", "について", "にとって", "によって"], "answer": 0 }
+        {
+          "q": "今日[きょう]の会議[かいぎ]では、来年[らいねん]の予算[よさん]＿＿話[はな]し合[あ]います。",
+          "en": "In today's meeting, we'll discuss next year's budget.",
+          "choices": [
+            "について",
+            "にとって",
+            "として",
+            "によって"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "日本[にほん]の祭[まつ]り＿＿レポートは、来週[らいしゅう]までに出[だ]してください。",
+          "en": "Please hand in your report on Japanese festivals by next week.",
+          "choices": [
+            "にとって",
+            "について",
+            "についての",
+            "によって"
+          ],
+          "answer": 2
+        }
       ]
     },
     {
@@ -27,14 +59,46 @@
       "structure": "Noun + に関[かん]して + Verb ; Noun + に関[かん]する + Noun",
       "explanation": "{〜に関[かん]して} means almost the same as {について} — 'regarding' — but sounds more **formal**. It's common in business emails, official notices, and announcements.\n\n{この件[けん]に関[かん]して、何[なに]かご質問[しつもん]はありますか。} 'Do you have any questions regarding this matter?'\n\nBefore a noun, use {に関[かん]する}: {ビザに関[かん]するお問[と]い合[あ]わせ} 'inquiries about visas'. (The form {に関[かん]しての} also exists but is less common.)\n\n{に関[かん]して} can feel slightly broader than {について}: 'things related to ~', not just the exact topic. In everyday conversation, {について} is more natural.",
       "examples": [
-        { "jp": "この件[けん]に関[かん]して、何[なに]かご質問[しつもん]はありますか。", "en": "Do you have any questions regarding this matter?" },
-        { "jp": "日本[にほん]のアニメに関[かん]する本[ほん]がたくさん出[で]ている。", "en": "Lots of books related to Japanese anime have been published." },
-        { "jp": "お客様[きゃくさま]の個人情報[こじんじょうほう]に関[かん]しては、厳[きび]しく管理[かんり]しています。", "en": "With regard to our customers' personal information, we manage it strictly." },
-        { "jp": "ビザに関[かん]するお問[と]い合[あ]わせは、三番[さんばん]の窓口[まどぐち]へどうぞ。", "en": "For inquiries about visas, please go to window number 3." }
+        {
+          "jp": "この件[けん]に関[かん]して、何[なに]かご質問[しつもん]はありますか。",
+          "en": "Do you have any questions regarding this matter?"
+        },
+        {
+          "jp": "日本[にほん]のアニメに関[かん]する本[ほん]がたくさん出[で]ている。",
+          "en": "Lots of books related to Japanese anime have been published."
+        },
+        {
+          "jp": "お客様[きゃくさま]の個人情報[こじんじょうほう]に関[かん]しては、厳[きび]しく管理[かんり]しています。",
+          "en": "With regard to our customers' personal information, we manage it strictly."
+        },
+        {
+          "jp": "ビザに関[かん]するお問[と]い合[あ]わせは、三番[さんばん]の窓口[まどぐち]へどうぞ。",
+          "en": "For inquiries about visas, please go to window number 3."
+        }
       ],
       "quiz": [
-        { "q": "新[あたら]しいルール＿＿説明会[せつめいかい]が、来週[らいしゅう]開[ひら]かれる。", "en": "An information session about the new rules will be held next week.", "choices": ["に関[かん]する", "に関[かん]して", "にとって", "によって"], "answer": 0 },
-        { "q": "事故[じこ]の原因[げんいん]＿＿は、現在[げんざい]調査中[ちょうさちゅう]です。", "en": "As for the cause of the accident, it is currently under investigation.", "choices": ["に関[かん]して", "に関[かん]する", "をはじめ", "にとって"], "answer": 0 }
+        {
+          "q": "これは新[あたら]しいルール＿＿説明会[せつめいかい]の案内[あんない]です。",
+          "en": "This is a notice about an information session on the new rules.",
+          "choices": [
+            "によって",
+            "に関[かん]して",
+            "にとって",
+            "に関[かん]する"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "事故[じこ]の原因[げんいん]＿＿は、現在[げんざい]調査中[ちょうさちゅう]です。",
+          "en": "As for the cause of the accident, it is currently under investigation.",
+          "choices": [
+            "に関[かん]する",
+            "をはじめ",
+            "にとって",
+            "に関[かん]して"
+          ],
+          "answer": 3
+        }
       ]
     },
     {
@@ -42,16 +106,48 @@
       "title": "〜に対[たい]して",
       "meaning": "toward ~ ; to ~ ; against ~ ; (contrast) whereas ~",
       "structure": "Noun + に対[たい]して + Verb ; Noun + に対[たい]する + Noun ; Plain form + の + に対[たい]して (contrast)",
-      "explanation": "{〜に対[たい]して} marks the **target** that an action, attitude or feeling is directed at: 'toward / to / against'.\n\n{お客様[きゃくさま]に対[たい]して、失礼[しつれい]なことを言[い]ってはいけない。} 'You mustn't say rude things to customers.'\n\nBefore a noun, use {に対[たい]する}: {留学生[りゅうがくせい]に対[たい]する支援[しえん]} 'support for international students'.\n\nA second use is **contrast**, after a clause + {の}: {兄[あに]は背[せ]が高[たか]いのに対[たい]して、弟[おとうと]は低[ひく]い。} 'My older brother is tall, whereas my younger brother is short.'\n\n**{について} vs {に対[たい]して}:** {について} = the topic you talk or think **about**. {に対[たい]して} = the person or thing your action or feeling is aimed **at**. {先生[せんせい]について文句[もんく]を言[い]う} = complain about the teacher (to someone else); {先生[せんせい]に対[たい]して文句[もんく]を言[い]う} = complain to the teacher's face.",
+      "explanation": "{〜に対[たい]して} marks the **target** that an action, attitude or feeling is directed at: 'toward / to / against'.\n\n{お客様[きゃくさま]に対[たい]して、失礼[しつれい]なことを言[い]ってはいけない。} 'You mustn't say rude things to customers.'\n\nBefore a noun, use {に対[たい]する}: {留学生[りゅうがくせい]に対[たい]する支援[しえん]} 'support for international students'.\n\nA second use is **contrast**, after a clause + {の}: {兄[あに]は背[せ]が高[たか]いのに対[たい]して、弟[おとうと]は低[ひく]い。} 'My older brother is tall, whereas my younger brother is short.'\n\n**{について} vs {に対[たい]して}:** {について} = the topic you talk or think **about**. {に対[たい]して} = the person or thing your action or feeling is aimed **at**. {先生[せんせい]について文句[もんく]を言[い]う} = complain about the teacher (to someone else); {先生[せんせい]に対[たい]して文句[もんく]を言[い]う} = complain directed at the teacher (the teacher is the target).",
       "examples": [
-        { "jp": "お客様[きゃくさま]に対[たい]して、失礼[しつれい]なことを言[い]ってはいけない。", "en": "You must not say anything rude to a customer." },
-        { "jp": "社員[しゃいん]の質問[しつもん]に対[たい]して、社長[しゃちょう]は何[なに]も答[こた]えなかった。", "en": "The president gave no answer to the employees' questions." },
-        { "jp": "留学生[りゅうがくせい]に対[たい]する支援[しえん]が増[ふ]えている。", "en": "Support for international students is increasing." },
-        { "jp": "兄[あに]は背[せ]が高[たか]いのに対[たい]して、弟[おとうと]は低[ひく]い。", "en": "My older brother is tall, whereas my younger brother is short." }
+        {
+          "jp": "お客様[きゃくさま]に対[たい]して、失礼[しつれい]なことを言[い]ってはいけない。",
+          "en": "You must not say anything rude to a customer."
+        },
+        {
+          "jp": "社員[しゃいん]の質問[しつもん]に対[たい]して、社長[しゃちょう]は何[なに]も答[こた]えなかった。",
+          "en": "The president gave no answer to the employees' questions."
+        },
+        {
+          "jp": "留学生[りゅうがくせい]に対[たい]する支援[しえん]が増[ふ]えている。",
+          "en": "Support for international students is increasing."
+        },
+        {
+          "jp": "兄[あに]は背[せ]が高[たか]いのに対[たい]して、弟[おとうと]は低[ひく]い。",
+          "en": "My older brother is tall, whereas my younger brother is short."
+        }
       ],
       "quiz": [
-        { "q": "彼[かれ]は年上[としうえ]の人[ひと]＿＿も、丁寧[ていねい]な言葉[ことば]を使[つか]わない。", "en": "He doesn't use polite language even toward people older than him.", "choices": ["に対[たい]して", "について", "によって", "をはじめ"], "answer": 0 },
-        { "q": "東京[とうきょう]は人[ひと]が多[おお]くてにぎやかなの＿＿、私[わたし]の田舎[いなか]は静[しず]かだ。", "en": "Tokyo is crowded and lively, whereas my hometown in the countryside is quiet.", "choices": ["に対[たい]して", "にとって", "によって", "として"], "answer": 0 }
+        {
+          "q": "彼[かれ]は年上[としうえ]の人[ひと]＿＿も、丁寧[ていねい]な言葉[ことば]を使[つか]わない。",
+          "en": "He doesn't use polite language even toward people older than him.",
+          "choices": [
+            "について",
+            "に対[たい]して",
+            "によって",
+            "をはじめ"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "東京[とうきょう]は人[ひと]が多[おお]くてにぎやかなの＿＿、私[わたし]の田舎[いなか]は静[しず]かだ。",
+          "en": "Tokyo is crowded and lively, whereas my hometown in the countryside is quiet.",
+          "choices": [
+            "によって",
+            "にとって",
+            "として",
+            "に対[たい]して"
+          ],
+          "answer": 3
+        }
       ]
     },
     {
@@ -61,14 +157,46 @@
       "structure": "Noun + にとって(は / も / の)",
       "explanation": "{〜にとって} means 'from the point of view of ~'. It is followed by a **judgment or evaluation**: important, difficult, easy, necessary, a problem, a chance, and so on.\n\n{外国人[がいこくじん]にとって、漢字[かんじ]を覚[おぼ]えるのは大変[たいへん]だ。} 'For foreigners, learning kanji is hard.'\n\n**{にとって} vs {に対[たい]して}:** {にとって} is not about an action directed at someone. Compare:\n- {部下[ぶか]にとって、優[やさ]しい上司[じょうし]はありがたい。} 'For subordinates, a kind boss is a blessing.' (viewpoint)\n- {部下[ぶか]に対[たい]して優[やさ]しく話[はな]す。} 'Speak kindly to subordinates.' (target of action)\n\nIf the second half is an action like speaking, helping, or being rude, use {に対[たい]して}. If it's a judgment like {大切[たいせつ]だ} or {難[むずか]しい}, use {にとって}.",
       "examples": [
-        { "jp": "私[わたし]にとって、家族[かぞく]が一番[いちばん]大切[たいせつ]です。", "en": "For me, family is the most important thing." },
-        { "jp": "外国人[がいこくじん]にとって、漢字[かんじ]を覚[おぼ]えるのは大変[たいへん]だ。", "en": "For foreigners, memorizing kanji is tough." },
-        { "jp": "この写真[しゃしん]は、祖父[そふ]にとって大切[たいせつ]な思[おも]い出[で]だ。", "en": "This photo is a precious memory for my grandfather." },
-        { "jp": "小[ちい]さい会社[かいしゃ]にとって、この契約[けいやく]はとても重要[じゅうよう]です。", "en": "For a small company, this contract is extremely important." }
+        {
+          "jp": "私[わたし]にとって、家族[かぞく]が一番[いちばん]大切[たいせつ]です。",
+          "en": "For me, family is the most important thing."
+        },
+        {
+          "jp": "外国人[がいこくじん]にとって、漢字[かんじ]を覚[おぼ]えるのは大変[たいへん]だ。",
+          "en": "For foreigners, memorizing kanji is tough."
+        },
+        {
+          "jp": "この写真[しゃしん]は、祖父[そふ]にとって大切[たいせつ]な思[おも]い出[で]だ。",
+          "en": "This photo is a precious memory for my grandfather."
+        },
+        {
+          "jp": "小[ちい]さい会社[かいしゃ]にとって、この契約[けいやく]はとても重要[じゅうよう]です。",
+          "en": "For a small company, this contract is extremely important."
+        }
       ],
       "quiz": [
-        { "q": "日本[にほん]に来[き]たばかりの人[ひと]＿＿、電車[でんしゃ]の乗[の]り換[か]えは難[むずか]しい。", "en": "For people who have just arrived in Japan, changing trains is difficult.", "choices": ["にとって", "に対[たい]して", "について", "によって"], "answer": 0 },
-        { "q": "部下[ぶか]＿＿も、丁寧[ていねい]な言葉[ことば]で話[はな]すようにしている。", "en": "I make a point of speaking politely even to my subordinates.", "choices": ["に対[たい]して", "にとって", "をはじめ", "を中心[ちゅうしん]に"], "answer": 0 }
+        {
+          "q": "日本[にほん]に来[き]たばかりの人[ひと]＿＿、電車[でんしゃ]の乗[の]り換[か]えは難[むずか]しい。",
+          "en": "For people who have just arrived in Japan, changing trains is difficult.",
+          "choices": [
+            "に対[たい]して",
+            "にとって",
+            "について",
+            "によって"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "部下[ぶか]＿＿も、丁寧[ていねい]な言葉[ことば]で話[はな]すようにしている。",
+          "en": "I make a point of speaking politely even to my subordinates.",
+          "choices": [
+            "に対[たい]して",
+            "をはじめ",
+            "にとって",
+            "を中心[ちゅうしん]に"
+          ],
+          "answer": 0
+        }
       ]
     },
     {
@@ -78,15 +206,50 @@
       "structure": "Noun + として(は / も / の)",
       "explanation": "{〜として} shows the **role, position or status** in which someone or something acts or is seen: 'as ~'.\n\n{私[わたし]は留学生[りゅうがくせい]として日本[にほん]に来[き]ました。} 'I came to Japan as an international student.'\n\n- {〜としては} = 'as for ~ / from the position of ~': {私[わたし]としては、反対[はんたい]です。} 'Speaking for myself, I'm against it.'\n- {〜としても} = 'also as ~ / even as ~'.\n- {〜としての} + noun: {社会人[しゃかいじん]としての責任[せきにん]} 'one's responsibility as a working adult'.\n\nThe phrase {〜として有名[ゆうめい]だ} / {〜として知[し]られている} ('famous as ~ / known as ~') is very common.",
       "examples": [
-        { "jp": "私[わたし]は留学生[りゅうがくせい]として日本[にほん]に来[き]ました。", "en": "I came to Japan as an international student." },
-        { "jp": "彼[かれ]はエンジニアとして、この会社[かいしゃ]で十年[じゅうねん]働[はたら]いている。", "en": "He has worked at this company as an engineer for ten years." },
-        { "jp": "社会人[しゃかいじん]として、時間[じかん]を守[まも]るのは当然[とうぜん]だ。", "en": "As a working adult, being punctual is a given." },
-        { "jp": "京都[きょうと]は古[ふる]いお寺[てら]が多[おお]い町[まち]として有名[ゆうめい]です。", "en": "Kyoto is famous as a city with many old temples." },
-        { "jp": "趣味[しゅみ]としての日本語[にほんご]と、仕事[しごと]としての日本語[にほんご]は違[ちが]う。", "en": "Japanese as a hobby and Japanese as a job are different things." }
+        {
+          "jp": "私[わたし]は留学生[りゅうがくせい]として日本[にほん]に来[き]ました。",
+          "en": "I came to Japan as an international student."
+        },
+        {
+          "jp": "彼[かれ]はエンジニアとして、この会社[かいしゃ]で十年[じゅうねん]働[はたら]いている。",
+          "en": "He has worked at this company as an engineer for ten years."
+        },
+        {
+          "jp": "社会人[しゃかいじん]として、時間[じかん]を守[まも]るのは当然[とうぜん]だ。",
+          "en": "As a working adult, being punctual is a given."
+        },
+        {
+          "jp": "京都[きょうと]は古[ふる]いお寺[てら]が多[おお]い町[まち]として有名[ゆうめい]です。",
+          "en": "Kyoto is famous as a city with many old temples."
+        },
+        {
+          "jp": "趣味[しゅみ]としての日本語[にほんご]と、仕事[しごと]としての日本語[にほんご]は違[ちが]う。",
+          "en": "Japanese as a hobby and Japanese as a job are different things."
+        }
       ],
       "quiz": [
-        { "q": "彼女[かのじょ]は通訳[つうやく]＿＿、会議[かいぎ]に参加[さんか]した。", "en": "She attended the meeting as an interpreter.", "choices": ["として", "にとって", "について", "に対[たい]して"], "answer": 0 },
-        { "q": "富士山[ふじさん]は日本一[にほんいち]高[たか]い山[やま]＿＿知[し]られている。", "en": "Mt. Fuji is known as the highest mountain in Japan.", "choices": ["として", "にとって", "によって", "に関[かん]して"], "answer": 0 }
+        {
+          "q": "彼女[かのじょ]は通訳[つうやく]＿＿、会議[かいぎ]に参加[さんか]した。",
+          "en": "She attended the meeting as an interpreter.",
+          "choices": [
+            "について",
+            "として",
+            "に対[たい]して",
+            "にとって"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "富士山[ふじさん]は日本一[にほんいち]高[たか]い山[やま]＿＿知[し]られている。",
+          "en": "Mt. Fuji is known as the highest mountain in Japan.",
+          "choices": [
+            "に関[かん]して",
+            "として",
+            "にとって",
+            "によって"
+          ],
+          "answer": 1
+        }
       ]
     },
     {
@@ -96,14 +259,46 @@
       "structure": "Noun + をはじめ(として) ; Noun + をはじめとする + Noun",
       "explanation": "{〜をはじめ} picks out one **leading or representative example** from a larger group, then mentions the group: 'X, along with many others'.\n\n{日本[にほん]には、富士山[ふじさん]をはじめ、美[うつく]しい山[やま]がたくさんある。} 'Japan has many beautiful mountains, Mt. Fuji being the best known.'\n\nThe second part refers to a group or category ({たくさん}, {みんな}, {全員[ぜんいん]}, {〜など}). Before a noun, use {をはじめとする}: {東京[とうきょう]をはじめとする大都市[だいとし]} 'big cities such as Tokyo'.\n\nIn speeches and business thank-yous, it's polite to name the most important person first: {部長[ぶちょう]をはじめ、皆様[みなさま]には大変[たいへん]お世話[せわ]になりました。}",
       "examples": [
-        { "jp": "社長[しゃちょう]をはじめ、社員全員[しゃいんぜんいん]が会議[かいぎ]に出席[しゅっせき]した。", "en": "Everyone from the president down attended the meeting." },
-        { "jp": "日本[にほん]には、富士山[ふじさん]をはじめ、美[うつく]しい山[やま]がたくさんある。", "en": "Japan has many beautiful mountains, starting with Mt. Fuji." },
-        { "jp": "東京[とうきょう]や大阪[おおさか]をはじめとする大都市[だいとし]では、家賃[やちん]が高[たか]い。", "en": "In big cities such as Tokyo and Osaka, rent is expensive." },
-        { "jp": "寿司[すし]をはじめとして、日本料理[にほんりょうり]は海外[かいがい]でも人気[にんき]がある。", "en": "Japanese food, sushi above all, is popular overseas too." }
+        {
+          "jp": "社長[しゃちょう]をはじめ、社員全員[しゃいんぜんいん]が会議[かいぎ]に出席[しゅっせき]した。",
+          "en": "Everyone from the president down attended the meeting."
+        },
+        {
+          "jp": "日本[にほん]には、富士山[ふじさん]をはじめ、美[うつく]しい山[やま]がたくさんある。",
+          "en": "Japan has many beautiful mountains, starting with Mt. Fuji."
+        },
+        {
+          "jp": "東京[とうきょう]や大阪[おおさか]をはじめとする大都市[だいとし]では、家賃[やちん]が高[たか]い。",
+          "en": "In big cities such as Tokyo and Osaka, rent is expensive."
+        },
+        {
+          "jp": "寿司[すし]をはじめとして、多[おお]くの日本料理[にほんりょうり]が海外[かいがい]でも人気[にんき]を集[あつ]めている。",
+          "en": "Many Japanese dishes, starting with sushi, are gaining popularity overseas."
+        }
       ],
       "quiz": [
-        { "q": "京都[きょうと]には、金閣寺[きんかくじ]＿＿、有名[ゆうめい]なお寺[てら]がたくさんあります。", "en": "Kyoto has many famous temples, Kinkaku-ji among them.", "choices": ["をはじめ", "にとって", "に対[たい]して", "によって"], "answer": 0 },
-        { "q": "部長[ぶちょう]＿＿、営業部[えいぎょうぶ]の皆様[みなさま]には大変[たいへん]お世話[せわ]になりました。", "en": "I'm deeply grateful to everyone in the sales department, starting with the manager.", "choices": ["をはじめ", "にとって", "について", "によって"], "answer": 0 }
+        {
+          "q": "京都[きょうと]には、金閣寺[きんかくじ]＿＿、有名[ゆうめい]なお寺[てら]がたくさんあります。",
+          "en": "Kyoto has many famous temples, Kinkaku-ji among them.",
+          "choices": [
+            "に対[たい]して",
+            "をはじめ",
+            "にとって",
+            "によって"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "部長[ぶちょう]＿＿、営業部[えいぎょうぶ]の皆様[みなさま]には大変[たいへん]お世話[せわ]になりました。",
+          "en": "I'm deeply grateful to everyone in the sales department, starting with the manager.",
+          "choices": [
+            "によって",
+            "にとって",
+            "をはじめ",
+            "について"
+          ],
+          "answer": 2
+        }
       ]
     },
     {
@@ -111,16 +306,48 @@
       "title": "〜を中心[ちゅうしん]に",
       "meaning": "centering on ~ ; focusing on ~ ; mainly in / among ~",
       "structure": "Noun + を中心[ちゅうしん]に(して) ; Noun + を中心[ちゅうしん]とした + Noun",
-      "explanation": "{中心[ちゅうしん]} means 'center'. {〜を中心[ちゅうしん]に} says that something is centered on, focused on, or mostly happening around ~.\n\n{このクラスでは、会話[かいわ]を中心[ちゅうしん]に勉強[べんきょう]します。} 'In this class, we study with a focus on conversation.'\n\nIt can be literal (physically around a center) or figurative (main focus, main group). Weather reports use it a lot: {九州[きゅうしゅう]を中心[ちゅうしん]に大雨[おおあめ]が降[ふ]っている} 'Heavy rain is falling, mainly in Kyushu.'\n\nBefore a noun: {若者[わかもの]を中心[ちゅうしん]とした人気[にんき]} 'popularity mainly among young people'.\n\n**vs {をはじめ}:** {をはじめ} names the first or top example of a list; {を中心[ちゅうしん]に} names the main focus or core.",
+      "explanation": "{中心[ちゅうしん]} means 'center'. {〜を中心[ちゅうしん]に} says that something is centered on, focused on, or mostly happening around ~.\n\n{このクラスでは、会話[かいわ]を中心[ちゅうしん]に勉強[べんきょう]します。} 'In this class, we study with a focus on conversation.'\n\nIt can be literal (physically around a center) or figurative (main focus, main group). Weather reports use it a lot: {九州[きゅうしゅう]を中心[ちゅうしん]に大雨[おおあめ]が降[ふ]っている} 'Heavy rain is falling, mainly in Kyushu.'\n\nBefore a noun: {駅[えき]を中心[ちゅうしん]とした地域[ちいき]} 'the area centered on the station'.\n\n**vs {をはじめ}:** {をはじめ} names the first or top example of a list; {を中心[ちゅうしん]に} names the main focus or core.",
       "examples": [
-        { "jp": "このクラスでは、会話[かいわ]を中心[ちゅうしん]に勉強[べんきょう]します。", "en": "In this class, we focus mainly on conversation." },
-        { "jp": "台風[たいふう]の影響[えいきょう]で、九州[きゅうしゅう]を中心[ちゅうしん]に大雨[おおあめ]が降[ふ]っている。", "en": "Because of the typhoon, heavy rain is falling, mainly in Kyushu." },
-        { "jp": "駅[えき]を中心[ちゅうしん]に、新[あたら]しい店[みせ]が増[ふ]えてきた。", "en": "New shops have been popping up around the station." },
-        { "jp": "若者[わかもの]を中心[ちゅうしん]に、このアプリが人気[にんき]を集[あつ]めている。", "en": "This app is gaining popularity, especially among young people." }
+        {
+          "jp": "このクラスでは、会話[かいわ]を中心[ちゅうしん]に勉強[べんきょう]します。",
+          "en": "In this class, we focus mainly on conversation."
+        },
+        {
+          "jp": "台風[たいふう]の影響[えいきょう]で、九州[きゅうしゅう]を中心[ちゅうしん]に大雨[おおあめ]が降[ふ]っている。",
+          "en": "Because of the typhoon, heavy rain is falling, mainly in Kyushu."
+        },
+        {
+          "jp": "駅[えき]を中心[ちゅうしん]に、新[あたら]しい店[みせ]が増[ふ]えてきた。",
+          "en": "New shops have been popping up around the station."
+        },
+        {
+          "jp": "若者[わかもの]を中心[ちゅうしん]に、このアプリが人気[にんき]を集[あつ]めている。",
+          "en": "This app is gaining popularity, especially among young people."
+        }
       ],
       "quiz": [
-        { "q": "地球[ちきゅう]は太陽[たいよう]＿＿回[まわ]っている。", "en": "The earth revolves around the sun.", "choices": ["を中心[ちゅうしん]に", "をはじめ", "にとって", "に対[たい]して"], "answer": 0 },
-        { "q": "今回[こんかい]の研修[けんしゅう]は、ビジネスマナー＿＿行[おこな]います。", "en": "This training will focus mainly on business manners.", "choices": ["を中心[ちゅうしん]に", "にとって", "に対[たい]して", "によって"], "answer": 0 }
+        {
+          "q": "地球[ちきゅう]は太陽[たいよう]＿＿回[まわ]っている。",
+          "en": "The earth revolves around the sun.",
+          "choices": [
+            "をはじめ",
+            "にとって",
+            "を中心[ちゅうしん]に",
+            "に対[たい]して"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "今回[こんかい]の研修[けんしゅう]は、ビジネスマナー＿＿行[おこな]います。",
+          "en": "This training will focus mainly on business manners.",
+          "choices": [
+            "によって",
+            "にとって",
+            "を中心[ちゅうしん]に",
+            "に対[たい]して"
+          ],
+          "answer": 2
+        }
       ]
     }
   ]

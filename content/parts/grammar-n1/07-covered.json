@@ -1,0 +1,307 @@
+{
+  "id": "n1-u07",
+  "title": "Covered in, full of, -ish",
+  "summary": "Suffixes that attach to nouns to describe appearance, quantity and attitude: {ずくめ}, {まみれ}, {めく}, {ぐるみ}, {じみる}, and the belittling {ごとき}.",
+  "points": [
+    {
+      "id": "n1-zukume",
+      "title": "〜ずくめ",
+      "meaning": "nothing but; entirely X; X from head to toe",
+      "structure": "Noun + ずくめ (だ／の + Noun)",
+      "explanation": "{〜ずくめ} means something consists entirely of X. It is used with a limited set of nouns:\n\n- **Colours, especially black:** {黒[くろ]ずくめの男[おとこ]} 'a man dressed all in black'\n- **Good things:** {いいことずくめ}, {おめでたいことずくめ}, {ごちそうずくめ}\n- **Rules or restrictions:** {規則[きそく]ずくめ} 'rules everywhere'\n\nUnlike {まみれ} and {だらけ}, it is often positive.\n\n**Register:** neutral; it's used in conversation, TV and writing. {いいことずくめ} is a common everyday phrase, and {黒[くろ]ずくめ} appears often in crime reports and mystery stories.",
+      "examples": [
+        {
+          "jp": "今年[ことし]はいいことずくめの一年[いちねん]だった。",
+          "en": "This year was nothing but good things."
+        },
+        {
+          "jp": "黒[くろ]ずくめの男[おとこ]が、店[みせ]の前[まえ]に立[た]っていた。",
+          "en": "A man dressed all in black was standing in front of the shop."
+        },
+        {
+          "jp": "この学校[がっこう]は規則[きそく]ずくめで、息[いき]が詰[つ]まりそうだ。",
+          "en": "This school has rules for everything; it's suffocating."
+        },
+        {
+          "jp": "結婚[けっこん]に昇進[しょうしん]と、今年[ことし]はおめでたいことずくめだ。",
+          "en": "Marriage, then a promotion — this year has been one celebration after another."
+        }
+      ],
+      "notes": "Don't overextend it: {✕間違[まちが]いずくめ} is wrong; use {間違[まちが]いだらけ}.",
+      "quiz": [
+        {
+          "q": "昇進[しょうしん]、結婚[けっこん]、新居[しんきょ]の購入[こうにゅう]と、今年[ことし]は良[よ]いこと＿＿だった。",
+          "en": "A promotion, marriage and a new home — this year has been full of good things.",
+          "choices": [
+            "まみれ",
+            "めき",
+            "ずくめ",
+            "ぐるみ"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "犯人[はんにん]は黒[くろ]＿＿の服装[ふくそう]をしていたという。",
+          "en": "The culprit was reportedly dressed entirely in black.",
+          "choices": [
+            "ずくめ",
+            "まみれ",
+            "だらけ",
+            "ぐるみ"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-mamire",
+      "title": "〜まみれ",
+      "meaning": "covered in; smeared with (something dirty or unpleasant)",
+      "structure": "Noun + まみれ (になる／だ／の + Noun)",
+      "explanation": "{〜まみれ} means the whole surface is covered in something, usually dirty, sticky or liquid: {泥[どろ]まみれ} (mud), {汗[あせ]まみれ} (sweat), {血[ち]まみれ} (blood), {ほこりまみれ} (dust), {油[あぶら]まみれ} (oil). It can also be used figuratively, for things that 'stick' to you and drag you down: {借金[しゃっきん]まみれ} 'up to one's ears in debt'.\n\n**Register:** neutral and quite common in conversation, news and fiction. It's a vivid, physical word.",
+      "examples": [
+        {
+          "jp": "子[こ]どもたちは泥[どろ]まみれになって遊[あそ]んでいた。",
+          "en": "The kids were playing and getting covered in mud."
+        },
+        {
+          "jp": "真夏[まなつ]の工事[こうじ]現場[げんば]で、作業員[さぎょういん]たちは汗[あせ]まみれで働[はたら]いていた。",
+          "en": "At the construction site in midsummer, the workers were drenched in sweat."
+        },
+        {
+          "jp": "事故[じこ]現場[げんば]には、血[ち]まみれの男性[だんせい]が倒[たお]れていた。",
+          "en": "A man covered in blood was lying at the scene of the accident."
+        },
+        {
+          "jp": "事業[じぎょう]に失敗[しっぱい]した彼[かれ]は、借金[しゃっきん]まみれの生活[せいかつ]を送[おく]っている。",
+          "en": "After his business failed, he's been living up to his ears in debt."
+        }
+      ],
+      "notes": "{〜だらけ} means 'full of / lots of' and works with things that aren't spread over a surface ({間違[まちが]いだらけ}, {傷[きず]だらけ}). {まみれ} is specifically about being coated. {ほこりだらけ} and {ほこりまみれ} are both fine.",
+      "quiz": [
+        {
+          "q": "雨[あめ]の中[なか]で試合[しあい]をした選手[せんしゅ]たちは、泥[どろ]＿＿になった。",
+          "en": "The players who played in the rain ended up covered in mud.",
+          "choices": [
+            "まみれ",
+            "ずくめ",
+            "めき",
+            "ごとき"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "長年[ながねん]使[つか]われていない倉庫[そうこ]の荷物[にもつ]は、ほこり＿＿だった。",
+          "en": "The goods in the warehouse, unused for years, were covered in dust.",
+          "choices": [
+            "ずくめ",
+            "ぐるみ",
+            "じみ",
+            "まみれ"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-meku",
+      "title": "〜めく／〜めいた",
+      "meaning": "to show signs of; to seem like; -ish",
+      "structure": "Noun + めく / めいて / めいた + Noun",
+      "explanation": "{〜めく} turns a noun into a verb meaning 'to take on the feel of X'. Two typical uses:\n\n- **Seasons:** {春[はる]めく}, {秋[あき]めく} — 'to start feeling like spring/autumn'. Very common in weather reports and letters.\n- **Manner:** {冗談[じょうだん]めいた} (joking), {皮肉[ひにく]めいた} (sarcastic), {謎[なぞ]めいた} (mysterious), {言[い]い訳[わけ]めいた} (sounding like an excuse), {秘密[ひみつ]めいた} (secretive).\n\nBefore a noun it usually appears as {めいた}.\n\n**Register:** somewhat written, but common in seasonal greetings, weather, literature and descriptions. It only works with a fixed set of nouns.",
+      "examples": [
+        {
+          "jp": "三月[さんがつ]に入[はい]り、日差[ひざ]しもだいぶ春[はる]めいてきた。",
+          "en": "Now that it's March, the sunshine is starting to feel quite spring-like."
+        },
+        {
+          "jp": "彼[かれ]は冗談[じょうだん]めいた口調[くちょう]で、本音[ほんね]を漏[も]らした。",
+          "en": "In a half-joking tone, he let slip what he really thought."
+        },
+        {
+          "jp": "謎[なぞ]めいた微笑[ほほえ]みを浮[う]かべて、彼女[かのじょ]は去[さ]っていった。",
+          "en": "With an enigmatic smile, she walked away."
+        },
+        {
+          "jp": "言[い]い訳[わけ]めいたことは言[い]いたくないが、事情[じじょう]を説明[せつめい]させてほしい。",
+          "en": "I don't want to make excuses, but please let me explain the circumstances."
+        }
+      ],
+      "notes": "{めく} is fairly neutral; {じみる} (later in this unit) is critical. Compare {皮肉[ひにく]めいた} (a little sarcastic) and {子[こ]どもじみた} (childish, disapproving).",
+      "quiz": [
+        {
+          "q": "木々[きぎ]が色[いろ]づき始[はじ]め、山[やま]もすっかり秋[あき]＿＿きた。",
+          "en": "The trees have begun to change colour, and the mountains are really starting to look autumnal.",
+          "choices": [
+            "まみれて",
+            "めいて",
+            "ずくめて",
+            "ぐるみで"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "上司[じょうし]の皮肉[ひにく]＿＿言[い]い方[かた]が気[き]になった。",
+          "en": "My boss's somewhat sarcastic way of putting it bothered me.",
+          "choices": [
+            "まみれの",
+            "ずくめの",
+            "ぐるみの",
+            "めいた"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-gurumi",
+      "title": "〜ぐるみ",
+      "meaning": "the whole (family / town / company); including all of",
+      "structure": "Noun + ぐるみ (で／の + Noun)",
+      "explanation": "{〜ぐるみ} comes from {くるむ} 'to wrap up'. It means 'X as a whole, everybody in X included': {家族[かぞく]ぐるみの付[つ]き合[あ]い} 'a friendship between whole families', {町[まち]ぐるみで} 'the entire town together', {会社[かいしゃ]ぐるみの不正[ふせい]} 'company-wide wrongdoing'.\n\nThe nouns are groups: {家族[かぞく]}, {町[まち]}, {地域[ちいき]}, {学校[がっこう]}, {会社[かいしゃ]}, {組織[そしき]}. The idiom {身[み]ぐるみ剥[は]がされる} means 'to be robbed of everything (down to one's clothes)'.\n\n**Register:** neutral; common in news ({組織[そしき]ぐるみの犯行[はんこう]} 'an organised crime involving the whole group') and in everyday talk about neighbours.",
+      "examples": [
+        {
+          "jp": "うちとお隣[となり]は、家族[かぞく]ぐるみの付[つ]き合[あ]いをしている。",
+          "en": "Our family and the family next door are friends with each other."
+        },
+        {
+          "jp": "町[まち]ぐるみで、ごみの削減[さくげん]に取[と]り組[く]んでいる。",
+          "en": "The whole town is working together to reduce rubbish."
+        },
+        {
+          "jp": "今回[こんかい]の不正[ふせい]は、会社[かいしゃ]ぐるみで行[おこな]われていた疑[うたが]いがある。",
+          "en": "It is suspected that this fraud was carried out company-wide."
+        },
+        {
+          "jp": "旅行先[りょこうさき]で強盗[ごうとう]に遭[あ]い、身[み]ぐるみ剥[は]がされた。",
+          "en": "I was robbed while travelling and lost everything I had on me."
+        }
+      ],
+      "notes": "{〜ぐるみ} is different from {ぬいぐるみ} (stuffed toy) and {着[き]ぐるみ} (mascot costume), though they share the same 'wrapping' origin.",
+      "quiz": [
+        {
+          "q": "子[こ]どもの安全[あんぜん]を守[まも]るため、地域[ちいき]＿＿でパトロールを行[おこな]っている。",
+          "en": "To keep children safe, the whole community carries out patrols.",
+          "choices": [
+            "まみれ",
+            "めき",
+            "ぐるみ",
+            "ずくめ"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "警察[けいさつ]は、組織[そしき]＿＿の犯行[はんこう]と見[み]て捜査[そうさ]を進[すす]めている。",
+          "en": "The police are investigating it as a crime involving the whole organisation.",
+          "choices": [
+            "ぐるみ",
+            "ずくめ",
+            "まみれ",
+            "めく"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-jimiru",
+      "title": "〜じみる／〜じみた",
+      "meaning": "to smack of; to seem like (in a bad way); childish / theatrical etc.",
+      "structure": "Noun + じみる / じみて / じみた + Noun",
+      "explanation": "{〜じみる} means 'to take on an (unwelcome) quality of X'. It is critical: the thing isn't really X, but it looks or feels like X, and the speaker disapproves.\n\nCommon combinations: {子[こ]どもじみた} (childish), {年寄[としよ]りじみた} (fogeyish), {芝居[しばい]じみた} (theatrical, fake), {脅迫[きょうはく]じみた} (threatening), {所帯[しょたい]じみた} (looking worn down by domestic life).\n\n**Register:** neutral; used in both conversation and writing. {子[こ]どもじみた} is the one you'll hear most.",
+      "examples": [
+        {
+          "jp": "いい大人[おとな]が、そんな子[こ]どもじみたことを言[い]うな。",
+          "en": "You're a grown adult — don't say such childish things."
+        },
+        {
+          "jp": "彼[かれ]の謝罪[しゃざい]は、どこか芝居[しばい]じみていた。",
+          "en": "His apology seemed somehow staged."
+        },
+        {
+          "jp": "まだ二十代[にじゅうだい]なのに、年寄[としよ]りじみた服[ふく]ばかり着[き]ている。",
+          "en": "He's still in his twenties, but he only wears clothes that make him look like an old man."
+        },
+        {
+          "jp": "取引先[とりひきさき]から、脅迫[きょうはく]じみたメールが届[とど]いた。",
+          "en": "We received an almost threatening email from a client."
+        }
+      ],
+      "notes": "Comparison: {〜っぽい} (casual, neutral), {〜めく} (neutral, signs of), {〜じみる} (critical), {〜らしい} (typical of a real X).",
+      "quiz": [
+        {
+          "q": "三十歳[さんじゅっさい]にもなって、そんな子[こ]ども＿＿わがままを言[い]うものではない。",
+          "en": "At thirty, you shouldn't be making such childish demands.",
+          "choices": [
+            "じみた",
+            "ずくめの",
+            "まみれの",
+            "ぐるみの"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "彼[かれ]の大[おお]げさな涙[なみだ]は、芝居[しばい]＿＿いて信用[しんよう]できない。",
+          "en": "His exaggerated tears seem theatrical, and I can't believe them.",
+          "choices": [
+            "まみれて",
+            "ずくめて",
+            "ぐるみて",
+            "じみて"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-gotoki",
+      "title": "〜ごとき (the likes of)",
+      "meaning": "the likes of; a mere (humble or contemptuous)",
+      "structure": "Noun + ごとき (が／に／で) / Noun + ごとき + Noun",
+      "explanation": "{ごとき} originally means 'like, similar to' (see {ごとし} in Unit 14). After a person or thing, it has a strong evaluative meaning: 'the likes of X, a mere X'.\n\n- **Humble (about yourself):** {私[わたし]ごとき} 'someone like me' — modest, very polite.\n- **Contemptuous (about others):** {お前[まえ]ごとき} 'the likes of you', {新人[しんじん]ごときが} 'a mere newcomer'.\n- **Dismissive (about things):** {風邪[かぜ]ごときで休[やす]めない} 'can't take time off for a mere cold'.\n\n**Register:** literary and dramatic. The humble use appears in formal speech; the contemptuous use is common in manga, anime and dramas (villains love it). Be very careful using it about others in real life — it's insulting.",
+      "examples": [
+        {
+          "jp": "私[わたし]ごとき者[もの]に、このような大役[たいやく]が務[つと]まるでしょうか。",
+          "en": "Could someone like me really fulfil such an important role?"
+        },
+        {
+          "jp": "風邪[かぜ]ごときで会社[かいしゃ]を休[やす]むわけにはいかない。",
+          "en": "I can't take a day off work for a mere cold."
+        },
+        {
+          "jp": "お前[まえ]ごときに負[ま]けるはずがない。",
+          "en": "There's no way I'd lose to the likes of you."
+        },
+        {
+          "jp": "新人[しんじん]ごときが、社長[しゃちょう]に意見[いけん]するなんて生意気[なまいき]だ。",
+          "en": "It's cheeky for a mere newcomer to voice opinions to the president."
+        }
+      ],
+      "notes": "A softer, more common equivalent is {〜なんか／〜なんて} ({私[わたし]なんか}). {ごとき} sounds far more dramatic.",
+      "quiz": [
+        {
+          "q": "私[わたし]＿＿の意見[いけん]が参考[さんこう]になるかどうか分[わ]かりませんが…。",
+          "en": "I'm not sure the opinion of someone like me will be of any use, but...",
+          "choices": [
+            "ずくめ",
+            "ごとき",
+            "たる",
+            "まみれ"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "こんな小[ちい]さなけが＿＿で、試合[しあい]を休[やす]むわけにはいかない。",
+          "en": "I can't miss the match over such a minor injury.",
+          "choices": [
+            "ずくめ",
+            "ぐるみ",
+            "めき",
+            "ごとき"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

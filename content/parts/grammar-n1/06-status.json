@@ -1,0 +1,357 @@
+{
+  "id": "n1-u06",
+  "title": "Special circumstances and status",
+  "summary": "Patterns that point to a special situation or rank and what follows from it: {とあって}, {ともなると}, {ならでは}, {たる}, {にあって}, {にして}, and the size-emphasiser {からある}.",
+  "points": [
+    {
+      "id": "n1-to-atte",
+      "title": "〜とあって",
+      "meaning": "because it is (a special occasion), (naturally)",
+      "structure": "Noun / plain form + とあって",
+      "explanation": "{X とあって Y} reports a real situation X that is special or unusual, and a result Y that follows naturally from it. 'Because it was a public holiday, the tourist spots were packed.' 'Because a famous singer was coming, people queued from the morning.'\n\nThe speaker observes the result from the outside, so Y is a description of what happened — not the speaker's will, a request or a command.\n\n**Register:** a staple of news reports and written description ({〜とあって、多[おお]くの人[ひと]でにぎわった} is practically a TV news template). Not common in casual speech, where people say {〜だから}.",
+      "examples": [
+        {
+          "jp": "連休[れんきゅう]とあって、観光地[かんこうち]はどこも人[ひと]でいっぱいだった。",
+          "en": "Since it was a long weekend, tourist spots everywhere were packed."
+        },
+        {
+          "jp": "初[はじ]めての海外[かいがい]旅行[りょこう]とあって、娘[むすめ]は前[まえ]の晩[ばん]からそわそわしていた。",
+          "en": "It was her first trip abroad, so my daughter was restless from the night before."
+        },
+        {
+          "jp": "人気[にんき]歌手[かしゅ]が来[く]るとあって、会場[かいじょう]には朝[あさ]から長[なが]い列[れつ]ができた。",
+          "en": "Because a popular singer was coming, a long queue formed at the venue from the morning."
+        },
+        {
+          "jp": "年末[ねんまつ]のセールとあって、デパートは買[か]い物客[ものきゃく]でにぎわっている。",
+          "en": "With the year-end sales on, the department stores are bustling with shoppers."
+        }
+      ],
+      "notes": "{とあって} = real, special circumstance → natural result. {とあれば} (Unit 4) = hypothetical 'if it's for X, I'd do anything'.",
+      "quiz": [
+        {
+          "q": "久[ひさ]しぶりの晴天[せいてん]の週末[しゅうまつ]＿＿、公園[こうえん]は家族[かぞく]連[づ]れでにぎわった。",
+          "en": "As it was the first sunny weekend in a while, the park was bustling with families.",
+          "choices": [
+            "とあって",
+            "とあれば",
+            "といえども",
+            "と思[おも]いきや"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "有名[ゆうめい]な監督[かんとく]の最新作[さいしんさく]＿＿、公開[こうかい]初日[しょにち]から映画館[えいがかん]は満員[まんいん]だった。",
+          "en": "Since it was a famous director's latest film, cinemas were full from the opening day.",
+          "choices": [
+            "とばかりに",
+            "ときたら",
+            "とあって",
+            "ともなく"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-tomo-naru-to",
+      "title": "〜ともなると／〜ともなれば",
+      "meaning": "when it comes to (a higher level / special stage), naturally ...",
+      "structure": "Noun / Verb (dictionary form) + ともなると / ともなれば",
+      "explanation": "{〜ともなると} means 'once you reach the level / stage of X, things are (naturally) different'. X is usually a higher position, age, season or scale: {大学生[だいがくせい]ともなると}, {社長[しゃちょう]ともなれば}, {十二月[じゅうにがつ]ともなると}, {一流[いちりゅう]ホテルともなると}.\n\nThe second half describes what is normal or expected at that level, often with {〜なければならない}, {〜だろう} or a description of a change.\n\n**Register:** neutral-formal; quite common in both speech and writing. Very similar to {〜となると}, with {も} adding emphasis that X is a step up.",
+      "examples": [
+        {
+          "jp": "十二月[じゅうにがつ]ともなると、街[まち]はクリスマスの飾[かざ]りでいっぱいになる。",
+          "en": "Once December comes, the streets fill with Christmas decorations."
+        },
+        {
+          "jp": "大学生[だいがくせい]ともなると、自分[じぶん]のことは自分[じぶん]で決[き]めなければならない。",
+          "en": "Once you're a university student, you have to make your own decisions."
+        },
+        {
+          "jp": "社長[しゃちょう]ともなれば、休日[きゅうじつ]もゆっくり休[やす]めないだろう。",
+          "en": "When you're the company president, you probably can't relax even on your days off."
+        },
+        {
+          "jp": "一流[いちりゅう]のホテルともなると、サービスの質[しつ]がまるで違[ちが]う。",
+          "en": "When it comes to a top-class hotel, the quality of service is completely different."
+        }
+      ],
+      "notes": "Unlike {とあって}, which refers to one specific event, {ともなると} talks about what is generally true at a certain level.",
+      "quiz": [
+        {
+          "q": "子[こ]どもも中学生[ちゅうがくせい]＿＿、親[おや]と出[で]かけたがらなくなる。",
+          "en": "Once children reach middle school, they stop wanting to go out with their parents.",
+          "choices": [
+            "とあれば",
+            "といえども",
+            "とはいえ",
+            "ともなると"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "プロの選手[せんしゅ]とも＿＿、毎日[まいにち]の練習量[れんしゅうりょう]は相当[そうとう]なものだ。",
+          "en": "When it comes to professional athletes, the amount they train each day is considerable.",
+          "choices": [
+            "なれば",
+            "いえば",
+            "すれば",
+            "なって"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-naradewa",
+      "title": "〜ならでは",
+      "meaning": "unique to; only X could (do / have) this",
+      "structure": "Noun + ならではの + Noun / Noun + ならではだ",
+      "explanation": "{X ならではの Y} means 'Y that only X has / only X can offer'. It praises something as characteristic of, and special to, a particular place, person or thing: {京都[きょうと]ならではの風情[ふぜい]} 'atmosphere you can only find in Kyoto', {手作[てづく]りならではの温[あたた]かみ} 'the warmth only handmade things have'.\n\nIt's almost always positive and evaluative.\n\n**Register:** this is one of the most useful N1 points in daily life. It is everywhere in advertising, travel guides, menus, TV food shows and reviews. You'll hear it and can use it in conversation too.",
+      "examples": [
+        {
+          "jp": "京都[きょうと]ならではの風情[ふぜい]を楽[たの]しんでください。",
+          "en": "Please enjoy the atmosphere that only Kyoto can offer."
+        },
+        {
+          "jp": "手作[てづく]りならではの温[あたた]かみがある。",
+          "en": "It has a warmth that only comes with handmade things."
+        },
+        {
+          "jp": "子[こ]どもならではの自由[じゆう]な発想[はっそう]に驚[おどろ]かされた。",
+          "en": "I was amazed by the free-spirited ideas that only a child could come up with."
+        },
+        {
+          "jp": "このような繊細[せんさい]な表現[ひょうげん]は、ベテラン俳優[はいゆう]ならではだ。",
+          "en": "Such subtle expression is something only a veteran actor could achieve."
+        }
+      ],
+      "notes": "An older pattern, {X ならでは Y ない} 'only X could do Y', also exists ({彼[かれ]ならではできない仕事[しごと]}), but {ならではの} is by far the most common form today.",
+      "quiz": [
+        {
+          "q": "雪[ゆき]の中[なか]の露天[ろてん]風呂[ぶろ]は、冬[ふゆ]の北海道[ほっかいどう]＿＿体験[たいけん]だ。",
+          "en": "An outdoor hot spring in the snow is an experience unique to Hokkaido in winter.",
+          "choices": [
+            "なりの",
+            "ならではの",
+            "ごときの",
+            "ずくめの"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "この細[こま]かい手仕事[てしごと]は、熟練[じゅくれん]した職人[しょくにん]＿＿だ。",
+          "en": "Only a skilled craftsman could do such fine handiwork.",
+          "choices": [
+            "ならず",
+            "なくして",
+            "ならでは",
+            "ながら"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-taru",
+      "title": "〜たる",
+      "meaning": "as one who is (X), (one should); worthy of the name X",
+      "structure": "Noun (role / status) + たる + 者[もの]／もの／Noun",
+      "explanation": "{たる} is a classical form of {である} used before a noun. {X たる者[もの]} means 'anyone who is an X (worthy of the name)'. It sets up a moral standard: because you hold this role, you must behave accordingly.\n\nThe nouns are roles with responsibility: {教師[きょうし]}, {医者[いしゃ]}, {政治家[せいじか]}, {首相[しゅしょう]}, {社会人[しゃかいじん]}, {リーダー}. The second half is usually {〜べきだ}, {〜なければならない} or a criticism ({〜とは情[なさ]けない}).\n\n**Register:** formal, slightly old-fashioned and preachy. Common in editorials, speeches and in older people's lectures. {社会人[しゃかいじん]たるもの} is a well-known phrase in company training.",
+      "examples": [
+        {
+          "jp": "社会人[しゃかいじん]たるもの、時間[じかん]を守[まも]るのは当然[とうぜん]だ。",
+          "en": "As a working adult, it's only natural to be punctual."
+        },
+        {
+          "jp": "教師[きょうし]たる者[もの]、生徒[せいと]の手本[てほん]とならなければならない。",
+          "en": "Anyone who is a teacher must set an example for their students."
+        },
+        {
+          "jp": "彼[かれ]には、リーダーたる資格[しかく]がない。",
+          "en": "He doesn't have what it takes to be a true leader."
+        },
+        {
+          "jp": "一国[いっこく]の首相[しゅしょう]たる者[もの]が、軽率[けいそつ]な発言[はつげん]をするべきではない。",
+          "en": "A person who is a nation's prime minister should not make careless remarks."
+        }
+      ],
+      "notes": "The opposite moral judgement — behaviour unworthy of a role — uses {〜にあるまじき} (Unit 13).",
+      "quiz": [
+        {
+          "q": "医者[いしゃ]＿＿者[もの]、患者[かんじゃ]の命[いのち]を第一[だいいち]に考[かんが]えるべきだ。",
+          "en": "Anyone who is a doctor should put patients' lives first.",
+          "choices": [
+            "たる",
+            "まじき",
+            "めく",
+            "ごとき"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "社会人[しゃかいじん]たる＿＿、言葉[ことば]遣[づか]いには気[き]をつけなければならない。",
+          "en": "As a working adult, you must be careful about how you speak.",
+          "choices": [
+            "こと",
+            "ところ",
+            "わけ",
+            "もの"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-ni-atte",
+      "title": "〜にあって",
+      "meaning": "in (a situation / position / era)",
+      "structure": "Noun + にあって(は／も)",
+      "explanation": "{〜にあって} is a formal way of saying 'in (this situation)', literally 'being in X'. X is a special circumstance, position or era: {厳[きび]しい状況[じょうきょう]にあって}, {部長[ぶちょう]という立場[たちば]にあって}, {現代[げんだい]にあって}.\n\n- {〜にあっては} — 'in X, (as you'd expect)...'\n- {〜にあっても} — 'even in X, (surprisingly)...'\n\n**Register:** formal and written — news analysis, speeches, business reports, essays. You'll rarely hear it in casual speech, where {〜の中[なか]で} or {〜で} is used.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は病床[びょうしょう]にあっても、最後[さいご]まで執筆[しっぴつ]を続[つづ]けた。",
+          "en": "Even from his sickbed, he kept on writing until the end."
+        },
+        {
+          "jp": "部長[ぶちょう]という立場[たちば]にあって、そのような発言[はつげん]は許[ゆる]されない。",
+          "en": "In your position as department head, such remarks are unacceptable."
+        },
+        {
+          "jp": "厳[きび]しい経済[けいざい]状況[じょうきょう]にあって、同社[どうしゃ]は過去[かこ]最高[さいこう]の利益[りえき]を上[あ]げた。",
+          "en": "Despite the harsh economic conditions, the company posted record profits."
+        },
+        {
+          "jp": "情報[じょうほう]があふれる現代[げんだい]にあって、何[なに]を信[しん]じるかが問[と]われている。",
+          "en": "In this modern age flooded with information, we are being challenged to decide what to believe."
+        }
+      ],
+      "notes": "Compare {〜において}, which is the more neutral formal 'in/at' ({会議[かいぎ]において}). {〜にあって} emphasises that the situation is special.",
+      "quiz": [
+        {
+          "q": "少子[しょうし]高齢化[こうれいか]が進[すす]む日本[にほん]＿＿、外国人[がいこくじん]労働者[ろうどうしゃ]の役割[やくわり]はますます大[おお]きくなっている。",
+          "en": "In Japan, with its ageing population and falling birth rate, the role of foreign workers is becoming ever more important.",
+          "choices": [
+            "にかこつけて",
+            "にひきかえ",
+            "にあって",
+            "にたえて"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "彼女[かのじょ]は逆境[ぎゃっきょう]＿＿も、決[けっ]して希望[きぼう]を失[うしな]わなかった。",
+          "en": "Even in adversity, she never lost hope.",
+          "choices": [
+            "にあって",
+            "に足[た]りて",
+            "に即[そく]して",
+            "に至[いた]って"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-ni-shite",
+      "title": "〜にして",
+      "meaning": "(1) only at the level of X; (2) at (the age / time of) X; (3) both X and Y",
+      "structure": "Noun + にして",
+      "explanation": "{〜にして} is a versatile formal particle. Its main uses:\n\n**1. Level reached:** {X にして初[はじ]めて} 'only someone at level X could' — {名医[めいい]にして初[はじ]めて可能[かのう]な手術[しゅじゅつ]}.\n\n**2. Point in time / age:** 'at (only) X' or 'after as long as X', often with {ようやく} or a note of surprise: {三十歳[さんじゅっさい]にして社長[しゃちょう]になった}, {結婚[けっこん]十年目[じゅうねんめ]にして}.\n\n**3. Instantly:** {一瞬[いっしゅん]にして}, {一夜[いちや]にして} 'in an instant, overnight'.\n\n**4. 'Both X and Y':** {医者[いしゃ]にして作家[さっか]} 'a doctor and also a writer'.\n\n**Register:** written and formal; news, biographies, literature. Use 3 is common everywhere.",
+      "examples": [
+        {
+          "jp": "一瞬[いっしゅん]にして、すべてが炎[ほのお]に包[つつ]まれた。",
+          "en": "In an instant, everything was engulfed in flames."
+        },
+        {
+          "jp": "彼[かれ]は三十歳[さんじゅっさい]にして、会社[かいしゃ]の社長[しゃちょう]になった。",
+          "en": "He became company president at just thirty."
+        },
+        {
+          "jp": "結婚[けっこん]十年目[じゅうねんめ]にして、ようやく子[こ]どもを授[さず]かった。",
+          "en": "After ten years of marriage, they were finally blessed with a child."
+        },
+        {
+          "jp": "この難[むずか]しい手術[しゅじゅつ]は、彼[かれ]ほどの名医[めいい]にして初[はじ]めて可能[かのう]だ。",
+          "en": "Only a doctor as skilled as he is could perform this difficult operation."
+        }
+      ],
+      "notes": "Learn the set phrases first: {一瞬[いっしゅん]にして}, {一夜[いちや]にして}, {〜にして初[はじ]めて}. Not to be confused with {〜にしては} 'for (a beginner etc.), surprisingly'.",
+      "quiz": [
+        {
+          "q": "五度目[ごどめ]の挑戦[ちょうせん]＿＿、ついに司法[しほう]試験[しけん]に合格[ごうかく]した。",
+          "en": "On his fifth attempt, he finally passed the bar exam.",
+          "choices": [
+            "にかこつけて",
+            "にして",
+            "にもまして",
+            "をよそに"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "地震[じしん]で、町[まち]は一瞬[いっしゅん]＿＿瓦礫[がれき]の山[やま]と化[か]した。",
+          "en": "In the earthquake, the town was reduced to rubble in an instant.",
+          "choices": [
+            "にあって",
+            "にとって",
+            "にわたって",
+            "にして"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-kara-aru",
+      "title": "〜からある／〜からの",
+      "meaning": "as much as; no less than; a good (X) or more",
+      "structure": "Number + counter + からある (size, weight, length) / からする (price) / からの (number of people/things) + Noun",
+      "explanation": "{〜からある} follows a large quantity to stress how big it is: 'no less than X, possibly more'. The speaker is impressed or surprised by the amount.\n\n- {からある} — size, weight, distance: {百[ひゃく]キロからある荷物[にもつ]}\n- {からする} — price: {一千万円[いっせんまんえん]からする指輪[ゆびわ]}\n- {からの} — number of people or things: {千人[せんにん]からの乗客[じょうきゃく]}\n\n**Register:** written, and a bit old-fashioned; you'll see it in novels, news and essays. In conversation, {〜もある} ({二十[にじゅっ]キロもある}) is the normal way to say this.",
+      "examples": [
+        {
+          "jp": "二十[にじゅっ]キロからある道[みち]を歩[ある]いて帰[かえ]った。",
+          "en": "I walked all the way home — a good twenty kilometres."
+        },
+        {
+          "jp": "彼[かれ]は百[ひゃく]キロからある荷物[にもつ]を一人[ひとり]で運[はこ]んだ。",
+          "en": "He carried a load weighing no less than a hundred kilos by himself."
+        },
+        {
+          "jp": "その事故[じこ]で、千人[せんにん]からの乗客[じょうきゃく]が足止[あしど]めされた。",
+          "en": "As many as a thousand passengers were stranded because of the accident."
+        },
+        {
+          "jp": "彼女[かのじょ]がつけていたのは、一千万円[いっせんまんえん]からする指輪[ゆびわ]だった。",
+          "en": "The ring she was wearing cost no less than ten million yen."
+        }
+      ],
+      "notes": "Only with large, impressive numbers — {✕一[いち]キロからある} sounds wrong.",
+      "quiz": [
+        {
+          "q": "その男[おとこ]は、二[に]メートル＿＿大[おお]きな魚[さかな]を釣[つ]り上[あ]げた。",
+          "en": "The man landed a huge fish no less than two metres long.",
+          "choices": [
+            "からして",
+            "からといって",
+            "からある",
+            "からには"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "会場[かいじょう]の前[まえ]には、五千人[ごせんにん]＿＿ファンが詰[つ]めかけた。",
+          "en": "As many as five thousand fans crowded in front of the venue.",
+          "choices": [
+            "からの",
+            "からして",
+            "ほどには",
+            "くらいで"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

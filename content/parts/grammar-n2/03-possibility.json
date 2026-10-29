@@ -1,0 +1,114 @@
+{
+  "id": "n2-u03",
+  "title": "Possibility, risk, and difficulty",
+  "summary": "Verb-stem endings that say whether something can happen ({得[う]る}), might go wrong ({おそれがある}, {かねない}), is hard to accept ({がたい}), is politely refused ({かねる}), or is simply impossible ({っこない}).",
+  "points": [
+    {
+      "id": "n2-uru",
+      "title": "〜得[う]る / 〜得[え]ない",
+      "meaning": "can (possibly) happen / cannot possibly",
+      "structure": "V-ます stem + 得[う]る（得[え]る）／ 得[え]ない",
+      "explanation": "{得[う]る} means \"to be possible\" in the sense of **likelihood**, not personal skill. {起[お]こり得[う]る} = \"could happen\", {考[かんが]え得[う]る} = \"conceivable\". The negative {得[え]ない} means \"cannot possibly\".\n\nThe dictionary form can be read {うる} or {える}; {うる} sounds more formal and written. All other forms use {え}: {得[え]ます}, {得[え]ない}, {得[え]た}.\n\nThe most frequent word by far is {あり得[う]る} / {あり得[え]ない}. In casual speech, young people use {ありえない！} to mean \"No way! / Unbelievable!\".",
+      "examples": [
+        { "jp": "それは十分[じゅうぶん]あり得[う]る話[はなし]だ。", "en": "That's an entirely plausible story." },
+        { "jp": "大[おお]きな地震[じしん]は、いつでも起[お]こり得[う]る。", "en": "A major earthquake could happen at any time." },
+        { "jp": "考[かんが]え得[う]る限[かぎ]りの方法[ほうほう]を試[ため]した。", "en": "We tried every method we could think of." },
+        { "jp": "この問題[もんだい]は、一社[いっしゃ]だけでは解決[かいけつ]し得[え]ない。", "en": "This problem cannot be solved by one company alone." }
+      ],
+      "notes": "Not for ability: ✗ {私[わたし]は泳[およ]ぎ得[う]る}. Use {泳[およ]げる} for \"I can swim\".",
+      "quiz": [
+        { "q": "このような事故[じこ]は、どの工場[こうじょう]でも起[お]こり＿＿。", "en": "An accident like this could happen at any factory.", "choices": ["かねる", "得[う]る", "がたい", "きる"], "answer": 1 },
+        { "q": "彼女[かのじょ]が嘘[うそ]をつくなんて、あり＿＿。", "en": "There's no way she would lie.", "choices": ["得[う]る", "かねる", "得[え]ない", "きれない"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-osoregaaru",
+      "title": "〜おそれがある",
+      "meaning": "there is a risk / danger that",
+      "structure": "V-dictionary + おそれがある　／　Noun + のおそれがある",
+      "explanation": "{おそれ} (written {恐[おそ]れ} or {虞[おそれ]}) means \"fear, danger\". {〜おそれがある} warns that something **bad** might happen. It is objective and formal, so it is the standard expression in weather reports, safety warnings, medicine labels and news.\n\nIt is never used for good possibilities. For a neutral \"might\", use {〜かもしれない} or {〜可能性[かのうせい]がある}.\n\nThe polite form {〜おそれがあります} is standard in announcements. Earthquake bulletins use a related phrase for the opposite case: {津波[つなみ]の心配[しんぱい]はありません} (\"there is no danger of a tsunami\").",
+      "examples": [
+        { "jp": "台風[たいふう]の影響[えいきょう]で、明日[あした]は大雨[おおあめ]になるおそれがあります。", "en": "Due to the typhoon, there is a risk of heavy rain tomorrow." },
+        { "jp": "この薬[くすり]は眠[ねむ]くなるおそれがあるので、運転[うんてん]の前[まえ]には飲[の]まないでください。", "en": "This medicine may cause drowsiness, so do not take it before driving." },
+        { "jp": "津波[つなみ]のおそれがあるため、海岸[かいがん]から離[はな]れてください。", "en": "Because of the risk of a tsunami, please move away from the coast." },
+        { "jp": "このままでは、顧客[こきゃく]の情報[じょうほう]が外部[がいぶ]に漏[も]れるおそれがある。", "en": "If things continue like this, customer information could leak outside the company." }
+      ],
+      "quiz": [
+        { "q": "大雨[おおあめ]により、今夜[こんや]川[かわ]が氾濫[はんらん]する＿＿があります。", "en": "Due to the heavy rain, there is a risk the river will flood tonight.", "choices": ["ばかり", "どころ", "おそれ", "ほか"], "answer": 2 },
+        { "q": "この製品[せいひん]は、使[つか]い方[かた]によっては火災[かさい]につながる＿＿があります。", "en": "Depending on how it is used, this product could cause a fire.", "choices": ["おそれ", "ばかり", "ほど", "まま"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-kanenai",
+      "title": "〜かねない",
+      "meaning": "might well (do something bad); could end up",
+      "structure": "V-ます stem + かねない",
+      "explanation": "Despite the {ない}, {かねない} is **not** negative in meaning. It says \"there's a real chance this bad thing will happen\". It reflects the speaker's own worry or criticism, so it is more subjective than {おそれがある}.\n\nTypical uses: warning someone ({事故[じこ]を起[お]こしかねない}), pointing out risks at work ({問題[もんだい]になりかねない}), or saying a person is capable of doing something bad ({あの人[ひと]なら言[い]いかねない}).\n\nIt is used in both speech and writing; the polite form is {かねません}.",
+      "examples": [
+        { "jp": "そんな運転[うんてん]をしていたら、事故[じこ]を起[お]こしかねないよ。", "en": "If you drive like that, you could well cause an accident." },
+        { "jp": "睡眠不足[すいみんぶそく]が続[つづ]くと、体[からだ]を壊[こわ]しかねません。", "en": "If your lack of sleep continues, you may end up ruining your health." },
+        { "jp": "小[ちい]さなミスが、大[おお]きな問題[もんだい]につながりかねない。", "en": "A small mistake could lead to a big problem." },
+        { "jp": "あの人[ひと]なら、そのくらいのことは言[い]いかねない。", "en": "He's just the kind of person who might say something like that." }
+      ],
+      "notes": "{おそれがある}: objective warning (news, labels). {かねない}: the speaker's own concern. Neither is used for good outcomes.",
+      "quiz": [
+        { "q": "このままでは、締[し]め切[き]りに間[ま]に合[あ]わなくなり＿＿。", "en": "At this rate, we could end up missing the deadline.", "choices": ["かねる", "かねない", "得[え]ない", "がたい"], "answer": 1 },
+        { "q": "彼[かれ]の不用意[ふようい]な発言[はつげん]は、誤解[ごかい]を招[まね]き＿＿。", "en": "His careless remark could well cause misunderstandings.", "choices": ["かねる", "がたい", "きれない", "かねない"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-kaneru",
+      "title": "〜かねる",
+      "meaning": "cannot (politely); be unable to bring oneself to",
+      "structure": "V-ます stem + かねる / かねます",
+      "explanation": "{かねる} means \"I find it hard to / I'm not in a position to\". In practice it is a **polite refusal**, and it is everywhere in Japanese customer service and business:\n- {わかりかねます} \"I'm afraid I can't say\"\n- {お答[こた]えしかねます} \"I'm unable to answer\"\n- {いたしかねます} \"We are unable to do that\"\n\nIt sounds softer than {できません} because it suggests the speaker would like to help but can't. Outside of business it can express personal reluctance: {賛成[さんせい]しかねる} (\"I can't quite agree\").\n\nDon't confuse it with {かねない} (\"might well\"), which looks negative but isn't.",
+      "examples": [
+        { "jp": "申[もう]し訳[わけ]ございませんが、そのご質問[しつもん]にはお答[こた]えしかねます。", "en": "I'm very sorry, but I'm unable to answer that question." },
+        { "jp": "個人情報[こじんじょうほう]に関[かん]することは、お教[おし]えいたしかねます。", "en": "We are unable to disclose anything relating to personal information." },
+        { "jp": "私[わたし]の一存[いちぞん]では決[き]めかねますので、上司[じょうし]に確認[かくにん]いたします。", "en": "I can't decide that on my own, so I'll check with my manager." },
+        { "jp": "正直[しょうじき]に言[い]うと、彼[かれ]の意見[いけん]には賛成[さんせい]しかねる。", "en": "To be honest, I can't quite agree with his opinion." },
+        { "jp": "困[こま]っている様子[ようす]を見[み]るに見[み]かねて、手伝[てつだ]うことにした。", "en": "I couldn't bear to just stand by and watch them struggle, so I decided to help." }
+      ],
+      "notes": "Remember: {かねる} = can't (polite refusal); {かねない} = might (bad thing). The idiom {見[み]るに見[み]かねて} means \"unable to stand by and watch\".",
+      "quiz": [
+        { "q": "申[もう]し訳[わけ]ございませんが、返品[へんぴん]はお受[う]けいたし＿＿。", "en": "We're very sorry, but we are unable to accept returns.", "choices": ["かねません", "得[え]ます", "かねます", "がちです"], "answer": 2 },
+        { "q": "その件[けん]については、私[わたし]には判断[はんだん]し＿＿ので、担当者[たんとうしゃ]におつなぎします。", "en": "I'm not able to make a judgment on that matter, so I'll put you through to the person in charge.", "choices": ["かねます", "かねません", "きれます", "つつあります"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-gatai",
+      "title": "〜がたい",
+      "meaning": "hard to (accept, believe, forgive...)",
+      "structure": "V-ます stem + がたい",
+      "explanation": "{がたい} (from {難[かた]い}, \"difficult\") means that something is hard to do because of **inner resistance**: you can't bring yourself to believe it, forgive it or forget it. Common combinations: {信[しん]じがたい}, {許[ゆる]しがたい}, {理解[りかい]しがたい}, {忘[わす]れがたい}, {耐[た]えがたい}, {得[え]がたい} (precious, hard to come by).\n\nIt is formal and somewhat literary. You will see it in news commentary, essays and speeches.\n\nFor **physical or practical** difficulty, use {〜にくい} instead: {この靴[くつ]は歩[ある]きにくい}.",
+      "examples": [
+        { "jp": "彼[かれ]がそんなことをしたとは、信[しん]じがたい。", "en": "It's hard to believe that he did such a thing." },
+        { "jp": "子[こ]どもを狙[ねら]った犯罪[はんざい]は、許[ゆる]しがたい。", "en": "Crimes targeting children are unforgivable." },
+        { "jp": "留学中[りゅうがくちゅう]の一年[いちねん]は、忘[わす]れがたい思[おも]い出[で]になった。", "en": "My year studying abroad became an unforgettable memory." },
+        { "jp": "あのチームで働[はたら]けたことは、得[え]がたい経験[けいけん]だった。", "en": "Being able to work on that team was an invaluable experience." }
+      ],
+      "notes": "{にくい} = hard for practical reasons (the pen is hard to write with). {がたい} = hard to accept emotionally or morally. {ありがたい} (\"grateful\") originally meant \"rare, hard to exist\".",
+      "quiz": [
+        { "q": "毎日[まいにち]一緒[いっしょ]に働[はたら]いていた彼[かれ]が会社[かいしゃ]のお金[かね]を盗[ぬす]んだなんて、信[しん]じ＿＿。", "en": "It's hard to believe that he, who worked with us every day, stole company money.", "choices": ["かねない", "得[う]る", "がたい", "っぽい"], "answer": 2 },
+        { "q": "この靴[くつ]は重[おも]くて歩[ある]き＿＿。", "en": "These shoes are heavy and hard to walk in.", "choices": ["にくい", "がたい", "かねない", "得[え]ない"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-kkonai",
+      "title": "〜っこない",
+      "meaning": "no way; there's no chance that",
+      "structure": "V-ます stem + っこない",
+      "explanation": "{っこない} is a strong, casual denial: \"there's no way that will happen\". Common combinations are {できっこない}, {わかりっこない}, {勝[か]てっこない}, {間[ま]に合[あ]いっこない}, {ばれっこない}.\n\nIt is **spoken and informal**, used with friends and family. In writing or polite speech, use {〜はずがない}, {〜わけがない} or {〜得[え]ない} instead.\n\nIt attaches to the verb stem, so it is {わかりっこない}, not ✗ {わからっこない}.",
+      "examples": [
+        { "jp": "こんな難[むずか]しい問題[もんだい]、子[こ]どもにわかりっこないよ。", "en": "There's no way a kid could understand a problem this hard." },
+        { "jp": "一日[いちにち]で全部[ぜんぶ]覚[おぼ]えるなんて、できっこない。", "en": "Memorising all of it in one day? No way." },
+        { "jp": "黙[だま]っていれば、ばれっこないよ。", "en": "If you keep quiet, there's no way anyone will find out." },
+        { "jp": "あのチームに勝[か]てっこないってみんな言[い]うけど、やってみなきゃわからない。", "en": "Everyone says there's no way we can beat that team, but you never know until you try." }
+      ],
+      "quiz": [
+        { "q": "宝[たから]くじなんて、当[あ]たり＿＿よ。", "en": "There's no way you'll win the lottery.", "choices": ["かねない", "っこない", "がたい", "きる"], "answer": 1 },
+        { "q": "三十分[さんじゅっぷん]でレポートを書[か]くなんて、＿＿。", "en": "Write a report in thirty minutes? There's no way I can do that.", "choices": ["できかねない", "でき得[う]る", "できがたい", "できっこない"], "answer": 3 }
+      ]
+    }
+  ]
+}

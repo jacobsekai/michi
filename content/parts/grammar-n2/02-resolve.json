@@ -1,0 +1,115 @@
+{
+  "id": "n2-u02",
+  "title": "Now that..., just because..., unless...",
+  "summary": "Premises that lead to a decision ({からには}, {以上[いじょう]}, {うえは}), premises that don't guarantee a result ({からといって}), and conditions with negatives ({ないことには}, {ないことはない}).",
+  "points": [
+    {
+      "id": "n2-karaniwa",
+      "title": "〜からには",
+      "meaning": "now that; since (I've done X, I must / will)",
+      "structure": "Plain form + からには　／　Noun + である + からには",
+      "explanation": "{からには} takes a fact or decision (\"now that I've accepted the job\", \"since we're entering the race\") and says what naturally follows from it. The second half expresses the speaker's **resolve, duty, wish or advice**: {〜つもりだ}, {〜たい}, {〜なければならない}, {〜べきだ}, {〜よう}.\n\nThe idea is \"having come this far, I should go all the way\". It is common in speech and in fairly formal writing alike.\n\nThe first half is usually a past action (the {た} form) or a firm plan (dictionary form).",
+      "examples": [
+        { "jp": "約束[やくそく]したからには、守[まも]らなければならない。", "en": "Now that I've promised, I have to keep it." },
+        { "jp": "日本[にほん]に来[き]たからには、日本語[にほんご]が話[はな]せるようになりたい。", "en": "Since I've come to Japan, I want to become able to speak Japanese." },
+        { "jp": "試合[しあい]に出[で]るからには、優勝[ゆうしょう]を目指[めざ]そう。", "en": "If we're going to compete, let's aim to win." },
+        { "jp": "引[ひ]き受[う]けたからには、最後[さいご]まで責任[せきにん]を持[も]ってやります。", "en": "Now that I've taken it on, I'll see it through responsibly to the end." }
+      ],
+      "notes": "The second half must be a judgment or intention, not a simple description. ✗ {日本[にほん]に来[き]たからには、雨[あめ]が多[おお]い}.",
+      "quiz": [
+        { "q": "社長[しゃちょう]に任[まか]された＿＿、絶対[ぜったい]にこのプロジェクトを成功[せいこう]させたい。", "en": "Now that the president has entrusted it to me, I absolutely want to make this project succeed.", "choices": ["からには", "からといって", "ばかりに", "せいか"], "answer": 0 },
+        { "q": "留学[りゅうがく]する＿＿、現地[げんち]の友達[ともだち]をたくさん作[つく]るつもりだ。", "en": "Since I'm going to study abroad, I intend to make lots of local friends.", "choices": ["ものの", "わりに", "からには", "だけに"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-ijouwa",
+      "title": "〜以上[いじょう]（は）",
+      "meaning": "since; as long as; given that",
+      "structure": "Plain form + 以上[いじょう]（は）　／　Noun + である + 以上[いじょう]（は）",
+      "explanation": "Outside of numbers, {以上[いじょう]} works like {からには}: given this fact, a certain conclusion, duty or decision follows. The tone is more **objective and logical**, so it is common in rules, contracts, business and formal arguments.\n\nUnlike {からには}, it sits comfortably with a negative premise used as a logical basis: {証拠[しょうこ]がない以上[いじょう]} (\"as long as there is no evidence\"). Adding {は} gives slightly more emphasis.\n\nThe second half is a conclusion such as {〜べきだ}, {〜しかない}, {〜わけにはいかない}, {〜てもらいます}.",
+      "examples": [
+        { "jp": "学生[がくせい]である以上[いじょう]、勉強[べんきょう]が第一[だいいち]だ。", "en": "As long as you're a student, studying comes first." },
+        { "jp": "契約[けいやく]を結[むす]んだ以上[いじょう]、期限[きげん]は守[まも]っていただきます。", "en": "Since you have signed the contract, we will ask you to meet the deadline." },
+        { "jp": "引[ひ]き受[う]けた以上[いじょう]は、途中[とちゅう]でやめるわけにはいかない。", "en": "Having taken it on, I can't just quit halfway." },
+        { "jp": "証拠[しょうこ]がない以上[いじょう]、彼[かれ]を犯人[はんにん]と決[き]めつけることはできない。", "en": "As long as there is no evidence, we can't conclude that he is the culprit." }
+      ],
+      "notes": "Rough formality scale for \"now that\": {からには} (neutral, personal resolve) → {以上[いじょう]は} (logical, formal) → {うえは} (stiff, written).",
+      "quiz": [
+        { "q": "プロである＿＿、言[い]い訳[わけ]は許[ゆる]されない。", "en": "As long as you're a professional, excuses aren't acceptable.", "choices": ["一方[いっぽう]", "以上[いじょう]", "くせに", "わりに"], "answer": 1 },
+        { "q": "規則[きそく]で決[き]まっている＿＿、従[したが]うしかない。", "en": "Given that it's set by the rules, we have no choice but to follow it.", "choices": ["上[うえ]に", "末[すえ]に", "たびに", "以上[いじょう]"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-uewa",
+      "title": "〜うえは（上[うえ]は）",
+      "meaning": "now that (formal); having reached this point",
+      "structure": "V-plain (usually た-form) + うえは / 上[うえ]は",
+      "explanation": "{うえは} is the stiffest member of the \"now that\" family. It follows a serious event or decision and leads to a firm resolution: \"now that things have come to this, I will...\".\n\nYou will see it in formal writing, official statements, speeches, novels and period dramas, rarely in casual talk. The set phrase {こうなったうえは} (\"now that it has come to this\") is the most common use.\n\nThe second half expresses strong resolve or obligation: {〜しかない}, {〜べきだ}, {〜つもりだ}, or a command.",
+      "examples": [
+        { "jp": "こうなったうえは、自分[じぶん]の力[ちから]でやるしかない。", "en": "Now that it's come to this, I have no choice but to do it on my own." },
+        { "jp": "決心[けっしん]した上[うえ]は、もう迷[まよ]わない。", "en": "Now that I've made up my mind, I won't hesitate any more." },
+        { "jp": "計画[けいかく]が決定[けってい]した上[うえ]は、全員[ぜんいん]で協力[きょうりょく]して進[すす]めてください。", "en": "Now that the plan has been decided, please all work together to carry it out." },
+        { "jp": "事故[じこ]の原因[げんいん]が明[あき]らかになった上[うえ]は、会社[かいしゃ]として責任[せきにん]を取[と]るべきだ。", "en": "Now that the cause of the accident is clear, the company should take responsibility." }
+      ],
+      "notes": "Don't mix up the {上[うえ]} patterns: {上[うえ]は} = now that; {上[うえ]で} = after doing / in the process of; {上[うえ]に} = on top of, in addition to.",
+      "quiz": [
+        { "q": "こうなった＿＿、覚悟[かくご]を決[き]めて戦[たたか]うしかない。", "en": "Now that it's come to this, I have no choice but to steel myself and fight.", "choices": ["うえに", "たびに", "うえは", "わりに"], "answer": 2 },
+        { "q": "試験[しけん]を受[う]けると決[き]めた＿＿、全力[ぜんりょく]で準備[じゅんび]する。", "en": "Now that I've decided to take the exam, I'll prepare with everything I've got.", "choices": ["上[うえ]は", "上[うえ]に", "くせに", "ものの"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-karatoitte",
+      "title": "〜からといって",
+      "meaning": "just because ... (doesn't mean)",
+      "structure": "Plain form + からといって　／　Noun / な-adj + だからといって",
+      "explanation": "{からといって} quotes a reason someone might use and then rejects the conclusion: \"just because X, it doesn't follow that Y\". The second half is almost always negative:\n- {〜わけではない} (it's not that...)\n- {〜とは限[かぎ]らない} (it's not necessarily...)\n- {〜てはいけない} / {〜のはよくない} (you shouldn't...)\n\nIn casual speech it shortens to {からって}. {だからといって} can also start a sentence: \"Even so, that doesn't mean...\".",
+      "examples": [
+        { "jp": "安[やす]いからといって、必要[ひつよう]のない物[もの]を買[か]うのはやめよう。", "en": "Just because something is cheap, let's not buy things we don't need." },
+        { "jp": "体[からだ]にいいからといって、そればかり食[た]べてはいけない。", "en": "Just because it's good for you doesn't mean you should eat nothing else." },
+        { "jp": "日本人[にほんじん]だからといって、敬語[けいご]が完璧[かんぺき]に使[つか]えるわけではない。", "en": "Just because someone is Japanese doesn't mean they can use keigo perfectly." },
+        { "jp": "給料[きゅうりょう]が高[たか]いからといって、いい会社[かいしゃ]とは限[かぎ]らない。", "en": "A high salary doesn't necessarily mean it's a good company." },
+        { "jp": "謝[あやま]ったからって、すぐ許[ゆる]してもらえるとは思[おも]わないほうがいい。", "en": "Don't assume you'll be forgiven right away just because you apologised." }
+      ],
+      "quiz": [
+        { "q": "有名[ゆうめい]な大学[だいがく]を出[で]た＿＿、仕事[しごと]ができるとは限[かぎ]らない。", "en": "Just because someone graduated from a famous university doesn't necessarily mean they're good at their job.", "choices": ["からこそ", "からといって", "からには", "だけあって"], "answer": 1 },
+        { "q": "暑[あつ]い＿＿、一日中[いちにちじゅう]エアコンの前[まえ]にいるのはよくない。", "en": "Just because it's hot, it's not good to stay in front of the air conditioner all day.", "choices": ["からといって", "だけあって", "ことから", "からこそ"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-naikotoniwa",
+      "title": "〜ないことには",
+      "meaning": "unless; if ... not, then (can't)",
+      "structure": "V-ない + ことには　／　い-adj くない + ことには　／　Noun / な-adj + でないことには",
+      "explanation": "{ないことには} sets up a necessary condition: unless X happens, Y can't happen. The second half is negative or describes an impossible or difficult situation: {〜できない}, {〜わからない}, {〜始[はじ]まらない}.\n\nIt is a stronger, more emphatic version of {〜なければ〜ない}. It appears in both speech and writing, and is very common at work when you need information or approval before you can act.",
+      "examples": [
+        { "jp": "食[た]べてみないことには、おいしいかどうか判断[はんだん]できない。", "en": "Unless I try it, I can't judge whether it's good." },
+        { "jp": "実際[じっさい]に会[あ]ってみないことには、どんな人[ひと]かわからない。", "en": "You can't tell what someone is like until you actually meet them." },
+        { "jp": "予算[よさん]が決[き]まらないことには、計画[けいかく]を進[すす]められない。", "en": "Unless the budget is settled, we can't move the plan forward." },
+        { "jp": "社長[しゃちょう]の許可[きょか]がないことには、契約[けいやく]はできません。", "en": "Without the president's approval, we can't sign the contract." }
+      ],
+      "notes": "The second half must be negative. ✗ {勉強[べんきょう]しないことには、合格[ごうかく]できる}.",
+      "quiz": [
+        { "q": "現場[げんば]を見[み]＿＿、正確[せいかく]な見積[みつ]もりは出[だ]せません。", "en": "Unless I see the site, I can't give you an accurate estimate.", "choices": ["ないことはない", "ないうちに", "ないことには", "ずにはいられない"], "answer": 2 },
+        { "q": "本人[ほんにん]に聞[き]いてみないことには、＿＿。", "en": "Unless we ask the person directly, we won't know the real reason.", "choices": ["本当[ほんとう]の理由[りゆう]はわからない", "すぐわかる", "問題[もんだい]ない", "必[かなら]ずわかる"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-naikotowanai",
+      "title": "〜ないことはない（ないこともない）",
+      "meaning": "it's not that ... not; it's possible, but",
+      "structure": "V-ない / い-adj くない / Noun・な-adj じゃない + ことはない（こともない）",
+      "explanation": "A double negative that gives a **weak, reluctant yes**: \"it's not that I can't...\" or \"I suppose it's possible, but...\". It is often followed by {けど} / {が} and a reservation.\n\nUse it when you don't want to say a flat \"no\" but also don't want to commit, which makes it very useful in Japanese social and work situations.\n\n{〜ないこともない} is a slightly softer variant. Both are common in conversation.",
+      "examples": [
+        { "jp": "急[いそ]げば間[ま]に合[あ]わないことはない。", "en": "If we hurry, it's not impossible to make it in time." },
+        { "jp": "「納豆[なっとう]、食[た]べられる？」「食[た]べられないことはないけど、あまり好[す]きじゃない。」", "en": "\"Can you eat natto?\" \"It's not that I can't, but I don't really like it.\"" },
+        { "jp": "彼[かれ]の気持[きも]ちもわからないこともない。", "en": "I can sort of understand how he feels." },
+        { "jp": "明日[あした]までに仕上[しあ]げられないことはありませんが、品質[ひんしつ]は保証[ほしょう]できません。", "en": "It's not impossible to finish it by tomorrow, but I can't guarantee the quality." }
+      ],
+      "notes": "Compare {〜ことはない} after a dictionary form, which means \"there's no need to\": {心配[しんぱい]することはない} (\"no need to worry\").",
+      "quiz": [
+        { "q": "タクシーで行[い]けば、間[ま]に合[あ]わ＿＿。", "en": "If we go by taxi, it's not impossible to make it in time.", "choices": ["ないことはない", "ないことには", "ずにはいられない", "っこない"], "answer": 0 },
+        { "q": "「お酒[さけ]、飲[の]めますか。」「飲[の]めない＿＿が、あまり強[つよ]くないです。」", "en": "\"Do you drink?\" \"It's not that I can't, but I'm not much of a drinker.\"", "choices": ["わけがないです", "ことはないです", "はずがないです", "ことにはなりません"], "answer": 1 }
+      ]
+    }
+  ]
+}

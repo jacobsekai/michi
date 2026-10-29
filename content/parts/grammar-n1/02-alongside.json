@@ -1,0 +1,357 @@
+{
+  "id": "n1-u02",
+  "title": "Doing two things at once, and 'although'",
+  "summary": "Ways to combine a main activity with a side one ({かたわら}, {がてら}, {かたがた}), back-and-forth actions ({〜つ〜つ}), and concessive 'while/although' patterns used in polite and written Japanese.",
+  "points": [
+    {
+      "id": "n1-katagata",
+      "title": "〜かたがた",
+      "meaning": "while also; by way of; combining X with Y",
+      "structure": "Noun (often a する-noun) + かたがた",
+      "explanation": "{〜かたがた} means 'doing X and at the same time using the occasion for Y'. In practice it lives inside a handful of polite set phrases: {お礼[れい]かたがた} (to thank you, and also...), {ご挨拶[あいさつ]かたがた} (as a greeting, and also...), {お見舞[みま]いかたがた} (visiting someone sick, and also...).\n\nThe second half is usually a visit or a report: {伺[うかが]う}, {訪[たず]ねる}, {ご報告[ほうこく]する}.\n\n**Register:** very formal, mostly business letters, emails and formal visits. Outside those set phrases it sounds stiff. In daily life you'd use {がてら} or {ついでに} instead.",
+      "examples": [
+        {
+          "jp": "散歩[さんぽ]かたがた、近所[きんじょ]の本屋[ほんや]をのぞいてきた。",
+          "en": "I went for a walk and popped into the local bookshop while I was at it."
+        },
+        {
+          "jp": "先日[せんじつ]のお礼[れい]かたがた、ご挨拶[あいさつ]に伺[うかが]いました。",
+          "en": "I've come to say hello, and also to thank you for the other day."
+        },
+        {
+          "jp": "出張[しゅっちょう]かたがた、大阪[おおさか]に住[す]む旧友[きゅうゆう]を訪[たず]ねた。",
+          "en": "While on a business trip, I took the chance to visit an old friend in Osaka."
+        },
+        {
+          "jp": "略儀[りゃくぎ]ながら、書中[しょちゅう]をもってお礼[れい]かたがたご報告[ほうこく]申[もう]し上[あ]げます。",
+          "en": "Though this is an informal way to do so, I write to report to you and to express my thanks."
+        }
+      ],
+      "notes": "The last example is a standard closing line in formal Japanese letters — worth memorising whole. Unlike {かたわら}, {かたがた} attaches directly to the noun without {の}.",
+      "quiz": [
+        {
+          "q": "入院中[にゅういんちゅう]の部長[ぶちょう]のお見舞[みま]い＿＿、仕事[しごと]の報告[ほうこく]に行[い]った。",
+          "en": "I visited the department head in hospital, and reported on work while I was there.",
+          "choices": [
+            "かたわら",
+            "かたがた",
+            "ずくめ",
+            "まみれ"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "先日[せんじつ]のお礼[れい]＿＿、近況[きんきょう]をご報告[ほうこく]いたします。",
+          "en": "I'm writing to thank you for the other day, and also to let you know how I've been.",
+          "choices": [
+            "ながらも",
+            "なりに",
+            "かたがた",
+            "ごとき"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-katawara",
+      "title": "〜かたわら",
+      "meaning": "while (doing one's main job), also (doing something else)",
+      "structure": "Verb (dictionary form) + かたわら / Noun + の + かたわら",
+      "explanation": "{かたわら} literally means 'beside'. As grammar, {X かたわら Y} describes someone's life over a long period: X is their main occupation, and on the side they also do Y. Think 'a company employee who writes novels on the side'.\n\nIt is about ongoing roles or long-term activities, not two things happening at the same moment (for that, use {〜ながら}).\n\n**Register:** written. Common in biographies, profiles, news features and author introductions. In conversation people tend to say {〜しながら} or {〜の他[ほか]に} instead.",
+      "examples": [
+        {
+          "jp": "彼[かれ]は会社[かいしゃ]に勤[つと]めるかたわら、小説[しょうせつ]を書[か]いている。",
+          "en": "He works for a company and writes novels on the side."
+        },
+        {
+          "jp": "母[はは]は子育[こそだ]てのかたわら、大学院[だいがくいん]で研究[けんきゅう]を続[つづ]けた。",
+          "en": "While raising children, my mother continued her research in graduate school."
+        },
+        {
+          "jp": "その医師[いし]は診療[しんりょう]のかたわら、地域[ちいき]のボランティア活動[かつどう]にも力[ちから]を入[い]れている。",
+          "en": "Alongside seeing patients, the doctor also puts a lot into community volunteer work."
+        },
+        {
+          "jp": "彼女[かのじょ]は翻訳[ほんやく]の仕事[しごと]をするかたわら、日本語[にほんご]教師[きょうし]としても活躍[かつやく]している。",
+          "en": "Besides working as a translator, she is also active as a Japanese teacher."
+        }
+      ],
+      "notes": "{かたわら} = long-term double life; {がてら} = one outing serving two purposes; {ながら} = two actions at the same moment.",
+      "quiz": [
+        {
+          "q": "父[ちち]は農業[のうぎょう]を営[いとな]む＿＿、町議会[ちょうぎかい]議員[ぎいん]も務[つと]めている。",
+          "en": "My father runs a farm and also serves as a town councillor.",
+          "choices": [
+            "がてら",
+            "そばから",
+            "や否[いな]や",
+            "かたわら"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "彼[かれ]は大学[だいがく]で教[おし]える＿＿、作曲家[さっきょくか]としても活動[かつどう]している。",
+          "en": "Besides teaching at a university, he is also active as a composer.",
+          "choices": [
+            "かたわら",
+            "かたがた",
+            "や否[いな]や",
+            "がてら"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-gatera",
+      "title": "〜がてら",
+      "meaning": "while (out doing X), also; taking the opportunity",
+      "structure": "Verb ます-stem / Noun (often a する-noun) + がてら",
+      "explanation": "{〜がてら} means doing X and using that same outing to do Y as well. Typically the second half involves going somewhere: {歩[ある]く}, {行[い]く}, {寄[よ]る}, {出[で]かける}. 'I'll go to the convenience store while I'm out for a walk.'\n\nIt describes one occasion, not a long-term double life (that's {かたわら}).\n\n**Register:** neutral to slightly formal, and genuinely used in conversation — more common in real life than most points in this unit. {散歩[さんぽ]がてら} and {買[か]い物[もの]がてら} are especially frequent.",
+      "examples": [
+        {
+          "jp": "散歩[さんぽ]がてら、コンビニに寄[よ]ってきます。",
+          "en": "I'll stop by the convenience store while I'm out for a walk."
+        },
+        {
+          "jp": "運動[うんどう]がてら、一駅[ひとえき]手前[てまえ]で降[お]りて歩[ある]くことにしている。",
+          "en": "For the exercise, I make a habit of getting off one stop early and walking."
+        },
+        {
+          "jp": "買[か]い物[もの]がてら、友達[ともだち]を駅[えき]まで送[おく]っていった。",
+          "en": "I was going shopping anyway, so I walked my friend to the station."
+        },
+        {
+          "jp": "桜[さくら]を見[み]がてら、川沿[かわぞ]いの道[みち]をのんびり歩[ある]いた。",
+          "en": "I strolled along the riverside path, enjoying the cherry blossoms as I went."
+        }
+      ],
+      "notes": "{ついでに} is the everyday equivalent, but it puts the focus on the second action as an incidental extra; {がてら} gives both actions roughly equal weight.",
+      "quiz": [
+        {
+          "q": "気分[きぶん]転換[てんかん]＿＿、近[ちか]くの公園[こうえん]まで歩[ある]いてきた。",
+          "en": "I walked to the nearby park for a change of scenery.",
+          "choices": [
+            "がてら",
+            "かたわら",
+            "ごとき",
+            "ずくめ"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "京都[きょうと]に住[す]む友人[ゆうじん]に会[あ]い＿＿、紅葉[こうよう]を見[み]に行[い]った。",
+          "en": "I went to see the autumn leaves, and visited a friend who lives in Kyoto while I was there.",
+          "choices": [
+            "かたわら",
+            "なり",
+            "がてら",
+            "そばから"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-tsu-tsu",
+      "title": "〜つ〜つ",
+      "meaning": "back and forth; alternately; mutually",
+      "structure": "Verb₁ ます-stem + つ + Verb₂ ます-stem + つ",
+      "explanation": "{〜つ〜つ} pairs two verbs — usually a verb and its passive, or two opposites — to show actions alternating back and forth. It is a classical leftover, so it is not productive: you only use it with a small set of fixed expressions.\n\n- {持[も]ちつ持[も]たれつ} — give and take, mutual help\n- {抜[ぬ]きつ抜[ぬ]かれつ} — overtaking and being overtaken (a close race)\n- {追[お]いつ追[お]われつ} — chasing and being chased (neck and neck)\n- {行[い]きつ戻[もど]りつ} — pacing back and forth\n\n**Register:** literary, but {持[も]ちつ持[も]たれつ} is a well-known saying used in everyday speech, and sports reports love {抜[ぬ]きつ抜[ぬ]かれつ}.",
+      "examples": [
+        {
+          "jp": "世[よ]の中[なか]は持[も]ちつ持[も]たれつだ。",
+          "en": "Life is all about give and take."
+        },
+        {
+          "jp": "彼[かれ]は彼女[かのじょ]の家[いえ]の前[まえ]を行[い]きつ戻[もど]りつしていた。",
+          "en": "He was pacing back and forth in front of her house."
+        },
+        {
+          "jp": "二台[にだい]の車[くるま]は抜[ぬ]きつ抜[ぬ]かれつのレースを繰[く]り広[ひろ]げた。",
+          "en": "The two cars fought a race in which they kept overtaking each other."
+        },
+        {
+          "jp": "両[りょう]チームは追[お]いつ追[お]われつの接戦[せっせん]を演[えん]じた。",
+          "en": "The two teams played a neck-and-neck game."
+        }
+      ],
+      "notes": "Don't invent new pairs; learn the fixed ones. {〜つ〜つ} works as a noun with {の} ({抜[ぬ]きつ抜[ぬ]かれつのレース}) or as a verb with {する} ({行[い]きつ戻[もど]りつする}).",
+      "quiz": [
+        {
+          "q": "ゴール直前[ちょくぜん]まで、二人[ふたり]のランナーは抜[ぬ]き＿＿抜[ぬ]かれつの争[あらそ]いを続[つづ]けた。",
+          "en": "Right up to the finish line, the two runners kept overtaking each other.",
+          "choices": [
+            "て",
+            "つ",
+            "に",
+            "も"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "彼[かれ]は告白[こくはく]しようか迷[まよ]って、廊下[ろうか]を行[い]きつ＿＿していた。",
+          "en": "Unable to decide whether to confess his feelings, he paced back and forth in the corridor.",
+          "choices": [
+            "戻[もど]って",
+            "戻[もど]るつ",
+            "戻[もど]らず",
+            "戻[もど]りつ"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-nagara-mo",
+      "title": "〜ながらも",
+      "meaning": "although; while (admittedly); despite being",
+      "structure": "Verb ます-stem / い-adj / な-adj stem / Noun + ながらも",
+      "explanation": "You know {〜ながら} as 'while doing'. With states (adjectives, nouns, verbs like {知[し]る}, {いる}) it can also mean 'although', and adding {も} makes this concessive meaning unmistakable: {狭[せま]いながらも} 'small though it is'.\n\nThe pattern is 'X is true, but (surprisingly / nevertheless) Y'. It often expresses quiet admiration: small but cosy, young but capable, complaining but helping anyway.\n\n**Register:** more written than spoken, but common: essays, reviews, news, and polite speech. Fixed phrases like {残念[ざんねん]ながら} and {狭[せま]いながらも楽[たの]しい我[わ]が家[や]} are part of everyday language.",
+      "examples": [
+        {
+          "jp": "狭[せま]いながらも楽[たの]しい我[わ]が家[や]。",
+          "en": "Our home may be small, but it's a happy one."
+        },
+        {
+          "jp": "彼[かれ]は文句[もんく]を言[い]いながらも、最後[さいご]まで手伝[てつだ]ってくれた。",
+          "en": "He grumbled, but he helped me right to the end."
+        },
+        {
+          "jp": "少[すこ]しずつながらも、売[う]り上[あ]げは回復[かいふく]しつつある。",
+          "en": "Slowly but surely, sales are recovering."
+        },
+        {
+          "jp": "その小説[しょうせつ]は短編[たんぺん]ながらも、読[よ]む者[もの]に深[ふか]い感動[かんどう]を与[あた]える。",
+          "en": "Though only a short story, the work moves its readers deeply."
+        }
+      ],
+      "notes": "Similar: {〜つつも} (Verb stem only, more written) and {〜にもかかわらず} (more objective, used for facts). {〜ながらも} often carries the speaker's personal evaluation.",
+      "quiz": [
+        {
+          "q": "彼女[かのじょ]は体調[たいちょう]が悪[わる]い＿＿、最後[さいご]まで笑顔[えがお]で舞台[ぶたい]に立[た]ち続[つづ]けた。",
+          "en": "Although she was feeling unwell, she stayed on stage smiling until the very end.",
+          "choices": [
+            "ながらも",
+            "がてら",
+            "かたがた",
+            "ばこそ"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "子[こ]ども＿＿、彼[かれ]の意見[いけん]には説得力[せっとくりょく]があった。",
+          "en": "Although he was a child, his opinion was persuasive.",
+          "choices": [
+            "ならでは",
+            "をおいて",
+            "たりとも",
+            "ながらも"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-tokoro-wo",
+      "title": "〜ところを",
+      "meaning": "although (you are in the middle of / it's a bad time); just as",
+      "structure": "Verb / い-adj (plain) + ところを / Noun + の + ところを",
+      "explanation": "{〜ところを} has two main uses.\n\n**1. Polite apology or thanks.** 'In a situation where X (you're busy / resting / should be doing otherwise), you nevertheless did Y for me.' This is extremely common in business: {お忙[いそが]しいところを申[もう]し訳[わけ]ありません}, {お休[やす]みのところを失礼[しつれい]します}.\n\n**2. Caught in the act.** 'Just as X was happening, (someone) did something to them' — usually with a passive or verbs like {見[み]つかる}, {捕[つか]まる}, {助[たす]ける}: {逃[に]げるところを捕[つか]まった}.\n\n**Register:** use 1 is one of the most useful N1 patterns for working in Japan — you will hear and say it daily in emails and phone calls. Use 2 is common in news and narratives.",
+      "examples": [
+        {
+          "jp": "お忙[いそが]しいところを、わざわざお越[こ]しいただきありがとうございます。",
+          "en": "Thank you for taking the time to come, busy as you are."
+        },
+        {
+          "jp": "お休[やす]みのところを、突然[とつぜん]お電話[でんわ]して申[もう]し訳[わけ]ありません。",
+          "en": "I'm sorry to call you out of the blue on your day off."
+        },
+        {
+          "jp": "犯人[はんにん]は店[みせ]から出[で]てきたところを逮捕[たいほ]された。",
+          "en": "The culprit was arrested just as he came out of the shop."
+        },
+        {
+          "jp": "本来[ほんらい]なら私[わたし]が伺[うかが]うべきところを、ご足労[そくろう]いただき恐縮[きょうしゅく]です。",
+          "en": "I really ought to have come to you; I'm very grateful that you made the trip here instead."
+        }
+      ],
+      "notes": "In casual or less formal speech the {を} is often dropped: {お忙[いそが]しいところすみません}. Don't confuse with {ところに/ところへ} 'just when (something/someone arrived)' or {ところで} 'even if'.",
+      "quiz": [
+        {
+          "q": "お疲[つか]れの＿＿、遅[おそ]くまでお付[つ]き合[あ]いいただき、ありがとうございました。",
+          "en": "Thank you for staying with us so late when you must be tired.",
+          "choices": [
+            "ところで",
+            "ところを",
+            "ところに",
+            "どころか"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "万引[まんび]きをしようとしている＿＿、店員[てんいん]に見[み]つかった。",
+          "en": "He was spotted by a shop assistant just as he was about to shoplift.",
+          "choices": [
+            "どころか",
+            "ところだ",
+            "ところを",
+            "ところで"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-nagara-ni",
+      "title": "〜ながらに",
+      "meaning": "while still; as (one) is; from (birth); unchanged since",
+      "structure": "Noun / Verb ます-stem + ながらに(して) / ながらの + Noun",
+      "explanation": "{〜ながらに} means 'in the state of X, with X unchanged'. Like {〜つ〜つ}, it lives in a small number of fixed expressions:\n\n- {涙[なみだ]ながらに} — in tears, tearfully\n- {生[う]まれながらに(して)} — from birth, innately\n- {いながらにして} — without leaving (home, etc.)\n- {昔[むかし]ながらの} — old-fashioned, traditional, unchanged since long ago\n\n**Register:** written and formal, but {昔[むかし]ながらの} is everywhere in everyday Japanese — on shop signs, food packaging and travel guides. {涙[なみだ]ながらに} is a staple of news reports about press conferences and court cases.",
+      "examples": [
+        {
+          "jp": "この町[まち]には昔[むかし]ながらの町並[まちな]みが残[のこ]っている。",
+          "en": "This town still has its traditional streetscape."
+        },
+        {
+          "jp": "彼女[かのじょ]は涙[なみだ]ながらに、事故[じこ]の様子[ようす]を語[かた]った。",
+          "en": "In tears, she described what happened in the accident."
+        },
+        {
+          "jp": "人[ひと]は生[う]まれながらにして平等[びょうどう]である。",
+          "en": "All people are born equal."
+        },
+        {
+          "jp": "インターネットのおかげで、家[いえ]にいながらにして世界中[せかいじゅう]の映画[えいが]が見[み]られる。",
+          "en": "Thanks to the internet, you can watch films from all over the world without leaving your home."
+        }
+      ],
+      "notes": "Different from concessive {〜ながらも} 'although'. {〜ながらに} is not concessive; it describes the state in which something is done.",
+      "quiz": [
+        {
+          "q": "被害者[ひがいしゃ]の母親[ははおや]は涙[なみだ]＿＿犯人[はんにん]への思[おも]いを訴[うった]えた。",
+          "en": "The victim's mother tearfully spoke of her feelings toward the perpetrator.",
+          "choices": [
+            "がてら",
+            "かたわら",
+            "ながらに",
+            "ずくめで"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "この店[みせ]では、昔[むかし]＿＿製法[せいほう]で豆腐[とうふ]を作[つく]っている。",
+          "en": "At this shop, tofu is made using the traditional method.",
+          "choices": [
+            "ながらの",
+            "ながらも",
+            "がてらの",
+            "かたわらの"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

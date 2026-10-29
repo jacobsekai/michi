@@ -1,0 +1,144 @@
+{
+  "id": "n2-u10",
+  "title": "Basis, response, and replacement",
+  "summary": "Compound particles that show what something is based on ({に基[もと]づいて}, {をもとに}, {に沿[そ]って}), what it responds to ({にこたえて}), what it's disputed over ({をめぐって}), what it adds to or replaces ({に加[くわ]えて}, {にかわって}), and what it goes against ({に反[はん]して}).",
+  "points": [
+    {
+      "id": "n2-nimotozuite",
+      "title": "〜に基[もと]づいて（に基[もと]づき / に基[もと]づく）",
+      "meaning": "based on; in accordance with",
+      "structure": "Noun + に基[もと]づいて・に基[もと]づき　／　に基[もと]づく / に基[もと]づいた + Noun",
+      "explanation": "{基[もと]づく} means \"to be grounded in\". {Xに基[もと]づいて} says X is the **firm foundation** for a decision, judgment or action: laws, rules, data, facts, survey results, a contract.\n\nIt is formal and common in business, government and news. The base stays in place as a standard that the action follows.\n\nCompare {をもとに} (next point): there, X is **source material** used to create something new (a novel based on experience). With some nouns both work; {実話[じつわ]に基[もと]づく映画[えいが]} and {実話[じつわ]をもとにした映画[えいが]} are both natural.",
+      "examples": [
+        { "jp": "調査[ちょうさ]の結果[けっか]に基[もと]づいて、新[あたら]しい計画[けいかく]を立[た]てた。", "en": "We drew up a new plan based on the results of the survey." },
+        { "jp": "法律[ほうりつ]に基[もと]づき、適切[てきせつ]に処理[しょり]いたします。", "en": "We will handle the matter appropriately in accordance with the law." },
+        { "jp": "この映画[えいが]は実話[じつわ]に基[もと]づいている。", "en": "This film is based on a true story." },
+        { "jp": "感覚[かんかく]ではなく、データに基[もと]づいた判断[はんだん]が求[もと]められる。", "en": "Decisions need to be based on data, not on gut feeling." }
+      ],
+      "quiz": [
+        { "q": "契約書[けいやくしょ]に＿＿、料金[りょうきん]を請求[せいきゅう]いたします。", "en": "We will bill you in accordance with the contract.", "choices": ["先立[さきだ]って", "基[もと]づいて", "かわって", "わたって"], "answer": 1 },
+        { "q": "アンケートの結果[けっか]＿＿、サービスを改善[かいぜん]しました。", "en": "We improved our service based on the survey results.", "choices": ["にわたって", "をめぐって", "もかまわず", "に基[もと]づいて"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-womotoni",
+      "title": "〜をもとに（して）",
+      "meaning": "based on; using ... as a source",
+      "structure": "Noun + をもとに（して）　／　をもとにした + Noun",
+      "explanation": "{もと} means \"source, origin\". {Xをもとに} says X is the **raw material or hint** from which something new is created: a novel from personal experience, a dish from grandma's recipe, a sketch of a suspect from witness statements.\n\nIt is used in both speech and writing, and is a little less formal than {に基[もと]づいて}.\n\nTo modify a noun, use {をもとにした}: {漫画[まんが]をもとにした映画[えいが]} (\"a film based on a manga\").",
+      "examples": [
+        { "jp": "自分[じぶん]の経験[けいけん]をもとに、小説[しょうせつ]を書[か]いた。", "en": "I wrote a novel based on my own experiences." },
+        { "jp": "この料理[りょうり]は、祖母[そぼ]のレシピをもとにして作[つく]りました。", "en": "I made this dish based on my grandmother's recipe." },
+        { "jp": "目撃者[もくげきしゃ]の証言[しょうげん]をもとに、犯人[はんにん]の似顔絵[にがおえ]が作[つく]られた。", "en": "A sketch of the suspect was made based on witness statements." },
+        { "jp": "実際[じっさい]の事件[じけん]をもとにしたドラマが話題[わだい]になっている。", "en": "A drama based on a real incident is getting a lot of attention." }
+      ],
+      "quiz": [
+        { "q": "昔[むかし]の写真[しゃしん]＿＿、町[まち]の模型[もけい]を作[つく]った。", "en": "We built a model of the town based on old photos.", "choices": ["をもとに", "をめぐって", "を問[と]わず", "を除[のぞ]いて"], "answer": 0 },
+        { "q": "原作[げんさく]の漫画[まんが]をもと＿＿映画[えいが]が大[だい]ヒットした。", "en": "The film based on the original manga was a huge hit.", "choices": ["による", "での", "にした", "からの"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-nisotte",
+      "title": "〜に沿[そ]って（に沿[そ]う / に沿[そ]った）",
+      "meaning": "along; in line with; following",
+      "structure": "Noun + に沿[そ]って　／　に沿[そ]った + Noun　／　に沿[そ]う（verb）",
+      "explanation": "{沿[そ]う} means \"to run alongside\". It has a physical meaning and an abstract one.\n\n**1. Physical**: along a road, river, coast or railway line: {川[かわ]に沿[そ]って桜[さくら]が咲[さ]いている}.\n\n**2. Abstract**: in line with a plan, policy, manual or someone's wishes: {方針[ほうしん]に沿[そ]って}, {マニュアルに沿[そ]った対応[たいおう]}. In customer service, {ご希望[きぼう]に沿[そ]えるよう} (\"so that we can meet your wishes\") and {ご希望[きぼう]に沿[そ]えず} (\"being unable to meet your wishes\") are standard polite phrases.\n\nThe abstract meaning is formal and common at work.",
+      "examples": [
+        { "jp": "川[かわ]に沿[そ]って、桜並木[さくらなみき]が続[つづ]いている。", "en": "A row of cherry trees runs along the river." },
+        { "jp": "線路[せんろ]に沿[そ]って歩[ある]いていくと、駅[えき]に着[つ]きます。", "en": "If you walk along the railway tracks, you'll reach the station." },
+        { "jp": "会社[かいしゃ]の方針[ほうしん]に沿[そ]って、計画[けいかく]を見直[みなお]した。", "en": "We revised the plan in line with company policy." },
+        { "jp": "トラブルの際[さい]は、マニュアルに沿[そ]った対応[たいおう]をお願[ねが]いします。", "en": "If there's a problem, please respond according to the manual." },
+        { "jp": "お客様[きゃくさま]のご希望[きぼう]に沿[そ]えるよう、努力[どりょく]いたします。", "en": "We will do our best to meet your wishes." }
+      ],
+      "quiz": [
+        { "q": "この道[みち]は海岸[かいがん]に＿＿続[つづ]いている。", "en": "This road runs along the coast.", "choices": ["応[おう]じて", "基[もと]づいて", "沿[そ]って", "加[くわ]えて"], "answer": 2 },
+        { "q": "申[もう]し訳[わけ]ございませんが、今回[こんかい]はご希望[きぼう]に＿＿ことができません。", "en": "We're very sorry, but we are unable to meet your wishes this time.", "choices": ["沿[そ]う", "沿[そ]って", "基[もと]づく", "伴[ともな]う"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-nikotaete",
+      "title": "〜にこたえて（に応[こた]えて / に応[こた]える）",
+      "meaning": "in response to; living up to",
+      "structure": "Noun + にこたえて・にこたえ　／　にこたえる + Noun",
+      "explanation": "{応[こた]える} means \"to respond to\" a request or feeling directed at you and to **satisfy it**. Typical nouns: {期待[きたい]} (expectations), {要望[ようぼう]} / {リクエスト} (requests), {声援[せいえん]} (cheers), {アンコール}, {ニーズ}.\n\n{期待[きたい]にこたえる} (\"to live up to expectations\") is a very common phrase in sports interviews and at work.\n\nCompare {に応[おう]じて} (Unit 7): {にこたえて} = respond to someone's wishes and fulfil them; {に応[おう]じて} = adjust to match conditions. With {要望[ようぼう]} both can appear.",
+      "examples": [
+        { "jp": "ファンの声援[せいえん]にこたえて、選手[せんしゅ]は手[て]を振[ふ]った。", "en": "In response to the fans' cheers, the player waved." },
+        { "jp": "住民[じゅうみん]の要望[ようぼう]にこたえて、駅前[えきまえ]に駐輪場[ちゅうりんじょう]が作[つく]られた。", "en": "In response to residents' requests, a bicycle parking area was built in front of the station." },
+        { "jp": "両親[りょうしん]の期待[きたい]にこたえようと、彼[かれ]は必死[ひっし]に勉強[べんきょう]した。", "en": "He studied desperately to live up to his parents' expectations." },
+        { "jp": "お客様[きゃくさま]のニーズにこたえる商品[しょうひん]を開発[かいはつ]したい。", "en": "We want to develop products that meet our customers' needs." }
+      ],
+      "quiz": [
+        { "q": "観客[かんきゃく]のアンコール＿＿、バンドはもう一曲[いっきょく]演奏[えんそう]した。", "en": "In response to the audience's calls for an encore, the band played one more song.", "choices": ["に沿[そ]って", "をめぐって", "に反[はん]して", "にこたえて"], "answer": 3 },
+        { "q": "監督[かんとく]の期待[きたい]に＿＿、彼[かれ]は決勝[けっしょう]でゴールを決[き]めた。", "en": "Living up to the coach's expectations, he scored in the final.", "choices": ["こたえて", "わたって", "先立[さきだ]って", "基[もと]づいて"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-womegutte",
+      "title": "〜をめぐって（をめぐり / をめぐる）",
+      "meaning": "over; concerning; surrounding (a dispute or debate)",
+      "structure": "Noun + をめぐって・をめぐり　／　をめぐる + Noun",
+      "explanation": "{めぐる} means \"to go around\". {Xをめぐって} says that several people or groups are **debating, competing or in conflict over X**: an inheritance, a construction plan, a tax increase, a championship title.\n\nThe second half typically has verbs like {争[あらそ]う}, {対立[たいりつ]する}, {議論[ぎろん]する}, {意見[いけん]が分[わ]かれる}, {もめる}. It is very common in news headlines.\n\nIt is **not** a simple replacement for {について} (\"about\"). For neutral actions by one person ({調[しら]べる}, {書[か]く}, {説明[せつめい]する}), use {について}.",
+      "examples": [
+        { "jp": "遺産[いさん]をめぐって、兄弟[きょうだい]が争[あらそ]っている。", "en": "The siblings are fighting over the inheritance." },
+        { "jp": "新[あたら]しい空港[くうこう]の建設[けんせつ]をめぐり、住民[じゅうみん]の意見[いけん]が分[わ]かれている。", "en": "Residents are divided over the construction of the new airport." },
+        { "jp": "消費税[しょうひぜい]の引[ひ]き上[あ]げをめぐる議論[ぎろん]が続[つづ]いている。", "en": "The debate surrounding the consumption tax increase continues." },
+        { "jp": "会議[かいぎ]では、予算[よさん]の使[つか]い方[かた]をめぐって激[はげ]しい議論[ぎろん]が交[か]わされた。", "en": "At the meeting there was a heated debate over how to use the budget." }
+      ],
+      "quiz": [
+        { "q": "土地[とち]の所有権[しょゆうけん]＿＿、二[ふた]つの会社[かいしゃ]が裁判[さいばん]で争[あらそ]っている。", "en": "Two companies are fighting in court over ownership of the land.", "choices": ["を通[つう]じて", "をめぐって", "を除[のぞ]いて", "を問[と]わず"], "answer": 1 },
+        { "q": "私[わたし]は日本[にほん]の歴史[れきし]＿＿レポートを書[か]いた。", "en": "I wrote a report about Japanese history.", "choices": ["をめぐって", "にわたって", "について", "において"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-nikuwaete",
+      "title": "〜に加[くわ]えて（に加[くわ]え）",
+      "meaning": "in addition to; on top of",
+      "structure": "Noun + に加[くわ]えて・に加[くわ]え　／　それに加[くわ]えて（sentence start）",
+      "explanation": "{加[くわ]える} means \"to add\". {Xに加[くわ]えて} adds a second item or factor to X: \"in addition to rain, the wind got stronger\". The added item usually takes {も}.\n\nIt is somewhat formal: you'll hear it in news, job ads and business explanations. In casual speech, {〜だけじゃなくて} or {それに} are more common.\n\nAt the start of a sentence, {それに加[くわ]えて} means \"on top of that, furthermore\".",
+      "examples": [
+        { "jp": "雨[あめ]に加[くわ]えて、風[かぜ]も強[つよ]くなってきた。", "en": "On top of the rain, the wind has picked up too." },
+        { "jp": "通常[つうじょう]の業務[ぎょうむ]に加[くわ]えて、新人[しんじん]の教育[きょういく]も担当[たんとう]している。", "en": "In addition to my regular work, I'm also in charge of training new staff." },
+        { "jp": "円安[えんやす]に加[くわ]え、原材料費[げんざいりょうひ]の高騰[こうとう]も影響[えいきょう]している。", "en": "In addition to the weak yen, soaring raw material costs are also having an effect." },
+        { "jp": "日本語[にほんご]に加[くわ]えて、英語[えいご]も話[はな]せる方[かた]を募集[ぼしゅう]しています。", "en": "We are looking for people who can speak English in addition to Japanese." }
+      ],
+      "quiz": [
+        { "q": "基本給[きほんきゅう]＿＿、交通費[こうつうひ]も支給[しきゅう]されます。", "en": "In addition to the base salary, transport costs are also paid.", "choices": ["に加[くわ]えて", "にかわって", "に反[はん]して", "に沿[そ]って"], "answer": 0 },
+        { "q": "彼女[かのじょ]は仕事[しごと]が速[はや]い。それに＿＿、ミスも少[すく]ない。", "en": "She works fast. On top of that, she makes few mistakes.", "choices": ["かわって", "沿[そ]って", "先立[さきだ]って", "加[くわ]えて"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-nikawatte",
+      "title": "〜にかわって（に代[か]わって / に代[か]わり）",
+      "meaning": "in place of; on behalf of; replacing",
+      "structure": "Noun + にかわって・にかわり　／　Noun + にかわる + Noun",
+      "explanation": "{代[か]わる} means \"to take the place of\". {Xにかわって} has two closely related uses.\n\n**1. On behalf of a person**: someone does something instead of X, who can't: {部長[ぶちょう]にかわって、私[わたし]がご挨拶[あいさつ]いたします} (\"I'll give the greeting on behalf of the department head\"). This is common at work.\n\n**2. Replacement over time**: a new thing takes over from an old one: {現金[げんきん]にかわって、スマホ決済[けっさい]が広[ひろ]がっている}.\n\n{にかわる} + noun modifies a noun: {石油[せきゆ]にかわるエネルギー} (\"energy to replace oil\").",
+      "examples": [
+        { "jp": "部長[ぶちょう]にかわって、私[わたし]がご挨拶[あいさつ]させていただきます。", "en": "I'll say a few words on behalf of our department head." },
+        { "jp": "病気[びょうき]の父[ちち]にかわって、兄[あに]が店[みせ]を切[き]り盛[も]りしている。", "en": "My older brother is running the shop in place of our sick father." },
+        { "jp": "最近[さいきん]は、現金[げんきん]にかわってスマホで支払[しはら]う人[ひと]が増[ふ]えた。", "en": "Recently, more people pay with their phones instead of cash." },
+        { "jp": "石油[せきゆ]にかわる新[あたら]しいエネルギーの開発[かいはつ]が急[いそ]がれている。", "en": "There is an urgent push to develop new energy sources to replace oil." }
+      ],
+      "quiz": [
+        { "q": "本日[ほんじつ]は、出張中[しゅっちょうちゅう]の社長[しゃちょう]＿＿、私[わたし]が出席[しゅっせき]いたします。", "en": "Today I will attend on behalf of the president, who is away on business.", "choices": ["に沿[そ]って", "にかわって", "に応[おう]じて", "に反[はん]して"], "answer": 1 },
+        { "q": "最近[さいきん]は、手紙[てがみ]＿＿メールで連絡[れんらく]することがほとんどだ。", "en": "These days, we mostly get in touch by email instead of letters.", "choices": ["に先立[さきだ]って", "に沿[そ]って", "にかわって", "をめぐって"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-nihanshite",
+      "title": "〜に反[はん]して（に反[はん]し / に反[はん]する）",
+      "meaning": "contrary to; against",
+      "structure": "Noun + に反[はん]して・に反[はん]し　／　に反[はん]する + Noun",
+      "explanation": "{反[はん]する} means \"to go against\". {Xに反[はん]して} has two uses.\n\n**1. Contrary to expectations**: the result was different from {予想[よそう]} (forecast), {期待[きたい]} (hopes) or {予報[よほう]}: {予想[よそう]に反[はん]して、試験[しけん]は簡単[かんたん]だった}. The result can be good or bad.\n\n**2. Violating a rule or someone's will**: {法律[ほうりつ]に反[はん]する行為[こうい]} (an illegal act), {本人[ほんにん]の意思[いし]に反[はん]して} (against the person's will).\n\nIt is formal and common in news, especially election and sports reports ({大方[おおかた]の予想[よそう]に反[はん]し} \"contrary to most predictions\").",
+      "examples": [
+        { "jp": "予想[よそう]に反[はん]して、試験[しけん]は簡単[かんたん]だった。", "en": "Contrary to what I expected, the exam was easy." },
+        { "jp": "親[おや]の期待[きたい]に反[はん]して、彼[かれ]は大学[だいがく]を中退[ちゅうたい]した。", "en": "Against his parents' hopes, he dropped out of university." },
+        { "jp": "大方[おおかた]の予想[よそう]に反[はん]し、新人[しんじん]候補[こうほ]が当選[とうせん]した。", "en": "Contrary to most predictions, the newcomer candidate won the election." },
+        { "jp": "法律[ほうりつ]に反[はん]する行為[こうい]は、決[けっ]して許[ゆる]されない。", "en": "Acts that break the law will never be tolerated." }
+      ],
+      "quiz": [
+        { "q": "天気予報[てんきよほう]＿＿、一日中[いちにちじゅう]いい天気[てんき]だった。", "en": "Contrary to the weather forecast, it was nice all day.", "choices": ["に沿[そ]って", "に基[もと]づいて", "に応[おう]じて", "に反[はん]して"], "answer": 3 },
+        { "q": "本人[ほんにん]の意思[いし]に＿＿、無理[むり]に入院[にゅういん]させることはできない。", "en": "You can't force someone into hospital against their will.", "choices": ["反[はん]して", "こたえて", "加[くわ]えて", "かわって"], "answer": 0 }
+      ]
+    }
+  ]
+}

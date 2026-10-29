@@ -1,0 +1,354 @@
+{
+  "id": "n3-u09",
+  "title": "Obligation, no choice & limits",
+  "summary": "Saying what you should do ({べき}), have no choice but to do ({しかない}), can't possibly do ({ようがない}), don't need to do ({ことはない}), could do if pushed ({ないことはない}), what isn't necessarily true ({とは限[かぎ]らない}), and what's pointless ({てもしかたがない}).",
+  "points": [
+    {
+      "id": "n3-beki",
+      "title": "〜べき / 〜べきではない",
+      "meaning": "should ~ ; ought to ~ ; (べきではない) should not ~",
+      "structure": "Verb (dictionary) + べきだ (する → すべき / するべき) ; Verb + べきではない ; 〜べきだった (should have)",
+      "explanation": "{〜べきだ} expresses a strong opinion about what is **right or proper**: 'should / ought to'. It's based on morals, common sense or logic.\n\n{約束[やくそく]は守[まも]るべきだ。} 'You should keep your promises.'\n\nForm notes:\n- {する} becomes {すべき} or {するべき} (both are fine).\n- The negative is {べきではない} — **not** {ないべき}. {言[い]うべきではない} 'You shouldn't say that.'\n- {べきだった} means 'should have (but didn't)' — a regret: {もっと早[はや]く相談[そうだん]すべきだった。}\n- Before a noun: {するべきこと} 'things one should do'.\n\n{べき} is much stronger than {〜たほうがいい} ('it would be better to'). Saying {べきです} directly to a superior can sound like you are lecturing them, so use it carefully.",
+      "examples": [
+        {
+          "jp": "約束[やくそく]は守[まも]るべきだ。",
+          "en": "You should keep your promises."
+        },
+        {
+          "jp": "人[ひと]の悪口[わるぐち]を言[い]うべきではない。",
+          "en": "You shouldn't speak badly of people."
+        },
+        {
+          "jp": "若[わか]いうちに、いろいろな経験[けいけん]をするべきだと思[おも]う。",
+          "en": "I think you should get all kinds of experience while you're young."
+        },
+        {
+          "jp": "体調[たいちょう]が悪[わる]いなら、無理[むり]をしないで休[やす]むべきです。",
+          "en": "If you're not feeling well, you should rest instead of pushing yourself."
+        },
+        {
+          "jp": "あの時[とき]、もっと早[はや]く上司[じょうし]に相談[そうだん]すべきだった。",
+          "en": "I should have talked to my boss much sooner back then."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "自分[じぶん]が間違[まちが]えたのなら、ちゃんと謝[あやま]る＿＿だ。",
+          "en": "If you were the one who made the mistake, you should apologize properly.",
+          "choices": [
+            "ふり",
+            "べき",
+            "ついで",
+            "ばかり"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "電車[でんしゃ]の中[なか]で、大[おお]きな声[こえ]で電話[でんわ]をする＿＿。",
+          "en": "You shouldn't talk loudly on the phone on the train.",
+          "choices": [
+            "べきではない",
+            "べきだった",
+            "わけだ",
+            "ないべきだ"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n3-shika-nai",
+      "title": "〜しかない",
+      "meaning": "have no choice but to ~ ; the only thing to do is ~",
+      "structure": "Verb (dictionary) + しかない",
+      "explanation": "You know {しか〜ない} as 'only' ({百円[ひゃくえん]しかない} 'I only have 100 yen'). After a verb, {〜しかない} means 'there's no option except ~': 'I have no choice but to'.\n\n{終電[しゅうでん]を逃[のが]したから、タクシーで帰[かえ]るしかない。} 'I missed the last train, so I have no choice but to take a taxi home.'\n\nIt often has a feeling of resignation ('oh well'), but can also be determined: {ここまで来[き]たら、頑張[がんば]るしかない！} 'Now that we've come this far, all we can do is give it our best!'\n\nPolite: {しかありません}.",
+      "examples": [
+        {
+          "jp": "終電[しゅうでん]を逃[のが]したから、タクシーで帰[かえ]るしかない。",
+          "en": "I missed the last train, so I have no choice but to take a taxi home."
+        },
+        {
+          "jp": "誰[だれ]も手伝[てつだ]ってくれないなら、自分[じぶん]でやるしかない。",
+          "en": "If nobody will help me, I'll just have to do it myself."
+        },
+        {
+          "jp": "壊[こわ]れてしまったのだから、新[あたら]しいのを買[か]うしかないね。",
+          "en": "It's broken, so there's nothing for it but to buy a new one."
+        },
+        {
+          "jp": "ここまで来[き]たら、もう頑張[がんば]るしかない。",
+          "en": "Now that we've come this far, all we can do is give it everything."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "財布[さいふ]を忘[わす]れてしまったので、家[いえ]まで取[と]りに帰[かえ]る＿＿。",
+          "en": "I forgot my wallet, so I have no choice but to go home and get it.",
+          "choices": [
+            "わけがない",
+            "ことはない",
+            "しかない",
+            "ようがない"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "バスもタクシーもないので、駅[えき]まで歩[ある]いて行[い]く＿＿。",
+          "en": "There are no buses or taxis, so we have no choice but to walk to the station.",
+          "choices": [
+            "わけではありません",
+            "ことはありません",
+            "はずがありません",
+            "しかありません"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n3-you-ga-nai",
+      "title": "〜ようがない",
+      "meaning": "there's no way to ~ ; can't possibly ~ (no means available)",
+      "structure": "Verb-ます stem + ようがない ; する-noun + のしようがない",
+      "explanation": "{〜よう} after a verb stem means 'way of doing' (like {方[かた]}). {〜ようがない} means 'there is no way to do it' — not because you don't want to, but because there is **no method** available.\n\n{住所[じゅうしょ]がわからないので、連絡[れんらく]しようがない。} 'I don't know the address, so there's no way to contact them.'\n\nWith {する}-nouns, both {連絡[れんらく]しようがない} and {連絡[れんらく]のしようがない} are used.\n\n**{ようがない} vs {しかない}:** {しかない} = there's exactly **one** option left. {ようがない} = there are **zero** options.\n\nThe everyday word {しょうがない} ('it can't be helped') actually comes from {しようがない}: 'there's no way to do anything about it'.",
+      "examples": [
+        {
+          "jp": "住所[じゅうしょ]がわからないので、連絡[れんらく]しようがない。",
+          "en": "I don't know the address, so there's no way to get in touch."
+        },
+        {
+          "jp": "こんなにひどく壊[こわ]れていたら、直[なお]しようがない。",
+          "en": "If it's broken this badly, there's no way to fix it."
+        },
+        {
+          "jp": "説明書[せつめいしょ]が全部[ぜんぶ]知[し]らない外国語[がいこくご]で書[か]いてあって、読[よ]みようがなかった。",
+          "en": "The manual was entirely in a foreign language I don't know, so there was no way I could read it."
+        },
+        {
+          "jp": "彼[かれ]の料理[りょうり]は、文句[もんく]の言[い]いようがないほどおいしい。",
+          "en": "His cooking is so good there's nothing you could possibly complain about."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "携帯[けいたい]の電池[でんち]が切[き]れていて、誰[だれ]にも連絡[れんらく]＿＿。",
+          "en": "My phone battery was dead, so there was no way to contact anyone.",
+          "choices": [
+            "したついでだった",
+            "してばかりいた",
+            "のしようがなかった",
+            "するしかなかった"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "名前[なまえ]もわからないのでは、探[さが]し＿＿がない。",
+          "en": "If we don't even know the name, there's no way to look for them.",
+          "choices": [
+            "こと",
+            "わけ",
+            "はず",
+            "よう"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n3-koto-wa-nai",
+      "title": "〜ことはない",
+      "meaning": "there's no need to ~ ; you don't have to ~",
+      "structure": "Verb (dictionary) + ことはない",
+      "explanation": "{〜ことはない} tells someone there's **no need** to do something — usually to reassure or comfort them.\n\n{まだ時間[じかん]があるから、急[いそ]ぐことはないよ。} 'There's still time, so no need to rush.'\n\nIt's close to {〜する必要[ひつよう]はない}, but warmer and more personal. Common with feelings: {心配[しんぱい]することはない}, {気[き]にすることはない}, {謝[あやま]ることはない}.\n\nDon't confuse it with {〜たことがない} ('have never done'): {行[い]ったことがない} 'I've never been', but {行[い]くことはない} 'there's no need to go'.\n\nOne more caution: when the subject is someone else or a general fact, {〜ことはない} can also mean 'it never happens': {彼[かれ]が遅刻[ちこく]することはない} 'He's never late.' Context tells you which meaning is intended.",
+      "examples": [
+        {
+          "jp": "まだ時間[じかん]があるから、急[いそ]ぐことはないよ。",
+          "en": "There's still time, so there's no need to hurry."
+        },
+        {
+          "jp": "小[ちい]さなミスだから、そんなに気[き]にすることはない。",
+          "en": "It's a small mistake, so there's no need to worry about it so much."
+        },
+        {
+          "jp": "わざわざ来[く]ることはありません。メールで大丈夫[だいじょうぶ]です。",
+          "en": "There's no need to come all the way here. Email is fine."
+        },
+        {
+          "jp": "一人[ひとり]で悩[なや]むことはないよ。いつでも相談[そうだん]してね。",
+          "en": "You don't have to struggle with it alone. Talk to me any time."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "簡単[かんたん]な手続[てつづ]きだから、心配[しんぱい]する＿＿よ。",
+          "en": "It's a simple procedure, so there's no need to worry.",
+          "choices": [
+            "ところだ",
+            "ことはない",
+            "わけだ",
+            "しかない"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "「明日[あした]の飲[の]み会[かい]、行[い]けなくなってすみません。」「いいよ、謝[あやま]る＿＿。」",
+          "en": "'I'm sorry I can't make it to tomorrow's drinks.' 'It's fine, no need to apologize.'",
+          "choices": [
+            "しかないよ",
+            "に違[ちが]いないよ",
+            "べきだよ",
+            "ことはないよ"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n3-nai-koto-wa-nai",
+      "title": "〜ないことはない / 〜ないこともない",
+      "meaning": "it's not that (I) can't / don't ~ ; it's possible, but… (a reluctant or partial yes)",
+      "structure": "Verb / Adj (ない-form) + ことはない / こともない",
+      "explanation": "This double negative means 'it's not impossible / not untrue' — a hesitant, partial **yes**. It's a very Japanese way to avoid a clear yes or no.\n\n{納豆[なっとう]は食[た]べられないことはないけど、あまり好[す]きじゃない。} 'It's not that I can't eat natto, but I don't really like it.'\n\nThe sentence often continues with {けど} or {が} plus a reservation: 'but I'm not confident', 'but it'd be tough', 'but I don't really want to'.\n\n{〜ないこともない} is a little softer and vaguer than {〜ないことはない}.\n\nCompare: {行[い]くことはない} 'there's no need to go' vs {行[い]かないことはない} 'it's not that I don't go (I do sometimes)'.",
+      "examples": [
+        {
+          "jp": "納豆[なっとう]は食[た]べられないことはないけど、あまり好[す]きじゃない。",
+          "en": "It's not that I can't eat natto, but I don't like it much."
+        },
+        {
+          "jp": "今[いま]から急[いそ]げば、間[ま]に合[あ]わないことはない。",
+          "en": "If we hurry now, it's not impossible that we'll make it."
+        },
+        {
+          "jp": "「この漢字[かんじ]、読[よ]める？」「読[よ]めないこともないけど、自信[じしん]はないな。」",
+          "en": "'Can you read this kanji?' 'I might be able to, but I'm not confident.'"
+        },
+        {
+          "jp": "頼[たの]まれれば、手伝[てつだ]わないこともありません。",
+          "en": "If I'm asked, I wouldn't say no to helping."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "「明日[あした]までにできる？」「無理[むり]をすれば、できない＿＿けど…。」",
+          "en": "'Can you get it done by tomorrow?' 'If I push myself, it's not impossible, but…'",
+          "choices": [
+            "ようにする",
+            "しかない",
+            "ところだった",
+            "ことはない"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "辛[から]い料理[りょうり]は食[た]べられない＿＿が、あまり得意[とくい]ではない。",
+          "en": "It's not that I can't eat spicy food, but I'm not very good with it.",
+          "choices": [
+            "わけだ",
+            "しかない",
+            "こともない",
+            "ところだ"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n3-towa-kagiranai",
+      "title": "〜とは限[かぎ]らない",
+      "meaning": "not necessarily ~ ; ~ isn't always the case",
+      "structure": "Plain form + とは限[かぎ]らない (often with 必[かなら]ずしも・いつも・〜からといって)",
+      "explanation": "{限[かぎ]る} means 'to limit'. {〜とは限[かぎ]らない} says 'it is not limited to being ~', in other words: 'it's not necessarily so — there are exceptions'.\n\n{高[たか]いものがいいものだとは限[かぎ]らない。} 'Expensive things aren't necessarily good things.'\n\nIt is often paired with:\n- {必[かなら]ずしも} 'not necessarily'\n- {いつも} / {みんな} 'always / everyone'\n- {〜からといって} 'just because ~'\n\n**vs {わけではない}:** both are partial denials and are often interchangeable. {とは限[かぎ]らない} specifically challenges a general rule or assumption ('this doesn't always hold'), while {わけではない} corrects a conclusion the listener might draw.",
+      "examples": [
+        {
+          "jp": "高[たか]いものがいいものだとは限[かぎ]らない。",
+          "en": "Expensive things aren't necessarily good things."
+        },
+        {
+          "jp": "日本人[にほんじん]だからといって、みんな納豆[なっとう]が好[す]きだとは限[かぎ]らない。",
+          "en": "Just because someone is Japanese doesn't mean they like natto."
+        },
+        {
+          "jp": "天気予報[てんきよほう]がいつも当[あ]たるとは限[かぎ]らない。",
+          "en": "The weather forecast isn't always right."
+        },
+        {
+          "jp": "有名[ゆうめい]な大学[だいがく]を出[で]ても、いい仕事[しごと]が見[み]つかるとは限[かぎ]りません。",
+          "en": "Even if you graduate from a famous university, it doesn't mean you'll find a good job."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "値段[ねだん]が高[たか]いからといって、品質[ひんしつ]がいい＿＿。",
+          "en": "Just because something is expensive doesn't mean it's good quality.",
+          "choices": [
+            "に違[ちが]いない",
+            "に決[き]まっている",
+            "わけだ",
+            "とは限[かぎ]らない"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "毎日[まいにち]勉強[べんきょう]しても、必[かなら]ず合格[ごうかく]できる＿＿が、続[つづ]けることが大切[たいせつ]だ。",
+          "en": "Studying every day doesn't guarantee you'll pass, but keeping it up is what matters.",
+          "choices": [
+            "しかない",
+            "ことはない",
+            "に違[ちが]いない",
+            "とは限[かぎ]らない"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n3-temo-shikataganai",
+      "title": "〜てもしかたがない / 〜てもしょうがない",
+      "meaning": "it's no use ~ing ; there's no point in ~",
+      "structure": "Verb (て-form) + もしかたがない / もしょうがない",
+      "explanation": "{しかたがない} means 'it can't be helped'. {〜てもしかたがない} says 'even if you do ~, it won't help' — so there's no point.\n\n{終[お]わったことを後悔[こうかい]してもしかたがない。} 'There's no use regretting what's over and done.'\n\n{しょうがない} is the more casual version, very common in speech. It's often followed by a better suggestion: 'so let's do this instead'.\n\nBe careful: {〜てしかたがない} (without {も}) is a different pattern meaning 'extremely / can't stand it': {眠[ねむ]くてしかたがない} 'I'm unbearably sleepy.' The {も} makes all the difference.",
+      "examples": [
+        {
+          "jp": "終[お]わったことを後悔[こうかい]してもしかたがない。",
+          "en": "There's no use regretting what's already over."
+        },
+        {
+          "jp": "今[いま]から急[いそ]いでもしょうがないよ。電車[でんしゃ]はもう出[で]ちゃったから。",
+          "en": "There's no point hurrying now. The train's already gone."
+        },
+        {
+          "jp": "一人[ひとり]で悩[なや]んでいてもしかたがないから、先輩[せんぱい]に相談[そうだん]してみよう。",
+          "en": "There's no use worrying about it alone, so I'll talk to my senior colleague."
+        },
+        {
+          "jp": "文句[もんく]を言[い]ってもしょうがない。自分[じぶん]で何[なん]とかしよう。",
+          "en": "Complaining won't get us anywhere. Let's sort it out ourselves."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "天気[てんき]のことで怒[おこ]って＿＿よ。誰[だれ]にも変[か]えられないんだから。",
+          "en": "There's no point getting angry about the weather. Nobody can change it.",
+          "choices": [
+            "からでないと",
+            "ばかりか",
+            "しかない",
+            "もしょうがない"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "過去[かこ]のことを考[かんが]えて＿＿。これからのことを考[かんが]えよう。",
+          "en": "There's no use thinking about the past. Let's think about what comes next.",
+          "choices": [
+            "もしかたがない",
+            "ついでに",
+            "初[はじ]めて",
+            "からでないと"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

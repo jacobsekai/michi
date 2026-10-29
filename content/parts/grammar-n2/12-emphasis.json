@@ -1,0 +1,145 @@
+{
+  "id": "n2-u12",
+  "title": "Emphasis, addition, and degree",
+  "summary": "Far from it ({どころか}, {どころではない}), emphasis ({こそ}), adding more ({上[うえ]に}, {ばかりか}), correcting ({というより}), downplaying ({に過[す]ぎない}), and stating what something truly is ({というものだ}).",
+  "points": [
+    {
+      "id": "n2-dokoroka",
+      "title": "〜どころか",
+      "meaning": "far from; let alone; on the contrary",
+      "structure": "Plain form + どころか　／　Noun / な-adj stem + どころか",
+      "explanation": "{どころか} rejects an idea strongly and replaces it with something that is either **the opposite** or **much more extreme**.\n\n**1. The opposite**: {雨[あめ]はやむどころか、ますます強[つよ]くなった} (\"far from stopping, the rain got heavier\"). {かえって} or {逆[ぎゃく]に} often appear.\n\n**2. Let alone**: something basic isn't even possible, so the bigger thing is out of the question: {漢字[かんじ]どころか、ひらがなも読[よ]めない} (\"I can't read hiragana, let alone kanji\"). The second half usually has {も} or {さえ}.\n\nIt is used in conversation and writing, often with a tone of surprise or frustration.",
+      "examples": [
+        { "jp": "雨[あめ]はやむどころか、ますます強[つよ]くなってきた。", "en": "Far from stopping, the rain is getting heavier and heavier." },
+        { "jp": "彼[かれ]は謝[あやま]るどころか、逆[ぎゃく]に怒[おこ]り出[だ]した。", "en": "Far from apologising, he actually got angry." },
+        { "jp": "漢字[かんじ]どころか、ひらがなもまだ読[よ]めない。", "en": "I can't even read hiragana yet, let alone kanji." },
+        { "jp": "貯金[ちょきん]どころか、毎月[まいつき]の生活費[せいかつひ]も足[た]りない。", "en": "Saving money? I can't even cover my monthly living costs." }
+      ],
+      "quiz": [
+        { "q": "彼[かれ]は手伝[てつだ]ってくれる＿＿、邪魔[じゃま]ばかりする。", "en": "Far from helping, all he does is get in the way.", "choices": ["ばかりか", "どころか", "うえに", "だけあって"], "answer": 1 },
+        { "q": "忙[いそが]しくて、旅行[りょこう]＿＿、週末[しゅうまつ]に休[やす]むこともできない。", "en": "I'm so busy I can't even rest at weekends, let alone go on a trip.", "choices": ["ばかりに", "以上[いじょう]", "ものの", "どころか"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-dokorodewanai",
+      "title": "〜どころではない（どころじゃない）",
+      "meaning": "not the time for; in no position to; out of the question",
+      "structure": "Noun / V-dictionary + どころではない（どころじゃない）",
+      "explanation": "{どころではない} says the situation is so serious or busy that X (usually something pleasant or relaxed) is **out of the question**: \"I've got an exam tomorrow, so going out is out of the question\".\n\nTypical X: {遊[あそ]ぶ}, {旅行[りょこう]}, {花見[はなみ]}, {勉強[べんきょう]}, {休[やす]み}. The reason is often given first with {〜て} or {〜で}.\n\nIn casual speech, {どころじゃない} is standard, and {それどころじゃない} (\"I've got bigger things to worry about\") is a very common fixed phrase.",
+      "examples": [
+        { "jp": "明日[あした]は試験[しけん]なので、遊[あそ]ぶどころではない。", "en": "I've got an exam tomorrow, so there's no way I can go out and have fun." },
+        { "jp": "仕事[しごと]が忙[いそが]しくて、花見[はなみ]どころではなかった。", "en": "Work was so busy that cherry-blossom viewing was out of the question." },
+        { "jp": "熱[ねつ]が三十九度[さんじゅうきゅうど]もあって、会議[かいぎ]どころではない。", "en": "I have a fever of 39 degrees; I'm in no state for a meeting." },
+        { "jp": "引[ひ]っ越[こ]しの準備[じゅんび]で、今[いま]はそれどころじゃないんだ。", "en": "I'm busy getting ready to move; I can't even think about that right now." }
+      ],
+      "quiz": [
+        { "q": "締[し]め切[き]りが迫[せま]っていて、飲[の]み会[かい]＿＿。", "en": "The deadline is coming up, so a drinking party is out of the question.", "choices": ["どころではない", "どころか", "に過[す]ぎない", "というものだ"], "answer": 0 },
+        { "q": "「週末[しゅうまつ]、映画[えいが]でも行[い]かない？」「ごめん、今[いま]引[ひ]っ越[こ]しで＿＿どころじゃないんだ。」", "en": "\"Want to see a film this weekend?\" \"Sorry, I'm in the middle of moving; I can't even think about that.\"", "choices": ["あれ", "それ", "これ", "どれ"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "n2-koso",
+      "title": "〜こそ / 〜てこそ",
+      "meaning": "precisely; this very; only by (doing)",
+      "structure": "Noun + こそ　／　V-て + こそ",
+      "explanation": "{こそ} puts strong emphasis on the word before it: \"**this** is the one\". It often replaces {は} or {が}.\n\nCommon uses:\n- {こちらこそ}: \"No, it's **me** who should say that\" (replying to thanks or apologies)\n- {今度[こんど]こそ} / {今年[ことし]こそ}: \"this time for sure\"\n- {〜こそ〜だ}: \"X is the real ...\": {失敗[しっぱい]こそ成長[せいちょう]のチャンスだ}\n\n{〜てこそ} means \"only by doing X (is Y possible)\": {自分[じぶん]でやってみてこそ、わかる} (\"you only understand by doing it yourself\").\n\nIt is used in both speech and writing; {からこそ} was covered in Unit 1.",
+      "examples": [
+        { "jp": "「いつもありがとうございます。」「こちらこそ、ありがとうございます。」", "en": "\"Thank you as always.\" \"No, thank you.\"" },
+        { "jp": "今年[ことし]こそ、日本語能力試験[にほんごのうりょくしけん]のN2に合格[ごうかく]したい。", "en": "This year I'm determined to pass the JLPT N2." },
+        { "jp": "失敗[しっぱい]こそ、成長[せいちょう]のチャンスだ。", "en": "Failure is exactly what gives you a chance to grow." },
+        { "jp": "自分[じぶん]でやってみてこそ、本当[ほんとう]の理解[りかい]が得[え]られる。", "en": "Only by trying it yourself do you gain real understanding." },
+        { "jp": "健康[けんこう]であってこそ、仕事[しごと]も楽[たの]しめる。", "en": "You can only enjoy your work when you're healthy." }
+      ],
+      "quiz": [
+        { "q": "去年[きょねん]は失敗[しっぱい]したが、今年[ことし]＿＿合格[ごうかく]してみせる。", "en": "I failed last year, but this year I'll pass for sure.", "choices": ["さえ", "しか", "こそ", "まで"], "answer": 2 },
+        { "q": "苦労[くろう]して＿＿、喜[よろこ]びも大[おお]きくなる。", "en": "It's only by going through hardship that the joy becomes greater.", "choices": ["こそ", "さえ", "まで", "ほど"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-ueni",
+      "title": "〜上[うえ]に",
+      "meaning": "on top of; besides; not only ... but also",
+      "structure": "Plain form + 上[うえ]に　／　Noun + の / である + 上[うえ]に　／　な-adj + な + 上[うえ]に",
+      "explanation": "{上[うえ]に} adds a second point **in the same direction** as the first: good + good, or bad + bad. \"The room is spacious, and on top of that it gets lots of sun\"; \"I got lost, and on top of that I got rained on\".\n\nMixing directions sounds odd: ✗ {広[ひろ]い上[うえ]に家賃[やちん]が高[たか]い}. For contrast, use {が} or {一方[いっぽう]}.\n\nThe second half is a description, not a command or request. It's fine in both speech and writing. Remember: {上[うえ]で} = after / in doing; {上[うえ]は} = now that.",
+      "examples": [
+        { "jp": "この部屋[へや]は広[ひろ]い上[うえ]に、日当[ひあ]たりもいい。", "en": "This room is spacious, and it gets plenty of sun too." },
+        { "jp": "彼女[かのじょ]は仕事[しごと]ができる上[うえ]に、性格[せいかく]もいい。", "en": "She's great at her job, and she has a lovely personality as well." },
+        { "jp": "道[みち]に迷[まよ]った上[うえ]に、雨[あめ]にまで降[ふ]られた。", "en": "I got lost, and on top of that I got caught in the rain." },
+        { "jp": "この薬[くすり]はよく効[き]く上[うえ]に、副作用[ふくさよう]も少[すく]ない。", "en": "This medicine works well, and it has few side effects too." }
+      ],
+      "quiz": [
+        { "q": "今日[きょう]は寝坊[ねぼう]した＿＿、財布[さいふ]まで忘[わす]れてしまった。", "en": "I overslept today, and on top of that I forgot my wallet.", "choices": ["上[うえ]で", "上[うえ]に", "上[うえ]は", "末[すえ]に"], "answer": 1 },
+        { "q": "このアパートは駅[えき]から近[ちか]い上[うえ]に、＿＿。", "en": "This apartment is close to the station, and the rent is cheap too.", "choices": ["家賃[やちん]が高[たか]い", "部屋[へや]が暗[くら]い", "古[ふる]くて汚[きたな]い", "家賃[やちん]も安[やす]い"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-bakarika",
+      "title": "〜ばかりか / 〜ばかりでなく",
+      "meaning": "not only ... but also (even)",
+      "structure": "Plain form + ばかりか / ばかりでなく　／　Noun + ばかりか / ばかりでなく　／　な-adj + な + ばかりか",
+      "explanation": "{ばかりか} adds something more surprising or more extreme to the first point: \"not only English, but French too\"; \"not only did the trains stop, but there was even a blackout\". The second half usually has {も}, {まで} or {さえ}.\n\n{ばかりでなく} is a slightly more neutral, explanatory version, close to {だけでなく}. {ばかりか} has a stronger nuance of \"and even\".\n\nBoth are more formal than {だけじゃなくて}. Like {上[うえ]に}, both halves go in the same direction.",
+      "examples": [
+        { "jp": "彼[かれ]は英語[えいご]ばかりか、フランス語[ご]も話[はな]せる。", "en": "He speaks not only English but French too." },
+        { "jp": "この本[ほん]は子[こ]どもばかりでなく、大人[おとな]にも人気[にんき]がある。", "en": "This book is popular not only with children but with adults as well." },
+        { "jp": "台風[たいふう]で電車[でんしゃ]が止[と]まったばかりか、停電[ていでん]まで起[お]きた。", "en": "The typhoon not only stopped the trains but even caused a blackout." },
+        { "jp": "彼[かれ]は約束[やくそく]の時間[じかん]に遅[おく]れたばかりか、謝[あやま]りもしなかった。", "en": "Not only was he late for our appointment, he didn't even apologise." }
+      ],
+      "notes": "{どころか} replaces the first idea (the opposite is true). {ばかりか} keeps the first idea and adds more.",
+      "quiz": [
+        { "q": "その歌手[かしゅ]は日本[にほん]＿＿、アジア各国[かっこく]でも人気[にんき]がある。", "en": "That singer is popular not only in Japan but throughout Asia.", "choices": ["に限[かぎ]って", "にしては", "ばかりか", "にかわって"], "answer": 2 },
+        { "q": "彼[かれ]は宿題[しゅくだい]をしなかった＿＿、教科書[きょうかしょ]まで忘[わす]れてきた。", "en": "Not only did he not do his homework, he even forgot his textbook.", "choices": ["ばかりか", "ばかりに", "ものの", "からこそ"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-toiuyori",
+      "title": "〜というより",
+      "meaning": "rather than; more ... than",
+      "structure": "Plain form + というより　／　Noun / な-adj + （だ）+ というより",
+      "explanation": "{XというよりY} says that X is not quite the right word; **Y describes it more accurately**: \"it's not so much warm as hot\", \"he's less a friend than family\".\n\nIt is very common in conversation when searching for the right description, and also in writing. Adding {むしろ} strengthens it: {XというよりむしろY} (\"if anything, it's Y\").\n\nThe two items are usually on the same scale or closely related, and Y is the speaker's preferred description.",
+      "examples": [
+        { "jp": "今日[きょう]は暖[あたた]かいというより、暑[あつ]いくらいだ。", "en": "Today isn't so much warm as hot." },
+        { "jp": "彼[かれ]は友達[ともだち]というより、家族[かぞく]のような存在[そんざい]だ。", "en": "He's less a friend and more like family to me." },
+        { "jp": "この料理[りょうり]は辛[から]いというより、痛[いた]い。", "en": "This dish isn't spicy so much as painful." },
+        { "jp": "彼女[かのじょ]は怒[おこ]っているというより、悲[かな]しんでいるように見[み]えた。", "en": "She looked more sad than angry." }
+      ],
+      "quiz": [
+        { "q": "あの人[ひと]は先生[せんせい]＿＿、友達[ともだち]のような存在[そんざい]だ。", "en": "He's less a teacher to me than a friend.", "choices": ["ばかりか", "というより", "からこそ", "だけあって"], "answer": 1 },
+        { "q": "今日[きょう]の雨[あめ]は、雨[あめ]＿＿嵐[あらし]だった。", "en": "Today's rain wasn't so much rain as a storm.", "choices": ["ばかりか", "に過[す]ぎず", "にしては", "というより"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-nisuginai",
+      "title": "〜に過[す]ぎない",
+      "meaning": "merely; nothing more than; only",
+      "structure": "Noun / Plain form + に過[す]ぎない（に過[す]ぎず / に過[す]ぎません）",
+      "explanation": "{過[す]ぎる} means \"to exceed\", so {に過[す]ぎない} is literally \"does not exceed X\": it's **only X, nothing more**. The speaker downplays the importance or size of something.\n\nIt is common in news, essays and formal speech: {噂[うわさ]に過[す]ぎない} (just a rumour), {氷山[ひょうざん]の一角[いっかく]に過[す]ぎない} (just the tip of the iceberg), {〜%に過[す]ぎない} (only ... percent).\n\nIt's also used modestly about oneself: {私[わたし]は意見[いけん]を言[い]ったに過[す]ぎません} (\"I merely gave my opinion\").",
+      "examples": [
+        { "jp": "それは単[たん]なる噂[うわさ]に過[す]ぎない。", "en": "That's nothing more than a rumour." },
+        { "jp": "私[わたし]は自分[じぶん]の意見[いけん]を言[い]ったに過[す]ぎません。", "en": "I merely expressed my own opinion." },
+        { "jp": "今回[こんかい]明[あき]らかになった問題[もんだい]は、氷山[ひょうざん]の一角[いっかく]に過[す]ぎない。", "en": "The problems revealed this time are just the tip of the iceberg." },
+        { "jp": "日本[にほん]の食料自給率[しょくりょうじきゅうりつ]は、四割[よんわり]程度[ていど]に過[す]ぎない。", "en": "Japan's food self-sufficiency rate is only around 40 percent." }
+      ],
+      "quiz": [
+        { "q": "これはまだ計画[けいかく]の段階[だんかい]に＿＿。", "en": "This is merely at the planning stage.", "choices": ["反[はん]する", "過[す]ぎない", "加[くわ]える", "応[おう]じる"], "answer": 1 },
+        { "q": "彼[かれ]は社長[しゃちょう]の指示[しじ]に従[したが]った＿＿、責任[せきにん]はない。", "en": "He was merely following the president's instructions, so he isn't responsible.", "choices": ["ばかりか", "どころか", "に過[す]ぎず", "にしては"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-toiumonoda",
+      "title": "〜というものだ / 〜というものではない",
+      "meaning": "that's what ... is; it's only natural / it doesn't follow that",
+      "structure": "Plain form + というものだ　／　Plain form + というものではない（というものでもない）",
+      "explanation": "{というものだ} states the speaker's firm view about **the true nature of something** or what is only reasonable: \"helping each other in hard times is what friends are\", \"rejecting an idea without hearing it out is just rude\". It sounds like a general truth or a mild lecture.\n\nThe negative {というものではない} means \"it doesn't automatically follow that\", and corrects a simplistic idea: {お金[かね]があれば幸[しあわ]せになれるというものではない} (\"having money doesn't necessarily make you happy\"). It often follows {〜ば} / {〜ばいい}.\n\nBoth are used in essays, opinions and serious conversation.",
+      "examples": [
+        { "jp": "困[こま]っている時[とき]に助[たす]け合[あ]うのが、友達[ともだち]というものだ。", "en": "Helping each other when times are hard is what friendship is all about." },
+        { "jp": "人[ひと]の話[はなし]を最後[さいご]まで聞[き]かずに反対[はんたい]するのは、失礼[しつれい]というものだ。", "en": "Objecting before hearing someone out is simply rude." },
+        { "jp": "一度[いちど]失敗[しっぱい]したくらいで諦[あきら]めるのは、もったいないというものだ。", "en": "Giving up after failing just once would be a real waste." },
+        { "jp": "お金[かね]があれば幸[しあわ]せになれるというものではない。", "en": "Having money doesn't automatically make you happy." }
+      ],
+      "quiz": [
+        { "q": "新人[しんじん]に全部[ぜんぶ]任[まか]せるのは、無理[むり]＿＿。", "en": "Leaving everything to a new employee is simply unreasonable.", "choices": ["どころではない", "ばかりか", "というものだ", "にしては"], "answer": 2 },
+        { "q": "値段[ねだん]が高[たか]ければいい＿＿。", "en": "Just because something is expensive doesn't make it good.", "choices": ["というものではない", "というものだ", "に過[す]ぎない", "どころか"], "answer": 0 }
+      ]
+    }
+  ]
+}

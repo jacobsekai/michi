@@ -1,0 +1,321 @@
+{
+  "id": "n3-u13",
+  "title": "Without, can't help it & verb add-ons",
+  "summary": "The written negative {ず} ({ずに}, {ず、}, {ずにはいられない}) and compound endings that change a verb's meaning: {〜きる} (completely), {〜かける} (half-done), and {〜っぱなし} (left as is).",
+  "points": [
+    {
+      "id": "n3-zuni",
+      "title": "〜ずに / 〜ないで",
+      "meaning": "without ~ing",
+      "structure": "Verb (ない-form minus ない) + ずに (する → せずに ; 来[く]る → 来[こ]ずに)",
+      "explanation": "{〜ずに} means 'without doing ~'. It's the written, slightly formal equivalent of {〜ないで}, which you already know.\n\n{朝[あさ]ご飯[はん]を食[た]べずに、会社[かいしゃ]へ行[い]った。} = {朝[あさ]ご飯[はん]を食[た]べないで、会社[かいしゃ]へ行[い]った。} 'I went to work without eating breakfast.'\n\nForm: take the {ない}-form and replace {ない} with {ずに}: {食[た]べない} → {食[た]べずに}, {行[い]かない} → {行[い]かずに}.\nThe exception to watch: {する} → {せずに} (not {しずに}).\n\n{ないで} is also used for requests ({〜ないでください}), but {ずに} can't be used that way. On the other hand, {ずに} is very common in writing, news and set phrases like {諦[あきら]めずに} 'without giving up'.",
+      "examples": [
+        {
+          "jp": "朝[あさ]ご飯[はん]を食[た]べずに、会社[かいしゃ]へ行[い]った。",
+          "en": "I went to work without eating breakfast."
+        },
+        {
+          "jp": "傘[かさ]を持[も]たずに出[で]かけて、雨[あめ]に濡[ぬ]れてしまった。",
+          "en": "I went out without an umbrella and got soaked."
+        },
+        {
+          "jp": "辞書[じしょ]を使[つか]わずに、この記事[きじ]を読[よ]めるようになりたい。",
+          "en": "I want to be able to read this article without using a dictionary."
+        },
+        {
+          "jp": "誰[だれ]にも相談[そうだん]せずに、会社[かいしゃ]を辞[や]めた。",
+          "en": "She quit her job without talking to anyone about it."
+        },
+        {
+          "jp": "最後[さいご]まで諦[あきら]めずに頑張[がんば]ってください。",
+          "en": "Please keep going right to the end without giving up."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "彼[かれ]は何[なに]も言[い]わ＿＿、部屋[へや]を出[で]ていった。",
+          "en": "He left the room without saying anything.",
+          "choices": [
+            "なくに",
+            "ないに",
+            "ずで",
+            "ずに"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "宿題[しゅくだい]を＿＿、学校[がっこう]に行[い]ってしまった。",
+          "en": "I went to school without doing my homework.",
+          "choices": [
+            "せずに",
+            "しずに",
+            "さずに",
+            "すずに"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n3-zu",
+      "title": "〜ず(、)",
+      "meaning": "not ~ (and…) ; (written connective) didn't ~ , so / and",
+      "structure": "Verb (ない-form minus ない) + ず、〜 (する → せず)",
+      "explanation": "{ず} on its own is an old negative ending that survives in modern written Japanese. In the middle of a sentence, {〜ず、} works like {〜なくて} or {〜ないで}: 'didn't ~, and (so)…'.\n\n{昨夜[ゆうべ]はよく眠[ねむ]れず、今日[きょう]は一日中[いちにちじゅう]眠[ねむ]かった。} 'I couldn't sleep well last night, so I was sleepy all day today.'\n\nYou'll see it in news, notices and formal emails. It also lives on in many everyday fixed expressions:\n- {思[おも]わず} — without thinking, involuntarily\n- {相変[あいか]わらず} — as usual, as always\n- {知[し]らず知[し]らず} — without realizing\n- {とりあえず} — for now, first of all\n\nAs with {ずに}, {する} becomes {せず}.",
+      "examples": [
+        {
+          "jp": "昨夜[ゆうべ]はよく眠[ねむ]れず、今日[きょう]は一日中[いちにちじゅう]眠[ねむ]かった。",
+          "en": "I couldn't sleep well last night, so I was sleepy all day today."
+        },
+        {
+          "jp": "道[みち]がわからず困[こま]っていたら、親切[しんせつ]な人[ひと]が教[おし]えてくれた。",
+          "en": "I didn't know the way and was stuck, but a kind person helped me."
+        },
+        {
+          "jp": "あまりに面白[おもしろ]くて、思[おも]わず笑[わら]ってしまった。",
+          "en": "It was so funny that I burst out laughing before I knew it."
+        },
+        {
+          "jp": "彼[かれ]は相変[あいか]わらず忙[いそが]しそうだ。",
+          "en": "He seems as busy as ever."
+        },
+        {
+          "jp": "結局[けっきょく]、誰[だれ]も来[こ]ず、会議[かいぎ]は中止[ちゅうし]になった。",
+          "en": "In the end, nobody came, and the meeting was canceled."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "面白[おもしろ]い動画[どうが]を見[み]て、電車[でんしゃ]の中[なか]で＿＿笑[わら]ってしまった。",
+          "en": "I watched a funny video and burst out laughing on the train before I could stop myself.",
+          "choices": [
+            "思[おも]わず",
+            "思[おも]わずに",
+            "思[おも]わなくて",
+            "思[おも]わないで"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "昨日[きのう]は忙[いそが]しくて、昼[ひる]ご飯[はん]も食[た]べられ＿＿、夜[よる]まで働[はたら]いた。",
+          "en": "Yesterday I was so busy I couldn't even eat lunch, and I worked until night.",
+          "choices": [
+            "ぬに",
+            "ない",
+            "ず",
+            "なし"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n3-zuni-wa-irarenai",
+      "title": "〜ずにはいられない / 〜ないではいられない",
+      "meaning": "can't help ~ing ; can't stop oneself from ~",
+      "structure": "Verb (ない-form minus ない) + ずにはいられない (する → せずにはいられない) ; Verb (ない-form) + ではいられない",
+      "explanation": "Literally 'can't stay without doing ~'. This pattern says a feeling is so strong that you **can't stop yourself** from doing something.\n\n{あの映画[えいが]を見[み]たら、泣[な]かずにはいられないよ。} 'If you watch that movie, you won't be able to stop yourself from crying.'\n\nIt describes a natural, emotional reaction — laughing, crying, worrying, wanting to help, checking something again and again.\n\n{〜ないではいられない} has the same meaning and is a bit more conversational. Remember {する} → {せずにはいられない}.\n\nIt's mostly used about the speaker's own feelings. For other people, add {ようだ} or {らしい}.",
+      "examples": [
+        {
+          "jp": "あの映画[えいが]を見[み]たら、泣[な]かずにはいられないよ。",
+          "en": "If you watch that movie, you won't be able to keep from crying."
+        },
+        {
+          "jp": "彼[かれ]の話[はなし]がおかしくて、笑[わら]わずにはいられなかった。",
+          "en": "His story was so funny I couldn't help laughing."
+        },
+        {
+          "jp": "困[こま]っている人[ひと]を見[み]ると、助[たす]けずにはいられない。",
+          "en": "When I see someone in trouble, I can't help but help them."
+        },
+        {
+          "jp": "毎朝[まいあさ]、コーヒーを飲[の]まないではいられない。",
+          "en": "I can't get through the morning without drinking coffee."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "かわいい子犬[こいぬ]を見[み]ると、触[さわ]ら＿＿。",
+          "en": "When I see a cute puppy, I can't help touching it.",
+          "choices": [
+            "ないではならない",
+            "ずにはできない",
+            "ずにはいけない",
+            "ずにはいられない"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "試験[しけん]の結果[けっか]が気[き]になって、何度[なんど]もメールを確認[かくにん]せ＿＿。",
+          "en": "I was so anxious about the exam results that I couldn't stop checking my email again and again.",
+          "choices": [
+            "ずにはいられなかった",
+            "ばかりだった",
+            "ずに",
+            "ないで"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n3-kiru",
+      "title": "〜きる / 〜きれない",
+      "meaning": "to do ~ completely / all the way ; (きれない) can't finish ~ / too much to ~",
+      "structure": "Verb-ます stem + きる / きれる / きれない",
+      "explanation": "{切[き]る} means 'to cut', and as a verb ending {〜きる} means 'to do something **completely**, to the very end'.\n\n{一晩[ひとばん]で、その小説[しょうせつ]を読[よ]みきった。} 'I read the whole novel in one night.'\n\n- {〜きれる} = can do completely.\n- {〜きれない} = can't do completely — often because there's **too much**: {料理[りょうり]が多[おお]すぎて、食[た]べきれない。} 'There's too much food — I can't finish it.'\n- {数[かぞ]えきれない} = countless (too many to count).\n- {〜きった} can describe a total state: {疲[つか]れきった} 'completely exhausted', {わかりきったこと} 'something totally obvious'.\n\nIt's usually written in hiragana.",
+      "examples": [
+        {
+          "jp": "一晩[ひとばん]で、その小説[しょうせつ]を読[よ]みきった。",
+          "en": "I read the whole novel in one night."
+        },
+        {
+          "jp": "初[はじ]めてのフルマラソンを、最後[さいご]まで走[はし]りきった。",
+          "en": "I ran my first full marathon all the way to the finish."
+        },
+        {
+          "jp": "料理[りょうり]が多[おお]すぎて、食[た]べきれない。",
+          "en": "There's too much food. I can't eat it all."
+        },
+        {
+          "jp": "山[やま]の上[うえ]では、数[かぞ]えきれないほどの星[ほし]が見[み]えた。",
+          "en": "From the mountaintop, we could see more stars than we could count."
+        },
+        {
+          "jp": "父[ちち]は疲[つか]れきった顔[かお]で帰[かえ]ってきた。",
+          "en": "My father came home looking completely exhausted."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "このケーキは大[おお]きすぎて、一人[ひとり]では食[た]べ＿＿。",
+          "en": "This cake is too big — I can't finish it by myself.",
+          "choices": [
+            "きれない",
+            "かけない",
+            "ぎみない",
+            "だしない"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "苦[くる]しかったけど、富士山[ふじさん]の頂上[ちょうじょう]まで登[のぼ]り＿＿。",
+          "en": "It was tough, but I climbed all the way to the top of Mt. Fuji.",
+          "choices": [
+            "きった",
+            "っぱなしだった",
+            "がちだった",
+            "かけた"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n3-kakeru",
+      "title": "〜かける / 〜かけの",
+      "meaning": "to start to ~ (but not finish) ; half-done ; about to ~",
+      "structure": "Verb-ます stem + かける ; Verb-ます stem + かけの + Noun",
+      "explanation": "{〜かける} means an action has **started but isn't finished** — it stopped partway, or is just beginning.\n\n{何[なに]か言[い]いかけて、彼女[かのじょ]は黙[だま]ってしまった。} 'She started to say something, then fell silent.'\n\n{〜かけの} + noun describes something left half-done: {読[よ]みかけの本[ほん]} 'a half-read book', {食[た]べかけのパン} 'a half-eaten piece of bread', {飲[の]みかけのコーヒー} 'a half-finished coffee'.\n\nWith verbs of change, it can mean 'on the verge of': {花[はな]が枯[か]れかけている} 'the flowers are starting to wither'.\n\n{〜かける} vs {〜きる}: they're opposites — {〜かける} = partway; {〜きる} = all the way.",
+      "examples": [
+        {
+          "jp": "テーブルの上[うえ]に、読[よ]みかけの本[ほん]が置[お]いてある。",
+          "en": "There's a half-read book on the table."
+        },
+        {
+          "jp": "食[た]べかけのパンを冷蔵庫[れいぞうこ]に入[い]れた。",
+          "en": "I put the half-eaten bread in the fridge."
+        },
+        {
+          "jp": "何[なに]か言[い]いかけて、彼女[かのじょ]は黙[だま]ってしまった。",
+          "en": "She started to say something, then went quiet."
+        },
+        {
+          "jp": "メールを書[か]きかけたところで、電話[でんわ]が鳴[な]った。",
+          "en": "Just as I'd started writing an email, the phone rang."
+        },
+        {
+          "jp": "寒[さむ]さで、ベランダの花[はな]が枯[か]れかけている。",
+          "en": "Because of the cold, the flowers on the balcony are starting to wither."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "飲[の]み＿＿のコーヒーが、机[つくえ]の上[うえ]にそのまま置[お]いてあった。",
+          "en": "A half-finished coffee had been left on the desk.",
+          "choices": [
+            "がち",
+            "きる",
+            "っぽい",
+            "かけ"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "彼[かれ]は何[なに]か言[い]い＿＿が、途中[とちゅう]でやめた。",
+          "en": "He started to say something, but stopped partway.",
+          "choices": [
+            "きった",
+            "かけた",
+            "っぱなしだった",
+            "気味[ぎみ]だった"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n3-ppanashi",
+      "title": "〜っぱなし",
+      "meaning": "leaving ~ (as it is, when you shouldn't) ; keep ~ing (continuously)",
+      "structure": "Verb-ます stem + っぱなし(だ / で / の + Noun / にする)",
+      "explanation": "{〜っぱなし} has two related meanings.\n\n- **Leaving something in a state** that should have been ended — usually a careless habit: {電気[でんき]をつけっぱなしで寝[ね]てしまった。} 'I fell asleep with the light left on.' {窓[まど]を開[あ]けっぱなしにしないで。} 'Don't leave the window open.'\n- **A state continuing for a long time**, usually tiring or annoying: {一日中[いちにちじゅう]立[た]ちっぱなしだった。} 'I was on my feet all day.' {負[ま]けっぱなし} 'losing again and again'.\n\nIt's colloquial and usually carries a negative feeling. Common forms: {〜っぱなしにする} (leave ~), {〜っぱなしで} (with ~ left), {〜っぱなしだ}.",
+      "examples": [
+        {
+          "jp": "電気[でんき]をつけっぱなしで寝[ね]てしまった。",
+          "en": "I fell asleep with the lights left on."
+        },
+        {
+          "jp": "窓[まど]を開[あ]けっぱなしにしないでください。",
+          "en": "Please don't leave the window open."
+        },
+        {
+          "jp": "今日[きょう]は一日中[いちにちじゅう]立[た]ちっぱなしで、足[あし]が痛[いた]い。",
+          "en": "I was on my feet all day today, and my legs hurt."
+        },
+        {
+          "jp": "弟[おとうと]はいつも、テレビをつけっぱなしにする。",
+          "en": "My little brother always leaves the TV on."
+        },
+        {
+          "jp": "歯[は]を磨[みが]く時[とき]、水[みず]を出[だ]しっぱなしにしないで。",
+          "en": "Don't leave the water running when you brush your teeth."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "エアコンをつけ＿＿で出[で]かけてしまった。",
+          "en": "I went out and left the air conditioner on.",
+          "choices": [
+            "きって",
+            "がち",
+            "っぱなし",
+            "気味[ぎみ]"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "新幹線[しんかんせん]が混[こ]んでいて、東京[とうきょう]から大阪[おおさか]までずっと立[た]ち＿＿だった。",
+          "en": "The bullet train was so crowded that I was standing the whole way from Tokyo to Osaka.",
+          "choices": [
+            "がち",
+            "かけ",
+            "っぱなし",
+            "きれない"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

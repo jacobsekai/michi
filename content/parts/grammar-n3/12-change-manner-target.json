@@ -1,0 +1,317 @@
+{
+  "id": "n3-u12",
+  "title": "Change, manner, substitution & target",
+  "summary": "Describing ongoing change ({一方[いっぽう]だ}, {につれて} / {にしたがって}), doing things 'as' something says ({とおり}), substitution ({かわりに}, {に代[か]わって}), and who something is for or suits ({向[む]け}, {向[む]き}).",
+  "points": [
+    {
+      "id": "n3-ippou-da",
+      "title": "〜一方[いっぽう]だ",
+      "meaning": "keeps ~ing ; just keeps getting more and more ~ (one-way change, usually bad)",
+      "structure": "Verb (dictionary, change verbs) + 一方[いっぽう]だ",
+      "explanation": "{一方[いっぽう]} means 'one direction'. {〜一方[いっぽう]だ} says that a change keeps going **in one direction only** and shows no sign of stopping. It's usually used for unwelcome trends.\n\n{最近[さいきん]、物価[ぶっか]は上[あ]がる一方[いっぽう]だ。} 'Prices just keep going up these days.'\n\nIt's only used with verbs of change: {増[ふ]える}, {減[へ]る}, {上[あ]がる}, {下[さ]がる}, {悪[わる]くなる}, {広[ひろ]がる}, etc. You can't say {×食[た]べる一方[いっぽう]だ}.\n\nBefore another clause, {〜一方[いっぽう]で} can continue the sentence. Don't confuse this with {一方[いっぽう]（で）} meaning 'on the other hand', which compares two different things.",
+      "examples": [
+        {
+          "jp": "最近[さいきん]、物価[ぶっか]は上[あ]がる一方[いっぽう]だ。",
+          "en": "Prices just keep rising these days."
+        },
+        {
+          "jp": "仕事[しごと]は増[ふ]える一方[いっぽう]なので、休[やす]む時間[じかん]がない。",
+          "en": "My work keeps piling up and I have no time to rest."
+        },
+        {
+          "jp": "祖父[そふ]の病気[びょうき]は、悪[わる]くなる一方[いっぽう]だった。",
+          "en": "My grandfather's illness just kept getting worse."
+        },
+        {
+          "jp": "この町[まち]の人口[じんこう]は減[へ]る一方[いっぽう]です。",
+          "en": "This town's population keeps shrinking."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "円安[えんやす]のせいで、外国[がいこく]の物[もの]の値段[ねだん]は上[あ]がる＿＿。",
+          "en": "Because of the weak yen, the prices of foreign goods just keep going up.",
+          "choices": [
+            "ついでに",
+            "ばかりか",
+            "一方[いっぽう]だ",
+            "ところに"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "勉強[べんきょう]しないで遊[あそ]んでばかりいるから、成績[せいせき]は下[さ]がる＿＿だ。",
+          "en": "He does nothing but play instead of studying, so his grades just keep falling.",
+          "choices": [
+            "ついで",
+            "一方[いっぽう]",
+            "くせ",
+            "最中[さいちゅう]"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n3-ni-tsurete",
+      "title": "〜につれて / 〜にしたがって",
+      "meaning": "as ~ (changes), ~ (also changes) ; (にしたがって) also: in accordance with ~",
+      "structure": "Verb (dictionary) + につれて / にしたがって ; Noun + につれて / にしたがって",
+      "explanation": "{〜につれて} describes **two changes happening together**: as A changes, B gradually changes too.\n\n{年[とし]をとるにつれて、体力[たいりょく]が落[お]ちてきた。} 'As I've gotten older, my stamina has declined.'\n\nA is a change verb or a noun showing change ({時間[じかん]が経[た]つ}, {成長[せいちょう]}). B is a natural change, not a deliberate action, and often ends with {〜てくる}, {〜ていく}, or {〜ようになる}.\n\n{〜にしたがって} has the same meaning and is slightly more formal. It has a second meaning too: 'following / in accordance with' instructions or rules: {係[かかり]の人[ひと]の指示[しじ]にしたがってください。} 'Please follow the staff's instructions.'\n\n**vs {ば〜ほど}:** {ば〜ほど} can be a general rule; {につれて} describes a change actually unfolding over time.",
+      "examples": [
+        {
+          "jp": "年[とし]をとるにつれて、体力[たいりょく]が落[お]ちてきた。",
+          "en": "As I've gotten older, my stamina has dropped."
+        },
+        {
+          "jp": "日本[にほん]の生活[せいかつ]に慣[な]れるにつれて、友達[ともだち]も増[ふ]えていった。",
+          "en": "As I got used to life in Japan, I made more and more friends."
+        },
+        {
+          "jp": "時間[じかん]が経[た]つにつれて、悲[かな]しみは少[すこ]しずつ消[き]えていく。",
+          "en": "As time passes, sadness gradually fades."
+        },
+        {
+          "jp": "高[たか]く登[のぼ]るにしたがって、気温[きおん]が下[さ]がっていく。",
+          "en": "The higher you climb, the lower the temperature gets."
+        },
+        {
+          "jp": "係[かかり]の人[ひと]の指示[しじ]にしたがって、避難[ひなん]してください。",
+          "en": "Please evacuate according to the staff's instructions."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "春[はる]が近[ちか]づく＿＿、だんだん暖[あたた]かくなってきた。",
+          "en": "As spring approaches, it's gradually getting warmer.",
+          "choices": [
+            "につれて",
+            "にとって",
+            "に対[たい]して",
+            "について"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "日本語[にほんご]が上手[じょうず]になる＿＿、日本[にほん]での生活[せいかつ]が楽[たの]しくなってきた。",
+          "en": "As my Japanese has improved, life in Japan has become more fun.",
+          "choices": [
+            "にしたがって",
+            "に対[たい]して",
+            "にとって",
+            "に関[かん]して"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n3-toori",
+      "title": "〜とおり(に) / 〜どおり(に)",
+      "meaning": "as ~ ; just as ~ ; in the way ~ ; according to ~",
+      "structure": "Verb (dictionary / た-form) + とおり(に) ; Noun + の + とおり(に) ; Noun + どおり(に)",
+      "explanation": "{とおり} comes from {通[とお]り} ('road / way'). {〜とおりに} means 'in the same way as ~': doing something exactly as instructed, planned, expected or shown.\n\n{説明書[せつめいしょ]に書[か]いてあるとおりに組[く]み立[た]ててください。} 'Please assemble it exactly as the instructions say.'\n\nTwo spellings:\n- After verbs or {Noun + の}: {とおり} — {言[い]ったとおり}, {地図[ちず]のとおり}\n- Directly after a noun: {どおり} — {予定[よてい]どおり} 'as scheduled', {思[おも]いどおり} 'as I wanted', {時間[じかん]どおり} 'on time'\n\n{思[おも]ったとおり} at the start of a sentence means 'just as I thought'.",
+      "examples": [
+        {
+          "jp": "説明書[せつめいしょ]に書[か]いてあるとおりに組[く]み立[た]ててください。",
+          "en": "Please assemble it exactly as the instructions say."
+        },
+        {
+          "jp": "私[わたし]が言[い]ったとおりにやってみて。",
+          "en": "Try doing it the way I told you."
+        },
+        {
+          "jp": "会議[かいぎ]は予定[よてい]どおり、三時[さんじ]に始[はじ]まった。",
+          "en": "The meeting started at three, as scheduled."
+        },
+        {
+          "jp": "思[おも]ったとおり、彼[かれ]は来[こ]なかった。",
+          "en": "Just as I thought, he didn't come."
+        },
+        {
+          "jp": "地図[ちず]のとおりに行[い]ったら、すぐ見[み]つかった。",
+          "en": "I followed the map and found it right away."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "先輩[せんぱい]に教[おし]えてもらった＿＿、書類[しょるい]を作[つく]った。",
+          "en": "I made the document exactly as my senior colleague taught me.",
+          "choices": [
+            "ものの",
+            "とおりに",
+            "とたんに",
+            "くせに"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "電車[でんしゃ]が予定[よてい]＿＿着[つ]いたので、会議[かいぎ]に間[ま]に合[あ]った。",
+          "en": "The train arrived on schedule, so I made it to the meeting on time.",
+          "choices": [
+            "ほどに",
+            "どおりに",
+            "くせに",
+            "とおりに"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n3-kawari-ni",
+      "title": "〜かわりに / 〜に代[か]わって",
+      "meaning": "instead of ~ ; in place of ~ ; in exchange for ~ ; on behalf of ~",
+      "structure": "Noun + の + かわりに ; Verb / Adj (plain) + かわりに ; Noun + に代[か]わって",
+      "explanation": "{かわりに} (from {代[か]わる} 'to replace') has three uses.\n\n- **Instead of / in place of:** {部長[ぶちょう]のかわりに、私[わたし]が会議[かいぎ]に出[で]ます。} 'I'll attend the meeting in place of the manager.'\n- **In exchange for:** {日本語[にほんご]を教[おし]えてもらうかわりに、英語[えいご]を教[おし]えてあげた。} 'In exchange for being taught Japanese, I taught English.'\n- **Trade-off (good point / bad point):** {値段[ねだん]が安[やす]いかわりに、サービスはあまりよくない。} 'It's cheap, but on the other hand the service isn't great.'\n\n{〜に代[か]わって} is a more formal version of the first use, often 'on behalf of' in speeches: {社長[しゃちょう]に代[か]わって、ご挨拶[あいさつ]申[もう]し上[あ]げます。}",
+      "examples": [
+        {
+          "jp": "今日[きょう]は部長[ぶちょう]のかわりに、私[わたし]が会議[かいぎ]に出[で]ます。",
+          "en": "Today I'll attend the meeting in place of the manager."
+        },
+        {
+          "jp": "日本語[にほんご]を教[おし]えてもらうかわりに、英語[えいご]を教[おし]えてあげた。",
+          "en": "In exchange for Japanese lessons, I taught English."
+        },
+        {
+          "jp": "この店[みせ]は値段[ねだん]が安[やす]いかわりに、サービスはあまりよくない。",
+          "en": "This shop is cheap, but the service isn't great."
+        },
+        {
+          "jp": "最近[さいきん]は、現金[げんきん]のかわりにスマホで払[はら]う人[ひと]が増[ふ]えた。",
+          "en": "Recently, more people pay with their phones instead of cash."
+        },
+        {
+          "jp": "社長[しゃちょう]に代[か]わって、私[わたし]がご挨拶[あいさつ]させていただきます。",
+          "en": "I'd like to say a few words on behalf of our president."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "風邪[かぜ]をひいた田中[たなか]さんの＿＿、私[わたし]が受付[うけつけ]をします。",
+          "en": "I'll handle reception in place of Tanaka, who has a cold.",
+          "choices": [
+            "おかげで",
+            "かわりに",
+            "ついでに",
+            "くせに"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "料理[りょうり]を作[つく]ってもらう＿＿、私[わたし]が皿洗[さらあら]いをすることにした。",
+          "en": "In exchange for having dinner cooked for me, I decided to do the dishes.",
+          "choices": [
+            "ばかりか",
+            "かわりに",
+            "とおりに",
+            "ものの"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n3-muke",
+      "title": "〜向[む]け",
+      "meaning": "(made / intended) for ~ ; aimed at ~ (a target audience)",
+      "structure": "Noun + 向[む]けの + Noun ; Noun + 向[む]けに + Verb ; Noun + 向[む]けだ",
+      "explanation": "{〜向[む]け} means that something was **designed or made for** a particular group or market. The focus is on the maker's intention.\n\n{これは子供[こども]向[む]けの本[ほん]です。} 'This is a book (written) for children.'\n\nVery common combinations: {外国人[がいこくじん]向[む]け} (for foreigners), {初心者[しょしんしゃ]向[む]け} (for beginners), {若者[わかもの]向[む]け} (aimed at young people), {海外[かいがい]向[む]け} (for overseas markets), {家族[かぞく]向[む]け} (for families).\n\nYou'll see {向[む]け} everywhere when apartment hunting or looking for classes in Japan, e.g. {外国人[がいこくじん]向[む]けの物件[ぶっけん]} 'properties for foreign residents'. Compare {向[む]き} (next point), which is about suitability.",
+      "examples": [
+        {
+          "jp": "これは子供[こども]向[む]けの本[ほん]です。",
+          "en": "This is a book written for children."
+        },
+        {
+          "jp": "外国人[がいこくじん]向[む]けのシェアハウスを探[さが]している。",
+          "en": "I'm looking for a share house aimed at foreigners."
+        },
+        {
+          "jp": "この番組[ばんぐみ]は、若者[わかもの]向[む]けに作[つく]られている。",
+          "en": "This program is made for young people."
+        },
+        {
+          "jp": "初心者[しょしんしゃ]向[む]けの日本語[にほんご]教室[きょうしつ]に通[かよ]っています。",
+          "en": "I'm taking a Japanese class for beginners."
+        },
+        {
+          "jp": "海外[かいがい]向[む]けの製品[せいひん]は、説明書[せつめいしょ]が英語[えいご]で書[か]いてある。",
+          "en": "Products made for overseas have instructions written in English."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "このアプリは、日本語[にほんご]を勉強[べんきょう]している外国人[がいこくじん]＿＿に作[つく]られた。",
+          "en": "This app was made for foreigners studying Japanese.",
+          "choices": [
+            "気味[ぎみ]",
+            "っぽさ",
+            "向[む]け",
+            "がち"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "留学生[りゅうがくせい]＿＿の説明会[せつめいかい]が、来週[らいしゅう]開[ひら]かれます。",
+          "en": "An information session for international students will be held next week.",
+          "choices": [
+            "向[む]け",
+            "最中[さいちゅう]",
+            "がち",
+            "気味[ぎみ]"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n3-muki",
+      "title": "〜向[む]き",
+      "meaning": "suitable for ~ ; suited to ~ ; (direction) facing ~",
+      "structure": "Noun + 向[む]き(だ / の + Noun / ではない)",
+      "explanation": "{〜向[む]き} means 'suitable for ~' — by its **nature**, whether or not anyone designed it that way.\n\n{この料理[りょうり]は辛[から]くないので、子供[こども]向[む]きだ。} 'This dish isn't spicy, so it's good for kids.' (It wasn't necessarily made for children; it just suits them.)\n\nIt also describes **direction**: {南向[みなみむ]きの部屋[へや]} 'a south-facing room' — a key phrase when apartment hunting in Japan, since south-facing rooms get the most sun.\n\n**{向[む]け} vs {向[む]き}:**\n- {子供[こども]向[む]けの本[ほん]} — a book **written for** children (intention).\n- {子供[こども]向[む]きの本[ほん]} — a book **suitable for** children (it happens to suit them).\n\nThe related verb {向[む]いている} means 'to be suited': {彼[かれ]は営業[えいぎょう]に向[む]いている。} 'He's cut out for sales.'",
+      "examples": [
+        {
+          "jp": "この料理[りょうり]は辛[から]くないので、子供[こども]向[む]きだ。",
+          "en": "This dish isn't spicy, so it's good for children."
+        },
+        {
+          "jp": "南向[みなみむ]きの部屋[へや]は日当[ひあ]たりがいい。",
+          "en": "South-facing rooms get plenty of sunlight."
+        },
+        {
+          "jp": "このハイキングコースは坂[さか]が多[おお]いので、初心者[しょしんしゃ]向[む]きではない。",
+          "en": "This hiking trail has lots of hills, so it's not suitable for beginners."
+        },
+        {
+          "jp": "彼[かれ]は人[ひと]と話[はな]すのが好[す]きだから、営業[えいぎょう]向[む]きだと思[おも]う。",
+          "en": "He loves talking to people, so I think he's well suited to sales."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "この山[やま]は道[みち]が険[けわ]しいから、初心者[しょしんしゃ]＿＿ではない。",
+          "en": "The paths on this mountain are steep, so it's not suitable for beginners.",
+          "choices": [
+            "気味[ぎみ]",
+            "がち",
+            "向[む]き",
+            "っぽい"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "日当[ひあ]たりのいい南[みなみ]＿＿の部屋[へや]を探[さが]しています。",
+          "en": "I'm looking for a sunny, south-facing room.",
+          "choices": [
+            "気味[ぎみ]",
+            "向[む]け",
+            "向[む]き",
+            "中心[ちゅうしん]"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

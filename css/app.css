@@ -307,3 +307,58 @@ a.tile:hover { border-color: var(--accent); }
 .kana-row { display: flex; justify-content: center; align-items: center; gap: 24px; }
 .kanji-top { flex-wrap: wrap; }
 .life-pick { display: block; text-decoration: none; color: var(--text); border-left: 4px solid var(--indigo); }
+
+/* ---- v2: recall, pitch, exams, practice, sync ---- */
+.kanji-font { font-family: var(--font-jp-serif); }
+mark { background: color-mix(in srgb, var(--accent) 22%, transparent); color: inherit; border-radius: 4px; padding: 0 2px; }
+.pitch { display: inline-flex; align-items: flex-end; gap: 0; margin-top: 4px; font-size: 1rem; flex-wrap: wrap; }
+.mora { padding: 0 2px; line-height: 1.4; border-color: var(--indigo); }
+.mora.hi { border-top: 2px solid var(--indigo); }
+.mora.lo { border-bottom: 2px solid var(--indigo); }
+.mora.turn { border-left: 2px solid var(--indigo); }
+.drop { color: var(--accent); font-weight: 700; margin: 0 1px; }
+.pitch-name { font-family: var(--font); font-size: .7rem; color: var(--muted); margin-left: 8px; align-self: center; }
+.note-box { margin-top: 12px; }
+.note-box summary { cursor: pointer; color: var(--indigo); font-size: .9rem; }
+.note-box textarea { width: 100%; margin-top: 6px; font: inherit; padding: 10px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--text); }
+.pill-leech { background: var(--bad-soft); color: var(--bad); }
+.answer-form { max-width: 420px; margin: 14px auto 0; width: 100%; }
+.answer-input { text-align: center; }
+.type-input.right { border-color: var(--ok); background: var(--ok-soft); }
+.type-input.wrong { border-color: var(--bad); background: var(--bad-soft); }
+.verdict { text-align: center; margin-top: 8px; font-weight: 700; }
+.verdict .ok { color: var(--ok); display: inline-flex; align-items: center; gap: 4px; }
+.verdict .bad { color: var(--bad); }
+.dontknow { display: block; margin: 8px auto 0; }
+.grade.suggested { outline: 3px solid var(--text); outline-offset: 2px; }
+.grade[disabled] { opacity: .3; cursor: default; }
+.review-actions .btn.small { display: block; margin: 8px auto 0; }
+.wide-form { max-width: 520px; }
+.center-row { justify-content: center; }
+.choice.picked { border-color: var(--indigo); background: color-mix(in srgb, var(--indigo) 12%, var(--surface)); }
+.exam-bar { display: flex; justify-content: space-between; font-size: .9rem; color: var(--muted); }
+.exam-timer { font-variant-numeric: tabular-nums; font-weight: 700; color: var(--text); }
+.exam-timer.low { color: var(--bad); }
+.exam-passage { text-align: left; background: var(--surface-2); border-radius: 10px; padding: 10px 14px; margin-bottom: 12px; }
+.exam-passage summary { cursor: pointer; font-weight: 600; }
+.passage-text { line-height: 2.1; font-size: 1.05rem; margin-top: 8px; }
+.exam-q { font-weight: 600; }
+.exam-review { margin: 4px 0; }
+.exam-review .cloze { font-size: 1.1rem; text-align: left; }
+.big-x { width: 64px; height: 64px; margin: 0 auto 10px; border-radius: 50%; background: var(--surface-2); color: var(--muted); display: grid; place-content: center; font-size: 1.6rem; }
+.cloze u { text-decoration-thickness: 2px; text-underline-offset: 6px; }
+.dict-diff { font-size: 1.4rem; letter-spacing: .05em; margin: 8px 0; }
+.d-ok { color: var(--ok); }
+.d-miss { color: var(--bad); text-decoration: underline wavy; }
+.write-wrap { position: relative; width: min(100%, 320px); aspect-ratio: 1; margin: 12px auto; }
+.write-pad { width: 100%; height: 100%; border: 2px dashed var(--line); border-radius: 14px; background: var(--surface-2); touch-action: none; cursor: crosshair; }
+.write-answer { position: absolute; inset: 0; pointer-events: none; opacity: .55; }
+.write-answer .strokes, .write-answer .strokes svg { width: 100%; height: 100%; border: 0; background: none; }
+.write-answer .stroke-label { display: none; }
+.sync-forms { display: grid; gap: 14px; margin: 12px 0; }
+@media (min-width: 600px) { .sync-forms { grid-template-columns: 1fr 1fr; } }
+.sync-forms form { display: flex; flex-direction: column; gap: 8px; }
+.sync-forms .type-input { font-size: 1rem; }
+.mine-form label { flex-wrap: wrap; }
+.mine-form input { flex: 1; min-width: 180px; font: inherit; padding: 10px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--text); }
+.ex-host .examples { margin-top: 0; }

@@ -1,0 +1,129 @@
+{
+  "id": "n2-u06",
+  "title": "Outcomes, completion, and unfinished business",
+  "summary": "How a long process ended ({あげく}, {末[すえ]に}), futile effort ({たところで}), doing without ({ことなく}), finishing completely ({きる}), stopping halfway ({かける}), and leaving things as they are ({っぱなし}).",
+  "points": [
+    {
+      "id": "n2-ageku",
+      "title": "〜あげく（に）",
+      "meaning": "after a lot of ..., in the end (unfortunately)",
+      "structure": "V-た + あげく（に）　／　Noun + の + あげく（に）",
+      "explanation": "{あげく} describes a long, often troublesome process (worrying, arguing, waiting, getting lost) that ends in a **disappointing or bad result**. The speaker usually sounds frustrated or exasperated.\n\nIt often follows expressions of repeated or prolonged action: {さんざん}, {いろいろ}, {何時間[なんじかん]も}, {迷[まよ]いに迷[まよ]った}.\n\nThe phrase {あげくの果[は]てに} means \"on top of all that, in the end...\" and introduces the worst outcome of all.",
+      "examples": [
+        { "jp": "さんざん迷[まよ]ったあげく、結局[けっきょく]何[なに]も買[か]わなかった。", "en": "After agonising over it for ages, I ended up buying nothing." },
+        { "jp": "長時間[ちょうじかん]の議論[ぎろん]のあげく、計画[けいかく]は白紙[はくし]に戻[もど]った。", "en": "After hours of discussion, the plan went back to square one." },
+        { "jp": "道[みち]に迷[まよ]ったあげくに、終電[しゅうでん]まで逃[のが]してしまった。", "en": "After getting lost, I even ended up missing the last train." },
+        { "jp": "彼[かれ]は散々[さんざん]文句[もんく]を言[い]ったあげく、会費[かいひ]も払[はら]わずに帰[かえ]ってしまった。", "en": "After complaining endlessly, he went home without even paying the fee." }
+      ],
+      "notes": "{あげく} → negative or disappointing result. {末[すえ]に} → neutral or positive result after long effort (next point).",
+      "quiz": [
+        { "q": "さんざん待[ま]たされた＿＿、面接[めんせつ]は中止[ちゅうし]になった。", "en": "After being kept waiting for ages, the interview was cancelled.", "choices": ["以来[いらい]", "次第[しだい]", "からには", "あげく"], "answer": 3 },
+        { "q": "一時間[いちじかん]も店員[てんいん]に文句[もんく]を言[い]った＿＿、その客[きゃく]は何[なに]も買[か]わずに帰[かえ]った。", "en": "After complaining to the staff for a whole hour, the customer left without buying anything.", "choices": ["あげく", "ところを", "わりに", "うえは"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-sueni",
+      "title": "〜末[すえ]に / 〜の末[すえ]",
+      "meaning": "after (a long process of); finally",
+      "structure": "V-た + 末[すえ]（に）　／　Noun + の + 末[すえ]（に）",
+      "explanation": "{末[すえ]} means \"end\". {〜た末[すえ]に} says that after a long or difficult process (thinking, discussion, research, a hard-fought match) a **result was finally reached**. Unlike {あげく}, the result can be positive or neutral, and the focus is on the effort that led there.\n\nIt is somewhat formal and very common in news reports: {延長戦[えんちょうせん]の末[すえ]} (\"after extra time\"), {協議[きょうぎ]の末[すえ]} (\"after deliberation\").\n\n{に} is often dropped in writing: {研究[けんきゅう]の末[すえ]、〜}.",
+      "examples": [
+        { "jp": "悩[なや]んだ末[すえ]に、日本[にほん]で就職[しゅうしょく]することに決[き]めた。", "en": "After a lot of soul-searching, I decided to get a job in Japan." },
+        { "jp": "何度[なんど]も話[はな]し合[あ]った末[すえ]に、ようやく結論[けつろん]が出[で]た。", "en": "After discussing it many times, we finally reached a conclusion." },
+        { "jp": "三年間[さんねんかん]の研究[けんきゅう]の末[すえ]、新[あたら]しい薬[くすり]が完成[かんせい]した。", "en": "After three years of research, the new drug was completed." },
+        { "jp": "延長戦[えんちょうせん]の末[すえ]、日本代表[にほんだいひょう]が勝利[しょうり]した。", "en": "Japan's national team won after extra time." }
+      ],
+      "quiz": [
+        { "q": "激[はげ]しい議論[ぎろん]の＿＿、法案[ほうあん]は可決[かけつ]された。", "en": "After heated debate, the bill was passed.", "choices": ["以来[いらい]", "末[すえ]", "次第[しだい]", "くせに"], "answer": 1 },
+        { "q": "努力[どりょく]を重[かさ]ねた＿＿、ついに夢[ゆめ]だった医者[いしゃ]になった。", "en": "After years of hard work, she finally became the doctor she'd dreamed of being.", "choices": ["あげく", "ばかりに", "末[すえ]に", "せいか"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-tatokorode",
+      "title": "〜たところで",
+      "meaning": "even if (you do); it's no use",
+      "structure": "V-た + ところで",
+      "explanation": "{たところで} means \"even if you do X, (it won't help / the result will be small)\". The second half is negative or dismissive: {無駄[むだ]だ}, {どうにもならない}, {間[ま]に合[あ]わない}, or a small amount with {せいぜい} (\"at most\").\n\nIt is often paired with {いくら} or {どんなに}: {いくら謝[あやま]ったところで} (\"no matter how much you apologise\").\n\nCompared with {〜ても}, it stresses **futility**. Don't confuse it with {ところで} (\"by the way\") or {〜たところ} (\"when I did, it turned out\").",
+      "examples": [
+        { "jp": "今[いま]から急[いそ]いだところで、もう間[ま]に合[あ]わないだろう。", "en": "Even if we hurry now, we won't make it." },
+        { "jp": "彼[かれ]に相談[そうだん]したところで、どうにもならない。", "en": "There's no point in consulting him; it won't change anything." },
+        { "jp": "いくら謝[あやま]ったところで、許[ゆる]してはもらえないだろう。", "en": "No matter how much I apologise, I doubt I'll be forgiven." },
+        { "jp": "値上[ねあ]げしたところで、せいぜい百円[ひゃくえん]程度[ていど]だ。", "en": "Even if they raise the price, it'll be by a hundred yen at most." }
+      ],
+      "quiz": [
+        { "q": "今[いま]さら後悔[こうかい]した＿＿、何[なに]も変[か]わらない。", "en": "Even if you regret it now, nothing will change.", "choices": ["ところを", "ところに", "ところで", "ところへ"], "answer": 2 },
+        { "q": "部長[ぶちょう]に頼[たの]んだところで、＿＿。", "en": "Even if we ask the manager, he probably won't listen.", "choices": ["聞[き]いてくれないだろう", "きっと聞[き]いてくれる", "聞[き]いてくれた", "頼[たの]んでみよう"], "answer": 0 }
+      ]
+    },
+    {
+      "id": "n2-kotonaku",
+      "title": "〜ことなく",
+      "meaning": "without (ever) doing",
+      "structure": "V-dictionary + ことなく",
+      "explanation": "{ことなく} is a formal, written way to say \"without doing\", equivalent to {〜ずに} / {〜ないで}. It usually describes something that one might expect to happen but that **never** happens: resting, giving up, being noticed, missing a day.\n\nThe tone is serious and often admiring, so it suits news, speeches, biographies and company messages: {休[やす]むことなく働[はたら]き続[つづ]けた} (\"kept working without a break\").\n\nIn casual conversation, use {〜ずに} or {〜ないで} instead.",
+      "examples": [
+        { "jp": "彼[かれ]は休[やす]むことなく、十時間[じゅうじかん]働[はたら]き続[つづ]けた。", "en": "He kept working for ten hours without a break." },
+        { "jp": "失敗[しっぱい]を恐[おそ]れることなく、挑戦[ちょうせん]してほしい。", "en": "I want you to take on challenges without fearing failure." },
+        { "jp": "誰[だれ]にも知[し]られることなく、計画[けいかく]は進[すす]められた。", "en": "The plan went ahead without anyone finding out." },
+        { "jp": "二十年間[にじゅうねんかん]、一日[いちにち]も欠[か]かすことなく日記[にっき]を書[か]いている。", "en": "For twenty years, I've written in my diary without missing a single day." }
+      ],
+      "quiz": [
+        { "q": "彼女[かのじょ]は諦[あきら]める＿＿、何度[なんど]も挑戦[ちょうせん]した。", "en": "She tried again and again without giving up.", "choices": ["ことから", "ことなく", "ことに", "ことか"], "answer": 1 },
+        { "q": "雨[あめ]の日[ひ]も風[かぜ]の日[ひ]も、彼[かれ]は休[やす]む＿＿店[みせ]を開[あ]けた。", "en": "Rain or shine, he opened the shop without taking a day off.", "choices": ["ことには", "ものの", "ことなく", "あげく"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-kiru",
+      "title": "〜きる / 〜きれない",
+      "meaning": "do completely; (can't) finish all of; utterly",
+      "structure": "V-ます stem + きる / きれる / きれない",
+      "explanation": "{きる} (from {切[き]る}, \"to cut\") adds the idea of **finishing all the way**:\n- {読[よ]みきる} read to the end, {使[つか]いきる} use up, {走[はし]りきる} run the whole distance\n- {きれない}: can't do all of it: {食[た]べきれない} (can't eat it all), {数[かぞ]えきれない} (countless)\n- with states, \"utterly\": {疲[つか]れきる} (exhausted), {困[こま]りきる} (completely at a loss)\n- {言[い]い切[き]る}: to declare firmly\n\nThe idiom {感謝[かんしゃ]してもしきれない} means \"I can never thank you enough\".",
+      "examples": [
+        { "jp": "一晩[ひとばん]で小説[しょうせつ]を読[よ]みきった。", "en": "I read the whole novel in one night." },
+        { "jp": "こんなにたくさんの料理[りょうり]、二人[ふたり]では食[た]べきれないよ。", "en": "The two of us can't possibly eat all this food." },
+        { "jp": "一日中[いちにちじゅう]働[はたら]いて、疲[つか]れきってしまった。", "en": "I worked all day and I'm completely exhausted." },
+        { "jp": "社長[しゃちょう]は「必[かなら]ず黒字[くろじ]にする」と言[い]い切[き]った。", "en": "The president declared firmly, \"We will definitely turn a profit.\"" },
+        { "jp": "皆様[みなさま]には、感謝[かんしゃ]してもしきれません。", "en": "I can never thank you all enough." }
+      ],
+      "quiz": [
+        { "q": "荷物[にもつ]が多[おお]すぎて、車[くるま]に積[つ]み＿＿。", "en": "There's too much luggage; we can't fit it all in the car.", "choices": ["かけない", "きれない", "かねない", "げだ"], "answer": 1 },
+        { "q": "彼[かれ]は四十二[よんじゅうに]キロを最後[さいご]まで走[はし]り＿＿。", "en": "He ran the full 42 kilometres to the finish.", "choices": ["かけた", "っぱなしだった", "がたかった", "きった"], "answer": 3 }
+      ]
+    },
+    {
+      "id": "n2-kake",
+      "title": "〜かけ / 〜かける",
+      "meaning": "half-done; start to (but not finish); be about to",
+      "structure": "V-ます stem + かける / かけの + Noun / かけだ",
+      "explanation": "{かける} attached to a verb stem means an action has **started but not finished**: {読[よ]みかけの本[ほん]} (a half-read book), {食[た]べかけのパン} (half-eaten bread), {言[い]いかけてやめた} (started to say something and stopped).\n\nWith verbs of sudden change it means \"almost, on the verge of\": {死[し]にかけた} (nearly died), {忘[わす]れかけていた} (had almost forgotten).\n\n{かけ} behaves as a noun, so it takes {の} before another noun. Be careful: {話[はな]しかける} (\"to speak to someone\") and {呼[よ]びかける} (\"to call out to\") are separate fixed verbs with a different meaning.",
+      "examples": [
+        { "jp": "読[よ]みかけの本[ほん]が机[つくえ]の上[うえ]に置[お]いてある。", "en": "There's a half-read book on the desk." },
+        { "jp": "食[た]べかけのパンを捨[す]てないでください。", "en": "Please don't throw away the half-eaten bread." },
+        { "jp": "彼[かれ]は何[なに]か言[い]いかけて、やめた。", "en": "He started to say something, then stopped." },
+        { "jp": "書[か]きかけのメールが保存[ほぞん]されたままになっている。", "en": "A half-written email is still sitting in my drafts." },
+        { "jp": "忘[わす]れかけていた夢[ゆめ]を、もう一度[いちど]追[お]いかけてみたい。", "en": "I want to chase the dream I'd almost forgotten one more time." }
+      ],
+      "quiz": [
+        { "q": "テーブルの上[うえ]に、飲[の]み＿＿のコーヒーが残[のこ]っていた。", "en": "A half-drunk coffee was left on the table.", "choices": ["かけ", "がち", "気味[ぎみ]", "げ"], "answer": 0 },
+        { "q": "彼女[かのじょ]は何[なに]か言[い]い＿＿、口[くち]を閉[と]じた。", "en": "She started to say something, then closed her mouth.", "choices": ["得[え]て", "っこなくて", "かけて", "気味[ぎみ]で"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "n2-ppanashi",
+      "title": "〜っぱなし",
+      "meaning": "leave (as is); keep on (without a break)",
+      "structure": "V-ます stem + っぱなし（だ / で / にする / の + Noun）",
+      "explanation": "{っぱなし} (from {放[はな]す}, \"to let go\") has two uses, both slightly negative:\n\n**1. Leaving something in a state** that should have been dealt with: {電気[でんき]をつけっぱなし} (left the light on), {水[みず]を出[だ]しっぱなし} (left the water running), {開[あ]けっぱなし} (left open).\n\n**2. A state continuing without a break**: {立[た]ちっぱなし} (standing the whole time), {負[ま]けっぱなし} (losing every time).\n\nCompared with {〜たまま}, which is neutral, {っぱなし} suggests carelessness or an unpleasant situation. It is common in everyday speech.",
+      "examples": [
+        { "jp": "エアコンをつけっぱなしで出[で]かけてしまった。", "en": "I went out and left the air conditioner on." },
+        { "jp": "水[みず]を出[だ]しっぱなしにしないでください。", "en": "Please don't leave the water running." },
+        { "jp": "今日[きょう]は一日中[いちにちじゅう]立[た]ちっぱなしで、足[あし]が痛[いた]い。", "en": "I was on my feet all day today and my legs hurt." },
+        { "jp": "最近[さいきん]、うちのチームは負[ま]けっぱなしだ。", "en": "Our team has been losing non-stop recently." }
+      ],
+      "quiz": [
+        { "q": "窓[まど]を開[あ]け＿＿にして寝[ね]たら、風邪[かぜ]をひいた。", "en": "I slept with the window left open and caught a cold.", "choices": ["かけ", "次第[しだい]", "っぱなし", "気味[ぎみ]"], "answer": 2 },
+        { "q": "朝[あさ]から会議[かいぎ]が続[つづ]いて、ずっと座[すわ]り＿＿だった。", "en": "Meetings ran back to back from the morning, so I was sitting the whole time.", "choices": ["っぱなし", "かけ", "がたい", "得[う]る"], "answer": 0 }
+      ]
+    }
+  ]
+}

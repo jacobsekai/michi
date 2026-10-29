@@ -1,0 +1,407 @@
+{
+  "id": "n1-u03",
+  "title": "Extremes of feeling",
+  "summary": "Formal ways to say 'extremely', 'utterly' and 'I can't help feeling', from {失礼[しつれい]極[きわ]まりない} to {光栄[こうえい]の至[いた]り} and {感謝[かんしゃ]に堪[た]えません}.",
+  "points": [
+    {
+      "id": "n1-kiwamarinai",
+      "title": "〜極[きわ]まりない／〜極[きわ]まる",
+      "meaning": "extremely; utterly (usually negative)",
+      "structure": "な-adj stem + 極[きわ]まりない / 極[きわ]まる",
+      "explanation": "{極[きわ]まる} means 'to reach the extreme'. Attached to a na-adjective, {〜極[きわ]まりない} and {〜極[きわ]まる} both mean 'as X as it gets' — {極[きわ]まりない} is literally 'has no limit'. Despite one looking negative, they mean the same thing.\n\nThe adjectives are usually negative judgements: {失礼[しつれい]}, {危険[きけん]}, {不愉快[ふゆかい]}, {非常識[ひじょうしき]}, {不誠実[ふせいじつ]}, {退屈[たいくつ]}. The speaker is condemning something.\n\n**Register:** formal and written — editorials, criticism, official complaints. In speech it sounds indignant and stiff, but you will hear {失礼[しつれい]極[きわ]まりない} from angry people on TV dramas.",
+      "examples": [
+        {
+          "jp": "あの店員[てんいん]の態度[たいど]は失礼[しつれい]極[きわ]まりない。",
+          "en": "That shop assistant's attitude is incredibly rude."
+        },
+        {
+          "jp": "雨[あめ]の夜[よる]に無灯火[むとうか]で自転車[じてんしゃ]に乗[の]るのは危険[きけん]極[きわ]まりない。",
+          "en": "Riding a bike without a light on a rainy night is extremely dangerous."
+        },
+        {
+          "jp": "連絡[れんらく]もなく約束[やくそく]を破[やぶ]るとは、非常識[ひじょうしき]極[きわ]まる行為[こうい]だ。",
+          "en": "Breaking a promise without even getting in touch is utterly inconsiderate behaviour."
+        },
+        {
+          "jp": "政府[せいふ]の対応[たいおう]は不誠実[ふせいじつ]極[きわ]まりないと、野党[やとう]は強[つよ]く批判[ひはん]した。",
+          "en": "The opposition strongly criticised the government's response as utterly insincere."
+        }
+      ],
+      "notes": "Fixed expression: {感[かん]極[きわ]まる} 'to be overcome with emotion' ({感[かん]極[きわ]まって泣[な]き出[だ]す}). Compare {〜の極[きわ]み} (after nouns, with {の}).",
+      "quiz": [
+        {
+          "q": "酔[よ]って運転[うんてん]するなど、危険[きけん]＿＿。",
+          "en": "Driving drunk is extremely dangerous.",
+          "choices": [
+            "極[きわ]まりない",
+            "の至[いた]りだ",
+            "に足[た]る",
+            "にかたくない"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "彼[かれ]の言動[げんどう]は不愉快[ふゆかい]＿＿ものだった。",
+          "en": "His words and behaviour were extremely unpleasant.",
+          "choices": [
+            "極[きわ]まる",
+            "極[きわ]まりで",
+            "の極[きわ]みの",
+            "めいた"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-no-itari",
+      "title": "〜の至[いた]り",
+      "meaning": "the utmost; extremely (in fixed polite phrases)",
+      "structure": "Noun + の至[いた]り(だ／です)",
+      "explanation": "{至[いた]り} means 'the furthest point reached'. {〜の至[いた]り} is used in a small set of fixed phrases, mostly polite expressions of honour, gratitude or embarrassment:\n\n- {光栄[こうえい]の至[いた]り} — a great honour\n- {恐縮[きょうしゅく]の至[いた]り} — I'm deeply obliged / terribly sorry\n- {感激[かんげき]の至[いた]り} — deeply moved\n- {赤面[せきめん]の至[いた]り} — utterly embarrassing\n- {若気[わかげ]の至[いた]り} — youthful folly (a mistake you made because you were young)\n\n**Register:** very formal speeches and letters, except {若気[わかげ]の至[いた]り}, which is a common everyday idiom, often used with a wry smile about your teenage self.",
+      "examples": [
+        {
+          "jp": "このような賞[しょう]をいただき、光栄[こうえい]の至[いた]りです。",
+          "en": "It is a great honour to receive such an award."
+        },
+        {
+          "jp": "あんな派手[はで]な服[ふく]を着[き]ていたのは、若気[わかげ]の至[いた]りだった。",
+          "en": "Wearing such flashy clothes was just youthful folly."
+        },
+        {
+          "jp": "人前[ひとまえ]で名前[なまえ]を間違[まちが]えるとは、まったく赤面[せきめん]の至[いた]りです。",
+          "en": "Getting someone's name wrong in public — I'm thoroughly embarrassed."
+        },
+        {
+          "jp": "皆様[みなさま]にご迷惑[めいわく]をおかけし、恐縮[きょうしゅく]の至[いた]りでございます。",
+          "en": "I am deeply sorry for the trouble I have caused you all."
+        }
+      ],
+      "notes": "Don't make your own combinations; stick to the set phrases. {〜の極[きわ]み} is broader and combines with more nouns.",
+      "quiz": [
+        {
+          "q": "名誉[めいよ]ある賞[しょう]を受賞[じゅしょう]し、光栄[こうえい]＿＿です。",
+          "en": "Winning such a prestigious prize is a great honour.",
+          "choices": [
+            "極[きわ]まりない",
+            "ずくめ",
+            "の至[いた]り",
+            "まみれ"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "学生[がくせい]時代[じだい]に髪[かみ]を金色[きんいろ]に染[そ]めたのは、若気[わかげ]の＿＿だ。",
+          "en": "Dyeing my hair gold as a student was youthful folly.",
+          "choices": [
+            "極[きわ]み",
+            "至[いた]り",
+            "限[かぎ]り",
+            "次第[しだい]"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n1-no-kiwami",
+      "title": "〜の極[きわ]み",
+      "meaning": "the height of; the ultimate in",
+      "structure": "Noun + の極[きわ]み",
+      "explanation": "{極[きわ]み} is the noun 'extreme, peak'. {X の極[きわ]み} means 'the very height of X' and works with both positive and negative nouns: {贅沢[ぜいたく]の極[きわ]み} (the height of luxury), {疲労[ひろう]の極[きわ]み} (utter exhaustion), {無責任[むせきにん]の極[きわ]み} (the height of irresponsibility), {痛恨[つうこん]の極[きわ]み} (deepest regret).\n\n{痛恨[つうこん]の極[きわ]み} is a cliché in formal apologies and post-match interviews. {感激[かんげき]の極[きわ]み} expresses overwhelming emotion.\n\n**Register:** formal and written, though it appears in speech for emphasis and in advertising ('the ultimate in comfort').",
+      "examples": [
+        {
+          "jp": "一流[いちりゅう]ホテルのスイートルームに泊[と]まるなんて、贅沢[ぜいたく]の極[きわ]みだ。",
+          "en": "Staying in a suite at a top hotel is the height of luxury."
+        },
+        {
+          "jp": "決勝[けっしょう]で負[ま]けたことは、痛恨[つうこん]の極[きわ]みです。",
+          "en": "Losing in the final is a matter of the deepest regret."
+        },
+        {
+          "jp": "徹夜[てつや]が三日[みっか]続[つづ]き、疲労[ひろう]の極[きわ]みに達[たっ]した。",
+          "en": "After three all-nighters in a row, I reached the point of utter exhaustion."
+        },
+        {
+          "jp": "事故[じこ]の責任[せきにん]を部下[ぶか]に押[お]し付[つ]けるとは、無責任[むせきにん]の極[きわ]みだ。",
+          "en": "Pushing the blame for the accident onto his subordinates is the height of irresponsibility."
+        }
+      ],
+      "notes": "{〜極[きわ]まりない} attaches directly to na-adjectives ({失礼[しつれい]極[きわ]まりない}); {〜の極[きわ]み} needs {の} and a noun.",
+      "quiz": [
+        {
+          "q": "世界一[せかいいち]の山[やま]の頂上[ちょうじょう]に立[た]てたのは、感激[かんげき]＿＿だった。",
+          "en": "Standing on the summit of the world's highest mountain was the most moving experience imaginable.",
+          "choices": [
+            "をおいて",
+            "ならでは",
+            "の極[きわ]み",
+            "に足[た]る"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "自分[じぶん]の失敗[しっぱい]を他人[たにん]のせいにするとは、無責任[むせきにん]の＿＿だ。",
+          "en": "Blaming others for your own failure is the height of irresponsibility.",
+          "choices": [
+            "極[きわ]み",
+            "至[いた]り",
+            "限[かぎ]り",
+            "次第[しだい]"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-to-ittara-nai",
+      "title": "〜といったらない",
+      "meaning": "indescribably; words can't express how (X) it is",
+      "structure": "Noun / い-adj + さ (noun form) + といったらない／ったらない",
+      "explanation": "{〜といったらない} literally says 'if you try to name X, there is nothing (that compares)'. It means that a feeling or quality is so intense it is beyond words: {悔[くや]しさといったらない} 'I can't tell you how frustrating it was'.\n\nIt usually comes after a noun made from an adjective with {さ}: {美[うつく]しさ}, {寂[さび]しさ}, {恥[は]ずかしさ}, {しつこさ}. It can be positive or negative. When talking about the past, use {〜といったらなかった}.\n\n**Register:** unlike most of this unit, this one is genuinely used in conversation, especially the contracted {〜ったらない}. It also appears in essays and novels.",
+      "examples": [
+        {
+          "jp": "あの人[ひと]のしつこさったらないよ。",
+          "en": "You can't believe how pushy that guy is."
+        },
+        {
+          "jp": "大勢[おおぜい]の前[まえ]で転[ころ]んだ時[とき]の恥[は]ずかしさといったらなかった。",
+          "en": "I can't describe how embarrassed I was when I fell over in front of all those people."
+        },
+        {
+          "jp": "一人[ひとり]で暮[く]らし始[はじ]めた頃[ころ]の寂[さび]しさといったらなかった。",
+          "en": "When I first started living alone, I was lonelier than I can say."
+        },
+        {
+          "jp": "初[はじ]めて山頂[さんちょう]から見[み]た朝日[あさひ]の美[うつく]しさといったらなかった。",
+          "en": "The beauty of the sunrise I saw from the summit for the first time was beyond words."
+        }
+      ],
+      "notes": "A negative-only variant is {〜といったらありはしない／ありゃしない}: {面倒[めんどう]くさいったらありゃしない} 'what a pain'. Don't confuse with {〜といったら} 'speaking of', as in {日本[にほん]料理[りょうり]といったら寿司[すし]だ}.",
+      "quiz": [
+        {
+          "q": "合格[ごうかく]の知[し]らせを聞[き]いた時[とき]のうれしさ＿＿。",
+          "en": "I can't tell you how happy I was when I heard I'd passed.",
+          "choices": [
+            "といったらなかった",
+            "というものではない",
+            "といったところだ",
+            "とはかぎらない"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "夜中[よなか]に一人[ひとり]で墓地[ぼち]を歩[ある]いた時[とき]の怖[こわ]さ＿＿なかった。",
+          "en": "Walking through the graveyard alone at midnight was more frightening than I can describe.",
+          "choices": [
+            "にしたら",
+            "としたら",
+            "となったら",
+            "といったら"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-te-yamanai",
+      "title": "〜てやまない",
+      "meaning": "never stop (hoping / loving etc.); sincerely, deeply",
+      "structure": "Verb て-form + やまない",
+      "explanation": "{やむ} means 'to stop, cease' (like rain stopping). {〜てやまない} means a feeling continues without end: 'I cannot stop hoping', i.e. 'I sincerely hope'. It combines only with verbs of deep feeling: {願[ねが]う}, {祈[いの]る}, {望[のぞ]む}, {愛[あい]する}, {尊敬[そんけい]する}, {期待[きたい]する}, {憧[あこが]れる}.\n\nWhen it describes the speaker, it's used in formal speeches, wedding toasts and letters: {ご活躍[かつやく]を祈[いの]ってやみません}. It also describes other people's lifelong devotion in biographies.\n\n**Register:** formal, ceremonial and written. Not for casual feelings — {✕ラーメンを食[た]べたくてやまない} is wrong.",
+      "examples": [
+        {
+          "jp": "世界[せかい]の平和[へいわ]を祈[いの]ってやまない。",
+          "en": "I pray with all my heart for world peace."
+        },
+        {
+          "jp": "皆様[みなさま]のご健康[けんこう]とご活躍[かつやく]を願[ねが]ってやみません。",
+          "en": "I sincerely wish you all good health and continued success."
+        },
+        {
+          "jp": "彼[かれ]は生涯[しょうがい]、故郷[こきょう]を愛[あい]してやまなかった。",
+          "en": "All his life he never stopped loving his hometown."
+        },
+        {
+          "jp": "私[わたし]が尊敬[そんけい]してやまない恩師[おんし]が、この春[はる]退職[たいしょく]された。",
+          "en": "My former teacher, whom I deeply admire, retired this spring."
+        }
+      ],
+      "notes": "Compare {〜てならない／〜てたまらない} 'can't help feeling', which express strong spontaneous feelings ({心配[しんぱい]でならない}). {〜てやまない} is about a lasting, sincere wish or devotion.",
+      "quiz": [
+        {
+          "q": "新郎[しんろう]新婦[しんぷ]のお二人[ふたり]の末永[すえなが]い幸[しあわ]せを願[ねが]って＿＿。",
+          "en": "I sincerely wish the bride and groom lasting happiness.",
+          "choices": [
+            "なりません",
+            "たまりません",
+            "やみません",
+            "かないません"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "子[こ]どもの頃[ころ]から私[わたし]が憧[あこが]れて＿＿のは、宇宙[うちゅう]飛行士[ひこうし]という仕事[しごと]だ。",
+          "en": "The job I have always longed for since childhood is that of an astronaut.",
+          "choices": [
+            "やまない",
+            "やむをえない",
+            "やめない",
+            "やまず"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-wo-kinjienai",
+      "title": "〜を禁[きん]じ得[え]ない",
+      "meaning": "can't help feeling; can't suppress",
+      "structure": "Noun (emotion) + を禁[きん]じ得[え]ない",
+      "explanation": "{禁[きん]じる} is 'to prohibit' and {得[え]ない} is 'cannot'. So {〜を禁[きん]じ得[え]ない} means 'I cannot prevent (this feeling) from arising': I can't help feeling anger, sympathy, surprise, or can't hold back tears.\n\nNouns that commonly appear: {怒[いか]り}, {同情[どうじょう]}, {驚[おどろ]き}, {涙[なみだ]}, {失望[しつぼう]}, {憤[いきどお]り}, {戸惑[とまど]い}. The feeling is usually triggered by something the speaker has witnessed or heard about.\n\n**Register:** very formal, written — editorials, statements, essays, formal speeches. In conversation you'd say {〜せずにはいられない} or just {本当[ほんとう]に腹[はら]が立[た]つ}.",
+      "examples": [
+        {
+          "jp": "突然[とつぜん]の訃報[ふほう]に、驚[おどろ]きを禁[きん]じ得[え]なかった。",
+          "en": "I could not help being shocked by the sudden news of his death."
+        },
+        {
+          "jp": "家族[かぞく]を失[うしな]った子[こ]どもたちの姿[すがた]には、同情[どうじょう]を禁[きん]じ得[え]ない。",
+          "en": "One cannot help but feel sympathy for the children who lost their families."
+        },
+        {
+          "jp": "被害者[ひがいしゃ]の話[はなし]を聞[き]き、犯人[はんにん]への怒[いか]りを禁[きん]じ得[え]ない。",
+          "en": "Hearing the victim's story, I cannot suppress my anger at the perpetrator."
+        },
+        {
+          "jp": "一部[いちぶ]の政治家[せいじか]の無責任[むせきにん]な発言[はつげん]には、失望[しつぼう]を禁[きん]じ得[え]ない。",
+          "en": "I cannot hide my disappointment at the irresponsible remarks of certain politicians."
+        }
+      ],
+      "notes": "Only nouns for emotions or tears. It is not used for actions: {✕笑[わら]うことを禁[きん]じ得[え]ない}; use {笑[わら]わずにはいられない} instead.",
+      "quiz": [
+        {
+          "q": "戦争[せんそう]の写真[しゃしん]を見[み]て、涙[なみだ]＿＿。",
+          "en": "Looking at the war photographs, I could not hold back my tears.",
+          "choices": [
+            "を余儀[よぎ]なくされた",
+            "を禁[きん]じ得[え]なかった",
+            "にかたくなかった",
+            "に足[た]りなかった"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "長年[ながねん]信頼[しんらい]してきた友人[ゆうじん]の裏切[うらぎ]りに、怒[いか]り＿＿禁[きん]じ得[え]ない。",
+          "en": "I cannot suppress my anger at the betrayal of a friend I had trusted for years.",
+          "choices": [
+            "に",
+            "が",
+            "を",
+            "で"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-ni-taenai",
+      "title": "〜に堪[た]えない",
+      "meaning": "(1) too awful to (watch/listen to); (2) extremely, deeply (grateful, regretful)",
+      "structure": "Verb (dictionary form: 見[み]る／聞[き]く) + に堪[た]えない / Noun (感謝[かんしゃ]・遺憾[いかん] etc.) + に堪[た]えない",
+      "explanation": "{堪[た]える} means 'to bear, to stand'. {〜に堪[た]えない} has two separate uses:\n\n**1. After {見[み]る}, {聞[き]く}, {読[よ]む}:** 'so bad you can't bear to watch/hear/read it'. {見[み]るに堪[た]えない} 'unwatchable', {聞[き]くに堪[た]えない悪口[わるくち]} 'abuse too vile to listen to'.\n\n**2. After a feeling noun:** 'I cannot contain (this feeling)' = extremely. Mainly {感謝[かんしゃ]に堪[た]えない} 'deeply grateful', {遺憾[いかん]に堪[た]えない} 'deeply regrettable', {憂慮[ゆうりょ]に堪[た]えない} 'gravely concerned'.\n\n**Register:** both are formal and written. Use 2 is typical of speeches and official statements. The JLPT often writes it in hiragana: {にたえない}.",
+      "examples": [
+        {
+          "jp": "最近[さいきん]のテレビ番組[ばんぐみ]には、見[み]るに堪[た]えないものが多[おお]い。",
+          "en": "A lot of TV programmes these days are unwatchable."
+        },
+        {
+          "jp": "彼[かれ]らの口論[こうろん]は聞[き]くに堪[た]えないほどひどかった。",
+          "en": "Their argument was so nasty it was unbearable to listen to."
+        },
+        {
+          "jp": "皆様[みなさま]の温[あたた]かいご支援[しえん]に、感謝[かんしゃ]に堪[た]えません。",
+          "en": "I am deeply grateful for your warm support."
+        },
+        {
+          "jp": "今回[こんかい]の事態[じたい]は、誠[まこと]に遺憾[いかん]に堪[た]えない。",
+          "en": "This situation is truly and deeply regrettable."
+        }
+      ],
+      "notes": "Its positive counterpart {〜に堪[た]える} 'worth / able to withstand' is the next point.",
+      "quiz": [
+        {
+          "q": "事故[じこ]現場[げんば]の様子[ようす]は、見[み]る＿＿ものだった。",
+          "en": "The scene of the accident was too horrible to look at.",
+          "choices": [
+            "をおいて",
+            "に至[いた]る",
+            "に即[そく]した",
+            "に堪[た]えない"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "多[おお]くの方々[かたがた]からご支援[しえん]をいただき、感謝[かんしゃ]＿＿。",
+          "en": "I am deeply grateful to have received support from so many people.",
+          "choices": [
+            "に堪[た]えません",
+            "にかたくありません",
+            "に足[た]りません",
+            "を余儀[よぎ]なくされます"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-ni-taeru",
+      "title": "〜に堪[た]える",
+      "meaning": "worth (doing); good enough to; able to withstand",
+      "structure": "Noun / Verb (dictionary form) + に堪[た]える",
+      "explanation": "The positive form {〜に堪[た]える} means something is good enough to stand up to a certain use or scrutiny: {鑑賞[かんしょう]に堪[た]える} 'worth watching (for adults/experts)', {読[よ]むに堪[た]える} 'worth reading', {批判[ひはん]に堪[た]える} 'able to withstand criticism'.\n\nWith physical hardship ({寒[さむ]さ}, {重[おも]さ}, {長時間[ちょうじかん]の手術[しゅじゅつ]}), the kanji {耐[た]える} 'endure' is usually used instead, but the grammar is the same.\n\n**Register:** written — reviews, criticism, essays. It often appears with {十分[じゅうぶん]} or {だけの}: {専門家[せんもんか]の目[め]に十分[じゅうぶん]堪[た]える}.",
+      "examples": [
+        {
+          "jp": "この作品[さくひん]は、大人[おとな]の鑑賞[かんしょう]にも十分[じゅうぶん]堪[た]える。",
+          "en": "This work is quite good enough for adult audiences too."
+        },
+        {
+          "jp": "読[よ]むに堪[た]える翻訳[ほんやく]は、意外[いがい]に少[すく]ない。",
+          "en": "Translations that are actually worth reading are surprisingly few."
+        },
+        {
+          "jp": "高齢[こうれい]の父[ちち]には、長時間[ちょうじかん]の手術[しゅじゅつ]に耐[た]える体力[たいりょく]がない。",
+          "en": "My elderly father doesn't have the strength to withstand a long operation."
+        },
+        {
+          "jp": "素人[しろうと]の論文[ろんぶん]だが、専門家[せんもんか]の批判[ひはん]に堪[た]えるだけの内容[ないよう]がある。",
+          "en": "It's an amateur's paper, but its content can stand up to expert criticism."
+        }
+      ],
+      "notes": "Compare {〜に足[た]る} 'worthy of' (Unit 9), which is about deserving trust or attention; {〜に堪[た]える} is about standing up to use or scrutiny.",
+      "quiz": [
+        {
+          "q": "この映画[えいが]は子[こ]ども向[む]けだが、大人[おとな]の鑑賞[かんしょう]に＿＿作品[さくひん]だ。",
+          "en": "This film is aimed at children, but it's good enough for adults to enjoy too.",
+          "choices": [
+            "堪[た]える",
+            "限[かぎ]る",
+            "至[いた]る",
+            "即[そく]する"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "長年[ながねん]の風雪[ふうせつ]に＿＿きた古[ふる]い寺[てら]が、地震[じしん]で倒壊[とうかい]した。",
+          "en": "The old temple, which had withstood wind and snow for many years, collapsed in the earthquake.",
+          "choices": [
+            "堪[た]えなくて",
+            "足[た]りて",
+            "耐[た]えて",
+            "至[いた]って"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

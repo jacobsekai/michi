@@ -1,0 +1,407 @@
+{
+  "id": "n1-u09",
+  "title": "Inevitable, unavoidable, deserved",
+  "summary": "Patterns of necessity and judgement: 'will inevitably' ({ずにはおかない}), 'can't get away without' ({ずにはすまない}), 'be forced to' ({を余儀[よぎ]なくされる}), grudging possibility, 'easy to imagine', 'worthy of', and 'deserves to'.",
+  "points": [
+    {
+      "id": "n1-zu-ni-wa-okanai",
+      "title": "〜ずにはおかない",
+      "meaning": "will inevitably (cause); can't fail to; will definitely (do)",
+      "structure": "Verb ない-stem + ずにはおかない (する → せずにはおかない)",
+      "explanation": "{〜ずにはおかない} literally means 'will not leave things without doing X'. Two uses:\n\n**1. Inevitable effect (most common):** the subject is a thing — a film, a remark, a policy — and it will inevitably cause a reaction. Often with causative verbs: {感動[かんどう]させずにはおかない} 'can't fail to move people', {批判[ひはん]を招[まね]かずにはおかない} 'is bound to draw criticism'.\n\n**2. Strong determination:** a person declares they will definitely do something: {犯人[はんにん]を捕[つか]まえずにはおかない} 'I will catch the culprit, no matter what'.\n\n**Register:** formal and written — reviews, editorials, news commentary. The variant {〜ないではおかない} means the same.",
+      "examples": [
+        {
+          "jp": "この映画[えいが]は、見[み]る人[ひと]を感動[かんどう]させずにはおかない。",
+          "en": "This film cannot fail to move whoever watches it."
+        },
+        {
+          "jp": "今度[こんど]こそ、犯人[はんにん]を捕[つか]まえずにはおかない。",
+          "en": "This time, I'm going to catch the culprit, no matter what."
+        },
+        {
+          "jp": "新[あたら]しい税制[ぜいせい]は、国民[こくみん]の生活[せいかつ]に影響[えいきょう]を与[あた]えずにはおかない。",
+          "en": "The new tax system is bound to affect people's lives."
+        },
+        {
+          "jp": "彼[かれ]の無責任[むせきにん]な発言[はつげん]は、世間[せけん]の批判[ひはん]を招[まね]かずにはおかないだろう。",
+          "en": "His irresponsible remarks will inevitably draw public criticism."
+        }
+      ],
+      "notes": "Compare {〜ずにはいられない} 'I can't help doing' (the speaker's own uncontrollable urge). {ずにはおかない} is about an unstoppable effect on others, or an iron will.",
+      "quiz": [
+        {
+          "q": "彼女[かのじょ]の歌声[うたごえ]は、聞[き]く人[ひと]の心[こころ]を動[うご]かさ＿＿。",
+          "en": "Her singing voice cannot fail to move the hearts of those who hear it.",
+          "choices": [
+            "ずじまいだ",
+            "ずにはおかない",
+            "ずくめだ",
+            "ずにはすまない"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "この事件[じけん]は、社会[しゃかい]に大[おお]きな衝撃[しょうげき]を与[あた]え＿＿だろう。",
+          "en": "This incident is bound to send a great shock through society.",
+          "choices": [
+            "ずにはいられない",
+            "ずじまい",
+            "ずとも",
+            "ずにはおかない"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-zu-ni-wa-sumanai",
+      "title": "〜ずにはすまない／〜ないではすまない",
+      "meaning": "won't get away without doing; will have to (by social obligation)",
+      "structure": "Verb ない-stem + ずにはすまない / Verb ない-form + ではすまない (する → せずにはすまない)",
+      "explanation": "{すむ} means 'to be settled, to be over'. {〜ずにはすまない} means 'the matter won't be settled unless X is done' — i.e. given the situation, social norms or common sense demand that you do X. You broke something, so you'll have to pay; you caused trouble, so you'll have to apologise.\n\nThe obligation comes from the situation, not from the speaker's personal desire.\n\n**Register:** formal; used in writing and in serious conversation. The variant {〜ないではすまない} is slightly more conversational. A related form is {〜ではすまない} 'won't end at X' ({謝[あやま]るだけではすまない} 'an apology alone won't be enough').",
+      "examples": [
+        {
+          "jp": "大切[たいせつ]な書類[しょるい]をなくしたのだから、部長[ぶちょう]に謝[あやま]らずにはすまない。",
+          "en": "I lost important documents, so I'll have to apologise to the department head."
+        },
+        {
+          "jp": "友達[ともだち]の車[くるま]を傷[きず]つけてしまった。弁償[べんしょう]せずにはすまないだろう。",
+          "en": "I damaged my friend's car. I'll probably have to pay for it."
+        },
+        {
+          "jp": "嘘[うそ]がばれた以上[いじょう]、本当[ほんとう]のことを話[はな]さないではすまない。",
+          "en": "Now that the lie has come out, I'll have no choice but to tell the truth."
+        },
+        {
+          "jp": "これほどの事故[じこ]を起[お]こした以上[いじょう]、会社[かいしゃ]の責任[せきにん]が問[と]われずにはすまないだろう。",
+          "en": "Having caused an accident this serious, the company is bound to be held responsible."
+        }
+      ],
+      "notes": "{ずにはおかない} = something will inevitably cause an effect (or iron will); {ずにはすまない} = the situation obliges you to do something.",
+      "quiz": [
+        {
+          "q": "約束[やくそく]を破[やぶ]って迷惑[めいわく]をかけたのだから、直接[ちょくせつ]会[あ]って謝[あやま]ら＿＿。",
+          "en": "I broke my promise and caused trouble, so I'll have to meet them in person and apologise.",
+          "choices": [
+            "ずにはすまない",
+            "ずくめだ",
+            "ずじまいだ",
+            "ずともよい"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "会社[かいしゃ]のお金[かね]を使[つか]い込[こ]んだのだから、処分[しょぶん]を受[う]けないでは＿＿。",
+          "en": "Since he embezzled company money, he won't get away without being disciplined.",
+          "choices": [
+            "おかない",
+            "いられない",
+            "すまない",
+            "ならない"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-wo-yogi-naku-sareru",
+      "title": "〜を余儀[よぎ]なくされる",
+      "meaning": "to be forced to; to have no choice but to",
+      "structure": "Noun (action) + を余儀[よぎ]なくされる / Noun + を余儀[よぎ]なくさせる (to force)",
+      "explanation": "{余儀[よぎ]ない} means 'unavoidable, no other option'. {X を余儀[よぎ]なくされる} means 'to be forced (by circumstances) into X' — typically something unwelcome like cancellation, withdrawal, retirement, closure or evacuation. X is a noun, usually a Sino-Japanese action noun: {中止[ちゅうし]}, {欠航[けっこう]}, {撤退[てったい]}, {閉鎖[へいさ]}, {引退[いんたい]}, {避難[ひなん]}.\n\nThe active form {〜を余儀[よぎ]なくさせる} puts the cause as the subject: 'the typhoon forced the cancellation'.\n\n**Register:** very formal, and **extremely common in news**. You'll hear it on NHK every week. In conversation, you'd say {〜しなければならなくなった}.",
+      "examples": [
+        {
+          "jp": "彼[かれ]はけがのため、引退[いんたい]を余儀[よぎ]なくされた。",
+          "en": "He was forced to retire because of injury."
+        },
+        {
+          "jp": "台風[たいふう]の影響[えいきょう]で、多[おお]くの便[びん]が欠航[けっこう]を余儀[よぎ]なくされた。",
+          "en": "Because of the typhoon, many flights had to be cancelled."
+        },
+        {
+          "jp": "業績[ぎょうせき]の悪化[あっか]により、同社[どうしゃ]は工場[こうじょう]の閉鎖[へいさ]を余儀[よぎ]なくされた。",
+          "en": "Due to deteriorating results, the company was forced to close the factory."
+        },
+        {
+          "jp": "突然[とつぜん]の豪雨[ごうう]が、大会[たいかい]の中止[ちゅうし]を余儀[よぎ]なくさせた。",
+          "en": "The sudden downpour forced the tournament to be called off."
+        }
+      ],
+      "notes": "The forced action is generally negative and caused by external circumstances (weather, the economy, injury), not by a person's order.",
+      "quiz": [
+        {
+          "q": "大雪[おおゆき]のため、新幹線[しんかんせん]は運転[うんてん]見合[みあ]わせ＿＿。",
+          "en": "Due to heavy snow, the Shinkansen was forced to suspend operations.",
+          "choices": [
+            "を禁[きん]じ得[え]なかった",
+            "を皮切[かわき]りにした",
+            "を余儀[よぎ]なくされた",
+            "をものともしなかった"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "資金[しきん]不足[ぶそく]により、研究[けんきゅう]チームは計画[けいかく]の変更[へんこう]を余儀[よぎ]なく＿＿。",
+          "en": "Due to a lack of funds, the research team was forced to change its plans.",
+          "choices": [
+            "された",
+            "した",
+            "なった",
+            "あった"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-nai-mono-demo-nai",
+      "title": "〜ないものでもない",
+      "meaning": "it's not impossible that; might (just) (if conditions are right)",
+      "structure": "Verb ない-form + ものでもない / ものでもありません",
+      "explanation": "A double negative: {〜ないものでもない} means 'it's not the case that X can't/won't happen'. It expresses a reluctant, hedged possibility: 'I might be willing, depending on the conditions', 'we might just make it if we hurry'.\n\nIt often comes with a condition: {条件[じょうけん]次第[しだい]では}, {急[いそ]げば}, {〜があれば}. The speaker is cautious and not committing.\n\n**Register:** somewhat formal and a little roundabout; used in negotiations and in careful speech or writing. The everyday equivalent is {〜ないこともない}, which is much more common.",
+      "examples": [
+        {
+          "jp": "条件[じょうけん]次第[しだい]では、引[ひ]き受[う]けないものでもない。",
+          "en": "Depending on the terms, I might be willing to take it on."
+        },
+        {
+          "jp": "急[いそ]げば、最終[さいしゅう]電車[でんしゃ]に間[ま]に合[あ]わないものでもない。",
+          "en": "If we hurry, we might just make the last train."
+        },
+        {
+          "jp": "誠意[せいい]ある謝罪[しゃざい]があれば、許[ゆる]さないものでもない。",
+          "en": "If I get a sincere apology, I might be willing to forgive him."
+        },
+        {
+          "jp": "彼[かれ]の気持[きも]ちも分[わ]からないものでもないが、やはり規則[きそく]は規則[きそく]だ。",
+          "en": "It's not that I don't understand how he feels, but rules are rules."
+        }
+      ],
+      "notes": "Learn {〜ないこともない} as the spoken version: {行[い]かないこともないけど…} 'I might go, I suppose...'.",
+      "quiz": [
+        {
+          "q": "三日[みっか]あれば、できない＿＿が、確約[かくやく]はできない。",
+          "en": "If I had three days, it might not be impossible, but I can't promise anything.",
+          "choices": [
+            "ばかりだ",
+            "ものでもない",
+            "までだ",
+            "始末[しまつ]だ"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "君[きみ]がそこまで言[い]うなら、手伝[てつだ]ってあげない＿＿。",
+          "en": "If you insist that much, I suppose I might help you.",
+          "choices": [
+            "ものの",
+            "ほどだ",
+            "始末[しまつ]だ",
+            "ものでもない"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-ni-kataku-nai",
+      "title": "〜にかたくない",
+      "meaning": "it is not hard to (imagine / understand)",
+      "structure": "Noun (想像[そうぞう]・理解[りかい]) + にかたくない / Verb (察[さっ]する) + にかたくない",
+      "explanation": "{かたい} here is {難[かた]い} 'difficult' (an old, written word). {〜にかたくない} means 'it is not difficult to X' — and in practice the X is almost always imagining or understanding: {想像[そうぞう]にかたくない} 'easy to imagine', {察[さっ]するにかたくない} 'easy to guess (someone's feelings)', {理解[りかい]にかたくない}.\n\nIt's used when the speaker infers something (often someone's suffering, or a likely future consequence) from the situation.\n\n**Register:** formal and written — editorials, essays, news commentary. {想像[そうぞう]にかたくない} is by far the most common form; learn it as a set phrase.",
+      "examples": [
+        {
+          "jp": "彼女[かのじょ]がどれほど緊張[きんちょう]していたかは、想像[そうぞう]にかたくない。",
+          "en": "It's easy to imagine how nervous she must have been."
+        },
+        {
+          "jp": "突然[とつぜん]家族[かぞく]を失[うしな]った彼[かれ]の悲[かな]しみは、想像[そうぞう]にかたくない。",
+          "en": "It's not hard to imagine his grief at suddenly losing his family."
+        },
+        {
+          "jp": "一人[ひとり]で三人[さんにん]の子[こ]どもを育[そだ]てる苦労[くろう]は、察[さっ]するにかたくない。",
+          "en": "One can easily imagine the hardship of raising three children alone."
+        },
+        {
+          "jp": "このまま値上[ねあ]げが続[つづ]けば、消費者[しょうひしゃ]の反発[はんぱつ]が強[つよ]まることは想像[そうぞう]にかたくない。",
+          "en": "If prices keep rising like this, it's easy to imagine consumer backlash growing."
+        }
+      ],
+      "notes": "Don't use it with everyday verbs: {✕このパンは食[た]べるにかたくない}. It's reserved for imagining and understanding.",
+      "quiz": [
+        {
+          "q": "被災者[ひさいしゃ]の不安[ふあん]は、想像[そうぞう]＿＿。",
+          "en": "It's not hard to imagine the anxiety of the disaster victims.",
+          "choices": [
+            "にかたくない",
+            "に足[た]らない",
+            "を余儀[よぎ]なくされる",
+            "に即[そく]している"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "初[はじ]めて一人[ひとり]で海外[かいがい]に出[で]た娘[むすめ]の心細[こころぼそ]さは、察[さっ]する＿＿かたくない。",
+          "en": "It's easy to imagine how lonely my daughter felt going abroad alone for the first time.",
+          "choices": [
+            "を",
+            "が",
+            "で",
+            "に"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-ni-taru",
+      "title": "〜に足[た]る／〜に足[た]りない",
+      "meaning": "worthy of; enough to justify / not worth",
+      "structure": "Verb (dictionary form) / Noun + に足[た]る (+ Noun) / に足[た]りない",
+      "explanation": "{足[た]る} is the classical form of {足[た]りる} 'to be enough'. {X に足[た]る Y} means 'Y that is sufficient for X / worthy of X': {信頼[しんらい]するに足[た]る人物[じんぶつ]} 'a person worthy of trust', {証明[しょうめい]するに足[た]る証拠[しょうこ]} 'evidence sufficient to prove it'.\n\nThe negative {〜に足[た]りない} means 'not worth X'. The fixed phrase {取[と]るに足[た]りない} 'trivial, not worth bothering about' is very common.\n\n**Register:** formal and written — reports, legal language, essays. {取[と]るに足[た]りない} also appears in everyday conversation.",
+      "examples": [
+        {
+          "jp": "そんなことは取[と]るに足[た]りない問題[もんだい]だ。",
+          "en": "That's a trivial problem."
+        },
+        {
+          "jp": "彼[かれ]は信頼[しんらい]するに足[た]る人物[じんぶつ]だ。",
+          "en": "He is a man who can be trusted."
+        },
+        {
+          "jp": "彼[かれ]の主張[しゅちょう]を裏付[うらづ]けるに足[た]る証拠[しょうこ]は見[み]つからなかった。",
+          "en": "No evidence sufficient to back up his claim was found."
+        },
+        {
+          "jp": "満足[まんぞく]に足[た]る結果[けっか]とは言[い]えないが、一定[いってい]の成果[せいか]はあった。",
+          "en": "It can't be called a satisfying result, but there was some progress."
+        }
+      ],
+      "notes": "Compare {〜に値[あたい]する} 'worth (doing)': {一読[いちどく]に値[あたい]する} 'worth reading'. {〜に足[た]る} focuses on sufficiency, {〜に値[あたい]する} on value.",
+      "quiz": [
+        {
+          "q": "その報告書[ほうこくしょ]には、信用[しんよう]する＿＿データが一[ひと]つもなかった。",
+          "en": "There was not a single piece of data in that report worthy of trust.",
+          "choices": [
+            "にかたくない",
+            "に堪[た]えない",
+            "をおいて",
+            "に足[た]る"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "小[ちい]さなミスなど、気[き]にするに＿＿。",
+          "en": "Small mistakes aren't worth worrying about.",
+          "choices": [
+            "足[た]りない",
+            "即[そく]さない",
+            "かたくない",
+            "堪[た]えない"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-de-nakute-nan-darou",
+      "title": "〜でなくてなんだろう",
+      "meaning": "if this isn't X, what is?; this is surely X",
+      "structure": "Noun + でなくてなんだろう(か) / でなくてなんであろう(か)",
+      "explanation": "A rhetorical question: 'If this is not X, then what is it?' — meaning 'this is X, without doubt'. The writer describes something striking, then labels it with strong emotion: love, fate, courage, a miracle, abuse, injustice.\n\nThe noun is usually abstract and weighty: {愛[あい]}, {運命[うんめい]}, {奇跡[きせき]}, {勇気[ゆうき]}, {悲劇[ひげき]}, {差別[さべつ]}.\n\n**Register:** literary and rhetorical — essays, speeches, novels, impassioned editorials. You will almost never hear it in conversation; if you used it at a party, people would think you were giving a speech.",
+      "examples": [
+        {
+          "jp": "彼[かれ]が命[いのち]をかけて子[こ]どもを救[すく]ったのは、勇気[ゆうき]でなくてなんだろう。",
+          "en": "He risked his life to save a child — if that isn't courage, what is?"
+        },
+        {
+          "jp": "何十年[なんじゅうねん]も離[はな]れていた二人[ふたり]が偶然[ぐうぜん]再会[さいかい]した。これが運命[うんめい]でなくてなんだろうか。",
+          "en": "Two people separated for decades met again by chance. If that isn't fate, what is?"
+        },
+        {
+          "jp": "自分[じぶん]の夢[ゆめ]を捨[す]ててまで家族[かぞく]を支[ささ]えた母[はは]の生[い]き方[かた]は、愛[あい]でなくてなんだろう。",
+          "en": "My mother gave up her own dreams to support our family. What could that be but love?"
+        },
+        {
+          "jp": "子[こ]どもに食[た]べ物[もの]を与[あた]えず放置[ほうち]するのは、虐待[ぎゃくたい]でなくてなんであろう。",
+          "en": "Leaving a child without food — if that isn't abuse, what is?"
+        }
+      ],
+      "notes": "{なんであろう} is even more literary than {なんだろう}. The pattern always expresses the writer's strong conviction.",
+      "quiz": [
+        {
+          "q": "一度[いちど]も会[あ]ったことのない人々[ひとびと]のために一生[いっしょう]を捧[ささ]げる。これが愛[あい]＿＿。",
+          "en": "Devoting your whole life to people you've never met — if that isn't love, what is?",
+          "choices": [
+            "ではあるまいし",
+            "でなくてなんだろう",
+            "ずくめだろう",
+            "めいたものか"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "十年[じゅうねん]もの研究[けんきゅう]の末[すえ]に生[う]まれたこの発明[はつめい]は、努力[どりょく]の結晶[けっしょう]で＿＿なんだろう。",
+          "en": "This invention, born of ten years of research, is surely the fruit of hard work.",
+          "choices": [
+            "なくても",
+            "あって",
+            "あれ",
+            "なくて"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-te-shikaru-beki",
+      "title": "〜てしかるべきだ",
+      "meaning": "should (naturally); deserves to; it's only right that",
+      "structure": "Verb て-form + しかるべきだ / しかるべき + Noun (appropriate ...)",
+      "explanation": "{しかるべき} (from classical {然[しか]る} 'to be so' + {べき}) means 'appropriate, as it should be'. {〜てしかるべきだ} means 'it would be only right / natural for X to happen': {もっと評価[ひょうか]されてしかるべきだ} 'deserves to be more highly regarded'.\n\nIt's often used with passive verbs to argue that something deserves to happen but hasn't yet — giving it a slightly critical edge. With {〜てしかるべきだった}, it criticises something that should have happened.\n\nAs an adjective, {しかるべき} means 'appropriate, proper': {しかるべき措置[そち]} 'appropriate measures', {しかるべき人[ひと]} 'the proper person'. This is common in business and official language.\n\n**Register:** formal; editorials, business, official statements.",
+      "examples": [
+        {
+          "jp": "彼[かれ]の功績[こうせき]は、もっと評価[ひょうか]されてしかるべきだ。",
+          "en": "His achievements deserve far more recognition."
+        },
+        {
+          "jp": "消費者[しょうひしゃ]には、正確[せいかく]な情報[じょうほう]が提供[ていきょう]されてしかるべきだ。",
+          "en": "Consumers ought to be provided with accurate information."
+        },
+        {
+          "jp": "本来[ほんらい]なら、もっと早[はや]く対策[たいさく]が取[と]られてしかるべきだった。",
+          "en": "By rights, countermeasures should have been taken much sooner."
+        },
+        {
+          "jp": "問題[もんだい]が確認[かくにん]され次第[しだい]、しかるべき措置[そち]を講[こう]じます。",
+          "en": "As soon as the problem is confirmed, we will take appropriate measures."
+        }
+      ],
+      "notes": "Compare plain {〜べきだ}: {しかるべきだ} sounds more objective, as if it's simply the natural state of things.",
+      "quiz": [
+        {
+          "q": "これだけ努力[どりょく]したのだから、彼女[かのじょ]は報[むく]われて＿＿。",
+          "en": "She's worked so hard; she deserves to be rewarded.",
+          "choices": [
+            "しかるべきだ",
+            "やまない",
+            "ならない",
+            "たまらない"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "ミスを犯[おか]した以上[いじょう]、責任者[せきにんしゃ]は＿＿処分[しょぶん]を受[う]けるべきだ。",
+          "en": "Since a mistake was made, the person in charge should receive appropriate disciplinary action.",
+          "choices": [
+            "あるまじき",
+            "極[きわ]まりない",
+            "しかるべき",
+            "ならではの"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

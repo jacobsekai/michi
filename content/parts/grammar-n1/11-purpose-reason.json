@@ -1,0 +1,407 @@
+{
+  "id": "n1-u11",
+  "title": "Purpose, reason and means",
+  "summary": "Formal ways to express purpose ({んがため}, {べく}), cause ({ゆえに}, {ばこそ}, {こととて}), pretexts ({にかこつけて}), means and formal end points ({をもって}), and acting to save face ({手前[てまえ]}).",
+  "points": [
+    {
+      "id": "n1-n-ga-tame",
+      "title": "〜んがため(に)",
+      "meaning": "in order to; for the sake of (with strong determination)",
+      "structure": "Verb ない-stem + んがため(に) / んがための + Noun (する → せんがため)",
+      "explanation": "{〜んがため} is built from the classical volitional {ん} ('intend to') plus {がため} ('for the purpose of'). It means 'with the firm aim of doing X' and usually describes someone making great sacrifices or efforts for a goal.\n\nConjugation: take the nai-stem and add {んがため}: {勝[か]つ} → {勝[か]たんがため}, {生[い]きる} → {生[い]きんがため}. {する} becomes {せんがため}.\n\n**Register:** literary and very formal — novels, historical writing, speeches, editorials. Not used in conversation; there you'd say {〜ために}.",
+      "examples": [
+        {
+          "jp": "生[い]きんがために、人々[ひとびと]は必死[ひっし]で働[はたら]いた。",
+          "en": "People worked desperately just to survive."
+        },
+        {
+          "jp": "彼[かれ]は夢[ゆめ]を実現[じつげん]せんがため、全[すべ]てを犠牲[ぎせい]にした。",
+          "en": "He sacrificed everything to make his dream come true."
+        },
+        {
+          "jp": "真実[しんじつ]を明[あき]らかにせんがための調査[ちょうさ]が続[つづ]けられている。",
+          "en": "An investigation aimed at uncovering the truth is continuing."
+        },
+        {
+          "jp": "勝[か]たんがためには手段[しゅだん]を選[えら]ばないという姿勢[しせい]には、疑問[ぎもん]を感[かん]じる。",
+          "en": "I have doubts about an attitude of doing whatever it takes just to win."
+        }
+      ],
+      "notes": "Not for everyday purposes like {✕パンを買[か]わんがためにコンビニへ行[い]った}. It needs a weighty goal.",
+      "quiz": [
+        {
+          "q": "彼[かれ]は試合[しあい]に勝[か]た＿＿、毎日[まいにち]厳[きび]しい練習[れんしゅう]を続[つづ]けた。",
+          "en": "Determined to win the match, he kept up harsh training every day.",
+          "choices": [
+            "んがため",
+            "んばかりに",
+            "ずじまいで",
+            "ないまでも"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "会社[かいしゃ]は利益[りえき]を上[あ]げ＿＿ため、従業員[じゅうぎょういん]の安全[あんぜん]を軽視[けいし]していた。",
+          "en": "In its drive to make a profit, the company had neglected the safety of its workers.",
+          "choices": [
+            "んと",
+            "ずに",
+            "まい",
+            "んが"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-beku",
+      "title": "〜べく",
+      "meaning": "in order to; with the aim of",
+      "structure": "Verb (dictionary form) + べく (する → すべく／するべく)",
+      "explanation": "{べく} is the continuative form of {べし} (see Unit 14). {〜べく} means 'in order to do X' and shows a deliberate purpose. It is much more common than {んがため}, especially in the news: companies act {〜すべく}, committees are set up {〜すべく}, volunteers gather {〜すべく}.\n\nThe second half is a concrete action taken to achieve the goal.\n\n**Register:** formal and written; frequent in news, business reports and press releases. Also heard in formal speeches.",
+      "examples": [
+        {
+          "jp": "被災地[ひさいち]を支援[しえん]すべく、多[おお]くのボランティアが集[あつ]まった。",
+          "en": "Many volunteers gathered to support the disaster-hit area."
+        },
+        {
+          "jp": "彼[かれ]は弁護士[べんごし]になるべく、毎日[まいにち]十時間[じゅうじかん]勉強[べんきょう]している。",
+          "en": "He studies ten hours a day with the aim of becoming a lawyer."
+        },
+        {
+          "jp": "真相[しんそう]を究明[きゅうめい]すべく、調査[ちょうさ]委員会[いいんかい]が設置[せっち]された。",
+          "en": "An investigative committee was set up to get to the bottom of the matter."
+        },
+        {
+          "jp": "同社[どうしゃ]は海外[かいがい]市場[しじょう]に進出[しんしゅつ]すべく、現地[げんち]企業[きぎょう]との提携[ていけい]を進[すす]めている。",
+          "en": "The company is pursuing partnerships with local firms in order to expand into overseas markets."
+        }
+      ],
+      "notes": "Related forms: {〜べくして} 'as was bound to happen' ({起[お]こるべくして起[お]こった事故[じこ]}) and {〜べくもない} 'there's no way to' ({知[し]るべくもない}). Not for requests or commands in the second half.",
+      "quiz": [
+        {
+          "q": "留学[りゅうがく]の費用[ひよう]を貯[た]める＿＿、彼女[かのじょ]はアルバイトを三[みっ]つ掛[か]け持[も]ちしている。",
+          "en": "To save money for studying abroad, she's working three part-time jobs.",
+          "choices": [
+            "べからず",
+            "べき",
+            "べく",
+            "まじく"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "事故[じこ]の原因[げんいん]を明[あき]らかに＿＿、専門家[せんもんか]による調査[ちょうさ]が始[はじ]まった。",
+          "en": "An investigation by experts has begun in order to determine the cause of the accident.",
+          "choices": [
+            "すべく",
+            "すべき",
+            "すべし",
+            "すべからず"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-yue-ni",
+      "title": "〜ゆえ(に)／〜がゆえに",
+      "meaning": "because of; due to; therefore",
+      "structure": "Noun (の) + ゆえ(に) / plain form + (が)ゆえに / Noun + ゆえの + Noun",
+      "explanation": "{ゆえ} ({故[ゆえ]}) is a classical word for 'reason'. {〜ゆえ(に)} means 'because of X' and sounds logical, weighty or literary. {〜がゆえに} after a clause is common in essays: {不便[ふべん]であるがゆえに} 'precisely because it is inconvenient'.\n\nAs a sentence connector, {ゆえに} means 'therefore' — used in logic and mathematics. And Descartes' famous line is {我[われ]思[おも]う、ゆえに我[われ]あり} 'I think, therefore I am'.\n\n**Register:** written, academic and literary. {若[わか]さゆえの過[あやま]ち} 'a mistake of youth' is a well-known phrase.",
+      "examples": [
+        {
+          "jp": "若[わか]さゆえの過[あやま]ちは、誰[だれ]にでもある。",
+          "en": "Everyone makes mistakes because they're young."
+        },
+        {
+          "jp": "我[われ]思[おも]う、ゆえに我[われ]あり。",
+          "en": "I think, therefore I am."
+        },
+        {
+          "jp": "彼[かれ]は貧[まず]しさゆえに、学校[がっこう]に通[かよ]うことができなかった。",
+          "en": "Because of poverty, he was unable to attend school."
+        },
+        {
+          "jp": "この地域[ちいき]は交通[こうつう]が不便[ふべん]であるがゆえに、若者[わかもの]の流出[りゅうしゅつ]が続[つづ]いている。",
+          "en": "Because transport in this region is so inconvenient, young people keep leaving."
+        }
+      ],
+      "notes": "In conversation, use {〜から} or {〜ので}. {〜ゆえ} without {に} is even more literary.",
+      "quiz": [
+        {
+          "q": "彼女[かのじょ]は正直[しょうじき]すぎる＿＿、時々[ときどき]人[ひと]を傷[きず]つけてしまう。",
+          "en": "Because she's too honest, she sometimes ends up hurting people.",
+          "choices": [
+            "がてら",
+            "がゆえに",
+            "が最後[さいご]",
+            "が早[はや]いか"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "子[こ]どもを思[おも]う＿＿の厳[きび]しさだということは、大人[おとな]になってから分[わ]かった。",
+          "en": "It was only after I grew up that I understood that the strictness came from caring about the child.",
+          "choices": [
+            "がてら",
+            "かたわら",
+            "そばから",
+            "がゆえ"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-ba-koso",
+      "title": "〜ばこそ",
+      "meaning": "precisely because; it is only because",
+      "structure": "Verb / Adjective ば-form + こそ (Noun / な-adj + であればこそ)",
+      "explanation": "{〜ばこそ} is an emphatic 'because'. It insists that X is the true reason — often a reason the listener may not have realised. 'I say harsh things *because* I care about you.'\n\nIt usually explains a positive motive behind something that might look negative (strictness, criticism, sacrifice), or highlights an essential precondition. The sentence often ends in {〜のだ}.\n\n**Register:** formal and slightly literary, but used in heartfelt speech. Similar in meaning to {〜からこそ}, which is far more common in conversation.",
+      "examples": [
+        {
+          "jp": "あなたのことを思[おも]えばこそ、厳[きび]しいことを言[い]うのです。",
+          "en": "It's precisely because I care about you that I'm being harsh."
+        },
+        {
+          "jp": "健康[けんこう]であればこそ、好[す]きな仕事[しごと]を続[つづ]けられる。",
+          "en": "It's only because I'm healthy that I can keep doing the work I love."
+        },
+        {
+          "jp": "家族[かぞく]の支[ささ]えがあればこそ、ここまで頑張[がんば]ってこられた。",
+          "en": "It's only because of my family's support that I've been able to keep going this far."
+        },
+        {
+          "jp": "信頼[しんらい]していればこそ、彼[かれ]に大事[だいじ]な仕事[しごと]を任[まか]せたのだ。",
+          "en": "It's precisely because I trust him that I entrusted him with such important work."
+        }
+      ],
+      "notes": "Not used for negative reasons: {✕寝坊[ねぼう]すればこそ遅刻[ちこく]した}. Use {〜からこそ} in everyday talk.",
+      "quiz": [
+        {
+          "q": "君[きみ]に期待[きたい]して＿＿、こうして注意[ちゅうい]しているんだ。",
+          "en": "It's precisely because I have high hopes for you that I'm warning you like this.",
+          "choices": [
+            "いればこそ",
+            "いようものなら",
+            "いるそばから",
+            "いるまでもなく"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "愛[あい]して＿＿、別[わか]れを選[えら]んだのだ。",
+          "en": "It was precisely because I loved her that I chose to part.",
+          "choices": [
+            "いるなり",
+            "いながらに",
+            "いればこそ",
+            "いるまじく"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-koto-tote",
+      "title": "〜こととて",
+      "meaning": "because; since (as an excuse or apology)",
+      "structure": "Verb / Adjective (plain) + こととて / Noun + の + こととて",
+      "explanation": "{〜こととて} gives a reason, usually as an excuse when apologising or asking for forgiveness: 'Since it was my first time, please forgive any shortcomings.' 'Since it was done by a child, please let it go.'\n\nIt can also simply state a circumstance: {休日[きゅうじつ]のこととて} 'it being a holiday'. A typical lead-in is {何分[なにぶん]} 'after all, you see'.\n\n**Register:** old-fashioned and very formal; seen in letters, formal apologies and historical novels. You'll rarely hear it today, but it appears on the JLPT and in very polite business apologies.",
+      "examples": [
+        {
+          "jp": "慣[な]れないこととて、ご迷惑[めいわく]をおかけしました。",
+          "en": "I'm sorry for the trouble; I'm not used to this."
+        },
+        {
+          "jp": "子[こ]どものしたこととて、どうか許[ゆる]してやってください。",
+          "en": "It was done by a child, so please forgive him."
+        },
+        {
+          "jp": "休日[きゅうじつ]のこととて、役所[やくしょ]はどこも閉[し]まっていた。",
+          "en": "It being a holiday, all the government offices were closed."
+        },
+        {
+          "jp": "何分[なにぶん]初[はじ]めてのこととて、至[いた]らない点[てん]もあるかと存[ぞん]じます。",
+          "en": "As this is, after all, my first time, I expect there will be some shortcomings."
+        }
+      ],
+      "notes": "Don't confuse it with {〜とて} 'even' ({子[こ]どもとて容赦[ようしゃ]しない} 'won't show mercy even to a child').",
+      "quiz": [
+        {
+          "q": "不慣[ふな]れな＿＿、手続[てつづ]きに時間[じかん]がかかってしまい申[もう]し訳[わけ]ありません。",
+          "en": "I'm sorry the procedure took so long; I'm not used to it.",
+          "choices": [
+            "ことなしに",
+            "ことか",
+            "こととて",
+            "ことには"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "何[なに]しろ急[きゅう]な＿＿、十分[じゅうぶん]な準備[じゅんび]ができませんでした。",
+          "en": "As it was so sudden, we couldn't prepare sufficiently.",
+          "choices": [
+            "こととて",
+            "ことなく",
+            "ことには",
+            "ことか"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-ni-kakotsukete",
+      "title": "〜にかこつけて",
+      "meaning": "using X as an excuse / pretext",
+      "structure": "Noun + にかこつけて",
+      "explanation": "{かこつける} means 'to use as a pretext'. {X にかこつけて Y} means 'using X as an excuse, someone does Y (what they really wanted to do)'. Dad goes out drinking every night 'for work socialising'; someone goes sightseeing 'on a business trip'.\n\nThe tone is critical or self-mocking: the stated reason isn't the real one.\n\n**Register:** neutral; used in conversation and writing. Fairly common in real life, especially when teasing someone.",
+      "examples": [
+        {
+          "jp": "出張[しゅっちょう]にかこつけて、観光[かんこう]を楽[たの]しんできた。",
+          "en": "I used the business trip as an excuse to do some sightseeing."
+        },
+        {
+          "jp": "父[ちち]は付[つ]き合[あ]いにかこつけて、毎晩[まいばん]飲[の]みに行[い]く。",
+          "en": "My father goes drinking every night under the pretext of socialising for work."
+        },
+        {
+          "jp": "彼[かれ]は体調[たいちょう]不良[ふりょう]にかこつけて、面倒[めんどう]な会議[かいぎ]を欠席[けっせき]した。",
+          "en": "He used feeling unwell as an excuse to skip the tedious meeting."
+        },
+        {
+          "jp": "子[こ]どもの誕生日[たんじょうび]にかこつけて、自分[じぶん]が欲[ほ]しかったゲームを買[か]った。",
+          "en": "Using my child's birthday as an excuse, I bought a game I'd wanted myself."
+        }
+      ],
+      "notes": "Similar: {〜を口実[こうじつ]に} 'using X as a pretext'. {かこつけて} implies the excuse is thin.",
+      "quiz": [
+        {
+          "q": "彼[かれ]は仕事[しごと]が忙[いそが]しいこと＿＿、家事[かじ]を全[まった]く手伝[てつだ]わない。",
+          "en": "Using his busy job as an excuse, he doesn't help with the housework at all.",
+          "choices": [
+            "にもまして",
+            "にひきかえ",
+            "に即[そく]して",
+            "にかこつけて"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "打[う]ち合[あ]わせ＿＿、取引先[とりひきさき]の近[ちか]くの有名[ゆうめい]なラーメン屋[や]に行[い]ってきた。",
+          "en": "Using the client meeting as an excuse, I went to a famous ramen shop near their office.",
+          "choices": [
+            "にひきかえ",
+            "にかこつけて",
+            "を限[かぎ]りに",
+            "をおいて"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n1-wo-motte",
+      "title": "〜をもって",
+      "meaning": "(1) by means of; with; (2) as of (formal end point)",
+      "structure": "Noun + をもって / をもちまして (more polite) / をもってすれば",
+      "explanation": "{〜をもって} is a formal particle with two main uses:\n\n**1. Means or method:** 'by means of, with' — {書面[しょめん]をもって} 'in writing', {身[み]をもって} 'personally, first-hand', {実力[じつりょく]をもってすれば} 'with (his) ability, (anything is possible)'.\n\n**2. Time limit / end point:** 'as of, with X (it ends)' — {本日[ほんじつ]をもちまして閉店[へいてん]いたします} 'we close as of today'; {以上[いじょう]をもちまして} 'with that, (we conclude)'.\n\n**Register:** very formal. Use 2 is everywhere in Japanese working life: meeting chairs say {以上[いじょう]をもちまして、本日[ほんじつ]の会議[かいぎ]を終了[しゅうりょう]いたします}, and shops post closure notices with it. Worth knowing actively.",
+      "examples": [
+        {
+          "jp": "以上[いじょう]をもちまして、本日[ほんじつ]の会議[かいぎ]を終了[しゅうりょう]いたします。",
+          "en": "With that, we conclude today's meeting."
+        },
+        {
+          "jp": "試験[しけん]の結果[けっか]は、書面[しょめん]をもってお知[し]らせします。",
+          "en": "You will be notified of the exam results in writing."
+        },
+        {
+          "jp": "本日[ほんじつ]をもちまして、当店[とうてん]は閉店[へいてん]いたします。",
+          "en": "As of today, this shop will be closing."
+        },
+        {
+          "jp": "彼[かれ]の実力[じつりょく]をもってすれば、優勝[ゆうしょう]も夢[ゆめ]ではない。",
+          "en": "With his ability, winning the championship isn't just a dream."
+        }
+      ],
+      "notes": "{〜を限[かぎ]りに} (Unit 1) is similar to use 2 but emphasises 'this is the last time'; {〜をもって} is the more official, neutral announcement.",
+      "quiz": [
+        {
+          "q": "合否[ごうひ]の結果[けっか]は、メール＿＿ご連絡[れんらく]いたします。",
+          "en": "We will notify you by email of whether you passed or failed.",
+          "choices": [
+            "をもって",
+            "をよそに",
+            "をめぐって",
+            "を皮切[かわき]りに"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "三月[さんがつ]三十一日[さんじゅういちにち]＿＿、本[ほん]サービスの提供[ていきょう]を終了[しゅうりょう]いたします。",
+          "en": "As of March 31, we will discontinue this service.",
+          "choices": [
+            "をおいて",
+            "にかこつけて",
+            "をよそに",
+            "をもちまして"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-temae",
+      "title": "〜手前[てまえ]",
+      "meaning": "because of (one's position / what one has said); in front of (so as not to lose face)",
+      "structure": "Verb (plain, often た-form) + 手前[てまえ] / Noun + の + 手前[てまえ]",
+      "explanation": "{手前[てまえ]} literally means 'in front of oneself'. As grammar, it describes a constraint of face: because of what you've said or done, or because certain people are watching, you can't act a certain way. 'Having boasted that I'd win, I can't lose now.' 'In front of my kids, I can't break my promise.'\n\nThe second half is usually {〜わけにはいかない}, {〜なければならない} or {〜とは言[い]えない}.\n\n**Register:** neutral to slightly formal; genuinely used in conversation. Very relevant to Japanese social life, where saving face matters.",
+      "examples": [
+        {
+          "jp": "子[こ]どもの手前[てまえ]、親[おや]が約束[やくそく]を破[やぶ]るわけにはいかない。",
+          "en": "In front of the children, parents can't break their promises."
+        },
+        {
+          "jp": "大口[おおぐち]をたたいた手前[てまえ]、負[ま]けるわけにはいかない。",
+          "en": "After all my big talk, I can't afford to lose."
+        },
+        {
+          "jp": "部下[ぶか]の手前[てまえ]、上司[じょうし]として弱音[よわね]を吐[は]くわけにはいかない。",
+          "en": "With my subordinates watching, I can't complain as their boss."
+        },
+        {
+          "jp": "「必[かなら]ず成功[せいこう]させる」と言[い]ってしまった手前[てまえ]、今更[いまさら]やめるとは言[い]えない。",
+          "en": "Having said 'I'll definitely make it succeed', I can't say I'm quitting now."
+        }
+      ],
+      "notes": "{手前[てまえ]} also simply means 'just before (a place)': {駅[えき]の手前[てまえ]} 'just before the station'. Context makes it clear.",
+      "quiz": [
+        {
+          "q": "みんなの前[まえ]で「絶対[ぜったい]に合格[ごうかく]する」と宣言[せんげん]した＿＿、落[お]ちるわけにはいかない。",
+          "en": "Having declared in front of everyone that I'll definitely pass, I can't fail.",
+          "choices": [
+            "矢先[やさき]",
+            "手前[てまえ]",
+            "拍子[ひょうし]に",
+            "途端[とたん]"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "後輩[こうはい]の＿＿、先輩[せんぱい]の私[わたし]が泣[な]き言[ごと]を言[い]うわけにはいかない。",
+          "en": "With my juniors watching, I, as their senior, can't go whining.",
+          "choices": [
+            "一方[いっぽう]",
+            "くせに",
+            "末[すえ]に",
+            "手前[てまえ]"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

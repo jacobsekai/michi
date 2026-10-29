@@ -1,10 +1,12 @@
 // Lesson player: teach pages one at a time, then a quiz, then add the items to reviews.
 import { html, raw, shuffle, isTyping } from '../util.js';
-import { D, allNodes } from '../data.js';
+import { D, allNodes, wordsWithKanji } from '../data.js';
 import { S, settings, markDone } from '../store.js';
 import { introduce } from '../srs.js';
 import { speak, speakAll } from '../tts.js';
-import { ALL_KANA } from '../kana.js';
+import { ALL_KANA, toHira } from '../kana.js';
+import { checkKana, checkRomaji } from '../check.js';
+import { startExam } from './exam.js';
 import { backBar, furi, proseHtml, audioBtn, wordBlock, kanjiBlock, grammarBlock, kanaBlock, exampleList, runQuiz, distractors, shortMeaning, ICON } from '../ui.js';
 
 // The lesson after the furthest one finished, so jumping ahead (e.g. skipping kana you already know) moves you forward.
@@ -23,6 +25,7 @@ export function lessonView(root, [id]) {
     return;
   }
   if (n.type === 'reading') return readingLesson(root, n);
+  if (n.type === 'exam') return startExam(root, { level: n.level, kind: n.exam.kind, size: n.exam.kind === 'mock' ? 'full' : 'quick', upto: n.exam.upto, nodeId: n.id });
   const pages = buildPages(n);
   stepper(root, n, pages, () => quiz(root, n));
 }
@@ -129,8 +132,8 @@ function quizQuestions(n) {
       for (const k of n.group.items) {
         const wrong = distractors(pool, k, 3, (x) => x.romaji);
         qs.push({ prompt: html`<div class="prompt-big jp">${k.kana}</div>`, choices: [k, ...wrong].map((x) => x.romaji), answer: 0 });
-        const wrong2 = distractors(pool, k, 3, (x) => x.kana);
-        qs.push({ prompt: html`Which is <strong>${k.romaji}</strong>?`, choices: [k, ...wrong2].map((x) => html`<span class="jp big-choice">${x.kana}</span>`), answer: 0, say: k.kana });
+        // Second round is active recall: type the sound with nothing to pick from.
+        qs.push({ prompt: html`<div class="prompt-big jp">${k.kana}</div><div class="muted small">Type it</div>`, input: { mode: 'romaji', label: 'romaji', answer: k.romaji, check: (a) => checkRomaji(a, k.romaji) }, say: k.kana });
       }
       return [...shuffle(qs.filter((_, i) => i % 2 === 0)), ...shuffle(qs.filter((_, i) => i % 2 === 1))];
     }
@@ -142,24 +145,29 @@ function quizQuestions(n) {
         choices: [v, ...distractors(pool, v, 3, (x) => shortMeaning(x.m, 2))].map((x) => shortMeaning(x.m, 2)),
         answer: 0,
       }));
+      // Recall round: produce the word from its meaning (typed), which encodes far better than recognising it.
       const b = words.map((v) => ({
-        prompt: html`<div class="muted">Listen and pick the word</div>`,
+        prompt: html`<div class="prompt-en">${shortMeaning(v.m)}</div><div class="muted small">Type the Japanese (romaji is fine)</div>`,
+        input: { mode: 'kana', label: 'in Japanese', answer: v.w === v.r ? v.r : `${v.w}（${v.r}）`, check: (x) => checkKana(x, [toHira(v.r), v.w]) },
         say: v.r,
-        autoSay: true,
-        choices: [v, ...distractors(words.length > 4 ? words : pool, v, 3, (x) => x.w)].map((x) => html`<span class="jp">${x.w}</span>`),
-        answer: 0,
-        explain: html`<span class="jp">${v.w}</span> (${v.r}) — ${shortMeaning(v.m)}`,
       }));
       return [...shuffle(a), ...shuffle(b)];
     }
     case 'kanji': {
       const ks = n.items.map((id) => D.index.kanji.get(id.slice(2)));
       const pool = D.kanji.filter((k) => k.l === ks[0].l);
-      return shuffle(ks.map((k) => ({
-        prompt: html`<div class="prompt-big jp">${k.c}</div>`,
+      const a = shuffle(ks.map((k) => ({
+        prompt: html`<div class="prompt-big jp kanji-font">${k.c}</div>`,
         choices: [k, ...distractors(pool, k, 3, (x) => x.m[0])].map((x) => x.m.slice(0, 2).join(', ')),
         answer: 0,
       })));
+      // Recall round: read a real word that uses the kanji.
+      const b = ks.map((k) => [k, wordsWithKanji(k.c, 1)[0]]).filter(([, v]) => v && v.w !== v.r).map(([k, v]) => ({
+        prompt: html`<div class="prompt-big jp">${v.w}</div><div class="muted small">${shortMeaning(v.m, 2)} — type the reading</div>`,
+        input: { mode: 'kana', label: 'reading', answer: v.r, check: (x) => checkKana(x, [toHira(v.r)]) },
+        say: v.r,
+      }));
+      return [...a, ...shuffle(b)];
     }
     case 'grammar':
       return n.unit.points.flatMap((p) => p.quiz.map((q) => ({

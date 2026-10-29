@@ -10,15 +10,50 @@
       "structure": "Verb / い-adj (plain) + おかげで ; な-adj + な + おかげで ; Noun + の + おかげで",
       "explanation": "{〜おかげで} gives a cause that led to a **good** result, and it carries a feeling of gratitude. {おかげ} comes from a word meaning 'protection' or 'blessing'.\n\n{先輩[せんぱい]が手伝[てつだ]ってくれたおかげで、仕事[しごと]が早[はや]く終[お]わった。} 'Thanks to my senior colleague's help, the work finished early.'\n\nThe set phrase {おかげさまで} ('thanks to you') is a polite way to say things are going well, even if the listener didn't directly help: {「お元気[げんき]ですか。」「はい、おかげさまで。」}\n\nSometimes {おかげで} is used sarcastically for a bad result: {君[きみ]のおかげで、大変[たいへん]だったよ。} 'Thanks a lot — you made it really hard for me.'",
       "examples": [
-        { "jp": "先輩[せんぱい]が手伝[てつだ]ってくれたおかげで、仕事[しごと]が早[はや]く終[お]わった。", "en": "Thanks to my senior colleague's help, I finished work early." },
-        { "jp": "薬[くすり]のおかげで、熱[ねつ]が下[さ]がりました。", "en": "Thanks to the medicine, my fever went down." },
-        { "jp": "毎日[まいにち]練習[れんしゅう]したおかげで、日本語[にほんご]で電話[でんわ]ができるようになった。", "en": "Thanks to practicing every day, I became able to make phone calls in Japanese." },
-        { "jp": "駅[えき]が近[ちか]いおかげで、通勤[つうきん]が楽[らく]です。", "en": "Because the station is close, my commute is easy." },
-        { "jp": "皆[みな]さんのおかげで、無事[ぶじ]にプロジェクトを終[お]えることができました。", "en": "Thanks to all of you, we were able to complete the project successfully." }
+        {
+          "jp": "先輩[せんぱい]が手伝[てつだ]ってくれたおかげで、仕事[しごと]が早[はや]く終[お]わった。",
+          "en": "Thanks to my senior colleague's help, I finished work early."
+        },
+        {
+          "jp": "薬[くすり]のおかげで、熱[ねつ]が下[さ]がりました。",
+          "en": "Thanks to the medicine, my fever went down."
+        },
+        {
+          "jp": "毎日[まいにち]練習[れんしゅう]したおかげで、日本語[にほんご]で電話[でんわ]ができるようになった。",
+          "en": "Thanks to practicing every day, I became able to make phone calls in Japanese."
+        },
+        {
+          "jp": "駅[えき]が近[ちか]いおかげで、通勤[つうきん]が楽[らく]です。",
+          "en": "Because the station is close, my commute is easy."
+        },
+        {
+          "jp": "皆[みな]さんのおかげで、無事[ぶじ]にプロジェクトを終[お]えることができました。",
+          "en": "Thanks to all of you, we were able to complete the project successfully."
+        }
       ],
       "quiz": [
-        { "q": "友達[ともだち]が駅[えき]まで車[くるま]で送[おく]ってくれた＿＿、電車[でんしゃ]に間[ま]に合[あ]った。", "en": "Thanks to my friend driving me to the station, I made the train.", "choices": ["おかげで", "せいで", "くせに", "わりに"], "answer": 0 },
-        { "q": "隣[となり]の人[ひと]が親切[しんせつ]に教[おし]えてくれた＿＿、市役所[しやくしょ]の手続[てつづ]きがすぐ終[お]わった。", "en": "Thanks to the person next to me kindly explaining things, the paperwork at city hall was done quickly.", "choices": ["おかげで", "せいで", "ものの", "くせに"], "answer": 0 }
+        {
+          "q": "友達[ともだち]が駅[えき]まで車[くるま]で送[おく]ってくれた＿＿、電車[でんしゃ]に間[ま]に合[あ]った。",
+          "en": "Thanks to my friend driving me to the station, I made the train.",
+          "choices": [
+            "おかげで",
+            "わりに",
+            "せいで",
+            "くせに"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "隣[となり]の人[ひと]が親切[しんせつ]に教[おし]えてくれた＿＿、市役所[しやくしょ]の手続[てつづ]きがすぐ終[お]わった。",
+          "en": "Thanks to the person next to me kindly explaining things, the paperwork at city hall was done quickly.",
+          "choices": [
+            "せいで",
+            "くせに",
+            "ものの",
+            "おかげで"
+          ],
+          "answer": 3
+        }
       ]
     },
     {
@@ -28,15 +63,50 @@
       "structure": "Verb / い-adj (plain) + せいで ; な-adj + な + せいで ; Noun + の + せいで",
       "explanation": "{〜せいで} is the negative partner of {おかげで}. It gives the cause of a **bad** result and suggests that the cause is to blame.\n\n{電車[でんしゃ]が遅[おく]れたせいで、会議[かいぎ]に遅刻[ちこく]した。} 'Because the train was late, I was late for the meeting.'\n\n{〜のせいにする} means 'to blame (something/someone)': {人[ひと]のせいにしないで。} 'Don't blame other people.'\n\n{〜せいか} softens it to a guess: 'maybe because ~'. {年[とし]のせいか、最近[さいきん]疲[つか]れやすい。} 'Maybe it's my age, but I get tired easily these days.'\n\n**Summary:** good result → {おかげで} (gratitude). Bad result → {せいで} (blame). Neutral, formal → {ため} (next point).",
       "examples": [
-        { "jp": "電車[でんしゃ]が遅[おく]れたせいで、会議[かいぎ]に遅刻[ちこく]した。", "en": "Because the train was delayed, I was late for the meeting." },
-        { "jp": "昨日[きのう]飲[の]みすぎたせいで、頭[あたま]が痛[いた]い。", "en": "I have a headache because I drank too much yesterday." },
-        { "jp": "私[わたし]のせいで、チームに迷惑[めいわく]をかけてしまった。", "en": "Because of me, I caused trouble for the team." },
-        { "jp": "年[とし]のせいか、最近[さいきん]疲[つか]れやすい。", "en": "Maybe it's my age, but I get tired easily lately." },
-        { "jp": "寝不足[ねぶそく]のせいか、仕事[しごと]に集中[しゅうちゅう]できない。", "en": "Perhaps because I haven't slept enough, I can't concentrate on work." }
+        {
+          "jp": "電車[でんしゃ]が遅[おく]れたせいで、会議[かいぎ]に遅刻[ちこく]した。",
+          "en": "Because the train was delayed, I was late for the meeting."
+        },
+        {
+          "jp": "昨日[きのう]飲[の]みすぎたせいで、頭[あたま]が痛[いた]い。",
+          "en": "I have a headache because I drank too much yesterday."
+        },
+        {
+          "jp": "私[わたし]のせいで、チームに迷惑[めいわく]をかけてしまった。",
+          "en": "It's my fault — I caused trouble for the team."
+        },
+        {
+          "jp": "年[とし]のせいか、最近[さいきん]疲[つか]れやすい。",
+          "en": "Maybe it's my age, but I get tired easily lately."
+        },
+        {
+          "jp": "寝不足[ねぶそく]のせいか、仕事[しごと]に集中[しゅうちゅう]できない。",
+          "en": "Perhaps because I haven't slept enough, I can't concentrate on work."
+        }
       ],
       "quiz": [
-        { "q": "大雪[おおゆき]の＿＿、旅行[りょこう]に行[い]けなくなって残念[ざんねん]だ。", "en": "It's a shame that because of the heavy snow, I couldn't go on my trip.", "choices": ["せいで", "おかげで", "ついでに", "くせに"], "answer": 0 },
-        { "q": "疲[つか]れている＿＿、今日[きょう]は何[なに]を食[た]べてもおいしく感[かん]じない。", "en": "Maybe because I'm tired, nothing tastes good today.", "choices": ["せいか", "おかげか", "くせに", "わりに"], "answer": 0 }
+        {
+          "q": "大雪[おおゆき]の＿＿、旅行[りょこう]に行[い]けなくなって残念[ざんねん]だ。",
+          "en": "It's a shame that because of the heavy snow, I couldn't go on my trip.",
+          "choices": [
+            "くせに",
+            "せいで",
+            "おかげで",
+            "ついでに"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "疲[つか]れている＿＿、今日[きょう]は何[なに]を食[た]べてもおいしく感[かん]じない。",
+          "en": "Maybe because I'm tired, nothing tastes good today.",
+          "choices": [
+            "せいか",
+            "くせに",
+            "おかげか",
+            "わりに"
+          ],
+          "answer": 0
+        }
       ]
     },
     {
@@ -46,15 +116,50 @@
       "structure": "Verb / い-adj (plain) + ため(に) ; な-adj + な + ため(に) ; Noun + の + ため(に)",
       "explanation": "In N4 you learned {ために} for purpose ('in order to'). The same form can also give a **cause**: 'because of / due to'. This use is formal and objective, with no feeling of gratitude or blame, so you'll hear it constantly in train announcements, notices, news and business emails.\n\n{事故[じこ]のため、電車[でんしゃ]が遅[おく]れております。} 'The train is delayed due to an accident.'\n\n**How to tell cause from purpose:** purpose {ために} follows a deliberate action in the dictionary form ({日本[にほん]で働[はたら]くために勉強[べんきょう]する}). Cause {ため} usually follows past forms, states, adjectives, or event nouns like {事故[じこ]}, {大雨[おおあめ]}, {工事[こうじ]}.",
       "examples": [
-        { "jp": "事故[じこ]のため、電車[でんしゃ]が遅[おく]れております。", "en": "Due to an accident, the train is running late." },
-        { "jp": "大雨[おおあめ]のため、今日[きょう]の試合[しあい]は中止[ちゅうし]になりました。", "en": "Today's game has been canceled due to heavy rain." },
-        { "jp": "道[みち]が混[こ]んでいたため、到着[とうちゃく]が遅[おそ]くなりました。", "en": "Because the roads were congested, our arrival was delayed." },
-        { "jp": "工事中[こうじちゅう]のため、この道[みち]は通[とお]れません。", "en": "This road is closed due to construction." },
-        { "jp": "体調[たいちょう]が悪[わる]いため、本日[ほんじつ]は休[やす]ませていただきます。", "en": "Because I'm not feeling well, I'd like to take today off." }
+        {
+          "jp": "事故[じこ]のため、電車[でんしゃ]が遅[おく]れております。",
+          "en": "Due to an accident, the train is running late."
+        },
+        {
+          "jp": "大雨[おおあめ]のため、今日[きょう]の試合[しあい]は中止[ちゅうし]になりました。",
+          "en": "Today's game has been canceled due to heavy rain."
+        },
+        {
+          "jp": "道[みち]が混[こ]んでいたため、到着[とうちゃく]が遅[おそ]くなりました。",
+          "en": "Because the roads were congested, our arrival was delayed."
+        },
+        {
+          "jp": "工事中[こうじちゅう]のため、この道[みち]は通[とお]れません。",
+          "en": "This road is closed due to construction."
+        },
+        {
+          "jp": "体調[たいちょう]が悪[わる]いため、本日[ほんじつ]は休[やす]ませていただきます。",
+          "en": "Because I'm not feeling well, I'd like to take today off."
+        }
       ],
       "quiz": [
-        { "q": "台風[たいふう]の＿＿、明日[あした]の授業[じゅぎょう]は休[やす]みになります。", "en": "Due to the typhoon, tomorrow's classes will be canceled.", "choices": ["ため", "おかげ", "ついで", "くせ"], "answer": 0 },
-        { "q": "「ただいま、信号故障[しんごうこしょう]の＿＿、運転[うんてん]を見合[みあ]わせております。」", "en": "'Due to a signal failure, service is currently suspended.'", "choices": ["ため", "ように", "ついでに", "たびに"], "answer": 0 }
+        {
+          "q": "台風[たいふう]の＿＿、明日[あした]の授業[じゅぎょう]は休[やす]みになります。",
+          "en": "Due to the typhoon, tomorrow's classes will be canceled.",
+          "choices": [
+            "おかげ",
+            "ついで",
+            "ため",
+            "くせ"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "「ただいま、信号故障[しんごうこしょう]の＿＿、運転[うんてん]を見合[みあ]わせております。」",
+          "en": "'Due to a signal failure, service is currently suspended.'",
+          "choices": [
+            "ついでに",
+            "ように",
+            "たびに",
+            "ため"
+          ],
+          "answer": 3
+        }
       ]
     },
     {
@@ -64,14 +169,46 @@
       "structure": "Verb / い-adj (plain) + ものだから / もので ; な-adj / Noun + な + ものだから / もので",
       "explanation": "{〜ものだから} and {〜もので} give a reason, especially when you are **explaining or excusing** something — why you were late, why you didn't do something. It implies 'it couldn't be helped'.\n\n{道[みち]が混[こ]んでいたものですから、遅[おく]れてしまいました。} 'The roads were so crowded, I'm afraid I'm late.'\n\nCompared with {から}, it sounds softer and more apologetic, and less like you're pushing your reasoning on the listener. {もので} is a little more polite and formal; {ものだから} is common in speech.\n\nThe second part describes what happened — not a command, request or intention. In casual speech, the reason can stand alone at the end of a sentence, often shortened to {もん} (see the casual speech unit).",
       "examples": [
-        { "jp": "すみません、道[みち]が混[こ]んでいたものですから、遅[おく]れてしまいました。", "en": "I'm sorry — the roads were congested, so I ended up being late." },
-        { "jp": "急[いそ]いでいたもので、メールを確認[かくにん]するのを忘[わす]れていました。", "en": "I was in a hurry, so I forgot to check the email." },
-        { "jp": "日本語[にほんご]がまだ下手[へた]なもので、うまく説明[せつめい]できなくてすみません。", "en": "My Japanese is still poor, so I'm sorry I can't explain this well." },
-        { "jp": "あまりに安[やす]かったものだから、つい三[みっ]つも買[か]ってしまった。", "en": "It was so cheap that I ended up buying three without thinking." }
+        {
+          "jp": "すみません、道[みち]が混[こ]んでいたものですから、遅[おく]れてしまいました。",
+          "en": "I'm sorry — the roads were congested, so I ended up being late."
+        },
+        {
+          "jp": "急[いそ]いでいたもので、メールを確認[かくにん]するのを忘[わす]れていました。",
+          "en": "I was in a hurry, so I forgot to check the email."
+        },
+        {
+          "jp": "日本語[にほんご]がまだ下手[へた]なもので、うまく説明[せつめい]できなくてすみません。",
+          "en": "My Japanese is still poor, so I'm sorry I can't explain this well."
+        },
+        {
+          "jp": "あまりに安[やす]かったものだから、つい三[みっ]つも買[か]ってしまった。",
+          "en": "It was so cheap that I ended up buying three without thinking."
+        }
       ],
       "quiz": [
-        { "q": "「どうして昨日[きのう]の飲[の]み会[かい]、来[こ]なかったの？」「ごめん、急[きゅう]に仕事[しごと]が入[はい]った＿＿。」", "en": "'Why didn't you come to the drinking party yesterday?' 'Sorry, some work came up suddenly.'", "choices": ["もので", "わけがなくて", "くせに", "ところで"], "answer": 0 },
-        { "q": "目覚[めざ]まし時計[どけい]が壊[こわ]れていた＿＿、寝坊[ねぼう]してしまいました。", "en": "My alarm clock was broken, so I'm afraid I overslept.", "choices": ["ものですから", "ものの", "くせに", "わりに"], "answer": 0 }
+        {
+          "q": "「どうして昨日[きのう]の飲[の]み会[かい]、来[こ]なかったんですか。」「すみません、急[きゅう]に仕事[しごと]が入[はい]った＿＿。」",
+          "en": "'Why didn't you come to the drinking party yesterday?' 'I'm sorry, some work came up suddenly.'",
+          "choices": [
+            "もので",
+            "わけがなくて",
+            "ところで",
+            "くせに"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "目覚[めざ]まし時計[どけい]が壊[こわ]れていた＿＿、寝坊[ねぼう]してしまいました。",
+          "en": "My alarm clock was broken, so I'm afraid I overslept.",
+          "choices": [
+            "ものの",
+            "わりに",
+            "くせに",
+            "ものですから"
+          ],
+          "answer": 3
+        }
       ]
     },
     {
@@ -81,15 +218,50 @@
       "structure": "Noun + によって + Verb ; Noun + による + Noun",
       "explanation": "{によって} is a more formal way to say 'by' or 'because of'. It has three related uses.\n\n- **Means / method:** {インターネットによって、世界中[せかいじゅう]の人[ひと]と話[はな]せるようになった。} 'Through the internet, we can talk to people all over the world.'\n- **Cause:** {地震[じしん]によって、多[おお]くの建物[たてもの]が壊[こわ]れた。} 'Many buildings were destroyed by the earthquake.'\n- **Agent of a passive verb**, especially for creating, inventing, discovering or building: {この小説[しょうせつ]は有名[ゆうめい]な作家[さっか]によって書[か]かれた。}\n\nTo modify a noun, use {による}: {不注意[ふちゅうい]による事故[じこ]} 'accidents caused by carelessness'.\n\nFor everyday passives, use plain {に}, not {によって}: {母[はは]に叱[しか]られた} (not {母[はは]によって叱[しか]られた}).",
       "examples": [
-        { "jp": "地震[じしん]によって、多[おお]くの建物[たてもの]が壊[こわ]れた。", "en": "Many buildings were destroyed by the earthquake." },
-        { "jp": "電話[でんわ]はベルによって発明[はつめい]された。", "en": "The telephone was invented by Bell." },
-        { "jp": "インターネットによって、世界中[せかいじゅう]の人[ひと]と簡単[かんたん]に話[はな]せるようになった。", "en": "Thanks to the internet, we can now easily talk with people all over the world." },
-        { "jp": "最近[さいきん]、スマホを見[み]ながら運転[うんてん]したことによる事故[じこ]が増[ふ]えている。", "en": "Recently, accidents caused by looking at smartphones while driving have been increasing." },
-        { "jp": "話[はな]し合[あ]いによって、問題[もんだい]を解決[かいけつ]しましょう。", "en": "Let's solve the problem by talking it through." }
+        {
+          "jp": "地震[じしん]によって、多[おお]くの建物[たてもの]が壊[こわ]れた。",
+          "en": "Many buildings were destroyed by the earthquake."
+        },
+        {
+          "jp": "電話[でんわ]はベルによって発明[はつめい]された。",
+          "en": "The telephone was invented by Bell."
+        },
+        {
+          "jp": "インターネットによって、世界中[せかいじゅう]の人[ひと]と簡単[かんたん]に話[はな]せるようになった。",
+          "en": "Thanks to the internet, we can now easily talk with people all over the world."
+        },
+        {
+          "jp": "最近[さいきん]、スマホを見[み]ながら運転[うんてん]したことによる事故[じこ]が増[ふ]えている。",
+          "en": "Recently, accidents caused by looking at smartphones while driving have been increasing."
+        },
+        {
+          "jp": "話[はな]し合[あ]いによって、問題[もんだい]を解決[かいけつ]しましょう。",
+          "en": "Let's solve the problem by talking it through."
+        }
       ],
       "quiz": [
-        { "q": "このお寺[てら]は、八百年前[はっぴゃくねんまえ]にある有名[ゆうめい]なお坊[ぼう]さん＿＿建[た]てられた。", "en": "This temple was built 800 years ago by a famous monk.", "choices": ["によって", "にとって", "について", "に対[たい]して"], "answer": 0 },
-        { "q": "台風[たいふう]＿＿被害[ひがい]は、思[おも]ったより大[おお]きかった。", "en": "The damage caused by the typhoon was greater than expected.", "choices": ["による", "によって", "にとって", "について"], "answer": 0 }
+        {
+          "q": "このお寺[てら]は、八百年前[はっぴゃくねんまえ]にある有名[ゆうめい]なお坊[ぼう]さん＿＿建[た]てられた。",
+          "en": "This temple was built 800 years ago by a famous monk.",
+          "choices": [
+            "について",
+            "に対[たい]して",
+            "にとって",
+            "によって"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "台風[たいふう]＿＿被害[ひがい]は、思[おも]ったより大[おお]きかった。",
+          "en": "The damage caused by the typhoon was greater than expected.",
+          "choices": [
+            "によって",
+            "にとって",
+            "による",
+            "について"
+          ],
+          "answer": 2
+        }
       ]
     },
     {
@@ -99,15 +271,50 @@
       "structure": "Noun + によって + 違[ちが]う・異[こと]なる・変[か]わる・さまざまだ ; Noun + によっては",
       "explanation": "Another very common use of {によって} is 'depending on ~'. The second part says that something **varies**: {違[ちが]う}, {異[こと]なる} (formal 'differ'), {変[か]わる}, {さまざまだ}, {いろいろだ}.\n\n{国[くに]によって、文化[ぶんか]や習慣[しゅうかん]が違[ちが]う。} 'Culture and customs differ from country to country.'\n\n{〜によっては} means 'in some cases / for some ~': {場合[ばあい]によっては} 'depending on the situation / in some cases', {人[ひと]によっては} 'for some people'.\n\nThis pattern is essential for daily life in Japan: rules for trash, fees, and procedures often change {地域[ちいき]によって} (by area) or {時間帯[じかんたい]によって} (by time of day).",
       "examples": [
-        { "jp": "国[くに]によって、文化[ぶんか]や習慣[しゅうかん]が違[ちが]う。", "en": "Culture and customs differ from country to country." },
-        { "jp": "人[ひと]によって、考[かんが]え方[かた]はさまざまです。", "en": "People have all kinds of different ways of thinking." },
-        { "jp": "この店[みせ]の料金[りょうきん]は、時間帯[じかんたい]によって変[か]わります。", "en": "This shop's prices change depending on the time of day." },
-        { "jp": "地域[ちいき]によって、ごみの出[だ]し方[かた]が異[こと]なるので、注意[ちゅうい]してください。", "en": "The way to put out trash differs by area, so please be careful." },
-        { "jp": "場合[ばあい]によっては、予約[よやく]をキャンセルすることもあります。", "en": "In some cases, we may cancel the reservation." }
+        {
+          "jp": "国[くに]によって、文化[ぶんか]や習慣[しゅうかん]が違[ちが]う。",
+          "en": "Culture and customs differ from country to country."
+        },
+        {
+          "jp": "人[ひと]によって、考[かんが]え方[かた]はさまざまです。",
+          "en": "People have all kinds of different ways of thinking."
+        },
+        {
+          "jp": "この店[みせ]の料金[りょうきん]は、時間帯[じかんたい]によって変[か]わります。",
+          "en": "This shop's prices change depending on the time of day."
+        },
+        {
+          "jp": "地域[ちいき]によって、ごみの出[だ]し方[かた]が異[こと]なるので、注意[ちゅうい]してください。",
+          "en": "The way to put out trash differs by area, so please be careful."
+        },
+        {
+          "jp": "場合[ばあい]によっては、予約[よやく]をキャンセルすることもあります。",
+          "en": "In some cases, we may cancel the reservation."
+        }
       ],
       "quiz": [
-        { "q": "日本[にほん]では、住[す]んでいる町[まち]＿＿、ごみの分[わ]け方[かた]が違[ちが]います。", "en": "In Japan, how you sort trash differs depending on the town you live in.", "choices": ["によって", "にとって", "に対[たい]して", "として"], "answer": 0 },
-        { "q": "同[おな]じ言葉[ことば]でも、使[つか]う場面[ばめん]＿＿意味[いみ]が変[か]わることがある。", "en": "Even the same word can change meaning depending on the situation it's used in.", "choices": ["によって", "について", "にとって", "をはじめ"], "answer": 0 }
+        {
+          "q": "日本[にほん]では、住[す]んでいる町[まち]＿＿、ごみの分[わ]け方[かた]が違[ちが]います。",
+          "en": "In Japan, how you sort trash differs depending on the town you live in.",
+          "choices": [
+            "として",
+            "にとって",
+            "によって",
+            "に対[たい]して"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "同[おな]じ言葉[ことば]でも、使[つか]う場面[ばめん]＿＿意味[いみ]が変[か]わることがある。",
+          "en": "Even the same word can change meaning depending on the situation it's used in.",
+          "choices": [
+            "にとって",
+            "について",
+            "によって",
+            "をはじめ"
+          ],
+          "answer": 2
+        }
       ]
     },
     {
@@ -117,14 +324,46 @@
       "structure": "Verb (た-form) + 結果[けっか] ; Noun + の + 結果[けっか]",
       "explanation": "{結果[けっか]} means 'result'. As a grammar pattern, {〜た結果[けっか]、〜} says 'having done A (often carefully or over time), the outcome was B'.\n\n{よく話[はな]し合[あ]った結果[けっか]、旅行[りょこう]は来月[らいげつ]にすることになった。} 'After talking it over thoroughly, we decided to go on the trip next month.'\n\nA is usually an effort or a process: discussing, investigating, examining, trying hard. B is the conclusion or outcome. It is common in reports, meetings and news: {調査[ちょうさ]の結果[けっか]} 'the results of the investigation show…'.\n\nUnlike {たところ} (a discovery after one action), {結果[けっか]} focuses on the outcome of a process.",
       "examples": [
-        { "jp": "よく話[はな]し合[あ]った結果[けっか]、旅行[りょこう]は来月[らいげつ]にすることになった。", "en": "After talking it over thoroughly, we decided to take the trip next month." },
-        { "jp": "調査[ちょうさ]の結果[けっか]、事故[じこ]の原因[げんいん]がわかりました。", "en": "As a result of the investigation, the cause of the accident became clear." },
-        { "jp": "毎日[まいにち]努力[どりょく]した結果[けっか]、N3に合格[ごうかく]できた。", "en": "As a result of working hard every day, I passed the N3." },
-        { "jp": "医者[いしゃ]に診[み]てもらった結果[けっか]、ただの風邪[かぜ]だとわかった。", "en": "When the doctor examined me, it turned out to be just a cold." }
+        {
+          "jp": "よく話[はな]し合[あ]った結果[けっか]、旅行[りょこう]は来月[らいげつ]にすることになった。",
+          "en": "After talking it over thoroughly, we decided to take the trip next month."
+        },
+        {
+          "jp": "調査[ちょうさ]の結果[けっか]、事故[じこ]の原因[げんいん]がわかりました。",
+          "en": "As a result of the investigation, the cause of the accident became clear."
+        },
+        {
+          "jp": "毎日[まいにち]努力[どりょく]した結果[けっか]、N3に合格[ごうかく]できた。",
+          "en": "As a result of working hard every day, I passed the N3."
+        },
+        {
+          "jp": "医者[いしゃ]に診[み]てもらった結果[けっか]、ただの風邪[かぜ]だとわかった。",
+          "en": "When the doctor examined me, it turned out to be just a cold."
+        }
       ],
       "quiz": [
-        { "q": "何度[なんど]も相談[そうだん]した＿＿、新[あたら]しいシステムを使[つか]うことに決[き]まった。", "en": "After discussing it many times, it was decided that we'd use the new system.", "choices": ["結果[けっか]", "とたん", "せいか", "くせに"], "answer": 0 },
-        { "q": "健康診断[けんこうしんだん]の＿＿、特[とく]に問題[もんだい]はありませんでした。", "en": "The results of the health checkup showed no particular problems.", "choices": ["結果[けっか]", "せい", "おかげ", "ため"], "answer": 0 }
+        {
+          "q": "何度[なんど]も相談[そうだん]した＿＿、新[あたら]しいシステムを使[つか]うことに決[き]まった。",
+          "en": "After discussing it many times, it was decided that we'd use the new system.",
+          "choices": [
+            "結果[けっか]",
+            "せいか",
+            "とたん",
+            "くせに"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "健康診断[けんこうしんだん]の＿＿、特[とく]に問題[もんだい]はありませんでした。",
+          "en": "The results of the health checkup showed no particular problems.",
+          "choices": [
+            "おかげ",
+            "ため",
+            "せい",
+            "結果[けっか]"
+          ],
+          "answer": 3
+        }
       ]
     }
   ]
